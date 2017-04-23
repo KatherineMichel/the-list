@@ -1,2 +1,1 @@
-# favorite-learning-resources
-Favorite Learning Resources
+# Favorite Learning Resources
