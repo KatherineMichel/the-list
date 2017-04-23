@@ -8,7 +8,27 @@ Look at Daily
 
 Courses
 * [Pluralsight](https://www.pluralsight.com)
-* [Code School](https://www.codeschool.com)
+* [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
+* [Codecademy](http://www.codecademy.com) 
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+
+<!--
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/donnemartin/system-design-primer
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+https://github.com/alex/what-happens-when
+-->
 
 Blogs
 * [Amazon Web Services New](https://aws.amazon.com/new)
