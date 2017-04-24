@@ -43,11 +43,9 @@ Courses
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
 * [Free Code Camp Map](https://www.freecodecamp.com/map)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
 
 <!--
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
@@ -103,6 +101,9 @@ Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
 
+Awesome Tools
+* [Sindre Sorhus: Awesome](https://github.com/sindresorhus/awesome)
+
 DevOps Tutorials
 * Startup Engineering MOOC
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
@@ -131,8 +132,6 @@ Standards
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
-
-
 <!--
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
@@ -142,24 +141,6 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 https://github.com/alex/what-happens-when
-
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [AWS New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
 https://docs.python.org/devguide/gitbootcamp.html
 
@@ -173,15 +154,12 @@ https://www.twitch.tv/aws
 
 https://www.twitch.tv/thepracticaldev
 
- Memory Methods
+Memory Methods
 https://en.wikipedia.org/wiki/Method_of_loci
 
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -203,11 +181,34 @@ Hosting Docs and Blogs
 * [Heroku Blog](https://blog.heroku.com)
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
 
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 Conferences
 * Developer Conferences
+
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
 More Interesting
 * [Nuzzel](http://nuzzel.com)
