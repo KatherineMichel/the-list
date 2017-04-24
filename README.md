@@ -24,6 +24,45 @@ https://www.techopedia.com
 * [Launch Ticker](https://www.launchticker.com)
 
 https://www.twitch.tv/aws
+
+Product Hunt top products
+
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+
+Heroku- General
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+Standards
+* [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
+* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+* [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
+* [W3C Mobile](http://www.w3.org/Mobile) 
+* [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
+
+Data Mining and Machine Learning- General
+* [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
+* [Data Mining (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
+* [Data Mining and Machine Learning Software (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms) 
 -->
 
 Look at Daily
@@ -229,9 +268,26 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 Memory Methods
 https://en.wikipedia.org/wiki/Method_of_loci
 
-25iq
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+* [25iq Books](https://www.25iqbooks.com)
+
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+
+Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+
+Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+
+https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
+
+https://www.farnamstreetblog.com/mental-models
+https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
 -->
 
 Conferences (See also Designer/Developer Conferences) 
