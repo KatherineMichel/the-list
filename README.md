@@ -3,30 +3,7 @@
 <!--
 https://www.techopedia.com
 
-* [Inside Tech](https://www.inside.com/tech)
-* [Launch Ticker](https://www.launchticker.com)
-
-https://www.twitch.tv/aws
-AWS GitHub
-
 Product Hunt top products
-
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-
-Standards
-* [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
-* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
-* [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
-* [W3C Mobile](http://www.w3.org/Mobile) 
-* [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
-
-Data Mining and Machine Learning- General
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 
 JavaScript- Microsoft
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
@@ -43,6 +20,10 @@ Look at Daily
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
 <!--
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
 
@@ -50,9 +31,7 @@ Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
 Comparison of basic instructions of programming languages
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages 
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
+Comparison of programming languages, programming paradigms, multi-paradigm programming languages
 Comparison of type systems
 
 Object Oriented Programming
@@ -84,7 +63,7 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
-* [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
+<!--* [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)-->
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
@@ -93,18 +72,20 @@ https://medium.com/@_ericelliott/latest
 https://github.com/learn-javascript-courses/learn-javascript
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+
 https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
 https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
-
-http://playcanv.as/p/JtL2iqIH/
-https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
-https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
 
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 https://github.com/jshomes/JSHomes-Platform
@@ -118,26 +99,17 @@ view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:h
 https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
 -->
 
-<!--
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
--->
-
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
 
 <!--
-https://github.com/kamranahmedse/developer-roadmap
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-https://github.com/donnemartin/system-design-primer
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
 https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kamranahmedse/design-patterns-for-humans
 https://github.com/alex/what-happens-when
 -->
 
@@ -186,6 +158,11 @@ Hosting Docs and Blogs
 * [GitHub Blog](https://github.com/blog)
 * [Heroku Blog](https://blog.heroku.com)
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+
+<!--
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+-->
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
@@ -241,11 +218,17 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
-Blogs
+Blogs and Podcasts
+* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Michael Mauboussin](http://michaelmauboussin.com)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 * [25iq Books](https://www.25iqbooks.com)
+
+<!--
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
 
 Mental Models
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -253,17 +236,14 @@ Mental Models
 * Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 <!--
-Memory Methods
-https://en.wikipedia.org/wiki/Method_of_loci
-
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
-
 https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
 
 https://www.farnamstreetblog.com/mental-models
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
 -->
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 Conferences (See also Designer/Developer Conferences) 
 * [Techmeme Events List](http://techmeme.com/events) 
@@ -300,6 +280,10 @@ History of Technology and Computer Science
 
 Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+
+<!--
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+-->
 
 More Interesting
 * [Nuzzel](http://nuzzel.com)
