@@ -44,10 +44,50 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp Map](https://www.freecodecamp.com/map)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
 
+<!--
+* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+-->
+
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+
+<!--
+New
+https://medium.com/@_ericelliott/latest
+https://github.com/learn-javascript-courses/learn-javascript
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+http://playcanv.as/p/JtL2iqIH/
+https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
+https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+
+https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+https://github.com/jshomes/JSHomes-Platform
+
+Essential JavaScript Links
+https://gist.github.com/ericelliott/d576f72441fc1b27dace
+https://github.com/rsperberg/essential-javascript-links
+https://github.com/LewisJEllis/essential-javascript-links
+https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
+view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+-->
 
 <!--
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
@@ -68,7 +108,41 @@ DevOps Tutorials
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
 
+GitHub Docs
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Guides](https://guides.github.com) 
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Documentation- Mozilla
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+
+
 <!--
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/donnemartin/system-design-primer
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+https://github.com/alex/what-happens-when
+
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
 * [AWS New](https://aws.amazon.com/new)
@@ -87,33 +161,13 @@ AWS- Developer and Documentation
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
+https://docs.python.org/devguide/gitbootcamp.html
 
 GitHub Organizations
 
 https://git-scm.com/documentation
 https://github.com/progit/progit2
 https://opensource.guide/
-
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Guides](https://guides.github.com) 
-
-Documentation- Mozilla
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
 https://www.twitch.tv/aws
 
@@ -123,14 +177,6 @@ https://www.twitch.tv/thepracticaldev
 https://en.wikipedia.org/wiki/Method_of_loci
 
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-
-https://github.com/kamranahmedse/developer-roadmap
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-https://github.com/donnemartin/system-design-primer
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
-https://github.com/alex/what-happens-when
 
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
