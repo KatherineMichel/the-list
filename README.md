@@ -1,9 +1,6 @@
 # Favorite Learning Resources
 
 <!--
-Scientific Method
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-
 https://www.techopedia.com
 
 * [Inside Tech](https://www.inside.com/tech)
@@ -76,12 +73,7 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp Map](https://www.freecodecamp.com/map)
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
 * [Free Code Camp Medium](https://medium.freecodecamp.com)
-
-<!--
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
--->
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
@@ -139,8 +131,6 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/donnemartin/system-design-primer
 https://github.com/donnemartin/interactive-coding-challenges
 https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 https://github.com/alex/what-happens-when
 -->
 
@@ -250,20 +240,17 @@ Blogs
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 * [25iq Books](https://www.25iqbooks.com)
 
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+
 <!--
 Memory Methods
 https://en.wikipedia.org/wiki/Method_of_loci
 
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
-
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
 
@@ -303,6 +290,9 @@ History of Technology and Computer Science
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
 -->
+
+Scientific Method
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
 More Interesting
 * [Nuzzel](http://nuzzel.com)
