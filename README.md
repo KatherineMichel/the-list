@@ -1,18 +1,5 @@
 # Favorite Learning Resources
 
-<!--
-https://www.techopedia.com
-
-Product Hunt top products
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
--->
-
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [Product Hunt](https://www.producthunt.com)
@@ -20,6 +7,8 @@ Look at Daily
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
 <!--
+Product Hunt top products
+
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
@@ -40,11 +29,6 @@ Object Oriented Programming
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://en.wikipedia.org/wiki/Programming_style
--->
-
-<!--
-https://github.com/donnemartin/interactive-coding-challenges
-Interviews
 -->
 
 Courses
@@ -108,9 +92,7 @@ Guides for Development
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/alex/what-happens-when
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
 -->
 
 Awesome Tools
@@ -144,6 +126,15 @@ Google Developers- General
 
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+<!--
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+-->
 
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
@@ -231,16 +222,12 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
 Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 * [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 * Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-
-<!--
-https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
-
-https://www.farnamstreetblog.com/mental-models
-https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
--->
+* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -248,6 +235,10 @@ Memory Methods
 Conferences (See also Designer/Developer Conferences) 
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
+
+<!--
+https://www.techopedia.com
+-->
 
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
@@ -262,8 +253,6 @@ Computer Scientists
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 <!--
-Award Winners
-
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
 * [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
