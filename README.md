@@ -1,5 +1,31 @@
 # Favorite Learning Resources
 
+<!--
+Microsoft Office
+* [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
+
+* [Google Slides](https://support.google.com/docs#topic=2811776)
+* [Google Drawings](https://docs.google.com/drawings)  
+
+Presentations (See also JavaScript Presentations Frameworks)
+* [SlideShare](www.slideshare.net)
+* [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
+* [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
+* [GitHub Speaker Deck](https://speakerdeck.com)
+-->
+
+<!--
+Scientific Method
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+
+https://www.techopedia.com
+
+* [Inside Tech](https://www.inside.com/tech)
+* [Launch Ticker](https://www.launchticker.com)
+
+https://www.twitch.tv/aws
+-->
+
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [Product Hunt](https://www.producthunt.com)
@@ -101,6 +127,17 @@ Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
 
+<!--
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/donnemartin/system-design-primer
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+https://github.com/alex/what-happens-when
+-->
+
 Awesome Tools
 * [Sindre Sorhus: Awesome](https://github.com/sindresorhus/awesome)
 
@@ -113,6 +150,16 @@ GitHub Docs
 * [GitHub Help](https://help.github.com)  
 * [GitHub Training](http://training.github.com)  
 * [GitHub Guides](https://guides.github.com) 
+
+<!--
+https://docs.python.org/devguide/gitbootcamp.html
+
+GitHub Organizations
+
+https://git-scm.com/documentation
+https://github.com/progit/progit2
+https://opensource.guide
+-->
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
@@ -132,58 +179,14 @@ Standards
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
-<!--
-https://github.com/kamranahmedse/developer-roadmap
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-https://github.com/donnemartin/system-design-primer
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
-https://github.com/alex/what-happens-when
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-GitHub Organizations
-
-https://git-scm.com/documentation
-https://github.com/progit/progit2
-https://opensource.guide/
-
-https://www.twitch.tv/aws
-
-https://www.twitch.tv/thepracticaldev
-
-Memory Methods
-https://en.wikipedia.org/wiki/Method_of_loci
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
--->
-
 Hosting Docs and Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
 * [GitHub Blog](https://github.com/blog)
 * [Heroku Blog](https://blog.heroku.com)
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
-* [AWS New](https://aws.amazon.com/new)
+* [Amazon Web Services New](https://aws.amazon.com/new)
 * [AWS Blog](https://aws.amazon.com/blogs)
 * [AWS Forum](https://forums.aws.amazon.com)
 * [AWS Articles](https://aws.amazon.com/articles)
@@ -202,13 +205,65 @@ AWS- Developer and Documentation
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
-Conferences
-* Developer Conferences
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
 
-Wikipedia Portals
+Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
+* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
+* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Charlie Rose](http://www.charlierose.com)
+* [PBS](http://www.pbs.org)
+
+<!--
+Memory Methods
+https://en.wikipedia.org/wiki/Method_of_loci
+
+25iq
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+-->
+
+Conferences (See also Designer/Developer Conferences) 
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+
+Wikipedia
+* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+Wikipedia Tech Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+<!--
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+-->
 
 More Interesting
 * [Nuzzel](http://nuzzel.com)
