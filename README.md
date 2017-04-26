@@ -42,6 +42,11 @@ Courses
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+Math and General Knowledge  
+* [Project Euler Problems](http://projecteuler.net/problems) 
+
+Programming Language Comparisons
+
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
