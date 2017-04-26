@@ -187,6 +187,11 @@ Hosting Docs and Blogs
 * [AWS GitHub](https://github.com/aws)
 -->
 
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
+
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
 * [Amazon Web Services New](https://aws.amazon.com/new)
