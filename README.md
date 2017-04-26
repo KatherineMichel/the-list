@@ -68,6 +68,10 @@ Design Publications
  https://webdesign.tutsplus.com
  -->
  
+Analysis
+* [Built With](http://builtwith.com) 
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+ 
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
@@ -175,13 +179,36 @@ GitHub Docs
 * [GitHub Guides](https://guides.github.com) 
 
 <!--
-https://docs.python.org/devguide/gitbootcamp.html
+* [Git Homepage](https://git-scm.com)
+* [Git Book](http://git-scm.com/book)
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+* [Git Book](http://www.git-scm.com/book/en)  
+* [Git Docs](https://git-scm.com/docs) 
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Videos](http://www.git-scm.com/videos)  
+* [Git Downloads](http://git-scm.com/downloads) 
 
-GitHub Organizations
+Git Cheat Sheets and Tutorials
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+* [Git Index](http://gitref.org)  
+
+https://docs.python.org/devguide/gitbootcamp.html
 
 https://git-scm.com/documentation
 https://github.com/progit/progit2
 https://opensource.guide
+
+GitHub Organizations
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 -->
 
 Hosting Docs and Blogs
