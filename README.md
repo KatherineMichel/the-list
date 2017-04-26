@@ -31,6 +31,9 @@ https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Programming_style
 -->
 
+Awesome Tools
+* [Sindre Sorhus: Awesome](https://github.com/sindresorhus/awesome)
+
 Courses
 * [Pluralsight](https://www.pluralsight.com)
 * [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
@@ -38,6 +41,56 @@ Courses
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+Design Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+ <!--
+ https://webdesign.tutsplus.com
+ -->
+ 
+Guides for Development
+* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+
+<!--
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+-->
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+ 
+Documentation- Mozilla
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+<!--
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+-->
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
 * [Free Code Camp Map](https://www.freecodecamp.com/map)
@@ -91,21 +144,6 @@ http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 http://shop.oreilly.com/product/9780596517748.do
 -->
 
-Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
-
-<!--
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
--->
-
-Awesome Tools
-* [Sindre Sorhus: Awesome](https://github.com/sindresorhus/awesome)
-
 DevOps Tutorials
 * Startup Engineering MOOC
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
@@ -125,33 +163,6 @@ https://git-scm.com/documentation
 https://github.com/progit/progit2
 https://opensource.guide
 -->
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Documentation- Mozilla
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
-<!--
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
--->
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 Hosting Docs and Blogs
 * [GitHub Blog](https://github.com/blog)
