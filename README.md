@@ -83,6 +83,14 @@ view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:h
 https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
 -->
 
+* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS)
+
+<!--
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://shop.oreilly.com/product/9780596517748.do
+-->
+
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
