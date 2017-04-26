@@ -47,6 +47,9 @@ Math and General Knowledge
 
 Programming Language Comparisons
 
+Shortcuts
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
@@ -157,6 +160,7 @@ DevOps Tutorials
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
 GitHub Docs
 * [GitHub Help](https://help.github.com)  
