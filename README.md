@@ -203,6 +203,17 @@ https://github.com/progit/progit2
 https://opensource.guide
 
 GitHub Organizations
+https://help.github.com/articles/about-organizations
+
+Atlassian: Bitbucket and SourceTree
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
+* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
+* [Atlassian SourceTree](https://www.sourcetreeapp.com)
+
+More GitHub Alternatives, Sourceforge
+* [Google Code](https://code.google.com)  
 
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
