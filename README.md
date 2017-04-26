@@ -44,6 +44,10 @@ Courses
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 
 Programming Language Comparisons
 
@@ -182,15 +186,15 @@ Hosting Docs and Blogs
 * [Heroku Blog](https://blog.heroku.com)
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
 
-<!--
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
--->
-
 Hosting Newsletters
 * [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
 * [GitHub Explore Subscribe](https://github.com/explore/subscribe)
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
+
+<!--
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+-->
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
