@@ -147,7 +147,11 @@ http://shop.oreilly.com/product/9780596517748.do
 DevOps Tutorials
 * Startup Engineering MOOC
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
 GitHub Docs
 * [GitHub Help](https://help.github.com)  
