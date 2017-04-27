@@ -163,6 +163,11 @@ http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 http://shop.oreilly.com/product/9780596517748.do
 -->
 
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+
 DevOps Tutorials
 * Startup Engineering MOOC
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
