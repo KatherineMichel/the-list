@@ -168,6 +168,16 @@ Progressive Web Apps
 * [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
 * [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
 
+TodoMVC (See also JavaScript)
+* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples)
+
+Jekyll
+* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
 DevOps Tutorials
 * Startup Engineering MOOC
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
