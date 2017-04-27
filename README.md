@@ -168,10 +168,15 @@ DevOps Tutorials
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 GitHub Docs
 * [GitHub Help](https://help.github.com)  
@@ -204,6 +209,15 @@ https://opensource.guide
 
 GitHub Organizations
 https://help.github.com/articles/about-organizations
+
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+https://github.com/github/opensource.guide
+
+GitHub Services Integration
+* [Service Hooks GitHub](https://github.com/github/github-services)  
+* [GitHub Integrations](https://github.com/integrations)  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
 Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
