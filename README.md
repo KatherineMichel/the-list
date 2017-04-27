@@ -198,7 +198,6 @@ GitHub Docs
 * [GitHub Training](http://training.github.com)  
 * [GitHub Guides](https://guides.github.com) 
 
-<!--
 * [Git Homepage](https://git-scm.com)
 * [Git Book](http://git-scm.com/book)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -214,6 +213,8 @@ Git Cheat Sheets and Tutorials
 * [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+
+<!--
 * [Git Index](http://gitref.org)  
 
 https://docs.python.org/devguide/gitbootcamp.html
