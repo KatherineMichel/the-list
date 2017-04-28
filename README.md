@@ -9,9 +9,6 @@ Look at Daily
 <!--
 Product Hunt top products
 
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Patterns Library](https://github.com/faif/python-patterns)
-
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
@@ -24,6 +21,9 @@ Scripting and MVCs
 
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Patterns Library](https://github.com/faif/python-patterns)
 
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
