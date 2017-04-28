@@ -9,10 +9,6 @@ Look at Daily
 <!--
 Product Hunt top products
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
@@ -153,7 +149,6 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
 
 <!--
-* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
@@ -161,10 +156,14 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
-<!--* [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)-->
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
 New
 https://medium.com/@_ericelliott/latest
 https://github.com/learn-javascript-courses/learn-javascript
@@ -188,6 +187,11 @@ https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 https://github.com/jshomes/JSHomes-Platform
 
+http://playcanv.as/p/JtL2iqIH/
+https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
+https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+
+[Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 Essential JavaScript Links
 https://gist.github.com/ericelliott/d576f72441fc1b27dace
 https://github.com/rsperberg/essential-javascript-links
@@ -204,6 +208,10 @@ https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essent
 http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 http://shop.oreilly.com/product/9780596517748.do
 -->
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
 Progressive Web Apps
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
