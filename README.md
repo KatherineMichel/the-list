@@ -77,7 +77,7 @@ Courses
 * [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 Math and General Knowledge  
