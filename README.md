@@ -231,6 +231,9 @@ http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 http://shop.oreilly.com/product/9780596517748.do
 -->
 
+The Practical Dev
+* [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
