@@ -159,6 +159,10 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+
+
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 
