@@ -251,21 +251,6 @@ Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples)
-
-Jekyll
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
