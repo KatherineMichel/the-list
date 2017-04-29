@@ -383,11 +383,7 @@ Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
-GitHub Docs
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Guides](https://guides.github.com) 
-
+Git Docs
 * [Git Homepage](https://git-scm.com)
 * [Git Book](http://git-scm.com/book)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -397,6 +393,11 @@ GitHub Docs
 * [Git Documentation](https://git-scm.com/documentation)
 * [Git Videos](http://www.git-scm.com/videos)  
 * [Git Downloads](http://git-scm.com/downloads) 
+
+GitHub Docs
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Guides](https://guides.github.com) 
 
 Git Cheat Sheets and Tutorials
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
