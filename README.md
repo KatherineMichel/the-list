@@ -164,17 +164,29 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 
+https://ericelliottjs.com/product/programming-javascript-applications-ebook/
+
 New
 https://medium.com/@_ericelliott/latest
 https://github.com/learn-javascript-courses/learn-javascript
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 
+https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+https://github.com/jshomes/JSHomes-Platform
+
+https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.ouxiotcx1
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.xxr2m48au
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.bhr0dmf1r
+
+https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
 https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
@@ -184,12 +196,13 @@ https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-tea
 https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
 https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
 
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
-https://github.com/jshomes/JSHomes-Platform
-
 http://playcanv.as/p/JtL2iqIH/
-https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
 https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
+
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
+https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
+https://medium.com/javascript-scene/live-reloading-browser-previews-shotgun-episode-4-bab7a0508d71#.hpg534osi
 
 [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 Essential JavaScript Links
