@@ -18,6 +18,9 @@ Scripting and MVCs
 -->
 
 <!--
+http://functions.wolfram.com
+http://www.wolfram.com/resources
+https://www.wolframalpha.com/examples/ComputationalScience.html
 
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
