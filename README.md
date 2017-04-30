@@ -25,8 +25,13 @@ https://www.wolframalpha.com/examples/ComputationalScience.html
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
 
+New
+https://en.wikipedia.org/wiki/Software_design_pattern
+
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 * [Python Patterns Library](https://github.com/faif/python-patterns)
+
+https://github.com/cundi/Django-Design-Patterns-and-Best-Practices
 
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -43,11 +48,9 @@ Programming Languages
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
-New
-https://en.wikipedia.org/wiki/Software_design_pattern
-
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://en.wikipedia.org/wiki/Programming_style
