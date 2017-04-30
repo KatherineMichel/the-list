@@ -25,6 +25,8 @@ https://www.wolframalpha.com/examples/ComputationalScience.html
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
 
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+
 New
 https://en.wikipedia.org/wiki/Software_design_pattern
 
