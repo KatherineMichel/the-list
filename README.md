@@ -85,6 +85,7 @@ Math and General Knowledge
 * [Math Overflow](http://mathoverflow.net)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Math is Fun](http://www.mathsisfun.com)
 
 Programming Language Comparisons
 
