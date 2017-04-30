@@ -152,26 +152,21 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
 * [Free Code Camp Medium](https://medium.freecodecamp.com)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-<!--
 * [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
--->
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
-* [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook)
+* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
+* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
+* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
 <!--
-https://medium.com/@_ericelliott/latest
-https://github.com/learn-javascript-courses/learn-javascript
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-
-https://ericelliottjs.com/product/programming-javascript-applications-ebook/
-
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
-https://github.com/jshomes/JSHomes-Platform
 -->
 
 * [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
