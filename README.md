@@ -15,9 +15,20 @@ Scripting and MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
--->
 
-<!--
+https://devopsbootcamp.osuosl.org/slides.html
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+http://jvns.ca
+https://twitter.com/b0rk
+
+https://hbr.org/2016/09/the-elements-of-value
+
 http://functions.wolfram.com
 http://www.wolfram.com/resources
 https://www.wolframalpha.com/examples/ComputationalScience.html
