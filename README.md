@@ -350,8 +350,15 @@ Git Cheat Sheets and Tutorials
 <!--
 * [Git Index](http://gitref.org)  
 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
 https://docs.python.org/devguide/gitbootcamp.html
 
+Recommended
+https://www.git-tower.com
+https://git-scm.com/docs
+https://git-scm.com/book
+https://git-scm.com/book/en/v2
 https://git-scm.com/documentation
 https://github.com/progit/progit2
 https://opensource.guide
