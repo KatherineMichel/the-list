@@ -173,12 +173,10 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 -->
 
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS)
-
 <!--
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-http://shop.oreilly.com/product/9780596517748.do
+https://medium.com/@preethikasireddy
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
 
 The Practical Dev
