@@ -123,6 +123,9 @@ Guides for Development
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/jlevy/og-osx-shortcuts
+https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/open-guides/og-aws
 https://github.com/jaywcjlove/awesome-mac
 https://github.com/keon/algorithms
