@@ -123,6 +123,10 @@ Guides for Development
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
+https://github.com/TeamStuQ/skill-map
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/open-source-society/computer-science
+
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/jlevy/og-osx-shortcuts
 https://github.com/gurugio/lowlevelprogramming-university
