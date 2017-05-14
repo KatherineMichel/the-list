@@ -95,6 +95,12 @@ Courses
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+<!--
+http://online.stanford.edu/courses
+https://www.coursera.org/stanford
+https://ocw.mit.edu/index.htm
+-->
+
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy](https://www.khanacademy.org)
