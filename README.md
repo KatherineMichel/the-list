@@ -484,14 +484,15 @@ Code Review (See also Project Management)
 
 Git Docs
 * [Git Homepage](https://git-scm.com)
-* [Git Book](http://git-scm.com/book)
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [Git Book](http://www.git-scm.com/book/en)  
-* [Git Docs](https://git-scm.com/docs) 
+* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
 * [Git Documentation](https://git-scm.com/documentation)
-* [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads) 
+* [Git Pro Git Book](https://git-scm.com/book/en/v2)
+* [GitHub Help](https://help.github.com)
+* [GitHub Guides](https://guides.github.com)
+* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
+* [Git Index](http://gitref.org) 
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Git Tower Learn](https://www.git-tower.com/learn)
 
 GitHub Docs
 * [GitHub Help](https://help.github.com)  
@@ -512,16 +513,8 @@ Git Cheat Sheets and Tutorials
 https://docs.python.org/devguide/gitbootcamp.html
 
 Recommended
-https://www.git-tower.com
-https://git-scm.com/docs
-https://git-scm.com/book
-https://git-scm.com/book/en/v2
-https://git-scm.com/documentation
 https://github.com/progit/progit2
 https://opensource.guide
-
-GitHub Organizations
-https://help.github.com/articles/about-organizations
 
 https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
