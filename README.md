@@ -327,6 +327,8 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
 <!--
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 -->
 
