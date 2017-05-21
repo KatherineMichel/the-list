@@ -200,24 +200,11 @@ Awesome Python and Django
 
 * [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
 * [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
-* [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
 * [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-* [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
 * [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
-* [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin) 
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
-* [Awesome Big Data GitHub](https://github.com/onurakpolat/awesome-bigdata)  
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
-
+  
 Awesome- More
-* [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
-* [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
-* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
-* [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
-* [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
+* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
 * [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
 * [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
 
