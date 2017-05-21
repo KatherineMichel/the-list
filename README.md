@@ -16,7 +16,6 @@ Scripting and MVCs
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-https://devopsbootcamp.osuosl.org/slides.html
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://docs.python.org/devguide/gitbootcamp.html
