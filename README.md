@@ -20,7 +20,6 @@ https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://docs.python.org/devguide/gitbootcamp.html
 
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 http://jvns.ca
@@ -132,9 +131,6 @@ Dev-Ops Wiki and Free for Dev
 * [Awesome Vim](http://vimawesome.com)
 
 Awesome Non-Code
-* [Awesome Computer History GitHub](https://github.com/watson/awesome-computer-history) 
-* [Awesome Conferences GitHub](https://github.com/RichardLitt/awesome-conferences) 
-* [Awesome A11Y GitHub](https://github.com/brunopulis/awesome-a11y)
 * [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
 * [Guides GitHub](https://github.com/NARKOZ/guides)
 * [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
@@ -145,7 +141,6 @@ https://github.com/AntBranch/awesome-github
 https://github.com/noffle/art-of-readme
 
 https://github.com/endymecy/awesome-deeplearning-resources
-https://github.com/tayllan/awesome-algorithms
 
 https://github.com/gztchan/awesome-design
 https://github.com/zazaalaza/awesome-ideation-tools
@@ -158,10 +153,8 @@ https://github.com/donnemartin/awesome-aws#python-sdk
 
 https://branch.io/resources/app-launch-checklist/#
 https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/dastergon/awesome-sre
 https://github.com/kdeldycke/awesome-falsehood
 https://github.com/KishanBagaria/awesome-standards
-https://github.com/zingchart/awesome-charting
 https://github.com/detailyang/awesome-cheatsheet
 https://github.com/Kickball/awesome-selfhosted
 
@@ -184,8 +177,6 @@ Awesome Apple
 * [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
 * [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
 * [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
-* [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
-* [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
 https://github.com/jaywcjlove/awesome-mac
@@ -501,32 +492,23 @@ https://docs.python.org/devguide/gitbootcamp.html
 Recommended
 https://github.com/progit/progit2
 https://opensource.guide
-
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
 https://github.com/github/opensource.guide
-
-GitHub Services Integration
-* [Service Hooks GitHub](https://github.com/github/github-services)  
-* [GitHub Integrations](https://github.com/integrations)  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
 Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
 * [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
-* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
 * [Atlassian SourceTree](https://www.sourcetreeapp.com)
 
 More GitHub Alternatives, Sourceforge
 * [Google Code](https://code.google.com)  
 
-GitLab (See also Project Management and Docker)
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+-->
+
+GitLab
 * [GitLab Docs](http://docs.gitlab.com)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
--->
 
 Hosting Docs and Blogs
 * [GitHub Blog](https://github.com/blog)
