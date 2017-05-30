@@ -140,8 +140,6 @@ Awesome Non-Code
 https://github.com/AntBranch/awesome-github
 https://github.com/noffle/art-of-readme
 
-https://github.com/endymecy/awesome-deeplearning-resources
-
 https://github.com/gztchan/awesome-design
 https://github.com/zazaalaza/awesome-ideation-tools
 
