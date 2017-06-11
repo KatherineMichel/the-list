@@ -245,11 +245,17 @@ https://github.com/open-source-society/computer-science
 https://github.com/open-guides/og-aws
 https://github.com/donnemartin/awesome-aws
 
-https://github.com/jlevy/the-art-of-command-line
-https://github.com/jlevy/og-osx-shortcuts
+https://github.com/karan/Projects
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/prakhar1989/awesome-courses
+https://github.com/jnv/lists
 https://github.com/gurugio/lowlevelprogramming-university
-https://github.com/jaywcjlove/awesome-mac
 https://github.com/keon/algorithms
+
+https://github.com/jlevy/og-osx-shortcuts
+https://github.com/jaywcjlove/awesome-mac
+
+https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 -->
 
