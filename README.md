@@ -203,6 +203,13 @@ Courses
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+Books
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+
+<!--
+https://www.safaribooksonline.com
+-->
+
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy](https://www.khanacademy.org)
