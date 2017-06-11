@@ -88,10 +88,6 @@ Awesome Tools
 <!--
 #### Other Enormous Tool Lists
 
-https://medium.com/product-hunt/the-31-best-products-that-launched-in-march-cf48755d83ae
-
-https://www.producthunt.com/e/most-upvoted-in-tech
-
 http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 https://www.producthunt.com/tech/freelancer-stack
@@ -177,8 +173,6 @@ Awesome Apple
 * [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
 * [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
-https://github.com/jaywcjlove/awesome-mac
-
 Awesome Python and Django
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
 * [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
@@ -208,12 +202,6 @@ Courses
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
-
-<!--
-http://online.stanford.edu/courses
-https://www.coursera.org/stanford
-https://ocw.mit.edu/index.htm
--->
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -247,11 +235,12 @@ https://github.com/TeamStuQ/skill-map
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/open-source-society/computer-science
 
+https://github.com/open-guides/og-aws
+https://github.com/donnemartin/awesome-aws
+
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/jlevy/og-osx-shortcuts
 https://github.com/gurugio/lowlevelprogramming-university
-https://github.com/open-guides/og-aws
-https://github.com/donnemartin/awesome-aws
 https://github.com/jaywcjlove/awesome-mac
 https://github.com/keon/algorithms
 https://github.com/Idnan/bash-guide
@@ -571,6 +560,10 @@ MOOCs
 * [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+
+<!--
+http://online.stanford.edu/courses
+-->
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
