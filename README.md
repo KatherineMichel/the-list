@@ -573,6 +573,22 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
+Agency
+* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
+* [Strategyzer Blog](http://blog.strategyzer.com)
+
+Blogs
+* [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Nir Eyal](http://www.nirandfar.com)
+* [Ribbonfarm](http://www.ribbonfarm.com)
+* [Wait But Why](http://waitbutwhy.com) 
+
+More Interesting
+* [Nuzzel](http://nuzzel.com)
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
 Blogs and Podcasts
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Michael Mauboussin](http://michaelmauboussin.com)
@@ -637,10 +653,3 @@ Scientific Method
 <!--
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 -->
-
-More Interesting
-* [Nuzzel](http://nuzzel.com)
-* [Strategyzer Blog](http://blog.strategyzer.com)
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
