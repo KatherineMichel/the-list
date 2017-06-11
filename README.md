@@ -519,6 +519,8 @@ Hosting Newsletters
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 <!--
+https://aws.amazon.com/twitch
+
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
 -->
