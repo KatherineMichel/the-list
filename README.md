@@ -470,7 +470,7 @@ Git Docs
 * [GitHub Guides](https://guides.github.com)
 * [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
 * [Git Index](http://gitref.org) 
-* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorials)
 * [Git Tower Learn](https://www.git-tower.com/learn)
 
 GitHub Docs
@@ -480,7 +480,7 @@ GitHub Docs
 
 Git Cheat Sheets and Tutorials
 * [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](http://www.atlassian.com/git/tutorials)  
 * [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
 * [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 
