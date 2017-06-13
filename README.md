@@ -205,10 +205,7 @@ Courses
 
 Books
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-
-<!--
-https://www.safaribooksonline.com
--->
+* [Safari Books](https://www.safaribooksonline.com)
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -218,7 +215,9 @@ Math and General Knowledge
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
 
+<!--
 Programming Language Comparisons
+-->
 
 Shortcuts
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
@@ -237,6 +236,8 @@ Guides for Development
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 
 https://github.com/TeamStuQ/skill-map
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
@@ -522,8 +523,7 @@ Hosting Newsletters
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 <!--
-https://aws.amazon.com/twitch
-
+* [AWS Twitch](https://aws.amazon.com/twitch)
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
 -->
