@@ -83,7 +83,9 @@ Comparison of type systems
 -->
 
 Awesome Tools
-* [Sindre Sorhus: Awesome](https://github.com/sindresorhus/awesome)
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+* [Lists](https://github.com/jnv/lists)
 
 <!--
 #### Other Enormous Tool Lists
@@ -112,10 +114,6 @@ https://startuplaunchlist.com
 https://entrepreneur-tools.zeef.com/keyhanimo
 https://balapastudio.co/frontendlist
 http://designforstartup.net
-
-Awesome
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
 Dev-Ops Wiki and Free for Dev
 * [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
@@ -170,8 +168,6 @@ Awesome Git
 Awesome Apple
 * [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
 * [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
-* [Awesome iOS GitHub](https://github.com/vsouza/awesome-ios)
-* [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
 Awesome Python and Django
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
@@ -249,7 +245,6 @@ https://github.com/donnemartin/awesome-aws
 https://github.com/karan/Projects
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/prakhar1989/awesome-courses
-https://github.com/jnv/lists
 https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/keon/algorithms
 
