@@ -7,6 +7,9 @@ Look at Daily
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
 <!--
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+
 Product Hunt top products
 
 Scripting and MVCs
