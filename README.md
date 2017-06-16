@@ -11,6 +11,8 @@ http://lanyrd.com/2017
 http://lanyrd.com/2018
 http://lanyrd.com/conferences
 
+http://www.mindtheproduct.com
+
 Product Hunt top products
 
 Scripting and MVCs
