@@ -14,12 +14,16 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 https://github.com/faif/python-patterns/
 https://github.com/kamranahmedse/design-patterns-for-humans
 
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
+https://maintainers.github.com/apply
+https://cfp.githubapp.com/events/github-universe-2017
 
 http://lanyrd.com/2017
 http://lanyrd.com/2018
 http://lanyrd.com/conferences
 
 http://www.mindtheproduct.com
+
 
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
