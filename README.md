@@ -7,13 +7,19 @@ Look at Daily
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
 <!--
+New
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+https://en.wikipedia.org/wiki/Software_design_pattern
+https://github.com/faif/python-patterns/
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+
 http://lanyrd.com/2017
 http://lanyrd.com/2018
 http://lanyrd.com/conferences
 
 http://www.mindtheproduct.com
-
-Product Hunt top products
 
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
@@ -37,13 +43,9 @@ http://functions.wolfram.com
 http://www.wolfram.com/resources
 https://www.wolframalpha.com/examples/ComputationalScience.html
 
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
-
-New
-https://en.wikipedia.org/wiki/Software_design_pattern
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 * [Python Patterns Library](https://github.com/faif/python-patterns)
