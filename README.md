@@ -6,7 +6,10 @@ Look at Daily
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
-Conferences
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
 
 <!--
 New
