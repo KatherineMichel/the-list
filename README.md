@@ -242,6 +242,7 @@ Interesting Curated Learning Resources
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Front End Guide](https://github.com/grab/front-end-guide)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
@@ -257,7 +258,7 @@ https://github.com/open-guides/og-aws
 https://github.com/donnemartin/awesome-aws
 
 https://github.com/karan/Projects
-https://github.com/grab/front-end-guide
+https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 https://github.com/prakhar1989/awesome-courses
 https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/keon/algorithms
