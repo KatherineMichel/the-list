@@ -25,6 +25,13 @@ http://www.mindtheproduct.com
 -->
 
 <!--
+https://simpleisbetterthancomplex.com/
+https://media.readthedocs.org/pdf/django/1.11.x/django.pdf
+https://learnpythonthehardway.org/
+https://docs.python.org/devguide/gitbootcamp.html
+
+https://github.com/blog
+
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
