@@ -8,6 +8,16 @@ Look at Daily
 
 <!--
 New
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
+https://maintainers.github.com/apply
+https://cfp.githubapp.com/events/github-universe-2017
+
+http://www.mindtheproduct.com
+
 Competitive Programmers Handbook
 https://cses.fi/book.html
 
@@ -17,15 +27,6 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 https://github.com/faif/python-patterns/
 https://github.com/kamranahmedse/design-patterns-for-humans
 
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
-https://maintainers.github.com/apply
-https://cfp.githubapp.com/events/github-universe-2017
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-
-http://www.mindtheproduct.com
 
 
 Scripting and MVCs
@@ -258,6 +259,8 @@ https://github.com/open-guides/og-aws
 https://github.com/donnemartin/awesome-aws
 
 https://github.com/karan/Projects
+https://github.com/grab/front-end-guide
+https://github.com/dexteryy/spellbook-of-modern-webdev
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/prakhar1989/awesome-courses
 https://github.com/gurugio/lowlevelprogramming-university
