@@ -6,6 +6,8 @@ Look at Daily
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 
+Conferences
+
 <!--
 New
 http://lanyrd.com/2017
@@ -17,18 +19,9 @@ https://maintainers.github.com/apply
 https://cfp.githubapp.com/events/github-universe-2017
 
 http://www.mindtheproduct.com
+-->
 
-Competitive Programmers Handbook
-https://cses.fi/book.html
-
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-https://en.wikipedia.org/wiki/Software_design_pattern
-https://github.com/faif/python-patterns/
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-
-
+<!--
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
@@ -53,28 +46,6 @@ https://www.wolframalpha.com/examples/ComputationalScience.html
 
 https://en.wikipedia.org/wiki/Coding_conventions
 
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Patterns Library](https://github.com/faif/python-patterns)
-
-https://github.com/cundi/Django-Design-Patterns-and-Best-Practices
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages, programming paradigms, multi-paradigm programming languages
-Comparison of type systems
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
 
@@ -82,20 +53,9 @@ https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://en.wikipedia.org/wiki/Programming_style
 
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 -->
 
 Awesome Tools
@@ -227,8 +187,30 @@ Math and General Knowledge
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
 
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
 <!--
 Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
 -->
 
 Shortcuts
@@ -243,16 +225,22 @@ Guides for Development
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
 
 <!--
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+-->
+
+Interesting Curated Learning Resources
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+<!--
+Competitive Programmers Handbook
+https://cses.fi/book.html
 
 https://github.com/TeamStuQ/skill-map
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/open-source-society/computer-science
 
 https://github.com/open-guides/og-aws
@@ -260,8 +248,6 @@ https://github.com/donnemartin/awesome-aws
 
 https://github.com/karan/Projects
 https://github.com/grab/front-end-guide
-https://github.com/dexteryy/spellbook-of-modern-webdev
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/prakhar1989/awesome-courses
 https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/keon/algorithms
@@ -336,6 +322,17 @@ The Practical Dev
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Python Patterns Library](https://github.com/faif/python-patterns)
+* [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+<!--
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+-->
 
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
