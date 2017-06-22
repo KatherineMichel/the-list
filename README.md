@@ -8,6 +8,9 @@ Look at Daily
 
 <!--
 New
+Competitive Programmers Handbook
+https://cses.fi/book.html
+
 https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 https://en.wikipedia.org/wiki/Software_design_pattern
