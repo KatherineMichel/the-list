@@ -239,9 +239,13 @@ https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-googl
 -->
 
 Interesting Curated Learning Resources
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Open Source Society University](https://github.com/open-source-society/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 * [Front End Guide](https://github.com/grab/front-end-guide)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
@@ -251,15 +255,8 @@ Interesting Curated Learning Resources
 Competitive Programmers Handbook
 https://cses.fi/book.html
 
-https://github.com/TeamStuQ/skill-map
-https://github.com/open-source-society/computer-science
-
-https://github.com/open-guides/og-aws
-https://github.com/donnemartin/awesome-aws
-
-https://github.com/karan/Projects
-https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 https://github.com/prakhar1989/awesome-courses
+https://github.com/karan/Projects
 https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/keon/algorithms
 
@@ -269,6 +266,10 @@ https://github.com/jaywcjlove/awesome-mac
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 -->
+
+AWS
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
