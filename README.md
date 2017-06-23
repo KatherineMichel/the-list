@@ -5,6 +5,13 @@ Look at Daily
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Nuzzel](http://nuzzel.com)
+
+<!--
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+-->
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
@@ -20,8 +27,6 @@ http://lanyrd.com/conferences
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 https://maintainers.github.com/apply
 https://cfp.githubapp.com/events/github-universe-2017
-
-http://www.mindtheproduct.com
 -->
 
 <!--
@@ -544,12 +549,6 @@ Hosting Newsletters
 * [GitHub Explore Subscribe](https://github.com/explore/subscribe)
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
-<!--
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
--->
-
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
 * [Amazon Web Services New](https://aws.amazon.com/new)
@@ -567,6 +566,15 @@ AWS- Developer and Documentation
 * [AWS Code](https://aws.amazon.com/code)
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
 
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
