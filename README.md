@@ -164,6 +164,20 @@ Interesting Curated Learning Resources
 Competitive Programmers Handbook
 https://cses.fi/book.html
 
+https://github.com/lnishan/awesome-competitive-programming
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+
+https://github.com/18F/transformation-research
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+
+https://github.com/tuvttran/project-based-learning
+https://github.com/xitu/front-end-handbook-2017
+https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
+
+
 https://github.com/prakhar1989/awesome-courses
 https://github.com/karan/Projects
 https://github.com/gurugio/lowlevelprogramming-university
