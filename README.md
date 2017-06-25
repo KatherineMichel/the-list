@@ -6,6 +6,7 @@ Look at Daily
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Nuzzel](http://nuzzel.com)
+* [Techmeme](https://www.techmeme.com)
 
 <!--
 Nuzzel Custom Feeds
