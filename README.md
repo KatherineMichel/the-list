@@ -33,13 +33,6 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 <!--
 https://github.com/blog
 
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://docs.python.org/devguide/gitbootcamp.html
@@ -47,15 +40,6 @@ https://docs.python.org/devguide/gitbootcamp.html
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 https://hbr.org/2016/09/the-elements-of-value
-
-https://en.wikipedia.org/wiki/Coding_conventions
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Programming_style
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 
@@ -117,6 +101,15 @@ Comparison of programming languages (mapping)
 Comparison of programming paradigms
 Comparison of multi-paradigm programming languages
 Comparison of type systems
+
+https://en.wikipedia.org/wiki/Coding_conventions
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://en.wikipedia.org/wiki/Programming_style
 -->
 
 Shortcuts
@@ -260,6 +253,13 @@ https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-
 https://github.com/tcorral/Design-Patterns-in-Javascript
 https://github.com/FelipeBB/Design-Patterns-JS
 -->
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
