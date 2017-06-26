@@ -12,6 +12,7 @@ Look at Daily
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+http://nuzzel.com/gc
 -->
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
