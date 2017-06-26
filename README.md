@@ -252,6 +252,11 @@ Design Patterns
 
 <!--
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://github.com/addyosmani/essential-js-design-patterns
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+https://github.com/tcorral/Design-Patterns-in-Javascript
+https://github.com/FelipeBB/Design-Patterns-JS
 -->
 
 Markdown
