@@ -16,6 +16,7 @@ http://nuzzel.com/gc
 -->
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
@@ -27,23 +28,9 @@ http://lanyrd.com/2018
 http://lanyrd.com/conferences
 
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
-https://maintainers.github.com/apply
-https://cfp.githubapp.com/events/github-universe-2017
 -->
 
 <!--
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://simpleisbetterthancomplex.com/
-https://media.readthedocs.org/pdf/django/1.11.x/django.pdf
-https://learnpythonthehardway.org/
-https://docs.python.org/devguide/gitbootcamp.html
-
 https://github.com/blog
 
 Scripting and MVCs
@@ -58,9 +45,6 @@ https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 https://docs.python.org/devguide/gitbootcamp.html
 
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-http://jvns.ca
-https://twitter.com/b0rk
 
 https://hbr.org/2016/09/the-elements-of-value
 
@@ -550,10 +534,6 @@ More Interesting
 * [Makerbase Explore](https://makerba.se/explore)
 * [StackShare Trending](http://stackshare.io/trending/tools) 
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-<!--
-https://sitestacks.com
--->
 
 Blogs and Podcasts
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
