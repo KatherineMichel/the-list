@@ -48,10 +48,6 @@ http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 https://hbr.org/2016/09/the-elements-of-value
 
-http://functions.wolfram.com
-http://www.wolfram.com/resources
-https://www.wolframalpha.com/examples/ComputationalScience.html
-
 https://en.wikipedia.org/wiki/Coding_conventions
 
 Object Oriented Programming
@@ -90,6 +86,12 @@ Math and General Knowledge
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
+
+<!--
+http://functions.wolfram.com
+http://www.wolfram.com/resources
+https://www.wolframalpha.com/examples/ComputationalScience.html
+-->
 
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
