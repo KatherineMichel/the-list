@@ -141,6 +141,11 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://github.com/sorrycc/awesome-javascript
+https://github.com/sindresorhus/awesome-nodejs
+
+https://github.com/leonar15/startup-checklist
+
 Competitive Programmers Handbook
 https://cses.fi/book.html
 
@@ -155,6 +160,7 @@ https://github.com/opensourceway/open-decision-framework
 
 https://github.com/tuvttran/project-based-learning
 https://github.com/xitu/front-end-handbook-2017
+https://github.com/FrontendMasters/front-end-handbook-2017
 https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 
 
