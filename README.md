@@ -218,18 +218,13 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
 * [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
 * [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
 * [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
 * [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 * [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
-
-<!--
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
--->
 
 <!--
 https://medium.com/@preethikasireddy
@@ -244,6 +239,9 @@ Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
@@ -252,12 +250,11 @@ Design Patterns
 * [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 <!--
+https://en.wikipedia.org/wiki/Design_Patterns
+
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
-https://github.com/addyosmani/essential-js-design-patterns
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-https://github.com/tcorral/Design-Patterns-in-Javascript
-https://github.com/FelipeBB/Design-Patterns-JS
+https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
 Scripting and MVCs
