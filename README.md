@@ -104,11 +104,6 @@ Comparison of type systems
 
 https://en.wikipedia.org/wiki/Coding_conventions
 
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
 https://en.wikipedia.org/wiki/Programming_style
 -->
 
@@ -216,21 +211,27 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
-* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
-* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
-* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
-* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 <!--
 https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
 
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -241,6 +242,7 @@ Algorithms
 
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
@@ -250,8 +252,6 @@ Design Patterns
 * [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 <!--
-https://en.wikipedia.org/wiki/Design_Patterns
-
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 https://en.wikipedia.org/wiki/Flyweight_pattern
@@ -276,11 +276,6 @@ Jekyll
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
