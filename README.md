@@ -27,6 +27,8 @@ http://lanyrd.com/2017
 http://lanyrd.com/2018
 http://lanyrd.com/conferences
 
+https://aws.amazon.com/events/aws-innovate
+
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
 
