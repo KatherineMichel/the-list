@@ -463,6 +463,7 @@ https://opensource.google.com/projects/explore/featured
 
 GitLab
 * [GitLab Docs](http://docs.gitlab.com)
+* [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 
 Hosting Docs and Blogs
