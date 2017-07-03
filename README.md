@@ -282,15 +282,31 @@ Jekyll
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
-DevOps Tutorials
-* Startup Engineering MOOC
+More Workflows
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+Software Versioning
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+DevOps Tutorials
+* Startup Engineering MOOC
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
 <!--
