@@ -1,5 +1,11 @@
 # Favorite Learning Resources
 
+<!--
+https://github.com/jlevy/og-aws
+https://github.com/jlevy/og-equity-compensation
+https://github.com/leonar15/startup-checklist
+-->
+
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [Product Hunt](https://www.producthunt.com)
