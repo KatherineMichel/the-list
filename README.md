@@ -144,6 +144,8 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
+
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
 
