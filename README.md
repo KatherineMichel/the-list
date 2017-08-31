@@ -144,6 +144,10 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://www.sideprojectchecklist.com/
+https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
+
+
 https://github.com/sorrycc/awesome-javascript
 https://github.com/sindresorhus/awesome-nodejs
 
