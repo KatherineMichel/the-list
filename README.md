@@ -1,6 +1,8 @@
 # Favorite Learning Resources
 
 <!--
+Fast AI
+Open Company
 https://github.com/jlevy/og-aws
 https://github.com/jlevy/og-equity-compensation
 https://github.com/leonar15/startup-checklist
