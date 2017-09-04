@@ -30,6 +30,9 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 
 <!--
 New
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
 http://lanyrd.com/2017
 http://lanyrd.com/2018
 http://lanyrd.com/conferences
