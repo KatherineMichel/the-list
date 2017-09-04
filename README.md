@@ -12,17 +12,28 @@ LancasterManagement  1
 
 Confreaks  10
 
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
 DjangoCon US 2016
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos
-Djangocon Europe 2017
-https://www.youtube.com/user/djangoconeurope
+DjangoCon Europe 2017
+https://www.youtube.com/user/djangoconeurope/videos
 
 PyCon 2017
-PyCon 2015  1
+https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos
+PyCon 2016
+https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos
+PyCon 2015
+https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos
 PyCon 2014
-PyCon Canada  1
+https://www.youtube.com/user/PyCon2014/videos
+
+PyCon Canada 2016
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
+
 PyData  1 
-EuroPython 2014  1
+https://www.youtube.com/user/PyDataTV/playlists
+EuroPython
+https://www.youtube.com/user/PythonItalia/playlists
 EuroPython Conference  1
 
 Coding is for girls  1
