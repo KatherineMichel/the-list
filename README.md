@@ -1,11 +1,10 @@
 # Favorite Learning Resources
 
 <!--
+https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
+
 Fast AI
 Open Company
-https://github.com/jlevy/og-aws
-https://github.com/jlevy/og-equity-compensation
-https://github.com/leonar15/startup-checklist
 -->
 
 Look at Daily
@@ -154,11 +153,13 @@ https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
 
+https://github.com/jlevy/og-aws
+https://github.com/jlevy/og-equity-compensation
+https://github.com/leonar15/startup-checklist
 
 https://github.com/sorrycc/awesome-javascript
 https://github.com/sindresorhus/awesome-nodejs
 
-https://github.com/leonar15/startup-checklist
 
 Competitive Programmers Handbook
 https://cses.fi/book.html
