@@ -125,7 +125,7 @@ Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
  
 Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
 
 <!--
