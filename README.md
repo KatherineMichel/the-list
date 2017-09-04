@@ -1,6 +1,85 @@
 # Favorite Learning Resources
 
 <!--
+TED-Ed  1
+TEDx Talks  99+
+TED  5
+
+Harvard Business School  2
+Stanford eCorner  1
+Stanford Graduate School of Business  1
+LancasterManagement  1
+
+Confreaks  10
+
+DjangoCon US 2016
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos
+Djangocon Europe 2017
+https://www.youtube.com/user/djangoconeurope
+
+PyCon 2017
+PyCon 2015  1
+PyCon 2014
+PyCon Canada  1
+PyData  1 
+EuroPython 2014  1
+EuroPython Conference  1
+
+Coding is for girls  1
+PyLadiesRemote Webcasts
+freeCodeCamp  14
+
+Google for Entrepreneurs  1
+Google Developers  5
+Talks at Google  11
+Google Analytics  6
+ZeitgeistMinds  1
+Google  4 
+Google Chrome Developers  4
+GoogleTechTalks  4
+
+Smithsonian Channel  3
+PBS  13 
+
+Jeremy Howard  3
+Jeremy Howard
+
+GitHub  1
+Amazon Web Services  13
+
+Salesforce  4
+Oracle Developers  7 
+
+Jacob Walker  5
+Wichitalks  1
+
+a16z  1 
+This Week In Startups  15
+Jason Calacanis
+Bothsides TV  1 
+Greylock Partners  1
+
+DeepMind  1
+Becoming a Data Scientist  1
+Google VR  6
+
+Paul Hammant  1
+Web Summit
+Tim Ferriss  1
+The School of Life  3
+CaseyNeistat  2
+democonf  7
+TWiT Netcast Network  
+L2inc  2 
+Pinax Hangouts
+Nordic.js  1
+N N Taleb's Probability Moocs  1
+LeWeb
+How to Start a Startup
+Recode  1
+Microsoft Visual Studio  99
+Katie Cunningham  1
+  
 https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 
 Fast AI
