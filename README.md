@@ -36,6 +36,9 @@ EuroPython
 https://www.youtube.com/user/PythonItalia/playlists
 EuroPython Conference  1
 
+500 Startups Videos
+https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA
+
 Coding is for girls  1
 PyLadiesRemote Webcasts
 freeCodeCamp  14
