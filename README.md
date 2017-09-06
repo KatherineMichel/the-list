@@ -1,6 +1,13 @@
 # Favorite Learning Resources
 
 <!--
+New
+Singularity Univ
+https://www.youtube.com/user/singularityu/videos
+Khosla Ventures
+https://www.youtube.com/user/khoslaventures/playlists
+
+
 TED-Ed  1
 TEDx Talks  99+
 TED  5
