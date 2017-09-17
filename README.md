@@ -1,23 +1,107 @@
 # Favorite Learning Resources
 
 <!--
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
+#### Other Enormous Tool Lists
 
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
+https://www.producthunt.com/tech/freelancer-stack
+https://www.hellobonsai.com/best-freelance-tools
+https://www.producthunt.com/tech/makerbook-2
 
-https://www.pluralsight.com/guides
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-https://www.pluralsight.com/blog/career/tech-in-2025
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
+* [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
 
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
-https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+* [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
+* [Content Marketing Stack](http://www.contentmarketingstack.co)
+* [Growth Tools](http://growthtools.io)
+* [growth.supply](http://growth.supply/free)
+* [Makerbook](http://makerbook.net)
+* [Marketing Stack](http://marketingstack.io)
+* [SalesList](https://saleslist.co)
+* [Stacklist](http://stacklist.com)
+* [Startup Resources](http://startupresources.io)
+* [Startup Stash](http://startupstash.com)
 
+https://productmap.co
+http://www.communitybuildingguide.com
+https://startuplaunchlist.com
+https://entrepreneur-tools.zeef.com/keyhanimo
+https://balapastudio.co/frontendlist
+http://designforstartup.net
+
+Dev-Ops Wiki and Free for Dev
+* [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
+* [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+* [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
+* [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
+* [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
+* [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
+* [Awesome Vim](http://vimawesome.com)
+
+Awesome Non-Code
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+* [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
+* [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
+
+https://github.com/AntBranch/awesome-github
+https://github.com/noffle/art-of-readme
+
+https://github.com/gztchan/awesome-design
+https://github.com/zazaalaza/awesome-ideation-tools
+
+https://github.com/jonathandion/awesome-emails
+https://github.com/Jolg42/awesome-typography
+https://github.com/neutraltone/awesome-stock-resources
+
+https://github.com/donnemartin/awesome-aws#python-sdk
+
+https://branch.io/resources/app-launch-checklist/#
+https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/kdeldycke/awesome-falsehood
+https://github.com/KishanBagaria/awesome-standards
+https://github.com/detailyang/awesome-cheatsheet
+https://github.com/Kickball/awesome-selfhosted
+
+README and Head
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [HEAD GitHub](https://github.com/joshbuchea/HEAD)
+
+Naughty Strings and Words
+* [Big List of Naughty Strings GitHub](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+
+Awesome Git
+* [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
+* [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
+* [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
+
+Awesome Apple
+* [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
+* [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
+
+Awesome Python and Django
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+
+* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
+* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
+* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+* [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
+  
+Awesome- More
+* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
+* [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
+* [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
+
+Book Lists
+* [Bookicious](http://www.bookicious.com/collections)
+* [Bookstck](http://bookstck.tumblr.com)
+-->
+
+<!--
 New
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
@@ -119,111 +203,34 @@ Microsoft Visual Studio  99
 Katie Cunningham  1
   
 https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
+-->
+
+
+
+<!--
+[The Practical Dev GitHub](https://github.com/thepracticaldev)
+
+https://github.com/blog
+
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://hbr.org/2016/09/the-elements-of-value
+
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
 Fast AI
 Open Company
+
+http://jvns.ca
+https://twitter.com/b0rk
 -->
 
-<!--
-#### Other Enormous Tool Lists
-
-https://www.producthunt.com/tech/freelancer-stack
-https://www.hellobonsai.com/best-freelance-tools
-https://www.producthunt.com/tech/makerbook-2
-
-* [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
-
-* [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
-* [Content Marketing Stack](http://www.contentmarketingstack.co)
-* [Growth Tools](http://growthtools.io)
-* [growth.supply](http://growth.supply/free)
-* [Makerbook](http://makerbook.net)
-* [Marketing Stack](http://marketingstack.io)
-* [SalesList](https://saleslist.co)
-* [Stacklist](http://stacklist.com)
-* [Startup Resources](http://startupresources.io)
-* [Startup Stash](http://startupstash.com)
-
-https://productmap.co
-http://www.communitybuildingguide.com
-https://startuplaunchlist.com
-https://entrepreneur-tools.zeef.com/keyhanimo
-https://balapastudio.co/frontendlist
-http://designforstartup.net
-
-Dev-Ops Wiki and Free for Dev
-* [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
-* [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
-* [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
-* [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
-* [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
-* [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
-* [Awesome Vim](http://vimawesome.com)
-
-Awesome Non-Code
-* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-* [Guides GitHub](https://github.com/NARKOZ/guides)
-* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-* [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
-* [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
-
-https://github.com/AntBranch/awesome-github
-https://github.com/noffle/art-of-readme
-
-https://github.com/gztchan/awesome-design
-https://github.com/zazaalaza/awesome-ideation-tools
-
-https://github.com/jonathandion/awesome-emails
-https://github.com/Jolg42/awesome-typography
-https://github.com/neutraltone/awesome-stock-resources
-
-https://github.com/donnemartin/awesome-aws#python-sdk
-
-https://branch.io/resources/app-launch-checklist/#
-https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/kdeldycke/awesome-falsehood
-https://github.com/KishanBagaria/awesome-standards
-https://github.com/detailyang/awesome-cheatsheet
-https://github.com/Kickball/awesome-selfhosted
-
-README and Head
-* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
-* [HEAD GitHub](https://github.com/joshbuchea/HEAD)
-
-Naughty Strings and Words
-* [Big List of Naughty Strings GitHub](https://github.com/minimaxir/big-list-of-naughty-strings)
-* [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
-
-Awesome Git
-* [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
-* [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
-* [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
-
-Awesome Apple
-* [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
-* [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
-
-Awesome Python and Django
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-
-* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
-* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
-* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-* [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
-  
-Awesome- More
-* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
-* [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
-* [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
-
-Book Lists
-* [Bookicious](http://www.bookicious.com/collections)
-* [Bookstck](http://bookstck.tumblr.com)
--->
 
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
@@ -260,22 +267,6 @@ https://aws.amazon.com/events/aws-innovate
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
 
-<!--
-https://github.com/blog
-
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-https://hbr.org/2016/09/the-elements-of-value
-
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
--->
-
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -290,19 +281,68 @@ Courses
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
-<!--
 Forums
 * [Codecademy Discuss](https://discuss.codecademy.com/top/all)
 * [Free Code Camp Forum](http://forum.freecodecamp.com)
 * [Treehouse Community](https://teamtreehouse.com/community)
+
+<!--
+More forums or GitHub?
+
+https://www.pluralsight.com/guides
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online
+https://www.pluralsight.com/blog/career/tech-in-2025
+Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
+
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+https://www.codecademy.com/learn/python
+https://www.codecademy.com/learn/learn-sass
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
+
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
+https://medium.com/udacity
+https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
+
+https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
+
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+
+http://blog.teamtreehouse.com
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
+http://treehouse.github.io/installation-guides
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 -->
 
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Map](https://www.freecodecamp.com/map)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 
-
-
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -311,6 +351,37 @@ Math and General Knowledge
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+
+<!--
+https://twitter.com/housecor/status/858870694326800385
+-->
+
+Books
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+
+
+
+
+
+
+
+
 
 <!--
 http://functions.wolfram.com
@@ -327,6 +398,12 @@ Programming Languages
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 <!--
+Software Design Patterns
+Coding Conventions
+Object Oriented Programming
+Programming language comparisons
+Programming style
+
 Programming Language Comparisons
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -454,17 +531,6 @@ Standards
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
-Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
-* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Map](https://www.freecodecamp.com/map)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
@@ -472,9 +538,15 @@ Preethi Kasireddy: How The Web Works
 
 <!--
 https://medium.com/@preethikasireddy
+Preethi Kasireddy: How The Web Works
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
+https://medium.com/@preethikasireddy
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
+
+
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
@@ -487,8 +559,8 @@ Addy Osmani
 Kyle Simpson
 * [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
 
-The Practical Dev
-* [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+
+
 
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
