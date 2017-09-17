@@ -206,29 +206,25 @@ https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 -->
 
 
-
 <!--
-[The Practical Dev GitHub](https://github.com/thepracticaldev)
+#### More Back-end
 
-https://github.com/blog
+Coding Competitions
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://docs.python.org/devguide/gitbootcamp.html
 
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-https://hbr.org/2016/09/the-elements-of-value
-
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://hbr.org/2016/09/the-elements-of-value
+
 Fast AI
 Open Company
-
-http://jvns.ca
-https://twitter.com/b0rk
 -->
 
 
@@ -272,13 +268,33 @@ Awesome Tools
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 * [Lists](https://github.com/jnv/lists)
 
+Wikipedia
+* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+
+<!--
+https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
+-->
+
 Courses
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
+* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [Treehouse](https://teamtreehouse.com)
+* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 Forums
@@ -306,19 +322,6 @@ https://www.khanacademy.org/computing/computer-programming/sql
 https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
 
-https://medium.com/udacity
-https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
-
-https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-
 http://blog.teamtreehouse.com
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
 http://treehouse.github.io/installation-guides
@@ -337,6 +340,19 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 
+<!--
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
+
+https://medium.freecodecamp.org/tagged/events
+https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+https://github.com/freeCodeCamp/contribute
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+-->
+
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
@@ -352,14 +368,109 @@ Math and General Knowledge
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
 
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
+<!--
+http://functions.wolfram.com
+http://www.wolfram.com/resources
+https://www.wolframalpha.com/examples/ComputationalScience.html
+-->
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
 * [YouTube](https://www.youtube.com)
+
+Books
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+Hosting Docs and Blogs
+* [GitHub Blog](https://github.com/blog)
+* [Heroku Blog](https://blog.heroku.com)
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
+
+<!--
+https://www.digitalocean.com/community
+
+AWS Certifications
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+-->
+
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+
+Heroku- General
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -371,23 +482,21 @@ Fave Pluralsight Authors
 https://twitter.com/housecor/status/858870694326800385
 -->
 
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-
-
-
-
-
-
-
-
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 <!--
-http://functions.wolfram.com
-http://www.wolfram.com/resources
-https://www.wolframalpha.com/examples/ComputationalScience.html
+https://medium.com/@preethikasireddy
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
+
+
+
 
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
@@ -462,7 +571,6 @@ https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
 
-https://github.com/jlevy/og-aws
 https://github.com/jlevy/og-equity-compensation
 https://github.com/leonar15/startup-checklist
 
@@ -500,10 +608,6 @@ https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 -->
 
-AWS
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
-
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 * [Google Developer Web](https://developers.google.com/web)
@@ -521,44 +625,6 @@ JavaScript- Microsoft
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
 -->
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.com/@preethikasireddy
-Preethi Kasireddy: How The Web Works
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
--->
-
-
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-
 
 
 
@@ -590,6 +656,8 @@ Scripting and MVCs
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
+
+
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
@@ -605,6 +673,8 @@ Jekyll
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+
 
 More Workflows
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
@@ -790,74 +860,11 @@ GitLab
 * [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 
-Hosting Docs and Blogs
-* [GitHub Blog](https://github.com/blog)
-* [Heroku Blog](https://blog.heroku.com)
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
 
-Hosting Newsletters
-* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
-* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
-* [Heroku Newsletter](https://www.heroku.com/newsletter)
 
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-
-AWS- GitHub and Livecoding
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
-
-Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
-Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Developers](https://cloud.google.com/developers)  
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
-
-<!--
-http://online.stanford.edu/courses
--->
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
@@ -913,9 +920,6 @@ Conferences (See also Designer/Developer Conferences)
 <!--
 https://www.techopedia.com
 -->
-
-Wikipedia
-* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
 Wikipedia Tech Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
