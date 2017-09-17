@@ -286,6 +286,29 @@ Individual Engineering Blogs
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+<!--
+http://www.computerhistory.org
+https://twitter.com/ComputerHistory
+-->
+
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
