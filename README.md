@@ -469,6 +469,9 @@ https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-googl
 
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
@@ -534,6 +537,15 @@ https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-codi
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+Analysis
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 
 
@@ -604,11 +616,7 @@ Scripting and MVCs
 
 Shortcuts
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
- 
-Analysis
-* [Built With](http://builtwith.com) 
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
- 
+  
 Interesting Curated Learning Resources
 * [Open Product Management](https://github.com/tron1991/open-product-management)
 * [Open Source Society University](https://github.com/open-source-society/computer-science)
@@ -723,6 +731,63 @@ DevOps Tutorials
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+Git Docs
+* [Git Homepage](https://git-scm.com)
+* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Pro Git Book](https://git-scm.com/book/en/v2)
+* [GitHub Help](https://help.github.com)
+* [GitHub Guides](https://guides.github.com)
+* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
+* [Git Index](http://gitref.org) 
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorials)
+* [Git Tower Learn](https://www.git-tower.com/learn)
+
+GitHub Docs
+* [GitHub Help](https://help.github.com)  
+* [GitHub Training](http://training.github.com)  
+* [GitHub Guides](https://guides.github.com) 
+
+Git Cheat Sheets and Tutorials
+* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](http://www.atlassian.com/git/tutorials)  
+* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
+* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
+
+<!--
+* [Git Index](http://gitref.org)  
+
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+Recommended
+https://github.com/progit/progit2
+https://opensource.guide
+https://github.com/github/opensource.guide
+
+Atlassian: Bitbucket and SourceTree
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Atlassian SourceTree](https://www.sourcetreeapp.com)
+
+More GitHub Alternatives, Sourceforge
+* [Google Code](https://code.google.com)  
+
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+-->
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+
 <!--
 Deployment
 * [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
@@ -823,64 +888,6 @@ No longer in existence
 Homework
 Deployment Assignments
 -->
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-Git Docs
-* [Git Homepage](https://git-scm.com)
-* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Pro Git Book](https://git-scm.com/book/en/v2)
-* [GitHub Help](https://help.github.com)
-* [GitHub Guides](https://guides.github.com)
-* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
-* [Git Index](http://gitref.org) 
-* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorials)
-* [Git Tower Learn](https://www.git-tower.com/learn)
-
-GitHub Docs
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Guides](https://guides.github.com) 
-
-Git Cheat Sheets and Tutorials
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](http://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
-
-<!--
-* [Git Index](http://gitref.org)  
-
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-Recommended
-https://github.com/progit/progit2
-https://opensource.guide
-https://github.com/github/opensource.guide
-
-Atlassian: Bitbucket and SourceTree
-* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
-* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Atlassian SourceTree](https://www.sourcetreeapp.com)
-
-More GitHub Alternatives, Sourceforge
-* [Google Code](https://code.google.com)  
-
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
--->
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-
 
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
