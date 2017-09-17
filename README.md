@@ -210,6 +210,9 @@ https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 #### More Back-end
 
 Coding Competitions
+Developer Surveys
+Company Design Blogs
+Company Design Systems
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
@@ -270,6 +273,15 @@ Awesome Tools
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+<!--
+Individual Engineering Blogs
+* [Buffer Engineering](https://overflow.bufferapp.com)
+* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+* [Uber Developers](https://medium.com/uber-developers)  
+-->
 
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
@@ -867,6 +879,7 @@ GitLab
 * [GitLab Docs](http://docs.gitlab.com)
 * [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
 
 
 
