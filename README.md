@@ -1,6 +1,15 @@
 # Favorite Learning Resources
 
 <!--
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
 https://www.pluralsight.com/guides
 https://www.pluralsight.com/resource-center/guides/classroom_vs_online
 https://www.pluralsight.com/blog/career/tech-in-2025
@@ -278,7 +287,18 @@ Courses
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
+* [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+<!--
+Forums
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
+-->
+
+
+
 
 Books
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
