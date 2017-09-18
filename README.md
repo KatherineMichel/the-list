@@ -228,6 +228,26 @@ https://hbr.org/2016/09/the-elements-of-value
 
 Fast AI
 Open Company
+
+#### Events
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
 -->
 
 
@@ -320,10 +340,6 @@ MOOCs
 * [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
-
-<!--
-https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
--->
 
 Courses
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
@@ -422,10 +438,21 @@ Books
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
-Hosting Docs and Blogs
+
+
+
+Hosting Blogs
 * [GitHub Blog](https://github.com/blog)
 * [Heroku Blog](https://blog.heroku.com)
+
+Hosting Docs
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
+* [Digital Ocean Community](https://www.digitalocean.com/community)
 
 Hosting Newsletters
 * [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
@@ -433,8 +460,6 @@ Hosting Newsletters
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 <!--
-https://www.digitalocean.com/community
-
 AWS Certifications
 https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
 
@@ -459,6 +484,7 @@ AWS- Developer and Documentation
 * [AWS Code](https://aws.amazon.com/code)
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace) 
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
 
 AWS- GitHub and Livecoding
 * [AWS Twitch](https://aws.amazon.com/twitch)
@@ -490,11 +516,17 @@ Guides for Development
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 -->
 
+
+
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 * [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
 
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
