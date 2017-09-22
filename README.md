@@ -694,13 +694,17 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/herrbischoff/awesome-osx-command-line
+https://github.com/todogroup/awesome-oss-mgmt
+http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
+https://github.com/braydie/HowToBeAProgrammer
 https://github.com/mrmrs/styleguide-checklist
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 http://ashleymcnamara.github.io/learn_to_code/
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
-https://github.com/open-source-society/computer-science
 https://github.com/Kristories/awesome-guidelines
 
 https://github.com/bradfrost/frontend-guidelines-questionnaire
