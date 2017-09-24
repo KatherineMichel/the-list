@@ -721,6 +721,7 @@ Jekyll
 
 Hosting Blogs
 * [GitHub Blog](https://github.com/blog)
+* [GitHub Engineering](https://githubengineering.com)
 * [Heroku Blog](https://blog.heroku.com)
 
 Hosting Docs
