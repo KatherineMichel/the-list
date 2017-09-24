@@ -275,6 +275,7 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 
 <!--
 New
+http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
 http://lanyrd.com/places/uk
 http://lanyrd.com/places/greater-london
 
