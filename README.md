@@ -540,7 +540,8 @@ Stack
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 
 List of Engineering Blogs
-* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
 Individual Engineering Blogs
