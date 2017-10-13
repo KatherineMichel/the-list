@@ -104,6 +104,20 @@ Book Lists
 <!--
 See Python
 
+https://twitter.com/JamesADamore/status/916364062103027712 | James Damore on Twitter: "1/ A common request is for me to share the books I read that got me into coding competitions. A good one was: https://t.co/GFTmPeoHWd"
+https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual | The Algorithm Design Manual by Steven S. Skiena
+https://www.goodreads.com/book/show/10640251-algorithmic-puzzles | Algorithmic Puzzles by Anany V. Levitin
+
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+
+https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
+
+https://en.wikipedia.org/wiki/Neuroplasticity
+https://en.wikipedia.org/wiki/Method_of_loci
+
+https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+
+
 
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
