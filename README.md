@@ -102,7 +102,18 @@ Book Lists
 -->
 
 <!--
+See Python
+
 New
+https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
+http://pyvideo.org/events.html | PyVideo.org · Events
+https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
+https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
+https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
+http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
+
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
 Khosla Ventures
