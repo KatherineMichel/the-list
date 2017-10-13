@@ -221,6 +221,8 @@ https://hbr.org/2016/09/the-elements-of-value
 Fast AI
 Open Company
 
+
+
 #### Events
 
 Experts
