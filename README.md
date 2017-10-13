@@ -104,15 +104,6 @@ Book Lists
 <!--
 See Python
 
-New
-https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
-http://pyvideo.org/events.html | PyVideo.org · Events
-https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
-https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
-https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
-https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
-https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
-http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
 
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
@@ -131,29 +122,6 @@ LancasterManagement  1
 
 Confreaks  10
 
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
-DjangoCon US 2016
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos
-DjangoCon Europe 2017
-https://www.youtube.com/user/djangoconeurope/videos
-
-PyCon 2017
-https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos
-PyCon 2016
-https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos
-PyCon 2015
-https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos
-PyCon 2014
-https://www.youtube.com/user/PyCon2014/videos
-
-PyCon Canada 2016
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
-
-PyData  1 
-https://www.youtube.com/user/PyDataTV/playlists
-EuroPython
-https://www.youtube.com/user/PythonItalia/playlists
-EuroPython Conference  1
 
 500 Startups Videos
 https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA
@@ -204,7 +172,6 @@ CaseyNeistat  2
 democonf  7
 TWiT Netcast Network  
 L2inc  2 
-Pinax Hangouts
 Nordic.js  1
 N N Taleb's Probability Moocs  1
 LeWeb
