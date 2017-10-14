@@ -13,6 +13,7 @@ Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 Developer Surveys
 Company Design Blogs
@@ -21,8 +22,6 @@ Company Design Systems
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://docs.python.org/devguide/gitbootcamp.html
-
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 https://hbr.org/2016/09/the-elements-of-value
 
@@ -220,39 +219,32 @@ Jeremy Howard
 GitHub  1
 Amazon Web Services  13
 
-Salesforce  4
-Oracle Developers  7 
-
-Jacob Walker  5
-Wichitalks  1
-
-a16z  1 
-This Week In Startups  15
-Jason Calacanis
-Bothsides TV  1 
-Greylock Partners  1
-
 DeepMind  1
 Becoming a Data Scientist  1
 Google VR  6
 
 Paul Hammant  1
 Web Summit
+https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 Tim Ferriss  1
 The School of Life  3
-CaseyNeistat  2
-democonf  7
 TWiT Netcast Network  
 L2inc  2 
-Nordic.js  1
 N N Taleb's Probability Moocs  1
-LeWeb
-How to Start a Startup
-Recode  1
-Microsoft Visual Studio  99
 Katie Cunningham  1
+democonf  7
+LeWeb
+Recode  1
+
+
+a16z  1 
+This Week In Startups  15
+Jason Calacanis
+Bothsides TV  1 
+Greylock Partners  1
   
-https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
+Jacob Walker  5
+Wichitalks  1
 -->
 
 ## Tools and General Learning
