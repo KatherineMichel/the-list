@@ -14,10 +14,6 @@ Scientific Method
 
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 
-https://www.mindtools.com
-
-https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
-
 Developer Surveys
 Company Design Blogs
 Company Design Systems
@@ -94,6 +90,12 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
 ## Mind Tools
 
+<!--
+https://www.mindtools.com
+
+https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
+-->
+
 Mental Models
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -108,11 +110,9 @@ Memory Methods
 Neuorplasticity
 * [Neuorplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
-<!--
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
-
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
--->
+Learning
+* ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
 ## Events, Videos, Experts
 
@@ -122,6 +122,38 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
+
+Python and Django
+* [Meetup Topic Django](https://www.meetup.com/topics/django)
+* [Meetup Topic Python](http://www.meetup.com/topics/python)
+
+<!--
+https://github.com/pythonkc
+
+http://lanyrd.com/topics/devops
+
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+
+https://www.python.org/events/
+http://lmorillas.github.io/python_events/ | Python Events
+
+https://www.meetup.com/topics/django/us
+https://www.meetup.com/topics/django/all
+
+http://lanyrd.com/search/?context=future&q=python
+http://lanyrd.com/search/?context=future&q=django
+
+http://lanyrd.com/search/?q=django&type=conference&context=future
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
+-->
 
 Experts
 * [Google Developer Experts](https://developers.google.com/experts)
@@ -142,19 +174,9 @@ AWS- Events
 * [AWS Global Summits](https://aws.amazon.com/summits)
 
 <!--
-New
-http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-
 https://aws.amazon.com/events/aws-innovate
-
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
+
 
 <!--
 Singularity Univ
@@ -548,6 +570,10 @@ Stack Exchange
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
 * [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+
+
+
+## Standards and Documentation
 
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
