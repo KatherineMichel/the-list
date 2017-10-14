@@ -105,35 +105,23 @@ Mental Models
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
+Neuorplasticity
+* [Neuorplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
+
 <!--
 https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
 
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
-
-https://en.wikipedia.org/wiki/Neuroplasticity
 -->
 
 ## Events, Videos, Experts
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Lanyrd](http://lanyrd.com)
+* [PaperCall](https://www.papercall.io)
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
-
-<!--
-New
-http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-
-https://aws.amazon.com/events/aws-innovate
-
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 
 Experts
 * [Google Developer Experts](https://developers.google.com/experts)
@@ -152,6 +140,20 @@ Designer/Developer Conferences
 AWS- Events
 * [AWS Live Events](https://live.awsevents.com)
 * [AWS Global Summits](https://aws.amazon.com/summits)
+
+<!--
+New
+http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+
+https://aws.amazon.com/events/aws-innovate
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
 
 <!--
@@ -235,10 +237,6 @@ https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 
 ## Tools and General Learning
 
-<!--
-https://www.techopedia.com
--->
-
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -269,8 +267,9 @@ Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
-
 <!--
+https://www.techopedia.com
+
 http://www.computerhistory.org
 https://twitter.com/ComputerHistory
 -->
@@ -490,6 +489,9 @@ https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/
 https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
+
+
+
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
@@ -571,6 +573,8 @@ Standards
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
+## JavaScript Resources
+
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot GitHub](https://github.com/ericelliott)
@@ -581,6 +585,9 @@ Addy Osmani
 
 Kyle Simpson
 * [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+
+
 
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
@@ -680,6 +687,7 @@ Google Developers- General
 
 
 
+## Markdown, YAML, Jekyll
 
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
@@ -693,6 +701,8 @@ Jekyll
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
+## Hosting
 
 Hosting Blogs
 * [GitHub Blog](https://github.com/blog)
@@ -745,10 +755,6 @@ AWS- GitHub and Livecoding
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
 
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
-
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
@@ -766,7 +772,7 @@ Google Cloud, App Engine
 
 
 
-
+## Git and Workflow
 
 More Workflows
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
