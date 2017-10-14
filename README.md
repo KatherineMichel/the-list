@@ -9,6 +9,11 @@ https://en.wikibooks.org/wiki/Python_Programming/Functions
 
 
 
+Scientific Method
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+
 https://www.mindtools.com
 
 https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
@@ -48,15 +53,64 @@ Nuzzel Custom Feeds
 http://nuzzel.com/gc
 -->
 
-## Mind Tools
+## Interesting Ideas
+
+Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
+* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
+* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Charlie Rose](http://www.charlierose.com)
+* [PBS](http://www.pbs.org)
+
+Agency
+* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
+* [Strategyzer Blog](http://blog.strategyzer.com)
+
+Blogs
+* [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Nir Eyal](http://www.nirandfar.com)
+* [Ribbonfarm](http://www.ribbonfarm.com)
+* [Wait But Why](http://waitbutwhy.com) 
+
+More Interesting
+* [Nuzzel](http://nuzzel.com)
+* [Makerbase Explore](https://makerba.se/explore)
+* [StackShare Trending](http://stackshare.io/trending/tools) 
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+Blogs and Podcasts
+* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
+* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+* [25iq Books](https://www.25iqbooks.com)
 
 <!--
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
 
+
+## Mind Tools
+
+Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+<!--
 https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
 
+https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+
 https://en.wikipedia.org/wiki/Neuroplasticity
-https://en.wikipedia.org/wiki/Method_of_loci
 -->
 
 ## Events, Videos, Experts
@@ -80,8 +134,6 @@ http://lanyrd.com/conferences
 https://aws.amazon.com/events/aws-innovate
 
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
-
-
 
 Experts
 * [Google Developer Experts](https://developers.google.com/experts)
@@ -183,6 +235,10 @@ https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 
 ## Tools and General Learning
 
+<!--
+https://www.techopedia.com
+-->
+
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -208,6 +264,11 @@ History of Technology and Computer Science
 * [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
 
 <!--
 http://www.computerhistory.org
@@ -789,192 +850,3 @@ GitLab
 * [GitLab Docs](http://docs.gitlab.com)
 * [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-
-<!--
-Deployment
-* [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or [Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
-* [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
-* [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
-* [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [Lecture 12: Node JS: Async, Flow Control, Node Debugging](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf)
-* [Lecture 6: Introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
-* [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
-* [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
-* [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-General
-* [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
-* [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
-* [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
-* [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
-
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
-
-http://web.stanford.edu/class/cs106b/
-
-https://github.com/heroku/node-js-sample
-
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
-
-http://www.html5rocks.com/en/mobile/
-
-AWS, Heroku, Git
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment
-Lecture 2: Figure 84:
-Lecture 7: Figure 1-3: Dev, Staging, Production
-Lecture 7: Figure 20: Dev, Staging, Production
-
-Setup
-Lecture 2: Figure 1: Goal
-Lecture 2: Figure 4: Chrome User Agent Switcher
-Lecture 2: Figure 5: Closing using GUI
-Lecture 2: Figure 6: Closing using CLI
-Lecture 2: Figure 7-12: Apple Terminal
-Lecture 2: Figure 13-24: Cygwin
-Lecture 2: Figure 25: Ping
-Lecture 2: Figure 26-40: AWS
-Lecture 2: Figure 40-42: Gravatar
-Lecture 2: Figure 43-45: GitHub
-Lecture 2: Figure 46-51: Heroku
-Lecture 2: Figure 52-65: AWS
-Lecture 2: Figure 66: Apple
-Lecture 2: Figure 67-70: Cygwin
-Lecture 2: Figure 71-72: AWS
-Lecture 2: Figure 73: SSH
-Lecture 2: Figure 74: AWS Ubuntu
-Lecture 2: Figure 75: Local Versus Remote Commands
-Lecture 2: Figure 76-83: SSH
-Lecture 2: Figure 84: Goal
-
-Setup
-Lecture 3: Figure 1: Virtualization
-Lecture 3: Figure 2-6: SSH
-
-Setup
-Lecture 4a: Figures: All Technical
-Lecture 4b: Figures: All Technical
-
-Setup
-Lecture 7: Figure 4-19: SSH, including Bitstarter
-Lecture 7: Figure 20-34: SSH
-Lecture 7: Figure 35-43: Domize and DNSimple
-Lecture 7: Figure 44-46: SSH
-
-Lecture 5: Table 5: The Idea State Machine
-Lecture 5: Figure 1: Visualizing the Idea Maze
-Lecture 5: Figure 2-3: Implement the 'One-Thing’
-Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
-Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
-Lecture 5: Figure 6: Qualitative Graph of Market Size
-Lecture 5: Figure 7: Facebook Census Tool
-Lecture 5: Figure 8: Google Keyword Planner
-Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
-Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
-
-Lecture 1: Figure 1: Signoidal curve for the development of an industry
-Lecture 1: Table 1: Future and current/ongoing technological trends
-Lecture 1: Table 2: An overview of technologies used in the course                                
-Lecture 1: Figure 5: The Rise and Fall of Personal Computing
-
-No longer in existence
-Homework
-Deployment Assignments
--->
-
-
-Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
-* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
-* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
-* [Charlie Rose](http://www.charlierose.com)
-* [PBS](http://www.pbs.org)
-
-Agency
-* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
-* [Strategyzer Blog](http://blog.strategyzer.com)
-
-Blogs
-* [Farnham Street Blog](https://www.farnamstreetblog.com)
-* [Nir Eyal](http://www.nirandfar.com)
-* [Ribbonfarm](http://www.ribbonfarm.com)
-* [Wait But Why](http://waitbutwhy.com) 
-
-More Interesting
-* [Nuzzel](http://nuzzel.com)
-* [Makerbase Explore](https://makerba.se/explore)
-* [StackShare Trending](http://stackshare.io/trending/tools) 
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-Blogs and Podcasts
-* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
-* [Michael Mauboussin](http://michaelmauboussin.com)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-* [25iq Books](https://www.25iqbooks.com)
-
-<!--
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
-
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Conferences (See also Designer/Developer Conferences) 
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-<!--
-https://www.techopedia.com
--->
-
-Wikipedia Tech Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-<!--
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
--->
-
-Scientific Method
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-
-<!--
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
--->
