@@ -3,25 +3,106 @@
 <!--
 See Python
 
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+
+
 https://www.mindtools.com
-
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
-
-https://twitter.com/JamesADamore/status/916364062103027712 | James Damore on Twitter: "1/ A common request is for me to share the books I read that got me into coding competitions. A good one was: https://t.co/GFTmPeoHWd"
-https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual | The Algorithm Design Manual by Steven S. Skiena
-https://www.goodreads.com/book/show/10640251-algorithmic-puzzles | Algorithmic Puzzles by Anany V. Levitin
-
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
 
 https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
 
-https://en.wikipedia.org/wiki/Neuroplasticity
-https://en.wikipedia.org/wiki/Method_of_loci
+Developer Surveys
+Company Design Blogs
+Company Design Systems
 
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://hbr.org/2016/09/the-elements-of-value
+
+Fast AI
+Open Company
+-->
+
+
+
+## Look At Daily
+
+Look at Daily
+* [GitHub Trending](https://github.com/trending)
+* [Product Hunt](https://www.producthunt.com)
+* [Pluralsight Newest Courses](https://app.pluralsight.com/library)
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Nuzzel](http://nuzzel.com)
+* [Techmeme](https://www.techmeme.com)
+
+<!--
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+http://nuzzel.com/gc
+-->
+
+## Mind Tools
+
+<!--
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
 
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+
+https://en.wikipedia.org/wiki/Neuroplasticity
+https://en.wikipedia.org/wiki/Method_of_loci
+-->
+
+## Events, Videos, Experts
+
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+
+<!--
+New
+http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+
+https://aws.amazon.com/events/aws-innovate
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 
 
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+-->
+
+<!--
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
 Khosla Ventures
@@ -100,90 +181,7 @@ Katie Cunningham  1
 https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
 -->
 
-
-<!--
-#### More Back-end
-
-Coding Competitions
-Developer Surveys
-Company Design Blogs
-Company Design Systems
-
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-https://hbr.org/2016/09/the-elements-of-value
-
-Fast AI
-Open Company
-
-
-
-#### Events
-
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
--->
-
-
-
-Look at Daily
-* [GitHub Trending](https://github.com/trending)
-* [Product Hunt](https://www.producthunt.com)
-* [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Nuzzel](http://nuzzel.com)
-* [Techmeme](https://www.techmeme.com)
-
-<!--
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-http://nuzzel.com/gc
--->
-
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-<!--
-New
-http://lanyrd.com/2018/jan/?page=5 | Conferences in January 2018 | Lanyrd
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-
-https://aws.amazon.com/events/aws-innovate
-
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
--->
+## Tools and General Learning
 
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
@@ -218,6 +216,21 @@ https://twitter.com/ComputerHistory
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+<!--
+https://medium.com/@preethikasireddy
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
+-->
+
+## MOOCs, Courses, Teachers
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -307,13 +320,6 @@ https://github.com/FreeCodeCamp/design-style-guide
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 -->
 
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
-
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy](https://www.khanacademy.org)
@@ -328,33 +334,43 @@ http://www.wolfram.com/resources
 https://www.wolframalpha.com/examples/ComputationalScience.html
 -->
 
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
--->
-
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
 * [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
 
+## Live Coding
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+## Books
+
 Books
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+
+
+
+## Coding Competitions and Design Patterns
+
+<!--
+https://twitter.com/JamesADamore/status/916364062103027712 | James Damore on Twitter: "1/ A common request is for me to share the books I read that got me into coding competitions. A good one was: https://t.co/GFTmPeoHWd"
+https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual | The Algorithm Design Manual by Steven S. Skiena
+https://www.goodreads.com/book/show/10640251-algorithmic-puzzles | Algorithmic Puzzles by Anany V. Levitin
+-->
+
+
+
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
 
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
