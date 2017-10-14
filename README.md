@@ -124,22 +124,11 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [Tech EU Events List](http://tech.eu/events)
 
 Python and Django
+* [PSF Python Events](https://www.python.org/events)
 * [Meetup Topic Django](https://www.meetup.com/topics/django)
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
-https://github.com/pythonkc
-
-http://lanyrd.com/topics/devops
-
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-
-https://www.python.org/events/
 http://lmorillas.github.io/python_events/ | Python Events
 
 https://www.meetup.com/topics/django/us
@@ -151,6 +140,15 @@ http://lanyrd.com/search/?context=future&q=django
 http://lanyrd.com/search/?q=django&type=conference&context=future
 http://lanyrd.com/search/?context=future&q=django&type=conference
 
+https://github.com/pythonkc
+
+http://lanyrd.com/topics/devops
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
 
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
