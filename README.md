@@ -7,7 +7,11 @@ https://en.wikibooks.org/wiki/Python_Programming/Functions
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
+https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
 
+MarcA Books
+http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 
 Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
@@ -466,6 +470,8 @@ Programming Languages
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 <!--
+https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
+
 Software Design Patterns
 Coding Conventions
 Object Oriented Programming
