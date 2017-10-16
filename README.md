@@ -3,6 +3,12 @@
 <!--
 See Python
 
+https://docs.python.org/3/ | 3.6.2 Documentation
+https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | https://media.readthedocs.org/pdf/django/1.11.x/django.pdf
+https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
+https://facebook.github.io/react/ | React - A JavaScript library for building user interfaces
+https://github.com/facebook/react | facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
