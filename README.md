@@ -640,6 +640,8 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
+
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/herrbischoff/awesome-osx-command-line
 https://github.com/todogroup/awesome-oss-mgmt
