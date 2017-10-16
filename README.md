@@ -1,6 +1,11 @@
 # Favorite Learning Resources
 
 <!--
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
+
+https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
+
 See Python
 
 https://docs.python.org/3/ | 3.6.2 Documentation
