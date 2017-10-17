@@ -366,14 +366,12 @@ Technology in 2025: Prepare your workforce for the fourth industrial revolution 
 
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/python
 https://www.codecademy.com/learn/learn-sass
 http://ready.codecademy.com/build-websites-from-scratch/
 http://ready.codecademy.com/programs/coding-for-business-analysts/
 
 https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
 
 http://blog.teamtreehouse.com
