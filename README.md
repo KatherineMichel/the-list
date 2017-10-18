@@ -17,11 +17,6 @@ https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | https://media.readt
 https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
 https://facebook.github.io/react/ | React - A JavaScript library for building user interfaces
 https://github.com/facebook/react | facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.
-https://docs.python.org/devguide/gitbootcamp.html
-
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
@@ -456,7 +451,6 @@ Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Python Patterns Library](https://github.com/faif/python-patterns)
 * [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 
