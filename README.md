@@ -342,16 +342,8 @@ Courses
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
-Fave Pluralsight Authors
-* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
-* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
 <!--
 [Khan Academy GitHub](https://github.com/Khan) 
-
-https://twitter.com/housecor/status/858870694326800385
 -->
 
 Forums
@@ -411,14 +403,20 @@ Math and General Knowledge
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy](https://www.khanacademy.org)
 * [Math Overflow](http://mathoverflow.net)
+* [Wolfram Resources](http://www.wolfram.com/resources)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Functions](http://functions.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
 
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+
 <!--
-http://functions.wolfram.com
-http://www.wolfram.com/resources
-https://www.wolframalpha.com/examples/ComputationalScience.html
+https://twitter.com/housecor/status/858870694326800385
 -->
 
 The Practical Dev and Hackernoon
