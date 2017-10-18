@@ -1,10 +1,14 @@
 # Favorite Learning Resources
 
 <!--
-http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
-
 https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
 https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
+
+https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
+
+MarcA Books
+http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 
 See Python
 
@@ -13,32 +17,29 @@ https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | https://media.readt
 https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
 https://facebook.github.io/react/ | React - A JavaScript library for building user interfaces
 https://github.com/facebook/react | facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+https://docs.python.org/devguide/gitbootcamp.html
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
-https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
-
-MarcA Books
-http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
-https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+https://hbr.org/2016/09/the-elements-of-value
+
+
+
 
 Developer Surveys
 Company Design Blogs
 Company Design Systems
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-https://hbr.org/2016/09/the-elements-of-value
 
 Fast AI
 Open Company
@@ -336,7 +337,7 @@ Courses
 * [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Treehouse](https://teamtreehouse.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
@@ -348,6 +349,8 @@ Fave Pluralsight Authors
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
 <!--
+[Khan Academy GitHub](https://github.com/Khan) 
+
 https://twitter.com/housecor/status/858870694326800385
 -->
 
@@ -372,7 +375,6 @@ http://ready.codecademy.com/programs/coding-for-business-analysts/
 
 https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-science
 
 http://blog.teamtreehouse.com
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
