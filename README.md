@@ -333,12 +333,12 @@ MOOCs
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
 
 Courses
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
 * [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Treehouse](https://teamtreehouse.com)
+* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
@@ -368,7 +368,6 @@ http://ready.codecademy.com/programs/coding-for-business-analysts/
 https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/computing/computer-programming/sql
 
-http://blog.teamtreehouse.com
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
 http://treehouse.github.io/installation-guides
 http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
