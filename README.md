@@ -3,15 +3,8 @@
 <!--
 New
 https://www.google.com/search?q=mba+mondays&oq=mba+mondays&aqs=chrome..69i57j69i60l5.2398j0j7&sourceid=chrome&ie=UTF-8 | mba mondays - Google Search
-https://www.farnamstreetblog.com/2013/10/great-books/ | The Great Books
-https://www.farnamstreetblog.com/mental-models/ | Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)
 https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
-https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788 | Hooked: How to Build Habit-Forming Products: Nir Eyal, Ryan Hoover: 9781591847786: Amazon.com: Books
-https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
-http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf | Review-and-Summary-of-A-Mind-for-Numbers.pdf
-https://www.amazon.com/gp/product/1501180738/ref=s9u_simh_gw_i3?ie=UTF8&fpl=fresh&pd_rd_i=1501180738&pd_rd_r=8d1ea95c-b303-11e7-8258-c77c6549d078&pd_rd_w=cD03C&pd_rd_wg=P6qhp&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=D0V40V8ZS7DERBK3N2MW&pf_rd_t=36701&pf_rd_p=f719e185-4825-42a4-9507-9df1a19229d6&pf_rd_i=desktop | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
-
 
 
 https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
@@ -24,12 +17,6 @@ http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7
 https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 
 See Python
-
-https://docs.python.org/3/ | 3.6.2 Documentation
-https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | https://media.readthedocs.org/pdf/django/1.11.x/django.pdf
-https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
-https://facebook.github.io/react/ | React - A JavaScript library for building user interfaces
-https://github.com/facebook/react | facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
@@ -92,6 +79,12 @@ Blogs
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) 
 
+<!--
+https://www.farnamstreetblog.com/best-articles/
+https://www.farnamstreetblog.com/2013/10/great-books/ | The Great Books
+https://www.farnamstreetblog.com/mental-models/ | Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)
+-->
+
 More Interesting
 * [Nuzzel](http://nuzzel.com)
 * [Makerbase Explore](https://makerba.se/explore)
@@ -116,7 +109,10 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 <!--
 https://www.mindtools.com
 
-https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
+https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788 | Hooked: How to Build Habit-Forming Products: Nir Eyal, Ryan Hoover: 9781591847786: Amazon.com: Books
+https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
+
+http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf | Review-and-Summary-of-A-Mind-for-Numbers.pdf
 -->
 
 Mental Models
@@ -259,17 +255,14 @@ Katie Cunningham  1
 democonf  7
 LeWeb
 Recode  1
-
-
-a16z  1 
-This Week In Startups  15
-Jason Calacanis
-Bothsides TV  1 
-Greylock Partners  1
-  
-Jacob Walker  5
-Wichitalks  1
 -->
+
+## Software Tools
+
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+* [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [React Docs](https://reactjs.org/docs)
 
 ## Tools and General Learning
 
