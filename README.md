@@ -2,15 +2,13 @@
 
 <!--
 New
-https://www.google.com/search?q=mba+mondays&oq=mba+mondays&aqs=chrome..69i57j69i60l5.2398j0j7&sourceid=chrome&ie=UTF-8 | mba mondays - Google Search
 https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
 
 
-https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
-https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
 
 https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
+http://avc.com/2017/08/mba-mondays/
 
 MarcA Books
 http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
@@ -148,6 +146,9 @@ Python and Django
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
+
 http://lmorillas.github.io/python_events/ | Python Events
 
 https://www.meetup.com/topics/django/us
