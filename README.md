@@ -1,6 +1,9 @@
 # Favorite Learning Resources
 
 <!--
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
 New
 https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
@@ -120,6 +123,9 @@ Mental Models
 * Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 * [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Charlie Munger's 18 Biases
+* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
