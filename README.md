@@ -152,7 +152,10 @@ Python and Django
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
+https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
 https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+
 https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
 
 http://lmorillas.github.io/python_events/ | Python Events
