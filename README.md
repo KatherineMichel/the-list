@@ -367,6 +367,7 @@ https://www.pluralsight.com/resource-center/guides/classroom_vs_online
 https://www.pluralsight.com/blog/career/tech-in-2025
 Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
 
+https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 https://www.codecademy.com/learn/learn-sass
@@ -394,6 +395,8 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 * [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
 
 <!--
+https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
+
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
 https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
@@ -656,6 +659,9 @@ Interesting Curated Learning Resources
 
 <!--
 https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
+
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
 
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/herrbischoff/awesome-osx-command-line
