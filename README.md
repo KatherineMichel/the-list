@@ -6,14 +6,6 @@ https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-yo
 
 https://airtable.com
 
-http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
-
-https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
-https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
-
-https://www.codecademy.com/learn/beta | Beta Catalog | Codecademy
-http://ready.codecademy.com | Build Websites From Scratch
-
 https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
 https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
@@ -36,9 +28,6 @@ Scientific Method
 
 https://hbr.org/2016/09/the-elements-of-value
 
-
-
-
 Developer Surveys
 Company Design Blogs
 Company Design Systems
@@ -47,8 +36,6 @@ https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 Open Company
 -->
-
-
 
 ## Look At Daily
 
@@ -167,10 +154,13 @@ Learning
 
 <!--
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
-http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
-http://forums.fast.ai/ | Deep Learning Course Forums
-http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+http://forums.fast.ai/ | Deep Learning Course Forums
+http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+
+New
+https://www.coursera.org/specializations/deep-learning
 -->
 
 ## Events, Videos, Experts
@@ -402,6 +392,15 @@ Courses
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 <!--
+New, Check Other Repo
+http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
+
+https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
+
+http://ready.codecademy.com | Build Websites From Scratch
+
+
+
 [Khan Academy GitHub](https://github.com/Khan) 
 -->
 
