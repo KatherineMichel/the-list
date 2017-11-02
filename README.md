@@ -4,19 +4,6 @@
 https://github.com/open-guides | open-guides
 https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
 
-http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
-http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
-http://forums.fast.ai/ | Deep Learning Course Forums
-http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-
-https://personalmba.com/ | The Personal MBA - Josh Kaufman
-http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
-http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
-http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
-
-https://twitter.com/levelsio/status/887979497475129344 | Pieter Levels @ 🇳🇱 on Twitter: "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in business school @RSMErasmus"
-
 https://airtable.com
 
 http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
@@ -27,17 +14,6 @@ https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-develop
 https://www.codecademy.com/learn/beta | Beta Catalog | Codecademy
 http://ready.codecademy.com | Build Websites From Scratch
 
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon/?sc_channel=sm&sc_campaign=Startups&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=startups&linkId=44042181 | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon?utm_content=bufferc435f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-
 https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
 https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
@@ -47,18 +23,7 @@ https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
-New
-https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
-
-
-
-https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
-http://avc.com/2017/08/mba-mondays/
-
-MarcA Books
-http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
-https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 
 See Python
 
@@ -80,7 +45,6 @@ Company Design Systems
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
-Fast AI
 Open Company
 -->
 
@@ -143,16 +107,33 @@ Blogs and Podcasts
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
-Tim Ferris MBA
-
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
+## Personal MBA
+
+<!--
+https://personalmba.com/ | The Personal MBA - Josh Kaufman
+http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
+http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
+http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
+
+https://twitter.com/levelsio/status/887979497475129344 | Pieter Levels @ 🇳🇱 on Twitter: "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in business school @RSMErasmus"
+
+https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
+http://avc.com/2017/08/mba-mondays/
+
+MarcA Books
+http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+-->
 
 ## Mind Tools
 
 <!--
+https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
+
 https://www.mindtools.com
 
 https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788 | Hooked: How to Build Habit-Forming Products: Nir Eyal, Ryan Hoover: 9781591847786: Amazon.com: Books
@@ -181,6 +162,16 @@ Neuorplasticity
 Learning
 * ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+
+## Data Science
+
+<!--
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://forums.fast.ai/ | Deep Learning Course Forums
+http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+-->
 
 ## Events, Videos, Experts
 
@@ -251,6 +242,18 @@ https://aws.amazon.com/events/aws-innovate
 
 
 <!--
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon/?sc_channel=sm&sc_campaign=Startups&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=startups&linkId=44042181 | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon?utm_content=bufferc435f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+
+
 Singularity Univ
 https://www.youtube.com/user/singularityu/videos
 Khosla Ventures
