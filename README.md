@@ -1,6 +1,40 @@
 # Favorite Learning Resources
 
 <!--
+https://personalmba.com/ | The Personal MBA - Josh Kaufman
+http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
+http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
+http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
+
+https://twitter.com/levelsio/status/887979497475129344 | Pieter Levels @ 🇳🇱 on Twitter: "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in business school @RSMErasmus"
+
+https://airtable.com
+
+http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
+
+https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
+https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
+
+https://www.codecademy.com/learn/beta | Beta Catalog | Codecademy
+http://ready.codecademy.com | Build Websites From Scratch
+
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon/?sc_channel=sm&sc_campaign=Startups&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=startups&linkId=44042181 | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon?utm_content=bufferc435f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+
+https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
+https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
+
+
+
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
@@ -100,6 +134,8 @@ Blogs and Podcasts
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
+Tim Ferris MBA
+
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
