@@ -1,6 +1,17 @@
 # Favorite Learning Resources
 
 <!--
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://forums.fast.ai/ | Deep Learning Course Forums
+http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+
+https://pydata.org/events.html | PyData - Events
+https://pydata.org/ | PyData
+https://www.youtube.com/user/PyDataTV | PyData - YouTube
+https://github.com/pydata | Python for Data
+
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
 http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
