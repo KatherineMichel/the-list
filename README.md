@@ -1,6 +1,9 @@
 # Favorite Learning Resources
 
 <!--
+https://github.com/open-guides | open-guides
+https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
+
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
 http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
 http://forums.fast.ai/ | Deep Learning Course Forums
