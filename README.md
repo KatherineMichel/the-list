@@ -14,6 +14,8 @@ A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
+http://www.investopedia.com/terms/d/dcf.asp | Discounted Cash Flow (DCF)
+https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedia
 
 See Python
 
