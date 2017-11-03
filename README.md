@@ -1,6 +1,8 @@
 # Favorite Learning Resources
 
 <!--
+http://thenewstack.io
+
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
 https://github.com/open-guides | open-guides
