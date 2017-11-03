@@ -64,6 +64,55 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
+<!--
+Khosla Ventures
+https://www.youtube.com/user/khoslaventures/playlists
+
+500 Startups Videos
+https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA
+
+TED-Ed  1
+TEDx Talks  99+
+TED  5
+
+Harvard Business School  2
+Stanford eCorner  1
+Stanford Graduate School of Business  1
+LancasterManagement  1
+
+Google for Entrepreneurs  1
+Google Developers  5
+Talks at Google  11
+Google Analytics  6
+ZeitgeistMinds  1
+Google  4 
+Google Chrome Developers  4
+GoogleTechTalks  4
+
+Smithsonian Channel  3
+PBS  13 
+
+GitHub  1
+Amazon Web Services  13
+
+DeepMind  1
+Becoming a Data Scientist  1
+Google VR  6
+
+Paul Hammant  1
+Web Summit
+https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
+Tim Ferriss  1
+The School of Life  3
+TWiT Netcast Network  
+L2inc  2 
+N N Taleb's Probability Moocs  1
+Katie Cunningham  1
+democonf  7
+LeWeb
+Recode  1
+-->
+
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
@@ -161,6 +210,13 @@ http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - 
 
 New
 https://www.coursera.org/specializations/deep-learning
+
+Singularity Univ
+https://www.youtube.com/user/singularityu/videos
+
+YouTube
+Jeremy Howard  3
+Jeremy Howard
 -->
 
 ## Events, Videos, Experts
@@ -230,8 +286,9 @@ AWS- Events
 https://aws.amazon.com/events/aws-innovate
 -->
 
-
 <!--
+Hackathons
+
 https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
 https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
@@ -242,67 +299,6 @@ https://glitch.com/producthunt | Product Hunt
 
 https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
 https://itch.io/jam/game-off-2017 | Game Off - itch.io
-
-
-Singularity Univ
-https://www.youtube.com/user/singularityu/videos
-Khosla Ventures
-https://www.youtube.com/user/khoslaventures/playlists
-
-
-TED-Ed  1
-TEDx Talks  99+
-TED  5
-
-Harvard Business School  2
-Stanford eCorner  1
-Stanford Graduate School of Business  1
-LancasterManagement  1
-
-Confreaks  10
-
-
-500 Startups Videos
-https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA
-
-Coding is for girls  1
-PyLadiesRemote Webcasts
-freeCodeCamp  14
-
-Google for Entrepreneurs  1
-Google Developers  5
-Talks at Google  11
-Google Analytics  6
-ZeitgeistMinds  1
-Google  4 
-Google Chrome Developers  4
-GoogleTechTalks  4
-
-Smithsonian Channel  3
-PBS  13 
-
-Jeremy Howard  3
-Jeremy Howard
-
-GitHub  1
-Amazon Web Services  13
-
-DeepMind  1
-Becoming a Data Scientist  1
-Google VR  6
-
-Paul Hammant  1
-Web Summit
-https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
-Tim Ferriss  1
-The School of Life  3
-TWiT Netcast Network  
-L2inc  2 
-N N Taleb's Probability Moocs  1
-Katie Cunningham  1
-democonf  7
-LeWeb
-Recode  1
 -->
 
 ## Software Tools
@@ -320,6 +316,7 @@ http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
 https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
 https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
 
 http://slides.com/lmdragun | Presentations by Lindsey Dragun
 https://twitter.com/lmdragun/status/910560483299782665 | Lindsey 🐉 | 🏳️‍🌈 on Twitter: "Starting my new job as a tech evangelist in NYC on Sept 25! If you're in town, hit me up!"
@@ -332,7 +329,7 @@ Python Events
 * [PSF Python Events](https://www.python.org/events)
 
 PyVideo
-* [PyVideo Events](http://pyvideo.org/events.html) and [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
+* [PyVideo Events](http://pyvideo.org/events.html)
 
 PyCon
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
@@ -345,20 +342,23 @@ PyCon Canada
 
 PyData
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
+* [PyData Events](https://pydata.org/events.html)
 
 EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 
+DjangoCon US
+* [DjangoCon US Videos](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos)
+* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
+* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
+* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
+* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
+* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
+DjangoCon Europe
+* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+
 <!--
-https://pydata.org/events.html | PyData - Events
-https://www.youtube.com/user/PyDataTV | PyData - YouTube
-
-PyCon Code
-https://github.com/kennethlove/pycon2017
-https://github.com/jacobian/pycon2017
-
-* [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
-
 http://pyvideo.org/pygotham-2017
 http://pyvideo.org/events/pygotham-2017.html | PyVideo.org · PyGotham 2017
 https://www.youtube.com/channel/UCKWYZNMRBRuecwgZMLy-8gw/featured?disable_polymer=1 | PyGotham 2017 - YouTube
@@ -369,16 +369,6 @@ https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
 https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
 https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
 http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
-
-https://github.com/M0nica/PyGotham-2017-Talks | M0nica/PyGotham-2017-Talks: Collection of slides and code from PyGotham 2017 Speakers
-
-https://www.youtube.com/watch?v=SppL54fVNe0&feature=youtu.be | Psychology of Estimation - Faster is not always better - YouTube
-https://2017.pygotham.org/talks/natural-language-processing-from-scratch/ | Natural Language Processing from Scratch - PyGotham 2017
-https://www.youtube.com/watch?v=lNPXlqtJwcQ&feature=youtu.be | Natural Language Processing from Scratch - YouTube
-http://pyvideo.org/pygotham-2017/functions-within-functions-an-intro-to-decorators-and-closures.html | PyVideo.org · Functions Within Functions: An Intro to Decorators and Closures
-https://www.youtube.com/watch?v=rz9q57-y9kw&feature=youtu.be | Valuing Job Offers - Finance 101 with Python - YouTube
-https://www.youtube.com/watch?v=iaV5EiBkv7Q&feature=youtu.be | Algorithmic fairness and algorithmic discrimination - YouTube
-https://www.youtube.com/watch?v=98S5fQ9SFa4 | High Performance Microservices - YouTube
 
 https://us.pycon.org/2017/keynote-speakers
 https://us.pycon.org/2017/schedule/talks/list
@@ -395,37 +385,30 @@ https://us.pycon.org/2014/schedule/talks
 https://us.pycon.org/2013/schedule/talks
 https://us.pycon.org/2012/schedule
 https://us.pycon.org/2011/schedule
+-->
 
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
+<!--
+PyCon Code
+https://github.com/kennethlove/pycon2017
+https://github.com/jacobian/pycon2017
+
+https://github.com/M0nica/PyGotham-2017-Talks | M0nica/PyGotham-2017-Talks: Collection of slides and code from PyGotham 2017 Speakers
+
+https://www.youtube.com/watch?v=SppL54fVNe0&feature=youtu.be | Psychology of Estimation - Faster is not always better - YouTube
+https://2017.pygotham.org/talks/natural-language-processing-from-scratch/ | Natural Language Processing from Scratch - PyGotham 2017
+https://www.youtube.com/watch?v=lNPXlqtJwcQ&feature=youtu.be | Natural Language Processing from Scratch - YouTube
+http://pyvideo.org/pygotham-2017/functions-within-functions-an-intro-to-decorators-and-closures.html | PyVideo.org · Functions Within Functions: An Intro to Decorators and Closures
+https://www.youtube.com/watch?v=rz9q57-y9kw&feature=youtu.be | Valuing Job Offers - Finance 101 with Python - YouTube
+https://www.youtube.com/watch?v=iaV5EiBkv7Q&feature=youtu.be | Algorithmic fairness and algorithmic discrimination - YouTube
+https://www.youtube.com/watch?v=98S5fQ9SFa4 | High Performance Microservices - YouTube
 
 https://2017.northbaypython.org/schedule/presentation/14/ | North Bay Python | Presentation: 5 Leadership Skills Every Engineer Needs
--->
-
-DjangoCon US
-* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
-DjangoCon Europe
-* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
-
-<!--
-https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
-
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
-https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
--->
-
-<!--
-Talks 
 
 https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
 https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
 https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
 
-https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
+https://www.youtube.com/watch?v=jmsk1QZQEvQ | next level testing pycon 2017 - Google Search
 
 https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
 
