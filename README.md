@@ -448,6 +448,10 @@ https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
 
 https://www.youtube.com/watch?v=hmd_1pVYdyU | DjangoCon 2014- Patterns for Extensibility - YouTube
+
+https://codingwithknives.com/2017/11/05/no-thank-you-note-required/
+https://emptysqua.re/blog/dharma-talk-why-generosity-turns-to-rage/ | Why Generosity Turns To Rage, And What To Do About It
+https://www.youtube.com/watch?v=eHXq-IzlGUE | A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016 - YouTube
 -->
 
 ## Tools and General Learning
