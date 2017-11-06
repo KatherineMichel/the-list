@@ -1,9 +1,21 @@
 # Favorite Learning Resources
 
 <!--
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+Developer Surveys
+Company Design Blogs
+Company Design Systems
+Style Guides
+Built With
+DevCenter
 
 http://thenewstack.io
+
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+
+What are the Numbers that Every Computer Engineer Should Know
+Wikipedia
+
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
 
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
@@ -33,10 +45,6 @@ Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
 https://hbr.org/2016/09/the-elements-of-value
-
-Developer Surveys
-Company Design Blogs
-Company Design Systems
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
