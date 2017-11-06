@@ -850,6 +850,7 @@ https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: 
 
 https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
 
+https://github.com/thedaviddias/Resources-Front-End-Beginner | thedaviddias/Resources-Front-End-Beginner: 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
 
