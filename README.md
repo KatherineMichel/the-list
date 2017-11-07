@@ -1,6 +1,18 @@
 # Favorite Learning Resources
 
 <!--
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+
+https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
+
+https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
+https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
+
+https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
+
+
+Open Company
+
 Developer Surveys
 Company Design Blogs
 Company Design Systems
@@ -47,8 +59,6 @@ Scientific Method
 https://hbr.org/2016/09/the-elements-of-value
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-Open Company
 -->
 
 ## Look At Daily
