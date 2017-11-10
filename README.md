@@ -12,6 +12,9 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
+
 https://githubengineering.com | GitHub Engineering
 
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
