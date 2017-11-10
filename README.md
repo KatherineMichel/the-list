@@ -12,7 +12,6 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
-
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
 http://en.skill-project.org/the-project/ | Skill Project | The Project
 
@@ -20,9 +19,6 @@ https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engin
 https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
 
 http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-
-https://github.com/open-guides | open-guides
-https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
 
 https://airtable.com
 https://airtable.com/templates | Templates - Airtable
@@ -63,6 +59,11 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
+GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
+
 <!--
 https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
 
@@ -70,6 +71,24 @@ Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 http://nuzzel.com/gc
+-->
+
+## People and Projects
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+<!--
+Camille
+http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
+http://www.camilletalk.com/ | Camille Fournier
+
+https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
+
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+
+https://github.com/open-guides | open-guides
 -->
 
 ## Interesting Ideas
@@ -1070,6 +1089,9 @@ DevOps Tutorials
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+<!--
+Go Through Again
 
 Git Docs
 * [Git Homepage](https://git-scm.com)
