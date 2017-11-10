@@ -12,13 +12,10 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
+https://githubengineering.com | GitHub Engineering
+
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
 http://en.skill-project.org/the-project/ | Skill Project | The Project
-
-https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
-https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
-
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
 
 https://airtable.com
 https://airtable.com/templates | Templates - Airtable
@@ -89,6 +86,15 @@ https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Se
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
 
 https://github.com/open-guides | open-guides
+-->
+
+## Employment
+
+<!--
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+
+https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
+https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
 -->
 
 ## Interesting Ideas
