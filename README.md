@@ -8,6 +8,7 @@ Style Guides
 Built With
 DevCenter
 Computer Basics
+Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
 
 Open Company
 
@@ -19,11 +20,6 @@ https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engin
 https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
 
 http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-
-http://thenewstack.io
-
-What are the Numbers that Every Computer Engineer Should Know
-Wikipedia
 
 https://github.com/open-guides | open-guides
 https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
@@ -760,6 +756,10 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+<!--
+http://thenewstack.io
+-->
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
