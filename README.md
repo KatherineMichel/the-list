@@ -1,6 +1,17 @@
 # Favorite Learning Resources
 
 <!--
+https://www.udemy.com/js-and-react-for-devs
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
+http://en.skill-project.org/the-project/ | Skill Project | The Project
+
 https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
 
 https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
