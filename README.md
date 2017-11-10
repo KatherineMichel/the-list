@@ -12,11 +12,6 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
-https://github.com/showcases
-
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
-
 https://githubengineering.com | GitHub Engineering
 
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
@@ -68,6 +63,11 @@ GitHub- Trending
 
 <!--
 https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
+
+https://github.com/showcases
+
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
 
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
@@ -369,19 +369,9 @@ https://itch.io/jam/game-off-2017 | Game Off - itch.io
 
 #### Python and Django Conference Videos and Slides
 
-<!--
-http://pyvideo.org/ | PyVideo.org
-
-https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
-http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
-https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
-https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
-https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
-https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
-
-http://slides.com/lmdragun | Presentations by Lindsey Dragun
-https://twitter.com/lmdragun/status/910560483299782665 | Lindsey 🐉 | 🏳️‍🌈 on Twitter: "Starting my new job as a tech evangelist in NYC on Sept 25! If you're in town, hit me up!"
--->
+PyVideo
+* [PyVideo](http://pyvideo.org)
+* [PyVideo Events](http://pyvideo.org/events.html)
 
 Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
@@ -418,6 +408,18 @@ DjangoCon US
 
 DjangoCon Europe
 * [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+
+<!--
+https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
+http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
+https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
+https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
+
+http://slides.com/lmdragun | Presentations by Lindsey Dragun
+https://twitter.com/lmdragun/status/910560483299782665 | Lindsey 🐉 | 🏳️‍🌈 on Twitter: "Starting my new job as a tech evangelist in NYC on Sept 25! If you're in town, hit me up!"
+-->
 
 <!--
 http://pyvideo.org/pygotham-2017
