@@ -1,6 +1,12 @@
 # Favorite Learning Resources
 
 <!--
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+
+https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
+https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
+
+
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
 https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
