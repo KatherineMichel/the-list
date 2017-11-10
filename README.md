@@ -1,6 +1,8 @@
 # Favorite Learning Resources
 
 <!--
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+
 https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
 http://pyvideo.org/ | PyVideo.org
 
