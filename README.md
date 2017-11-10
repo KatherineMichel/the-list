@@ -12,10 +12,9 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
-https://githubengineering.com | GitHub Engineering
+https://github.com/open-guides | open-guides
 
-https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
-http://en.skill-project.org/the-project/ | Skill Project | The Project
+https://githubengineering.com | GitHub Engineering
 
 https://airtable.com
 https://airtable.com/templates | Templates - Airtable
@@ -56,14 +55,15 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
+Stars
+* [Astral App](https://astralapp.com)
+
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
 * [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
 
 <!--
-https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
-
 https://github.com/showcases
 
 https://github.com/explore | Explore
@@ -81,21 +81,24 @@ Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
+GitHub Trending Developers
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
 <!--
 Camille
 http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
 http://www.camilletalk.com/ | Camille Fournier
 
-https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
-
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
-
-https://github.com/open-guides | open-guides
 -->
 
-## Employment
+## Skills and Employment
 
 <!--
+Also Hobbies
+https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
+http://en.skill-project.org/the-project/ | Skill Project | The Project
+
 http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
 
 https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
