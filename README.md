@@ -2,6 +2,7 @@
 
 <!--
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
 
 https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
 http://pyvideo.org/ | PyVideo.org
@@ -18,8 +19,6 @@ https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we
 
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
 http://en.skill-project.org/the-project/ | Skill Project | The Project
-
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
 
 https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
 https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
