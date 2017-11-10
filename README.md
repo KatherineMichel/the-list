@@ -12,6 +12,8 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
+https://github.com/showcases
+
 https://github.com/explore | Explore
 https://github.com/dashboard/discover | Discover Repositories
 
