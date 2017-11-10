@@ -1,6 +1,11 @@
 # Favorite Learning Resources
 
 <!--
+https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
+http://pyvideo.org/ | PyVideo.org
+
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+
 https://www.udemy.com/js-and-react-for-devs
 
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
@@ -52,6 +57,7 @@ https://github.com/open-guides | open-guides
 https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
 
 https://airtable.com
+https://airtable.com/templates | Templates - Airtable
 
 https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
 https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
