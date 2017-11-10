@@ -1,58 +1,29 @@
 # Favorite Learning Resources
 
 <!--
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-
-https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
-http://pyvideo.org/ | PyVideo.org
-
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-
-https://www.udemy.com/js-and-react-for-devs
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
-http://en.skill-project.org/the-project/ | Skill Project | The Project
-
-https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
-https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
-
-
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-
-https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
-
-https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
-https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
-
-https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
-
-
-Open Company
-
 Developer Surveys
 Company Design Blogs
 Company Design Systems
 Style Guides
 Built With
 DevCenter
+Computer Basics
 
-http://thenewstack.io
+Open Company
 
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
-What are the Numbers that Every Computer Engineer Should Know
-Wikipedia
+https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
+http://en.skill-project.org/the-project/ | Skill Project | The Project
+
+https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
+https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
 
 http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
 
-https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
+http://thenewstack.io
+
+What are the Numbers that Every Computer Engineer Should Know
+Wikipedia
 
 https://github.com/open-guides | open-guides
 https://github.com/thank-you-github/thank-you-github | thank-you-github/thank-you-github: An open letter of gratitude to GitHub
@@ -73,6 +44,7 @@ https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedi
 
 See Python
 
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
@@ -96,6 +68,8 @@ Look at Daily
 * [Techmeme](https://www.techmeme.com)
 
 <!--
+https://astralapp.com/ | Astral - Organize Your GitHub Stars With Ease
+
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
@@ -250,6 +224,9 @@ Learning
 ## Data Science
 
 <!--
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 http://forums.fast.ai/ | Deep Learning Course Forums
@@ -265,6 +242,19 @@ https://www.youtube.com/user/singularityu/videos
 YouTube
 Jeremy Howard  3
 Jeremy Howard
+-->
+
+## Software Tools
+
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+* [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [React Docs](https://reactjs.org/docs)
+
+<!--
+https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
+
+https://www.udemy.com/js-and-react-for-devs
 -->
 
 ## Events, Videos, Experts
@@ -351,16 +341,11 @@ https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | 
 https://itch.io/jam/game-off-2017 | Game Off - itch.io
 -->
 
-## Software Tools
-
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-* [Kubernetes Docs](https://kubernetes.io/docs/home)
-* [React Docs](https://reactjs.org/docs)
-
 #### Python and Django Conference Videos and Slides
 
 <!--
+http://pyvideo.org/ | PyVideo.org
+
 https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
 http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
 https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
@@ -884,6 +869,15 @@ Interesting Curated Learning Resources
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 
 https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
@@ -1101,6 +1095,11 @@ Git Cheat Sheets and Tutorials
 * [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 
 <!--
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+
+https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
+https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
+
 * [Git Index](http://gitref.org)  
 
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
