@@ -32,6 +32,7 @@ https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedi
 
 See Python
 
+Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
@@ -41,8 +42,6 @@ Scientific Method
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 
 https://hbr.org/2016/09/the-elements-of-value
-
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 -->
 
 ## Look At Daily
