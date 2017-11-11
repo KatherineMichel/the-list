@@ -14,7 +14,14 @@ Open Company
 
 https://github.com/open-guides | open-guides
 
+https://github.com/blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 https://githubengineering.com | GitHub Engineering
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 
 https://airtable.com
 https://airtable.com/templates | Templates - Airtable
