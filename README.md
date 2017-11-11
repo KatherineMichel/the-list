@@ -12,6 +12,8 @@ Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio
 
 Open Company
 
+https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
+
 https://github.com/open-guides | open-guides
 
 https://github.com/blog
