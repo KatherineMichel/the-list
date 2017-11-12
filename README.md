@@ -1,6 +1,10 @@
 # Favorite Learning Resources
 
 <!--
+https://www.python.org/jobs/
+
+https://en.wikipedia.org/wiki/Spaced_repetition
+
 https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/ | All Models Are Wrong
 
 https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
