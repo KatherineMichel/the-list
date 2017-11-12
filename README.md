@@ -1,6 +1,20 @@
 # Favorite Learning Resources
 
 <!--
+https://www.slideshare.net/adamnash/stanford-cs-00707-personal-finance-for-engineers-good-investing-is-boring | Stanford CS 007-07: Personal Finance for Engineers / Good Investing i…
+https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
+https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
+https://github.com/jwasham | jwasham (John Washam)
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+https://aws.amazon.com/blogs/ai/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/ | AWS Deep Learning AMI Now Supports PyTorch, Keras 2 and Latest Deep Learning Frameworks | AWS AI Blog
+https://aws.amazon.com/amazon-ai/amis/ | Deep Learning AMI — Amazon Web Services
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+https://github.com/facebook/react | facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+http://sass-lang.com/guide | Sass: Sass Basics
+
+
 Developer Surveys
 Company Design Blogs
 Company Design Systems
