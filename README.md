@@ -1,6 +1,10 @@
 # Favorite Learning Resources
 
 <!--
+https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/ | All Models Are Wrong
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
 
 https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
