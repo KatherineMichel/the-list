@@ -943,12 +943,16 @@ Interesting Curated Learning Resources
 <!--
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/prakhar1989/awesome-courses
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
 
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 
@@ -958,8 +962,19 @@ https://github.com/thedaviddias/Resources-Front-End-Beginner | thedaviddias/Reso
 https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
 
-https://github.com/jlevy/the-art-of-command-line
+https://github.com/jlevy/og-osx-shortcuts
+https://github.com/jaywcjlove/awesome-mac
 https://github.com/herrbischoff/awesome-osx-command-line
+
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/Idnan/bash-guide
+
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
+
+
+
+
+
 https://github.com/todogroup/awesome-oss-mgmt
 http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
 https://github.com/braydie/HowToBeAProgrammer
@@ -976,6 +991,10 @@ https://github.com/bradfrost/frontend-guidelines-questionnaire
 https://frontendmasters.com
 https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
 
+https://github.com/xitu/front-end-handbook-2017
+https://github.com/FrontendMasters/front-end-handbook-2017
+https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
+
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
 
@@ -988,7 +1007,6 @@ https://github.com/sindresorhus/awesome-nodejs
 
 Competitive Programmers Handbook
 https://cses.fi/book.html
-
 https://github.com/lnishan/awesome-competitive-programming
 https://github.com/donnemartin/interactive-coding-challenges
 https://github.com/AhmadElsagheer/Competitive-programming-library
@@ -999,21 +1017,10 @@ https://github.com/red-hat-people-team/open-decision-framework/tree/master/matur
 https://github.com/opensourceway/open-decision-framework
 
 https://github.com/tuvttran/project-based-learning
-https://github.com/xitu/front-end-handbook-2017
-https://github.com/FrontendMasters/front-end-handbook-2017
-https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 
-
-https://github.com/prakhar1989/awesome-courses
 https://github.com/karan/Projects
 https://github.com/gurugio/lowlevelprogramming-university
 https://github.com/keon/algorithms
-
-https://github.com/jlevy/og-osx-shortcuts
-https://github.com/jaywcjlove/awesome-mac
-
-https://github.com/jlevy/the-art-of-command-line
-https://github.com/Idnan/bash-guide
 -->
 
 Google Developers- General
