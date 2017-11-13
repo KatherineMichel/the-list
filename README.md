@@ -1,6 +1,8 @@
 # Favorite Learning Resources
 
 <!--
+https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
+
 https://www.python.org/jobs/
 
 https://en.wikipedia.org/wiki/Spaced_repetition
