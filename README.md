@@ -289,9 +289,6 @@ https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 
 https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
 https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
-
-http://slides.com/lmdragun | Presentations by Lindsey Dragun
-https://twitter.com/lmdragun/status/910560483299782665 | Lindsey 🐉 | 🏳️‍🌈 on Twitter: "Starting my new job as a tech evangelist in NYC on Sept 25! If you're in town, hit me up!"
 -->
 
 <!--
@@ -321,57 +318,6 @@ https://us.pycon.org/2014/schedule/talks
 https://us.pycon.org/2013/schedule/talks
 https://us.pycon.org/2012/schedule
 https://us.pycon.org/2011/schedule
--->
-
-<!--
-PyCon Code
-https://github.com/kennethlove/pycon2017
-https://github.com/jacobian/pycon2017
-
-https://github.com/M0nica/PyGotham-2017-Talks | M0nica/PyGotham-2017-Talks: Collection of slides and code from PyGotham 2017 Speakers
-
-https://www.youtube.com/watch?v=SppL54fVNe0&feature=youtu.be | Psychology of Estimation - Faster is not always better - YouTube
-https://2017.pygotham.org/talks/natural-language-processing-from-scratch/ | Natural Language Processing from Scratch - PyGotham 2017
-https://www.youtube.com/watch?v=lNPXlqtJwcQ&feature=youtu.be | Natural Language Processing from Scratch - YouTube
-http://pyvideo.org/pygotham-2017/functions-within-functions-an-intro-to-decorators-and-closures.html | PyVideo.org · Functions Within Functions: An Intro to Decorators and Closures
-https://www.youtube.com/watch?v=rz9q57-y9kw&feature=youtu.be | Valuing Job Offers - Finance 101 with Python - YouTube
-https://www.youtube.com/watch?v=iaV5EiBkv7Q&feature=youtu.be | Algorithmic fairness and algorithmic discrimination - YouTube
-https://www.youtube.com/watch?v=98S5fQ9SFa4 | High Performance Microservices - YouTube
-
-https://2017.northbaypython.org/schedule/presentation/14/ | North Bay Python | Presentation: 5 Leadership Skills Every Engineer Needs
-
-https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
-https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
-https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
-
-https://www.youtube.com/watch?v=jmsk1QZQEvQ | next level testing pycon 2017 - Google Search
-
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-
-Slide decks
-https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
-https://speakerdeck.com/williln/djangocon-us-2017-closing-remarks | DjangoCon US 2017 Closing Remarks // Speaker Deck
-
-http://blog.djangogirls.org/post/124569551358/your-django-story-meet-ana-balica | Django Girls Blog — Your Django Story: Meet Ana Balica
-https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
-https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
-
-https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
-https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
-https://github.com/lorenanicole/djangocon/blob/master/model/views.py
-
-https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
-https://github.com/Miserlou/Talks/blob/master/zappa-djangocon-2017/djangocon.html
-https://cdn.rawgit.com/Miserlou/Talks/8f7cd4b7/zappa-djangocon-2017/djangocon.html#0 | Hello!
-
-https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
-https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
-
-https://www.youtube.com/watch?v=hmd_1pVYdyU | DjangoCon 2014- Patterns for Extensibility - YouTube
-
-https://codingwithknives.com/2017/11/05/no-thank-you-note-required/
-https://emptysqua.re/blog/dharma-talk-why-generosity-turns-to-rage/ | Why Generosity Turns To Rage, And What To Do About It
-https://www.youtube.com/watch?v=eHXq-IzlGUE | A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016 - YouTube
 -->
 
 ## Events, Videos, Experts
