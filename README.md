@@ -91,14 +91,12 @@ Finance Blogs
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 * [25iq Books](https://www.25iqbooks.com)
 
+Airtable
+* [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
+
 <!--
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
-
-<!--
-Airtable
-* [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
@@ -107,6 +105,10 @@ Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 http://nuzzel.com/gc
+
+MarcA Books
+http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
+https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 -->
 
 ## Mind Tools
@@ -157,6 +159,7 @@ https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford Universi
 
 ## Personal MBA
 
+Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
 * [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
 * [Peter Lvels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
@@ -166,11 +169,15 @@ https://personalmba.com/ | The Personal MBA - Josh Kaufman
 http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
 http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
-
-MarcA Books
-http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
-https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
 -->
+
+## Software Tools
+
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+* [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [React Docs](https://reactjs.org/docs)
+* [Sass Basics](http://sass-lang.com/guide)
 
 ## Data Science
 
@@ -197,29 +204,6 @@ https://www.coursera.org/specializations/deep-learning
 YouTube
 Jeremy Howard  3
 Jeremy Howard
--->
-
-## Software Tools
-
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-* [Kubernetes Docs](https://kubernetes.io/docs/home)
-* [React Docs](https://reactjs.org/docs)
-* [Sass Basics](http://sass-lang.com/guide)
-
-## Engineering Blogs
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://medium.com/uber-developers)  
 -->
 
 #### Python and Django Conference Videos and Slides
@@ -351,18 +335,47 @@ http://lanyrd.com/places/greater-london
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
 
+## Engineering Blogs
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+Individual Engineering Blogs
+* [Buffer Engineering](https://overflow.bufferapp.com)
+* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+* [Uber Developers](https://medium.com/uber-developers)  
+-->
 
 
  
 
+## Hosting News
 
+Hosting Blogs
+* [GitHub Blog](https://github.com/blog)
+* [GitHub Engineering](https://githubengineering.com)
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
 
-## Hosting
+Tools
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 <!--
-https://github.com/blog
+Heroku and GitHub Marketplaces
+
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-https://githubengineering.com | GitHub Engineering
 
 http://githubuniverse.com/watch
 https://github.com/universe-2016
@@ -370,12 +383,7 @@ https://githubuniverse.com/2016/program/sessions/
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 -->
 
-Hosting Blogs
-* [GitHub Blog](https://github.com/blog)
-* [GitHub Engineering](https://githubengineering.com)
-* [Heroku Blog](https://blog.heroku.com)
-
-
+## Hosting Docs
 
 Hosting Docs
 * [Heroku Dev Center](https://devcenter.heroku.com)  
@@ -386,23 +394,8 @@ Hosting Docs
 * [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
 * [Digital Ocean Community](https://www.digitalocean.com/community)
 
-Hosting Newsletters
-* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
-* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
-* [Heroku Newsletter](https://www.heroku.com/newsletter)
-
-<!--
-AWS Certifications
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
--->
-
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
 * [AWS Forum](https://forums.aws.amazon.com)
 * [AWS Articles](https://aws.amazon.com/articles)
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
@@ -414,14 +407,19 @@ AWS- Developer and Documentation
 * [AWS Developer Tools](https://aws.amazon.com/developertools)  
 * [AWS Tools](http://aws.amazon.com/tools)  
 * [AWS Code](https://aws.amazon.com/code)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
 
 AWS- GitHub and Livecoding
 * [AWS Twitch](https://aws.amazon.com/twitch)
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
+
+<!--
+AWS Certifications
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+-->
 
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
@@ -438,6 +436,8 @@ Google Cloud, App Engine
 
 
 <!--
+Google Cloud Blog
+
 Experts
 * [Google Developer Experts](https://developers.google.com/experts)
 * [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
