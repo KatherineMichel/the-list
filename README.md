@@ -1,33 +1,6 @@
 # Favorite Learning Resources
 
 <!--
-https://tim.blog
-
-https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
-
-https://www.python.org/jobs/
-
-https://en.wikipedia.org/wiki/Spaced_repetition
-
-https://www.farnamstreetblog.com/2017/06/all-models-are-wrong/ | All Models Are Wrong
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
-
-https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
-
-https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
-https://github.com/jwasham | jwasham (John Washam)
-
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-https://aws.amazon.com/blogs/ai/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/ | AWS Deep Learning AMI Now Supports PyTorch, Keras 2 and Latest Deep Learning Frameworks | AWS AI Blog
-https://aws.amazon.com/amazon-ai/amis/ | Deep Learning AMI — Amazon Web Services
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-http://sass-lang.com/guide | Sass: Sass Basics
-
 user interfaces.
 Developer Surveys
 Company Design Blogs
@@ -37,26 +10,26 @@ Built With
 DevCenter
 Computer Basics
 Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
-
 Open Company
 
-https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
+https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
+
+https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+
+https://www.udemy.com/js-and-react-for-devs
+
+https://www.python.org/jobs/
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+
+https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
+https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
 
 https://github.com/open-guides | open-guides
 
-https://github.com/blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-https://githubengineering.com | GitHub Engineering
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
-https://airtable.com
-https://airtable.com/templates | Templates - Airtable
-
 https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
+
 https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
 
@@ -81,6 +54,8 @@ Scientific Method
 https://hbr.org/2016/09/the-elements-of-value
 -->
 
+
+
 ## Look At Daily
 
 Look at Daily
@@ -91,25 +66,13 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
+
 Stars
 * [Astral App](https://astralapp.com)
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-<!--
-https://github.com/showcases
-
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-http://nuzzel.com/gc
--->
 
 ## People and Projects
 
@@ -152,55 +115,6 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
-<!--
-Khosla Ventures
-https://www.youtube.com/user/khoslaventures/playlists
-
-500 Startups Videos
-https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA
-
-TED-Ed  1
-TEDx Talks  99+
-TED  5
-
-Harvard Business School  2
-Stanford eCorner  1
-Stanford Graduate School of Business  1
-LancasterManagement  1
-
-Google for Entrepreneurs  1
-Google Developers  5
-Talks at Google  11
-Google Analytics  6
-ZeitgeistMinds  1
-Google  4 
-Google Chrome Developers  4
-GoogleTechTalks  4
-
-Smithsonian Channel  3
-PBS  13 
-
-GitHub  1
-Amazon Web Services  13
-
-DeepMind  1
-Becoming a Data Scientist  1
-Google VR  6
-
-Paul Hammant  1
-Web Summit
-https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ
-Tim Ferriss  1
-The School of Life  3
-TWiT Netcast Network  
-L2inc  2 
-N N Taleb's Probability Moocs  1
-Katie Cunningham  1
-democonf  7
-LeWeb
-Recode  1
--->
-
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
@@ -214,7 +128,6 @@ Blogs
 <!--
 https://www.farnamstreetblog.com/best-articles/
 https://www.farnamstreetblog.com/2013/10/great-books/ | The Great Books
-https://www.farnamstreetblog.com/mental-models/ | Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)
 -->
 
 More Interesting
@@ -224,7 +137,7 @@ More Interesting
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 
 Blogs and Podcasts
-* [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
+* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Michael Mauboussin](http://michaelmauboussin.com)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
@@ -233,6 +146,16 @@ Blogs and Podcasts
 <!--
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
+
+<!--
+https://airtable.com/universe
+https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+http://nuzzel.com/gc
 -->
 
 ## Personal MBA
@@ -272,6 +195,7 @@ Mental Models
 * [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 * Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 * [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 Charlie Munger's 18 Biases
@@ -287,10 +211,20 @@ Learning
 * ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
+Learning Methods
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
 ## Data Science
 
 <!--
+https://aws.amazon.com/blogs/ai/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/ | AWS Deep Learning AMI Now Supports PyTorch, Keras 2 and Latest Deep Learning Frameworks | AWS AI Blog
+https://aws.amazon.com/amazon-ai/amis/ | Deep Learning AMI — Amazon Web Services
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+
 https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
 
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
@@ -316,12 +250,7 @@ Jeremy Howard
 * [Django Docs](https://docs.djangoproject.com)  
 * [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [React Docs](https://reactjs.org/docs)
-
-<!--
-https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
-
-https://www.udemy.com/js-and-react-for-devs
--->
+* [Sass Basics](http://sass-lang.com/guide)
 
 ## Events, Videos, Experts
 
@@ -338,6 +267,8 @@ Python and Django
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
+
 https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
 https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
 https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
@@ -402,9 +333,6 @@ https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackat
 https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon?utm_content=bufferc435f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
-
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
 -->
 
 #### Python and Django Conference Videos and Slides
@@ -1049,6 +977,17 @@ Jekyll
 
 ## Hosting
 
+<!--
+https://github.com/blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+https://githubengineering.com | GitHub Engineering
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+-->
+
 Hosting Blogs
 * [GitHub Blog](https://github.com/blog)
 * [GitHub Engineering](https://githubengineering.com)
@@ -1112,9 +1051,6 @@ Google Cloud, App Engine
 * [Google Cloud Products](https://cloud.google.com/products)  
 * [Google Cloud Solutions](https://cloud.google.com/solutions)  
 * [Google Cloud Developers](https://cloud.google.com/developers)  
-
-
-
 
 
 ## Git and Workflow
