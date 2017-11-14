@@ -12,8 +12,12 @@ Computer Basics
 Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
 Open Company
 
+https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
+
 https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
 
+See Python
 https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 
@@ -23,15 +27,10 @@ https://www.python.org/jobs/
 
 https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
 
+https://github.com/open-guides/og-search-engineering
+
 https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
-
-https://github.com/open-guides | open-guides
-
-https://medium.mybridge.co/tagged/programming | Programming – Mybridge for Professionals
-
-https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
-https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
@@ -39,8 +38,6 @@ A16Z Metrics
 https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
 http://www.investopedia.com/terms/d/dcf.asp | Discounted Cash Flow (DCF)
 https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedia
-
-See Python
 
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
@@ -56,7 +53,7 @@ https://hbr.org/2016/09/the-elements-of-value
 
 
 
-## Look At Daily
+## Look At Daily or Monthly
 
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
@@ -74,36 +71,8 @@ GitHub More
 Stars
 * [Astral App](https://astralapp.com)
 
-## People and Projects
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Trending Developers
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-<!--
-Camille
-http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
-http://www.camilletalk.com/ | Camille Fournier
-
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
--->
-
-## Skills and Employment
-
-<!--
-Also Hobbies
-https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
-http://en.skill-project.org/the-project/ | Skill Project | The Project
-
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-
-https://www.slideshare.net/adamnash/stanford-cs-00707-personal-finance-for-engineers-good-investing-is-boring | Stanford CS 007-07: Personal Finance for Engineers / Good Investing i…
-https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
-https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
--->
+Top 10 Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
 ## Interesting Ideas
 
@@ -158,6 +127,22 @@ Nuzzel Custom Feeds
 http://nuzzel.com/gc
 -->
 
+
+
+## Skills and Employment
+
+<!--
+Also Hobbies
+https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
+http://en.skill-project.org/the-project/ | Skill Project | The Project
+
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+
+https://www.slideshare.net/adamnash/stanford-cs-00707-personal-finance-for-engineers-good-investing-is-boring | Stanford CS 007-07: Personal Finance for Engineers / Good Investing i…
+https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
+https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
+-->
+
 ## Personal MBA
 
 <!--
@@ -178,17 +163,6 @@ https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Boo
 
 ## Mind Tools
 
-<!--
-https://en.wikipedia.org/wiki/Amos_Tversky | Amos Tversky - Wikipedia
-
-https://www.mindtools.com
-
-https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788 | Hooked: How to Build Habit-Forming Products: Nir Eyal, Ryan Hoover: 9781591847786: Amazon.com: Books
-https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
-
-http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf | Review-and-Summary-of-A-Mind-for-Numbers.pdf
--->
-
 Mental Models
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -208,11 +182,16 @@ Neuorplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
 Learning
+* [Review and Summary of A Mind for Numbers](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
 * ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
 Learning Methods
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+<!--
+https://www.mindtools.com
+-->
 
 ## Data Science
 
@@ -1145,3 +1124,20 @@ GitLab
 * [GitLab Docs](http://docs.gitlab.com)
 * [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+## People and Projects
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+GitHub Trending Developers
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
+<!--
+Camille
+http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
+http://www.camilletalk.com/ | Camille Fournier
+
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+-->
