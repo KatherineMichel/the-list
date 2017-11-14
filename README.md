@@ -12,24 +12,14 @@ Computer Basics
 Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
 Open Company
 
-https://medium.com/@Mybridge/python-top-10-articles-for-the-past-month-v-oct-2017-273ac1f1d80e | Python Top 10 Articles For the Past Month (v.Oct 2017)
-https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-oct-2017-c87211085729 | Machine Learning Top 10 Articles For the Past Month (v.Oct 2017)
-
 https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
 
 See Python
-https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 
 https://www.udemy.com/js-and-react-for-devs
 
-https://www.python.org/jobs/
-
 https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
 
-https://github.com/open-guides/og-search-engineering
-
-https://itunes.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2%20#iTunes | Masters of Scale with Reid Hoffman by WaitWhat on Apple Podcasts
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
 
 A16Z Metrics
@@ -74,6 +64,18 @@ Stars
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
+<!--
+Hackathons
+
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+-->
+
 ## Interesting Ideas
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
@@ -84,20 +86,21 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
+<!--
+Singularity Univ
+https://www.youtube.com/user/singularityu/videos
+-->
+
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
 
 Blogs
 * [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles) and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) 
-
-<!--
-https://www.farnamstreetblog.com/best-articles/
-https://www.farnamstreetblog.com/2013/10/great-books/ | The Great Books
--->
 
 More Interesting
 * [Nuzzel](http://nuzzel.com)
@@ -117,17 +120,15 @@ https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
-<!--
-https://airtable.com/universe
-https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe
+Airtable
+* [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
+<!--
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 http://nuzzel.com/gc
 -->
-
-
 
 ## Skills and Employment
 
@@ -163,6 +164,9 @@ https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Boo
 
 ## Mind Tools
 
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
 Mental Models
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -189,10 +193,6 @@ Learning
 Learning Methods
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
-<!--
-https://www.mindtools.com
--->
-
 ## Data Science
 
 <!--
@@ -215,9 +215,6 @@ http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - 
 New
 https://www.coursera.org/specializations/deep-learning
 
-Singularity Univ
-https://www.youtube.com/user/singularityu/videos
-
 YouTube
 Jeremy Howard  3
 Jeremy Howard
@@ -230,89 +227,6 @@ Jeremy Howard
 * [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
-
-## Events, Videos, Experts
-
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
-* [PaperCall](https://www.papercall.io)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
-
-https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
-https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
-https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
-https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
-https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
-
-https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
-
-http://lmorillas.github.io/python_events/ | Python Events
-
-https://www.meetup.com/topics/django/us
-https://www.meetup.com/topics/django/all
-
-http://lanyrd.com/search/?context=future&q=python
-http://lanyrd.com/search/?context=future&q=django
-
-http://lanyrd.com/search/?q=django&type=conference&context=future
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-https://github.com/pythonkc
-
-http://lanyrd.com/topics/devops
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
--->
-
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
-
-<!--
-https://aws.amazon.com/events/aws-innovate
--->
-
-<!--
-Hackathons
-
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617 | Ryan Hoover on Twitter: "The @ProductHunt Global Hackathon starts Nov 1. Signup: https://t.co/bT6GWNIWmx If you’re looking for project ideas, here are some #YMMV 👇🏼"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon/?sc_channel=sm&sc_campaign=Startups&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=startups&linkId=44042181 | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon?utm_content=bufferc435f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
--->
 
 #### Python and Django Conference Videos and Slides
 
@@ -448,12 +362,59 @@ https://emptysqua.re/blog/dharma-talk-why-generosity-turns-to-rage/ | Why Genero
 https://www.youtube.com/watch?v=eHXq-IzlGUE | A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016 - YouTube
 -->
 
-## Tools and General Learning
+## Events, Videos, Experts
 
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-* [Lists](https://github.com/jnv/lists)
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
+* [PaperCall](https://www.papercall.io)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+
+Python and Django
+* [PSF Python Events](https://www.python.org/events)
+* [Meetup Topic Django](https://www.meetup.com/topics/django)
+* [Meetup Topic Python](http://www.meetup.com/topics/python)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
+
+https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
+https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
+https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
+https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
+
+https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
+
+http://lmorillas.github.io/python_events/ | Python Events
+
+https://www.meetup.com/topics/django/us
+https://www.meetup.com/topics/django/all
+
+http://lanyrd.com/search/?context=future&q=python
+http://lanyrd.com/search/?context=future&q=django
+
+http://lanyrd.com/search/?q=django&type=conference&context=future
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+https://github.com/pythonkc
+
+http://lanyrd.com/topics/devops
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
+-->
+
+
+
+
+## Tools and General Learning
 
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
@@ -462,6 +423,7 @@ Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
 
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -502,6 +464,7 @@ https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-codi
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
+
 
 ## MOOCs, Courses, Teachers
 
@@ -634,7 +597,7 @@ Books
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
-## Coding Competitions and Design Patterns
+## Coding Competitions and Algorithms
 
 James Damore Coding Competition Books
 * [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
@@ -644,6 +607,8 @@ James Damore Coding Competition Books
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+## Design Patterns and Conventions
 
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -709,15 +674,15 @@ https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/
 https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
-
-
-
 Scripting and MVCs
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+
+
 
 <!--
 What are the Numbers that Every Computer Engineer Should Know
@@ -761,6 +726,8 @@ Guides for Development
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 -->
 
+
+
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 * [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
@@ -777,42 +744,7 @@ IBM Documentation
 
 
 
-## Standards and Documentation
 
-Documentation- Mozilla
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-<!--
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
--->
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-## JavaScript Resources
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
 
 
 
@@ -834,7 +766,15 @@ DevCenter (Developer Center/API)
 Shortcuts
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
   
-Interesting Curated Learning Resources
+
+  
+## Interesting Curated Learning Resources
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+* [Lists](https://github.com/jnv/lists)
+
 * [Open Product Management](https://github.com/tron1991/open-product-management)
 * [Open Source Society University](https://github.com/open-source-society/computer-science)
 * [Skill Map](https://github.com/TeamStuQ/skill-map)
@@ -939,21 +879,6 @@ Google Developers- General
 
 
 
-## Markdown, YAML, Jekyll
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Jekyll
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
 ## Hosting
 
 <!--
@@ -1031,6 +956,30 @@ Google Cloud, App Engine
 * [Google Cloud Solutions](https://cloud.google.com/solutions)  
 * [Google Cloud Developers](https://cloud.google.com/developers)  
 
+
+<!--
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+-->
+
+<!--
+https://aws.amazon.com/events/aws-innovate
+-->
 
 ## Git and Workflow
 
@@ -1125,6 +1074,60 @@ GitLab
 * [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 
+
+
+## Web Development Standards and Documentation
+
+Documentation- Mozilla
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+<!--
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+-->
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+## JavaScript Resources
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+## Markdown, YAML, Jekyll
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Jekyll
+* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
 ## People and Projects
 
 Dear GitHub and Thank You GitHub
@@ -1135,9 +1138,5 @@ GitHub Trending Developers
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 <!--
-Camille
-http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
-http://www.camilletalk.com/ | Camille Fournier
-
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
 -->
