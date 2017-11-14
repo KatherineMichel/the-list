@@ -12,7 +12,7 @@ Computer Basics
 Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
 Open Company
 
-https://www.google.com/search?q=site+reliability+engineer&oq=site+reliability&aqs=chrome.0.0j69i57j0l4.6237j0j7&sourceid=chrome&ie=UTF-8 | site reliability engineer - Google Search
+site reliability engineering
 
 See Python
 
@@ -65,6 +65,8 @@ Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
 <!--
+Glitch, Makerbase, etc.
+
 Hackathons
 
 https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
@@ -83,13 +85,9 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
 * [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
 * [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
-
-<!--
-Singularity Univ
-https://www.youtube.com/user/singularityu/videos
--->
 
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
@@ -146,16 +144,15 @@ https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford Universi
 
 ## Personal MBA
 
+* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
+* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
+* [Peter Lvels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
+
 <!--
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
 http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
 http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
-
-https://twitter.com/levelsio/status/887979497475129344 | Pieter Levels @ 🇳🇱 on Twitter: "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in business school @RSMErasmus"
-
-https://tim.blog/2010/06/28/mba/ | How to Create Your Own Real-World MBA | The Blog of Author Tim Ferriss
-http://avc.com/2017/08/mba-mondays/
 
 MarcA Books
 http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
@@ -227,6 +224,21 @@ Jeremy Howard
 * [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
+
+## Engineering Blogs
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+Individual Engineering Blogs
+* [Buffer Engineering](https://overflow.bufferapp.com)
+* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
+* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
+* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
+* [Uber Developers](https://medium.com/uber-developers)  
+-->
 
 #### Python and Django Conference Videos and Slides
 
@@ -705,18 +717,7 @@ Stack
 http://thenewstack.io
 -->
 
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
-<!--
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://medium.com/uber-developers)  
--->
 
 Guides for Development
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -744,11 +745,6 @@ IBM Documentation
 
 
 
-
-
-
-
-
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
@@ -758,8 +754,6 @@ Product/Service Directories
 
 DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me) 
-
-
 
 
 
