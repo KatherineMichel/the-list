@@ -1,7 +1,7 @@
 # Favorite Learning Resources
 
 <!--
-user interfaces.
+User Interfaces
 Developer Surveys
 Company Design Blogs
 Company Design Systems
@@ -9,8 +9,58 @@ Style Guides
 Built With
 DevCenter
 Computer Basics
-Unix, Command Line, Mac OS X, Bash, Permissions, Sha-Bang/Shebang, Visual Studio Code
+Command Line and Shell
+Keyboard Shortcuts
+Dot Files
+Startup Engineering MOOC
 Open Company
+Digital Agencies and Code Philosophies
+DevOps
+Git and Markdown
+Open Source, Open Source Documentation
+Operating System, Browser, Layout Engine
+Unix and Linux
+
+  * [Open Source](#open-source)
+  * [Open Source Management](#open-source-management) 
+  * [Unix and Linux General](#unix-and-linux-general)
+  * [Apple General](#apple-general)
+* [Social Media and Webmaster](#social-media-and-webmaster) 
+* [Social Media](#social-media)
+* [Design Thinking](#design-thinking)
+* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
+* [Themes and Static Site Generators](#themes-and-static-site-generators)
+* [Facebook and Google Design and Development Approaches](#facebook-and-google-design-and-development-approaches)
+* [Front-End Development](#front-end-development) 
+* [CSS Helpers](#css-helpers)
+* [Development Environment and Programming](#development-environment-and-programming)
+  * [Apple Developer](#apple-developer)
+  * [Google Developer](#google-developer)
+  * [Microsoft Developer](#microsoft-developer)
+  * [Mozilla Developer](#mozilla-developer)
+  * [Browser and Layout Engines](#browser-and-layout-engines)    
+  * [Developer Tools](#developer-tools)
+* [Testing and Performance](#testing-and-performance)
+* [JavaScript](#javascript)
+* [AJAX, jQuery, JSON](#ajax-jquery-json)
+  * [JavaScript Framework](#javascript-framework)
+  * [JavaScript Tools](#javascript-tools)
+* [Python and Django Toolkit](#python-and-django-toolkit)
+* [Dashboards](#dashboards)
+* [AWS](#aws)
+* [Heroku](#heroku)
+* [Digital Ocean](#digital-ocean)
+* [Google Cloud](#google-cloud)
+* [Deployment and Git Integration](#deployment-and-git-integration)
+* [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
+* [Domains, DNS, SSL](#domains-dns-ssl)
+* [Security](#security)
+* [Deployment, Cloud, and Playgrounds](#deployment-cloud-and-playgrounds)
+* [Dev Ops Tools](#dev-ops-tools)
+* [Functions](#functions)
+* [Servers, Databases, Architectures](#servers-databases-architectures)
+* [Apache, SQL, Nginx](#apach-sql-nginx) 
+* [Servers and Databases](#servers-and-databases)
 
 site reliability engineering
 
