@@ -237,12 +237,15 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
 <!--
-Packaging
-http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
-
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
+
+http://www.diveintopython.net/native_data_types/joining_lists.html
 
 
 
@@ -308,8 +311,6 @@ Official Python Docs and Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
 
 <!--
-https://www.python.org/doc/ | Our Documentation | Python.org
-
 * [Django Docs](https://docs.djangoproject.com)  
 -->
 
@@ -334,6 +335,8 @@ Coding Challenge
 <!--
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges
+
+http://campus.codeschool.com/courses/try-django/contents
 -->
 
 Learning Platforms (See also others)
@@ -363,6 +366,7 @@ Python Tutorials and Resources Recommended To Me
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
 <!--
+https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
 https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
@@ -386,7 +390,6 @@ https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launc
 https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
 
 http://www.weeklypython.chat/ | Weekly Python Chat
-http://treyhunner.com/talk-talk/#/
 https://www.crowdcast.io/treyhunner
 
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
@@ -396,9 +399,8 @@ Coding is for girls  1
 PyLadiesRemote Webcasts
 freeCodeCamp  14
 
-
-
 http://inventwithpython.com/
+http://inventwithpython.com/chapters
 http://inventwithpython.com/hacking/
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
@@ -421,11 +423,9 @@ https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, 
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
 
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
-https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
-http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
 
-https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
+
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 -->
 
 
@@ -455,16 +455,16 @@ Python- Books
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 
 <!--
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
-https://github.com/fluentpython | Fluent Python
+Amazon Python Book Search
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 
-https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+https://github.com/fluentpython | Fluent Python
 -->
 
 Python- Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+* [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
@@ -472,36 +472,8 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
 <!--
-http://inventwithpython.com/chapters
-https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
-
-http://www.diveintopython.net/native_data_types/joining_lists.html
-
-http://www.pydanny.com/python-decorator-cheatsheet.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
-
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
--->
-
-
-
-<!--
-http://campus.codeschool.com/courses/try-django/contents
-
-Pythonista
-https://github.com/jacobian-archive
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
 -->
 
 
@@ -511,11 +483,6 @@ Python- Playbooks
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest) and [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 * [Full Stack Python](https://www.fullstackpython.com)
-
-<!--
-http://docs.python-guide.org/en/latest/starting/install/osx/
-http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
--->
 
 Python- Playbooks
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
@@ -578,6 +545,10 @@ Python- Style Guides
 
 
 ## Django Tutorials
+
+<!--
+https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
+-->
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
