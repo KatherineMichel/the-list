@@ -306,13 +306,8 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 ## Python and Django Books and Tutorials
 
-Official Python Docs and Tutorial
-* [Python Docs](https://docs.python.org)
+Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
-
-<!--
-* [Django Docs](https://docs.djangoproject.com)  
--->
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
@@ -356,6 +351,11 @@ Python Tutors
 * [Jeff Knupp](https://jeffknupp.com)
 * [Trey Hunner](http://treyhunner.com)
 
+<!--
+http://www.weeklypython.chat/ | Weekly Python Chat
+https://www.crowdcast.io/treyhunner
+-->
+
 Python Tutorials and Resources Recommended To Me
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
@@ -388,9 +388,6 @@ https://dbader.org/python-tricks | Improve Your Python With Python Tricks – db
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-
-http://www.weeklypython.chat/ | Weekly Python Chat
-https://www.crowdcast.io/treyhunner
 
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
 
@@ -492,28 +489,6 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Guide Style Guide](http://docs.python-guide.org/en/latest/notes/styleguide)
 
-Python- Django- Project Stucture
-* [Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-<!--
-Lincoln Loop’s Django Best Practices
-http://lincolnloop.com/django-best-practices/
-https://github.com/lincolnloop/django-best-practices
-Deprecated
-https://github.com/lincolnloop/django-layout
-
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://devcenter.heroku.com/articles/deploying-python
-
-See other article also
-http://nvie.com/posts/pin-your-packages/
-pip-tools https://github.com/nvie/pip-tools
-
-http://www.revsys.com/12days
-http://www.frankwiles.com/posts/django-template-variable-or-else
--->
-
 Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
@@ -542,6 +517,14 @@ Python- Style Guides
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
 * [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
 
+<!--
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+https://devcenter.heroku.com/articles/deploying-python
+
+See other article also
+http://nvie.com/posts/pin-your-packages/
+pip-tools https://github.com/nvie/pip-tools
+-->
 
 
 ## Django Tutorials
@@ -562,10 +545,21 @@ Django Blogs
 * [Vinta Blog](https://www.vinta.com.br/blog)
 
 <!--
+Lincoln Loop’s Django Best Practices
+http://lincolnloop.com/django-best-practices/
+https://github.com/lincolnloop/django-best-practices
+Deprecated
+https://github.com/lincolnloop/django-layout
+
+http://www.revsys.com/12days
+http://www.frankwiles.com/posts/django-template-variable-or-else
+
 https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
 -->
 
-
+Python- Django- Project Stucture
+* [Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
