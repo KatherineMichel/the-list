@@ -230,12 +230,19 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
 
-## Python
 
+## Python- Object Oriented Programming
 
-#### Python- Object Oriented Programming
+* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
 <!--
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
+
+
 https://docs.python.org/3/glossary.html#glossary
 
 Kenneth Reitz
@@ -287,72 +294,109 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 
 
-#### Python and Django Books and Tutorials
+## Python and Django Books and Tutorials
 
 <!--
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+Lacey
+https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
+http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
 
-https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
 http://www.financeandpython.com | Finance and Python
 
-Python
+Kenneth Reitz
 https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
+https://dbader.org/blog/python-first-class-functions
+https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
+
+https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
+https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
+https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
+https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
+http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
+
+https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+-->
+
+
+MOOCs
+* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
+
+<!--
+MOOCs
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+-->
+
+Coding Challenge
+* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+
+<!--
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+-->
+
+Learning Platforms (See also others)
+* [Google's Python Class](https://developers.google.com/edu/python)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
+* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
+* [Reddit Python](https://www.reddit.com/r/Python)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
+
+The Hitchhiker’s Guide to Python!
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest) and [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+
+Python Tutors
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Daniel Roy Greenfield](http://www.pydanny.com)
+* [Trey Hunner](http://treyhunner.com)
+
+
+<!--
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+
+http://www.weeklypython.chat/ | Weekly Python Chat
+http://treyhunner.com/talk-talk/#/
+https://www.crowdcast.io/treyhunner
+
+https://jeffknupp.com/
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-
-
-Lacey
-http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
-https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
-
 
 YouTube
 Coding is for girls  1
 PyLadiesRemote Webcasts
 freeCodeCamp  14
 
-https://developers.google.com/edu/python/set-up
 
-https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
-mark pilgrim dive into python 3 pdf
-
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-first-class-functions
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-
-https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
-
-https://www.reddit.com/r/Python/ | Python
-https://www.reddit.com/r/learnprogramming/ | learn programming
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
-
-https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
-
-https://github.com/kennethreitz/python-guide | kennethreitz/python-guide: Python best practices guidebook, written for Humans.
-
-http://docs.python-guide.org/en/latest/intro/learning/ | Learning Python — The Hitchhiker's Guide to Python
+Packaging
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
-
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
-https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
-
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
-http://greenteapress.com/thinkpython/html/index.html | Think Python
-https://github.com/fluentpython | Fluent Python
-https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
-https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
-https://github.com/AllenDowney/ThinkPython | AllenDowney/ThinkPython: Code examples and exercise solutions from Think Python by Allen Downey, published by O'Reilly Media.
-https://github.com/AllenDowney/ThinkPython2 | AllenDowney/ThinkPython2: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
-https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
 
 http://inventwithpython.com/
 http://inventwithpython.com/hacking/
@@ -362,9 +406,6 @@ https://www.datacamp.com/ | Learn R, Python & Data Science Online | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=116411-750171 | Learn Python for Data Science - Online Course
 https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
 https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
-https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
-
-https://developers.google.com/edu/python/?csw=1 | Google's Python Class  |  Python Education  |  Google Developers
 
 https://python.swaroopch.com/ | Introduction · A Byte of Python
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
@@ -390,65 +431,20 @@ http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip 
 https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 -->
 
-MOOCs
-* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
 
-Coding Challenge
-* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-
-<!--
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
--->
-
-Learning Platforms
-* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-
-<!--
-MOOCs
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
-
-Math and General Knowledge  
-* [Project Euler Problems](http://projecteuler.net/problems) 
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Functions](http://functions.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
-* [Math is Fun](http://www.mathsisfun.com)
--->
 
 Python Tutorials and Resources Recommended To Me
-* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
-* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 * [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
 <!--
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
-http://www.weeklypython.chat/ | Weekly Python Chat
--->
-
-Python- Condensed Learning Resources
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-<!--
 https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex1.html
@@ -465,7 +461,12 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+
 <!--
+
+
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
@@ -476,7 +477,19 @@ https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming
 Python- Books
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
+* [O'Reilly Think Python 2 GitHub](https://github.com/AllenDowney/ThinkPython2) 
+* [O'Reilly High Performance Python]()
+
+<!--
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
+https://github.com/fluentpython | Fluent Python
+https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
+https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
+
+| AllenDowney/ThinkPython2: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+-->
 
 Python- Tutorials
 * [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
@@ -494,17 +507,6 @@ https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
-http://treyhunner.com/ | Trey Hunner
-http://treyhunner.com/talk-talk/#/
-https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
-https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
-https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
-https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
-https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
-https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
-https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
-http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
-
 http://www.pydanny.com/python-decorator-cheatsheet.html
 
 https://github.com/pydanny/cached-property
@@ -512,8 +514,6 @@ http://www.pydanny.com/cached-property.html
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
-
-https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
 -->
 
 
@@ -535,6 +535,7 @@ http://www.pydanny.com/tag/forms.html
 -->
 
 
+## Django Tutorials
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
@@ -544,12 +545,14 @@ Django Blogs
 * [Eldarion Blog](http://eldarion.com/blog)
 * [Pinax Blog](http://blog.pinaxproject.com)
 * [Lincoln Loop Blog](https://lincolnloop.com/blog)
-* [RevSys Blog](http://www.revsys.com/blog)
+* [RevSys Blog](http://www.revsys.com/blog) and [RevSys Tidbits](http://www.revsys.com/tidbits)
 * [Vinta Blog](https://www.vinta.com.br/blog)
 
 <!--
 https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
 -->
+
+
 
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
