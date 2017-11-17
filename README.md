@@ -695,6 +695,16 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 ## Data Science
 
+Thought Pieces
+* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+
+<!--
+https://petewarden.com/2017/11/13/deep-learning-is-eating-software/ | Deep Learning is Eating Software « Pete Warden's blog
+
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+-->
+
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
@@ -730,33 +740,6 @@ http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science
 
 Ethics
 * [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions)  
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Scripts](https://www.kaggle.com/scripts)
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
-Kaggle Submission
-
-<!--
-https://github.com/floydwch/kaggle-cli
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
-
-http://ndres.me/kaggle-past-solutions/
-
-Kaggle National Data Science Bowl
--->
-
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
 
 Machine Learning (Andrew Ng, Stanford)
 * [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
@@ -847,20 +830,8 @@ http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
 
 
 <!--
-https://medium.com/@karpathy/software-2-0-a64152b37c35 | Software 2.0 – Andrej Karpathy – Medium
-
-https://github.com/Developer-Y/cs-video-courses
-
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
-
 https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
 http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
 
 khan academy matrix inverse
 https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
@@ -872,6 +843,89 @@ https://github.com/amueller/introduction_to_ml_with_python | amueller/introducti
 
 Events
 -->
+
+<!--
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+
+https://github.com/Developer-Y/cs-video-courses
+
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+
+## Awesome Stuff
+
+https://github.com/sindresorhus/awesome#computer-science
+
+https://github.com/thundergolfer/google-rules-of-machine-learning
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/aymericdamien/TopDeepLearning
+https://github.com/zer0n/deepframeworks
+https://github.com/EliotAndres/kaggle-past-solutions
+https://github.com/ossu/data-science
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/jobbole/awesome-machine-learning-cn
+https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+https://github.com/endymecy/awesome-deeplearning-resources
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/keon/awesome-nlp
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/bharathgs/Awesome-pytorch-list
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+-->
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+http://ndres.me/kaggle-past-solutions/
+
+Kaggle National Data Science Bowl
+-->
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
 
 Baidu Research
 * [Baidu Research](http://research.baidu.com)
