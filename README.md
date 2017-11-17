@@ -941,12 +941,6 @@ Google Research
 * [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
 
-Company Research
-* [Airbnb](https://medium.com/airbnb-engineering)
-* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
-* [Uber Engineering](https://eng.uber.com)
-* [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
-
 NVIDIA
 * [NVIDIA Developer](https://developer.nvidia.com)
 * [NVIDIA Dev Blog](http://devblogs.nvidia.com)
@@ -956,6 +950,12 @@ NVIDIA
 <!--
 NVIDIA Architecture
 -->
+
+Company Research
+* [Airbnb](https://medium.com/airbnb-engineering)
+* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+* [Uber Engineering](https://eng.uber.com)
+* [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
 
 Companies on GitHub that Do Data Science
 * [AddThis GitHub](https://github.com/addthis)
@@ -984,7 +984,7 @@ Companies on GitHub that Do Data Science
 * [Tencent GitHub](https://github.com/Tencent)
 * [Twitter GitHub](https://github.com/twitter)
 * [Uber GitHub](https://github.com/uber)
-* [Yahoo GitHub](https://github.com/yahoo)
+* [Yahoo! GitHub](https://github.com/yahoo)
 * [Yandex GitHub](https://github.com/yandex)
 * [Yelp GitHub](https://github.com/Yelp)
 
