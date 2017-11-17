@@ -976,6 +976,12 @@ Companies on GitHub that Do Data Science
 * [Yelp GitHub](https://github.com/Yelp)
 
 <!--
+https://github.com/amzn
+https://github.com/awslabs
+
+https://github.com/intel-analytics
+https://github.com/NervanaSystems
+
 https://github.com/deepmind
 
 * [Google: DeepDream](https://github.com/google/deepdream) 
