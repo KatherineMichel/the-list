@@ -695,34 +695,99 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 ## Data Science
 
+Arxiv
+* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
+* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+Data Science Websites
+* [AnalyticBridge](http://www.analyticbridge.com)
+* [Data Science Central](http://www.datasciencecentral.com)
+* [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+
+Ethics
+* [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
+
+Deep Learning AI
+* [Deep Learning AI](https://www.deeplearning.ai)
+* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
 <!--
+https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
+
+https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
+https://www.coursera.org/learn/deep-neural-network/home/welcome
+https://www.coursera.org/learn/machine-learning-projects/home/welcome
+https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+https://www.coursera.org/learn/nlp-sequence-models
+Geoffrey Hinton
+https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
+-->
+
+Fast AI
+* [fast.ai](http://www.fast.ai)
+* [The fast.ai deep learning library, lessons, and tutorials GitHub](https://github.com/fastai/fastai)
+* [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
+* [Practical Deep Learning For Coders Wiki](http://wiki.fast.ai)
+* [Practical Deep Learning For Coders GitHub](https://github.com/fastai/courses)
+* [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
+
+<!--
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+-->
+
+<!--
+http://image-net.org
+https://en.wikipedia.org/wiki/ImageNet
+http://image-net.org/explore
+http://image-net.org/challenges
+https://www.kaggle.com
+
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+
+khan academy matrix inverse
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
+
 ML
 https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
 https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
 
-https://aws.amazon.com/blogs/ai/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/ | AWS Deep Learning AMI Now Supports PyTorch, Keras 2 and Latest Deep Learning Frameworks | AWS AI Blog
-https://aws.amazon.com/amazon-ai/amis/ | Deep Learning AMI — Amazon Web Services
 http://jakevdp.github.io/ | Home | Pythonic Perambulations
 
 https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
 
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-
-http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-http://forums.fast.ai/ | Deep Learning Course Forums
-http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
-http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
-
-New
-https://www.coursera.org/specializations/deep-learning
-
 YouTube
 Jeremy Howard  3
 Jeremy Howard
+
+PyData
+
+https://nips.cc
+http://create.baidu.com
+http://aifrontiers.com/ | AI Frontiers Conference
+
+https://nips.cc/ | 2017 Conference
+https://nips.cc/Conferences/2017/Videos
+https://nips.cc/Conferences/2016/Videos
+https://nips.cc/Conferences/2015/Videos
+https://nips.cc/Conferences/2014/Videos
+https://nips.cc/Conferences/2013/Videos
+https://nips.cc/Conferences/2012/Videos
+https://nips.cc/Conferences/2011/Videos
+https://nips.cc/Conferences/2010/Videos
 -->
 
 #### Python and Django Conference Videos and Slides
@@ -1137,6 +1202,18 @@ Math and General Knowledge
 * [Wolfram Functions](http://functions.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
+
+<!--
+New
+
+https://reference.wolfram.com
+
+https://www.khanacademy.org/math
+
+https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
+https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
+-->
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
