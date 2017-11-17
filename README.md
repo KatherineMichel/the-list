@@ -213,7 +213,7 @@ https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford Universi
 Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
 * [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Lvels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
+* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
 
 <!--
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
@@ -742,6 +742,11 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
+
+Machine Learning (Andrew Ng, Stanford)
+* [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
+* [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
+* [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
 
 Deep Learning AI
 * [Deep Learning AI](https://www.deeplearning.ai)
