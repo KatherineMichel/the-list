@@ -704,6 +704,18 @@ Data Science Websites
 * [Data Science Central](http://www.datasciencecentral.com)
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 
+<!--
+http://www.datasciencecentral.com/page/previous-digests
+http://www.vincentgranville.com
+
+Sam DeBrule
+https://machinelearnings.co
+https://www.producthunt.com/posts/machine-learnings-newsletter
+http://subscribe.machinelearnings.co/
+
+http://www.partiallyderivative.com
+-->
+
 Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
@@ -711,6 +723,9 @@ Playbooks
 <!--
 http://a16z.com/2017/05/12/ai-playbook
 https://vimeo.com/215926017
+
+http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html | Practical advice for analysis of large, complex data sets
+http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
 -->
 
 Ethics
@@ -773,22 +788,79 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
+Math versus Baseball
+https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
+https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 
-http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+Jeremy Howard YouTube
+https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
+
+Practical Deep Learning (Lessons 1-7)
+http://course.fast.ai/
+http://course.fast.ai/about.html
+http://course.fast.ai/start.html
+Cutting edge Deep Learning (Lessons 8-14)
+http://course.fast.ai/part2.html
+
+https://github.com/fastai/courses/blob/master/setup/aws-alias.sh
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/utils.py
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/lesson1.ipynb
+
 http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Main_Page#How_to_ask_for_Help
+http://wiki.fast.ai/index.php/Main_Page#Tools
 http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Special:RecentChanges
+http://wiki.fast.ai/index.php/Kaggle_CLI
+http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks
+http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning
+http://wiki.fast.ai/index.php/Lesson_1
+http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
+http://wiki.fast.ai/index.php/Lesson_3
+http://wiki.fast.ai/index.php/Image_Datasets
+
+Computational Linear Algebra
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
+https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
+https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
+
+https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
+https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
+https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
+https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
+
+http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
+https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
+
+Conda
+https://ipython.org/notebook.html
+http://jupyter.org
+https://github.com/jupyterlab
+https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
+http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
 -->
 
+
 <!--
+https://medium.com/@karpathy/software-2-0-a64152b37c35 | Software 2.0 – Andrej Karpathy – Medium
+
+https://github.com/Developer-Y/cs-video-courses
+
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
 https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
 
 khan academy matrix inverse
 https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
@@ -798,13 +870,40 @@ https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter no
 https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
 https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
 
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-YouTube
-Jeremy Howard  3
-Jeremy Howard
-
 Events
+-->
+
+Baidu Research
+* [Baidu Research](http://research.baidu.com)
+
+Facebook Research
+* [Facebook Engineering Facebook Page](https://www.facebook.com/Engineering)
+* [Facebook Research](https://research.fb.com) and * [Facebook Research GitHub](https://github.com/facebookresearch)
+* [Facebook Open Compute](http://www.opencompute.org)  
+* [Facebook Code](https://code.facebook.com)
+* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+
+Google Research
+* [Google Blog](https://www.blog.google), [Google Blog Topics](https://www.blog.google/topics), and [Google Blog Products](https://www.blog.google/products)
+* [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](https://research.googleblog.com)
+* [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
+* [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
+
+Company Research
+* [Airbnb](https://medium.com/airbnb-engineering)
+* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+* [Uber Engineering](https://eng.uber.com)
+* [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
+
+NVIDIA
+* [NVIDIA Developer](https://developer.nvidia.com)
+* [NVIDIA Dev Blog](http://devblogs.nvidia.com)
+* [NVIDIA Blogs](https://blogs.nvidia.com)
+* [NVIDIA AI Podcast](https://blogs.nvidia.com/ai-podcast)
+
+<!--
+NVIDIA Architecture
+https://github.com/NVIDIA
 -->
 
 #### Python and Django Conference Videos and Slides
@@ -836,6 +935,9 @@ PyData
 * [PyData Events](https://pydata.org/events.html)
 
 <!--
+http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
+https://pydata.org/warsaw2017/ | PyData Warsaw 2017
+
 https://nips.cc
 http://create.baidu.com
 http://aifrontiers.com/ | AI Frontiers Conference
