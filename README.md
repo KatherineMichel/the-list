@@ -947,7 +947,38 @@ NVIDIA
 
 <!--
 NVIDIA Architecture
-https://github.com/NVIDIA
+-->
+
+Companies on GitHub that Do Data Science
+* [AddThis GitHub](https://github.com/addthis)
+* [Airbnb GitHub](https://github.com/airbnb)
+* [Baidu GitHub](https://github.com/baidu)
+* [Baidu Research GitHub](https://github.com/baidu-research)
+* [Cisco GitHub](https://github.com/CiscoSystems)
+* [Cloudera GitHub](https://github.com/cloudera)
+* [Facebook Incubator GitHub](https://github.com/facebookincubator)
+* [Facebook Research GitHub](https://github.com/facebookresearch)
+* [Google GitHub](https://github.com/google)
+* [Google Creative Lab GitHub](https://github.com/googlecreativelab)
+* [Intel GitHub](https://github.com/intel)
+* [Microsoft GitHub](https://github.com/Microsoft)
+* [Mozilla GitHub](https://github.com/mozilla)
+* [NVIDIA GitHub](https://github.com/NVIDIA)
+* [OpenStack GitHub](https://github.com/openstack)
+* [Samsung GitHub](https://github.com/Samsung)
+* [Sony GitHub](https://github.com/sony)
+* [Spotify GitHub](https://github.com/spotify)
+* [Tencent GitHub](https://github.com/Tencent)
+* [Twitter GitHub](https://github.com/twitter)
+* [Uber GitHub](https://github.com/uber)
+* [Yahoo GitHub](https://github.com/yahoo)
+* [Yandex GitHub](https://github.com/yandex)
+* [Yelp GitHub](https://github.com/Yelp)
+
+<!--
+https://github.com/deepmind
+
+* [Google: DeepDream](https://github.com/google/deepdream) 
 -->
 
 Conda
