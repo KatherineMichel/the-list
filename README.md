@@ -712,7 +712,7 @@ Front-Runners and Models
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 * [PyTorch](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
-* [TensorFlow](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
+* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 
 <!--
@@ -823,6 +823,13 @@ http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
 http://wiki.fast.ai/index.php/Lesson_3
 http://wiki.fast.ai/index.php/Image_Datasets
 
+Cutting edge Deep Learning, Early Release
+http://www.fast.ai/2017/01/17/curriculum2/
+https://github.com/jph00/part2
+http://forums.fast.ai/t/part-2-early-release-videos-now-available/2621
+http://forums.fast.ai/t/lesson-8-wiki/1639
+http://forums.fast.ai/t/lesson-8-discussion/1522
+
 Computational Linear Algebra
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
@@ -864,7 +871,8 @@ https://www.kaggle.com/wiki/CompetitionLaunchChecklist
 https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
 https://www.kaggle.com/wiki/ModelSubmissionBestPractices
 
-http://ndres.me/kaggle-past-solutions/
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
 
 Kaggle National Data Science Bowl
 -->
@@ -952,6 +960,9 @@ NVIDIA Architecture
 Companies on GitHub that Do Data Science
 * [AddThis GitHub](https://github.com/addthis)
 * [Airbnb GitHub](https://github.com/airbnb)
+* [Amazon GitHub](https://github.com/amzn)
+* [Amazon Labs GitHub](https://github.com/awslabs)
+* [Apache GitHub](https://github.com/apache)
 * [Baidu GitHub](https://github.com/baidu)
 * [Baidu Research GitHub](https://github.com/baidu-research)
 * [Cisco GitHub](https://github.com/CiscoSystems)
@@ -960,7 +971,9 @@ Companies on GitHub that Do Data Science
 * [Facebook Research GitHub](https://github.com/facebookresearch)
 * [Google GitHub](https://github.com/google)
 * [Google Creative Lab GitHub](https://github.com/googlecreativelab)
+* [IBM GitHub](https://github.com/ibm)
 * [Intel GitHub](https://github.com/intel)
+* [Intel Analytics GitHub](https://github.com/intel-analytics)
 * [Microsoft GitHub](https://github.com/Microsoft)
 * [Mozilla GitHub](https://github.com/mozilla)
 * [NVIDIA GitHub](https://github.com/NVIDIA)
@@ -976,10 +989,6 @@ Companies on GitHub that Do Data Science
 * [Yelp GitHub](https://github.com/Yelp)
 
 <!--
-https://github.com/amzn
-https://github.com/awslabs
-
-https://github.com/intel-analytics
 https://github.com/NervanaSystems
 
 https://github.com/deepmind
@@ -1038,7 +1047,6 @@ https://github.com/thundergolfer/google-rules-of-machine-learning
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/aymericdamien/TopDeepLearning
 https://github.com/zer0n/deepframeworks
-https://github.com/EliotAndres/kaggle-past-solutions
 https://github.com/ossu/data-science
 https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 https://github.com/mlreview/machine-learning-surveys
