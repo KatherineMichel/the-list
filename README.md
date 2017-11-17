@@ -708,8 +708,9 @@ Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
-Front-Runners and  Models
+Front-Runners and Models
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 * [PyTorch](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
 * [TensorFlow](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
@@ -721,7 +722,6 @@ https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
 
 https://github.com/fchollet/keras-resources
-https://github.com/fchollet/deep-learning-models
 
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
