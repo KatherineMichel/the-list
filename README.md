@@ -711,7 +711,7 @@ Interesting
 Front-Runners and Models
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
-* [PyTorch](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
+* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 
@@ -723,6 +723,29 @@ https://www.tensorflow.org/tutorials
 
 https://github.com/fchollet/keras-resources
 
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/sindresorhus/awesome#computer-science
+
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/jobbole/awesome-machine-learning-cn
+https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+https://github.com/endymecy/awesome-deeplearning-resources
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/keon/awesome-nlp
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/bharathgs/Awesome-pytorch-list
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 -->
@@ -733,11 +756,10 @@ Arxiv
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
-* [Data Science Central](http://www.datasciencecentral.com)
+* [Data Science Central](http://www.datasciencecentral.com) and [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests)
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 
 <!--
-http://www.datasciencecentral.com/page/previous-digests
 http://www.vincentgranville.com
 
 Sam DeBrule
@@ -887,8 +909,6 @@ Analyst Group Resources
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
 <!--
-https://github.com/boozallen
-https://github.com/booz-allen-hamilton
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
@@ -976,7 +996,8 @@ Companies on GitHub that Do Data Science
 * [Intel Analytics GitHub](https://github.com/intel-analytics)
 * [Microsoft GitHub](https://github.com/Microsoft)
 * [Mozilla GitHub](https://github.com/mozilla)
-* [NVIDIA GitHub](https://github.com/NVIDIA)
+* [Mozilla GitHub](https://github.com/mozilla)
+* [Nervana Systems GitHub](https://github.com/NervanaSystems)
 * [OpenStack GitHub](https://github.com/openstack)
 * [Samsung GitHub](https://github.com/Samsung)
 * [Sony GitHub](https://github.com/sony)
@@ -989,8 +1010,6 @@ Companies on GitHub that Do Data Science
 * [Yelp GitHub](https://github.com/Yelp)
 
 <!--
-https://github.com/NervanaSystems
-
 https://github.com/deepmind
 
 * [Google: DeepDream](https://github.com/google/deepdream) 
@@ -1035,14 +1054,6 @@ Events
 -->
 
 <!--
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-
-https://github.com/Developer-Y/cs-video-courses
-
-## Awesome Stuff
-
-https://github.com/sindresorhus/awesome#computer-science
-
 https://github.com/thundergolfer/google-rules-of-machine-learning
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/aymericdamien/TopDeepLearning
@@ -1064,25 +1075,9 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 https://github.com/sbrugman/deep-learning-papers
 https://github.com/dennybritz/deeplearning-papernotes
 
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-
-https://en.wikipedia.org/wiki/Convolutional_neural_network
 https://en.wikipedia.org/wiki/Recurrent_neural_network
 
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/josephmisiti/awesome-machine-learning
-https://github.com/jobbole/awesome-machine-learning-cn
-https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
-https://github.com/endymecy/awesome-deeplearning-resources
-https://github.com/ChristosChristofidis/awesome-deep-learning
-https://github.com/keon/awesome-nlp
-https://github.com/kjw0612/awesome-deep-vision
 https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/bharathgs/Awesome-pytorch-list
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
