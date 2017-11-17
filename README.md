@@ -193,6 +193,11 @@ Learning
 Learning Methods
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
+<!--
+Fast AI Math versus Baseball
+https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
+https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+-->
 
 ## Skills and Employment
 
@@ -703,11 +708,20 @@ Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
-Front-Runner Models
+Front-Runners and  Models
+* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [PyTorch](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
+* [TensorFlow](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 
 <!--
-PyTorch, Keras
+https://github.com/pytorch/examples
+
+https://www.tensorflow.org/tutorials/deep_cnn
+https://www.tensorflow.org/tutorials
+
+https://github.com/fchollet/keras-resources
+https://github.com/fchollet/deep-learning-models
 
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
@@ -746,9 +760,6 @@ http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis
 http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
 -->
 
-Ethics
-* [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
-
 Machine Learning (Andrew Ng, Stanford)
 * [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
 * [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
@@ -779,10 +790,6 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
-Math versus Baseball
-https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
-https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
-
 https://www.usfca.edu/data-institute/certificates
 
 Fast AI Blog
@@ -831,6 +838,7 @@ https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xV
 
 http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
 https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
+https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 
 https://ipython.org/notebook.html
 http://jupyter.org
@@ -865,6 +873,35 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
+
+Analyst Group Resources
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+<!--
+https://github.com/boozallen
+https://github.com/booz-allen-hamilton
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
+-->
+
+Data Styleguide GitHub
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
+<!--
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
+https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
+
+https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+-->
+
+Ethics
+* [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
 
 Labs
 * [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
@@ -914,13 +951,10 @@ https://github.com/NVIDIA
 -->
 
 Conda
+* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
 * [Anaconda](https://www.continuum.io/downloads)  
 * [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
 * [Miniconda](http://conda.pydata.org/miniconda.html)
-
-<!--
-https://conda.io/docs/user-guide/getting-started.html | Getting started — Conda documentation
--->
 
 AIaaS/BDaaS: Natural Language
 * [Google Natural Language API](https://cloud.google.com/natural-language/)
@@ -942,12 +976,7 @@ https://cloud.google.com/ml-engine
 -->
 
 
-
-
 <!--
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
 khan academy matrix inverse
 https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
 
@@ -1448,6 +1477,8 @@ Math and General Knowledge
 
 <!--
 New
+* [Stack Exchange Math](https://math.stackexchange.com)
+* [Stack Exchange Stats](https://stats.stackexchange.com)
 
 https://reference.wolfram.com
 
