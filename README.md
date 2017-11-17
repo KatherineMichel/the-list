@@ -708,8 +708,40 @@ Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
+<!--
+http://a16z.com/2017/05/12/ai-playbook
+https://vimeo.com/215926017
+-->
+
 Ethics
 * [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+http://ndres.me/kaggle-past-solutions/
+
+Kaggle National Data Science Bowl
+-->
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
 
 Deep Learning AI
 * [Deep Learning AI](https://www.deeplearning.ai)
@@ -745,14 +777,10 @@ http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - 
 -->
 
 <!--
-http://image-net.org
-https://en.wikipedia.org/wiki/ImageNet
-http://image-net.org/explore
-http://image-net.org/challenges
-https://www.kaggle.com
-
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
 
 https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
 https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
@@ -760,34 +788,18 @@ https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-probl
 khan academy matrix inverse
 https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
 
-ML
+ML Books
 https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
 https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
 
 http://jakevdp.github.io/ | Home | Pythonic Perambulations
 
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-
 YouTube
 Jeremy Howard  3
 Jeremy Howard
 
-PyData
-
-https://nips.cc
-http://create.baidu.com
-http://aifrontiers.com/ | AI Frontiers Conference
-
-https://nips.cc/ | 2017 Conference
-https://nips.cc/Conferences/2017/Videos
-https://nips.cc/Conferences/2016/Videos
-https://nips.cc/Conferences/2015/Videos
-https://nips.cc/Conferences/2014/Videos
-https://nips.cc/Conferences/2013/Videos
-https://nips.cc/Conferences/2012/Videos
-https://nips.cc/Conferences/2011/Videos
-https://nips.cc/Conferences/2010/Videos
+Events
 -->
 
 #### Python and Django Conference Videos and Slides
@@ -817,6 +829,22 @@ PyCon Canada
 PyData
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
 * [PyData Events](https://pydata.org/events.html)
+
+<!--
+https://nips.cc
+http://create.baidu.com
+http://aifrontiers.com/ | AI Frontiers Conference
+
+https://nips.cc/ | 2017 Conference
+https://nips.cc/Conferences/2017/Videos
+https://nips.cc/Conferences/2016/Videos
+https://nips.cc/Conferences/2015/Videos
+https://nips.cc/Conferences/2014/Videos
+https://nips.cc/Conferences/2013/Videos
+https://nips.cc/Conferences/2012/Videos
+https://nips.cc/Conferences/2011/Videos
+https://nips.cc/Conferences/2010/Videos
+-->
 
 EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
