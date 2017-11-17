@@ -699,6 +699,9 @@ Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 <!--
+https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
+https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
+
 https://petewarden.com/2017/11/13/deep-learning-is-eating-software/ | Deep Learning is Eating Software « Pete Warden's blog
 
 https://www.eff.org/ai/metrics
@@ -775,6 +778,10 @@ Math versus Baseball
 https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
 https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
 
+https://www.usfca.edu/data-institute/certificates
+
+Fast AI Blog
+
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 
 Jeremy Howard YouTube
@@ -820,84 +827,11 @@ https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xV
 http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
 https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
 
-Conda
 https://ipython.org/notebook.html
 http://jupyter.org
 https://github.com/jupyterlab
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
--->
-
-
-<!--
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-khan academy matrix inverse
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
-
-ML Books
-https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
-https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
-
-Events
--->
-
-<!--
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-
-https://github.com/Developer-Y/cs-video-courses
-
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
-
-## Awesome Stuff
-
-https://github.com/sindresorhus/awesome#computer-science
-
-https://github.com/thundergolfer/google-rules-of-machine-learning
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-https://github.com/aymericdamien/TopDeepLearning
-https://github.com/zer0n/deepframeworks
-https://github.com/EliotAndres/kaggle-past-solutions
-https://github.com/ossu/data-science
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-https://github.com/mlreview/machine-learning-surveys
-
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/muupan/deep-reinforcement-learning-papers
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-https://github.com/sbrugman/deep-learning-papers
-https://github.com/dennybritz/deeplearning-papernotes
-
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-
-https://en.wikipedia.org/wiki/Convolutional_neural_network
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/josephmisiti/awesome-machine-learning
-https://github.com/jobbole/awesome-machine-learning-cn
-https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
-https://github.com/endymecy/awesome-deeplearning-resources
-https://github.com/ChristosChristofidis/awesome-deep-learning
-https://github.com/keon/awesome-nlp
-https://github.com/kjw0612/awesome-deep-vision
-https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/bharathgs/Awesome-pytorch-list
-https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 Kaggle
@@ -958,6 +892,99 @@ NVIDIA
 <!--
 NVIDIA Architecture
 https://github.com/NVIDIA
+-->
+
+Conda
+* [Anaconda](https://www.continuum.io/downloads)  
+* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
+* [Miniconda](http://conda.pydata.org/miniconda.html)
+
+AIaaS/BDaaS: Natural Language
+* [Google Natural Language API](https://cloud.google.com/natural-language/)
+
+AIaaS/BDaaS: Speech Recognition / Speech Synthesis
+* [Amazon Lex](https://aws.amazon.com/lex/) / [Google Cloud Speech API](https://cloud.google.com/speech/)
+* [Amazon Polly](https://aws.amazon.com/polly/)
+* Translation - [Google Cloud Translation API](https://cloud.google.com/translate/)
+
+AIaaS/BDaaS: Computer Vision
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
+* [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
+
+<!--
+https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
+https://cloud.google.com/ml/
+https://cloud.google.com/ml/docs
+https://cloud.google.com/ml-engine
+-->
+
+
+<!--
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
+khan academy matrix inverse
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
+
+ML Books
+https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
+https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
+
+Events
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+
+https://github.com/Developer-Y/cs-video-courses
+
+## Awesome Stuff
+
+https://github.com/sindresorhus/awesome#computer-science
+
+https://github.com/thundergolfer/google-rules-of-machine-learning
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/aymericdamien/TopDeepLearning
+https://github.com/zer0n/deepframeworks
+https://github.com/EliotAndres/kaggle-past-solutions
+https://github.com/ossu/data-science
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/jobbole/awesome-machine-learning-cn
+https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+https://github.com/endymecy/awesome-deeplearning-resources
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/keon/awesome-nlp
+https://github.com/kjw0612/awesome-deep-vision
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/bharathgs/Awesome-pytorch-list
+https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 #### Python and Django Conference Videos and Slides
