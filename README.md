@@ -697,12 +697,17 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
+
+Interesting
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+
+Front-Runner Models
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 
 <!--
-https://github.com/hunkim/deep_architecture_genealogy | hunkim/deep_architecture_genealogy: Deep Learning Architecture Genealogy Project
-https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems
-
-https://petewarden.com/2017/11/13/deep-learning-is-eating-software/ | Deep Learning is Eating Software « Pete Warden's blog
+PyTorch, Keras
 
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
@@ -861,6 +866,20 @@ ImageNet
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
 
+Labs
+* [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
+* [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
+ 
+Code Labs and Summer Schools
+* [Google Codelab](https://codelabs.developers.google.com)
+
+<!--
+Machine Learning Summer School
+http://videolectures.net/site/search/?q=MLSS
+2016 Deep Learning Summer School
+http://videolectures.net/deeplearning2016_montreal/
+-->
+
 Baidu Research
 * [Baidu Research](http://research.baidu.com)
 
@@ -899,6 +918,10 @@ Conda
 * [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
 * [Miniconda](http://conda.pydata.org/miniconda.html)
 
+<!--
+https://conda.io/docs/user-guide/getting-started.html | Getting started — Conda documentation
+-->
+
 AIaaS/BDaaS: Natural Language
 * [Google Natural Language API](https://cloud.google.com/natural-language/)
 
@@ -917,6 +940,8 @@ https://cloud.google.com/ml/
 https://cloud.google.com/ml/docs
 https://cloud.google.com/ml-engine
 -->
+
+
 
 
 <!--
@@ -1016,6 +1041,8 @@ PyData
 * [PyData Events](https://pydata.org/events.html)
 
 <!--
+http://videolectures.net
+
 http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
 https://pydata.org/warsaw2017/ | PyData Warsaw 2017
 
