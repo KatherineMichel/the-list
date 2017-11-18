@@ -723,6 +723,9 @@ https://www.tensorflow.org/tutorials
 
 https://github.com/fchollet/keras-resources
 
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
 https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
 
 https://github.com/Developer-Y/cs-video-courses
@@ -746,8 +749,31 @@ Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 * [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
 
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+https://github.com/thundergolfer/google-rules-of-machine-learning
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/aymericdamien/TopDeepLearning
+https://github.com/zer0n/deepframeworks
+https://github.com/ossu/data-science
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 Arxiv
@@ -1040,46 +1066,56 @@ https://cloud.google.com/ml/docs
 https://cloud.google.com/ml-engine
 -->
 
+Artificial Intelligence- General
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
 
-<!--
-khan academy matrix inverse
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro
+Machine Learning- General
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
-ML Books
-https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
-https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
+Deep Learning and Neural Networks
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
 
-Events
--->
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
-<!--
-https://github.com/thundergolfer/google-rules-of-machine-learning
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-https://github.com/aymericdamien/TopDeepLearning
-https://github.com/zer0n/deepframeworks
-https://github.com/ossu/data-science
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-https://github.com/mlreview/machine-learning-surveys
+Data, Data Science, Big Data
+* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
 
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
+Data Monetization
+* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
 
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
+Linear Algebra
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
 
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/muupan/deep-reinforcement-learning-papers
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-https://github.com/sbrugman/deep-learning-papers
-https://github.com/dennybritz/deeplearning-papernotes
+Linear/Regression (Supervised Learning)
+* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
+* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
+* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
+* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
+* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
 
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-
-https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/jivoi/awesome-ml-for-cybersecurity
--->
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
 #### Python and Django Conference Videos and Slides
 
