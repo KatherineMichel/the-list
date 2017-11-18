@@ -894,12 +894,6 @@ https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xV
 http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
 https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
 https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
-
-https://ipython.org/notebook.html
-http://jupyter.org
-https://github.com/jupyterlab
-https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
-http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
 -->
 
 Kaggle
@@ -1046,6 +1040,123 @@ Conda
 * [Anaconda](https://www.continuum.io/downloads)  
 * [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
 * [Miniconda](http://conda.pydata.org/miniconda.html)
+
+<!--
+https://ipython.org/notebook.html
+http://jupyter.org
+https://github.com/jupyterlab
+https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
+http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
+-->
+
+Python- Statistics Stack- Documents and Galleries
+* [SciPy Stack](http://www.scipy.org/docs.html)  
+* [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
+* [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
+* [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
+
+Python- Statistics Stack- NumPy 
+* [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
+* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
+* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
+* [SciPy Central](http://scipy-central.org)  
+* [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
+* [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
+* [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
+
+<!--
+http://www.scipy.org/getting-started.html 
+http://www.scipy.org/topical-software.html List of Software  
+-->
+
+Python- Statistics Stack- MatPlotLib
+* [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
+
+Python- Statistics Stack- MatPlotLib Reference
+* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
+* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
+* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
+* [MatPlotLib API](http://matplotlib.org/api/index.html )  
+* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
+* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
+* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
+* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
+* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
+
+<!--
+Resources 
+http://matplotlib.org/resources/index.html 
+External Resources 
+http://matplotlib.org/faq/index.html  
+-->
+
+Python- Statistics Stack- iPython
+* [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
+
+Python- Statistics Stack- iPython Reference
+* [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
+* [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
+* [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
+* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
+
+<!--
+http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
+-->
+
+Python- Statistics Stack- Pandas
+* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
+* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
+
+<!--
+https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
+https://github.com/pandas-dev/pandas
+-->
+
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
+* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
+* [SymPy Features](http://www.sympy.org/en/features.html)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
+* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
+* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
+* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
+* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
+
+Python- Statistics Stack- Scikit-Learn
+* [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
+
+<!--
+https://scikits.appspot.com/scikits  
+-->
+
+Python- Statistics Stack- Scikit-Learn Reference
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
+* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+
+Python- Image Processing- Scikit-Image (See also Python Imaging Library)
+* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
+* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
+
 
 AIaaS/BDaaS: Natural Language
 * [Google Natural Language API](https://cloud.google.com/natural-language/)
@@ -1785,6 +1896,9 @@ Awesome Tools
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/sindresorhus/awesome#computer-science
+
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
 https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
