@@ -749,7 +749,6 @@ Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 * [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
 
-https://github.com/thundergolfer/google-rules-of-machine-learning
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/aymericdamien/TopDeepLearning
 https://github.com/zer0n/deepframeworks
@@ -801,6 +800,12 @@ Playbooks
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
+https://github.com/thundergolfer/google-rules-of-machine-learning
+
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.datasciguide.com/difficulty/early-beginner
+http://www.datasciguide.com/recommended-resources-for-beginners
+
 http://a16z.com/2017/05/12/ai-playbook
 https://vimeo.com/215926017
 
@@ -841,8 +846,6 @@ Fast AI
 https://www.usfca.edu/data-institute/certificates
 
 Fast AI Blog
-
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 
 Jeremy Howard YouTube
 https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
