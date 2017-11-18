@@ -235,6 +235,40 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
 
+Awesome
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome Django](https://github.com/rosarior/awesome-django)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+
+<!--
+https://github.com/siboehm/awesome-learn-datascience
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+https://github.com/sindresorhus/awesome#computer-science
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/sindresorhus/awesome#computer-science
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/prakhar1989/awesome-courses
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+https://github.com/lnishan/awesome-competitive-programming
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+
+https://github.com/18F/transformation-research
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+
+https://github.com/keon/algorithms
+
+https://github.com/todogroup/awesome-oss-mgmt
+http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
+-->
+
+
 
 ## Python- Object Oriented Programming
 
@@ -803,6 +837,7 @@ Playbooks
 https://github.com/thundergolfer/google-rules-of-machine-learning
 
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.datasciguide.com
 http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
 
@@ -1879,6 +1914,7 @@ Shortcuts
   
 
   
+<!--
 ## Interesting Curated Learning Resources
 
 Awesome Tools
@@ -1898,19 +1934,12 @@ Awesome Tools
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-<!--
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/sindresorhus/awesome#computer-science
-
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
 https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
 https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/prakhar1989/awesome-courses
 
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
 https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
@@ -1933,11 +1962,6 @@ https://github.com/Idnan/bash-guide
 https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
 
 
-
-
-
-https://github.com/todogroup/awesome-oss-mgmt
-http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/mrmrs/styleguide-checklist
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
@@ -1962,28 +1986,11 @@ https://github.com/karllhughes/side-project-marketing/blob/master/marketing-chec
 https://github.com/jlevy/og-equity-compensation
 https://github.com/leonar15/startup-checklist
 
-https://github.com/sorrycc/awesome-javascript
-https://github.com/sindresorhus/awesome-nodejs
-
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-https://github.com/lnishan/awesome-competitive-programming
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-
-https://github.com/18F/transformation-research
-https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
-https://github.com/opensourceway/open-decision-framework
-
 https://github.com/tuvttran/project-based-learning
 
 https://github.com/karan/Projects
 https://github.com/gurugio/lowlevelprogramming-university
-https://github.com/keon/algorithms
 -->
-
 
 ## Git and Workflow
 
