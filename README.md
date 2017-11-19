@@ -280,6 +280,7 @@ Digital Ocean
 https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
 https://www.amazon.com/Robert-C.-Martin/e/B000APG87E/ref=pd_sim_14_bl_2?_encoding=UTF8&refRID=HC2DY278F6YQP7A83G34 | Amazon.com: Robert C. Martin: Books, Biography, Blog, Audiobooks, Kindle
 https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445 | Amazon.com: Agile Software Development, Principles, Patterns, and Practices (9780135974445): Robert C. Martin: Books
@@ -304,18 +305,12 @@ https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magic
 
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
-
 http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
 
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
 
-
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
-https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
-
-
 https://docs.python.org/3/glossary.html#glossary
 
 Kenneth Reitz
@@ -344,7 +339,6 @@ https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't
 
 
 https://docs.python.org/3/library/pathlib.html
-http://docs.python.org/2/library/pickle.html
 https://docs.python.org/3/howto/regex.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
@@ -399,14 +393,17 @@ http://blog.teamtreehouse.com
 
 https://dbader.org
 http://www.diveintopython3.net
-http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
-https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
-http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
-
+http://www.ironpythoninaction.com
+http://www.pythonforbeginners.com
+https://www.fullstackpython.com
 http://www.pythoncentral.io
 http://www.pythonforbeginners.com
 https://www.pydanny.com
 
+
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
+http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
 http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
 http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
 
