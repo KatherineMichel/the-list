@@ -391,14 +391,11 @@ https://teamtreehouse.com/kennethlove | Kenneth Love
 https://github.com/kennethlove?tab=repositories | kennethlove (Kenneth Love) / Repositories
 http://blog.teamtreehouse.com
 
-https://dbader.org
 http://www.diveintopython3.net
 http://www.ironpythoninaction.com
 http://www.pythonforbeginners.com
 https://www.fullstackpython.com
 http://www.pythoncentral.io
-http://www.pythonforbeginners.com
-https://www.pydanny.com
 
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
