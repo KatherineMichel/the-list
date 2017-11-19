@@ -247,7 +247,6 @@ https://github.com/siboehm/awesome-learn-datascience
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://github.com/sindresorhus/awesome#computer-science
 https://github.com/Developer-Y/cs-video-courses
-https://github.com/sindresorhus/awesome#computer-science
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/prakhar1989/awesome-courses
 
@@ -310,14 +309,15 @@ http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip 
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
 
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
-https://docs.python.org/3/glossary.html#glossary
-
 Kenneth Reitz
 https://docs.python.org/3.6/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+https://docs.python.org/3/glossary.html#glossary
 
 https://docs.python.org/3.6/library/
 https://docs.python.org/3/library/functions.html
@@ -331,24 +331,24 @@ https://docs.python.org/3.6/library/sys.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
 
+https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/howto/regex.html
+
 https://docs.python.org/3/library/logging.config.html
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+
+
 
 http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
-
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/howto/regex.html
-
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
-
 https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
-
 
 http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
 http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
@@ -590,6 +590,8 @@ Python- Playbooks
 
 Python- Playbooks
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
+
+
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
