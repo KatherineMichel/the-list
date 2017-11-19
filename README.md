@@ -345,6 +345,79 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 ## Python and Django Books and Tutorials
 
+<!--
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
+Digital Ocean
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+
+https://www.amazon.com/Robert-C.-Martin/e/B000APG87E/ref=pd_sim_14_bl_2?_encoding=UTF8&refRID=HC2DY278F6YQP7A83G34 | Amazon.com: Robert C. Martin: Books, Biography, Blog, Audiobooks, Kindle
+https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445 | Amazon.com: Agile Software Development, Principles, Patterns, and Practices (9780135974445): Robert C. Martin: Books
+https://www.youtube.com/watch?v=TMuno5RZNeE&app=desktop | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
+
+https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
+https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
+https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://twitter.com/CoreyMSchafer | Corey Schafer (@CoreyMSchafer) | Twitter
+https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g | Corey Schafer - YouTube
+http://coreyms.com/ | CoreyMS - Development, Design, DIY, and more
+
+https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
+https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
+
+https://pythonprogramming.net/ | Python Programming Tutorials
+https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
+
+https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw | Derek Banas - YouTube
+
+https://twitter.com/NewThinkTank | Derek Banas (@NewThinkTank) | Twitter
+http://www.newthinktank.com/ | Video Tutorials on Web Development Negotiation Bargaining
+
+https://www.edx.org/ | edX | Free online courses from the world's best universities
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+
+
+
+https://teamtreehouse.com/kennethlove | Kenneth Love
+https://github.com/kennethlove?tab=repositories | kennethlove (Kenneth Love) / Repositories
+http://blog.teamtreehouse.com
+
+https://dbader.org
+http://www.diveintopython3.net
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
+http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
+
+
+http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
+http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
+
+https://sites.google.com/site/unclebobconsultingllc/ | Clean Coder
+http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html | Clean Coder Blog
+https://www.youtube.com/watch?v=t86v3N4OshQ | The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin - YouTube
+http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod | ArticleS.UncleBob.PrinciplesOfOod
+http://www.oodesign.com/design-principles.html | Design Principles | Object Oriented Design
+https://www.youtube.com/results?search_query=uncle+bob+martin | uncle bob martin - YouTube
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+https://www.youtube.com/watch?v=7lmCu8wz8ro | What Does It Take To Be An Expert At Python? - YouTube
+
+https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
+https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
+
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+-->
+
 Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
 
