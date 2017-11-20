@@ -275,6 +275,23 @@ http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides 
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
 <!--
+Kenneth Reitz
+https://docs.python.org/3.6/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
+https://docs.python.org/3.6/library/
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://docs.python.org/3.6/tutorial/datastructures.html
+https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+
+https://docs.python.org/3/glossary.html#glossary
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
 Digital Ocean
 https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
@@ -300,74 +317,165 @@ https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twi
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
 
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 
+https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
+https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
+
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+http://cslibrary.stanford.edu/ | Stanford CS Ed Library
+http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
+https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
+http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
+https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
+http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
+https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/ | Improve Your Python: Python Classes and Object Oriented Programming
+https://dbader.org/python-oop-cheatsheet | 7 Great Resources for Learning OOP in Python – dbader.org
+https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/ | Why is Object-Oriented Programming Useful? (With a Role Playing Game Example) - The Invent with Python Blog
+https://blog.newrelic.com/2015/04/01/python-programming-styles/ | Embracing the Four Python Programming Styles
+
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
 http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
 
-http://www.diveintopython.net/native_data_types/joining_lists.html
 
-
-Kenneth Reitz
-https://docs.python.org/3.6/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
-https://docs.python.org/3/glossary.html#glossary
-
-https://docs.python.org/3.6/library/
-https://docs.python.org/3/library/functions.html
-https://docs.python.org/3.6/library/stdtypes.html
-https://docs.python.org/3/library/stdtypes.html
-https://docs.python.org/3.6/tutorial/datastructures.html
-https://docs.python.org/3.6/library/string.html
-
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3.6/library/sys.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/howto/argparse.html
-
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/howto/regex.html
-
-https://docs.python.org/3/library/logging.config.html
-
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
-
-
-
+http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
 http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+http://www.diveintopython.net/native_data_types/joining_lists.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
 
 http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
 http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
 https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
 https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+
+https://docs.python.org/3.6/library/stdtypes.html
+https://docs.python.org/3/library/stdtypes.html
+https://docs.python.org/3.6/library/string.html
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3.6/library/sys.html
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/howto/argparse.html
+https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/howto/regex.html
+https://docs.python.org/3/library/logging.config.html
 -->
 
 
 
 ## Python and Django Books and Tutorials
 
+Official Python Tutorial
+* [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
+
+MOOCs
+* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
+
 <!--
+MOOCs
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+-->
+
+Learning Platforms (See also others)
+* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Google's Python Class](https://developers.google.com/edu/python)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
+* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
+
+<!--
+https://www.codecademy.com/en/tracks/python | Python | Codecademy
+https://www.codecademy.com/courses/learn-python/lessons/introduction-to-classes/exercises/why-use-classes?action=lesson_resume | Learn Python | Codecademy
+
+https://www.coursera.org/courses/?languages=en&query=PYTHON | PYTHON Courses | Coursera
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
-https://twitter.com/CoreyMSchafer | Corey Schafer (@CoreyMSchafer) | Twitter
-https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g | Corey Schafer - YouTube
-http://coreyms.com/ | CoreyMS - Development, Design, DIY, and more
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
+https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+
+http://campus.codeschool.com/courses/try-django/contents
+-->
+
+Forums
+* [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
+Python Tutors
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0)
+* [Al Sweigart: Invent with Python](http://inventwithpython.com)
+* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Daniel Roy Greenfield](http://www.pydanny.com)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [Eric Matthes: Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Eric Matthes: Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
+* [Jeff Knupp](https://jeffknupp.com)
+* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
+* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
+* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+Python Websites and Newsletters
+* [Python Central](http://www.pythoncentral.io)
+* [Python for Beginners](http://www.pythonforbeginners.com)
+* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+
+
+
+<!--
+Python- Playbooks
+* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+
+http://www.ironpythoninaction.com
+
+* [DataCamp](https://www.datacamp.com)
 
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
@@ -377,25 +485,12 @@ https://pythonprogramming.net/ | Python Programming Tutorials
 https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
 
 https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw | Derek Banas - YouTube
-
 https://twitter.com/NewThinkTank | Derek Banas (@NewThinkTank) | Twitter
 http://www.newthinktank.com/ | Video Tutorials on Web Development Negotiation Bargaining
 
-https://www.edx.org/ | edX | Free online courses from the world's best universities
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
+https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
 
-
-
-https://teamtreehouse.com/kennethlove | Kenneth Love
-https://github.com/kennethlove?tab=repositories | kennethlove (Kenneth Love) / Repositories
-http://blog.teamtreehouse.com
-
-http://www.diveintopython3.net
-http://www.ironpythoninaction.com
-http://www.pythonforbeginners.com
-https://www.fullstackpython.com
-http://www.pythoncentral.io
 
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
@@ -403,13 +498,7 @@ https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes Wi
 http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
 http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
 http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
-
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-
-https://www.youtube.com/watch?v=7lmCu8wz8ro | What Does It Take To Be An Expert At Python? - YouTube
-
-https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
-https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
 
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
@@ -433,8 +522,6 @@ https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
-
-
 <!--
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -448,15 +535,14 @@ Coding is for girls  1
 PyLadiesRemote Webcasts
 freeCodeCamp  14
 
-http://inventwithpython.com/
 http://inventwithpython.com/chapters
 http://inventwithpython.com/hacking/
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
-https://www.datacamp.com/ | Learn R, Python & Data Science Online | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=116411-750171 | Learn Python for Data Science - Online Course
 https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
 https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
+
 
 https://python.swaroopch.com/ | Introduction · A Byte of Python
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
@@ -478,64 +564,6 @@ https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Dj
 -->
 
 
-Official Python Tutorial
-* [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
-
-MOOCs
-* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
-
-<!--
-MOOCs
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
--->
-
-Coding Challenge
-* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-
-<!--
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
-
-http://campus.codeschool.com/courses/try-django/contents
--->
-
-Learning Platforms (See also others)
-* [Google's Python Class](https://developers.google.com/edu/python)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
-* [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
-* [Reddit Python](https://www.reddit.com/r/Python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
-
-Python Tutors
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Daniel Roy Greenfield](http://www.pydanny.com)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Trey Hunner](http://treyhunner.com)
-
-<!--
-http://www.weeklypython.chat/ | Weekly Python Chat
-https://www.crowdcast.io/treyhunner
--->
-
-Python Tutorials and Resources Recommended To Me
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
-* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-* [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
-* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
 
 Wiki Books
@@ -569,9 +597,6 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywo
 https://github.com/fluentpython | Fluent Python
 -->
 
-Python- Tutorials
-* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
-
 Python IDLE
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
 * [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
@@ -581,17 +606,7 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
-#### Python and Django Playbooks and Styleguides
-
-Python- Playbooks
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest) and [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
-* [Full Stack Python](https://www.fullstackpython.com)
-
-Python- Playbooks
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
-
-
+#### Python Styleguides
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
