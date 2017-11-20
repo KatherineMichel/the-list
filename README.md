@@ -469,14 +469,6 @@ Python Websites and Newsletters
 
 
 <!--
-Python- Playbooks
-* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
-
-http://www.ironpythoninaction.com
-
-* [DataCamp](https://www.datacamp.com)
-
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
@@ -492,6 +484,18 @@ https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
 https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
 
 
+
+
+Python- Playbooks
+* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+
+http://www.ironpythoninaction.com
+
+* [DataCamp](https://www.datacamp.com)
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
 https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
@@ -548,7 +552,6 @@ https://python.swaroopch.com/ | Introduction · A Byte of Python
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 
 https://bitbucket.org/gregmalcolm/python_koans | gregmalcolm / python_koans — Bitbucket
-https://stephensugden.com/crash_into_python/ | Crash into Python
 http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
 https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
 http://thepythonguru.com/ | Learn Python | Python tutorials for beginners | The Python Guru
@@ -557,7 +560,6 @@ http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem 
 https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, Idiomatic Python - YouTube
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
-
 
 
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
