@@ -146,13 +146,6 @@ Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 <!--
-https://tribeofmentors.com/ | Tribe of Mentors
-https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961 | Tribe of Mentors: Short Life Advice from the Best in the World: Tim Ferriss: 9781328994967: Amazon.com: Books
-https://itunes.apple.com/us/book/tribe-of-mentors/id1250671801?mt=11 | Tribe of Mentors by Timothy Ferriss on iBooks
-
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
@@ -197,7 +190,15 @@ Learning
 Learning Methods
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
+Tim Ferris
+* [Tools of Titans](https://toolsoftitans.com)
+* [Tribe of Mentors](https://tribeofmentors.com)
+
 <!--
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
 Fast AI Math versus Baseball
 https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
 https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
@@ -274,6 +275,8 @@ http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides 
 
 
 ## Python- Object Oriented Programming
+
+* [SOLID Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
