@@ -146,6 +146,10 @@ Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 <!--
+https://tribeofmentors.com/ | Tribe of Mentors
+https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961 | Tribe of Mentors: Short Life Advice from the Best in the World: Tim Ferriss: 9781328994967: Amazon.com: Books
+https://itunes.apple.com/us/book/tribe-of-mentors/id1250671801?mt=11 | Tribe of Mentors by Timothy Ferriss on iBooks
+
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
@@ -2081,6 +2085,10 @@ https://github.com/gurugio/lowlevelprogramming-university
 
 ## Git and Workflow
 
+Ops School and DevOps Bootcamp
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+
 More Workflows
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
@@ -2099,9 +2107,11 @@ Software Versioning
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 
-DevOps Tutorials
+
+
+
 * Startup Engineering MOOC
-* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 * [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
