@@ -248,6 +248,11 @@ Awesome
 * [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
 <!--
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+
 https://github.com/siboehm/awesome-learn-datascience
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://github.com/sindresorhus/awesome#computer-science
@@ -295,7 +300,7 @@ https://github.com/AhmadElsagheer/Competitive-programming-library
 https://github.com/haseebr/competitive-programming
 -->
 
-## Design Patterns and Conventions
+## Algorithms, Design Patterns and Conventions
 
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
@@ -310,9 +315,6 @@ Design Patterns
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-
-
 
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
@@ -337,7 +339,10 @@ Scripting and MVCs
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 
+
 <!--
+https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
+
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
 
 Software Design Patterns
@@ -374,9 +379,6 @@ https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
 <!--
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
-
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -385,17 +387,33 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
-
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 -->
 
 
-## Python- Object Oriented Programming
+## Python- Programming Paradigms
 
-* [SOLID Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
-* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
-* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+<!--
+Object Oriented Programming
+https://en.wikipedia.org/wiki/Encapsulation_(computer_programming) | Encapsulation (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming) | Inheritance (object-oriented programming) - Wikipedia
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
+
+https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
+https://en.wikipedia.org/wiki/Code_reuse | Code reuse - Wikipedia
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself | Don't repeat yourself - Wikipedia
+
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+-->
+
+
+
 
 <!--
 https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
@@ -539,33 +557,6 @@ Pluralsight and DataCamp
 * [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
 
-<!--
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
-https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
-
-http://campus.codeschool.com/courses/try-django/contents
--->
-
 Forums
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 * [Reddit Python](https://www.reddit.com/r/Python)
@@ -595,6 +586,39 @@ Python Websites and Newsletters
 * [Python for Beginners](http://www.pythonforbeginners.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
+
+
+
+<!--
+SOLID (Object Oriented Design)
+* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
+https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+
+http://campus.codeschool.com/courses/try-django/contents
+-->
 
 
 <!--
