@@ -248,15 +248,20 @@ Awesome Python and Django
 Awesome Data Science
 * [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
 * [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
 * [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Resources GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
+* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
 
 <!--
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+https://github.com/keon/awesome-nlp
+https://github.com/kjw0612/awesome-deep-vision
 
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/sindresorhus/awesome#computer-science
 
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
@@ -292,6 +297,11 @@ Awesome Tools
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
@@ -1066,6 +1076,28 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 ## Data Science
 
+<!--
+Linear Algebra and Calculus
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
+* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
+Artificial Intelligence- General
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
+
+Machine Learning- General
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Deep Learning and Neural Networks
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+-->
+
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
@@ -1093,18 +1125,6 @@ https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
 https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
-
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/sindresorhus/awesome#computer-science
-
-https://github.com/josephmisiti/awesome-machine-learning
-https://github.com/jobbole/awesome-machine-learning-cn
-https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
-https://github.com/endymecy/awesome-deeplearning-resources
-https://github.com/ChristosChristofidis/awesome-deep-learning
-https://github.com/keon/awesome-nlp
-https://github.com/kjw0612/awesome-deep-vision
-https://github.com/bharathgs/Awesome-pytorch-list
 
 https://github.com/hindupuravinash/the-gan-zoo
 https://github.com/nightrome/really-awesome-gan
