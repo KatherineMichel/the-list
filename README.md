@@ -606,6 +606,51 @@ Python Websites and Newsletters
 https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+
+https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
+https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
+https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
+
+https://pythonprogramming.net/ | Python Programming Tutorials
+https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
+
+https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw | Derek Banas - YouTube
+https://twitter.com/NewThinkTank | Derek Banas (@NewThinkTank) | Twitter
+http://www.newthinktank.com/ | Video Tutorials on Web Development Negotiation Bargaining
+
+https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
+https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
+
 SOLID (Object Oriented Design)
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
@@ -638,38 +683,6 @@ http://campus.codeschool.com/courses/try-django/contents
 
 
 <!--
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
-https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
-https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
-https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
-
-https://pythonprogramming.net/ | Python Programming Tutorials
-https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
-
-https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw | Derek Banas - YouTube
-https://twitter.com/NewThinkTank | Derek Banas (@NewThinkTank) | Twitter
-http://www.newthinktank.com/ | Video Tutorials on Web Development Negotiation Bargaining
-
-https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
-https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
-
-
-
-
 Python- Playbooks
 * [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
@@ -693,24 +706,6 @@ https://github.com/coodict/python3-in-one-pic
 -->
 
 <!--
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
--->
-
-<!--
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
 
 YouTube
@@ -797,6 +792,7 @@ http://www.diveintopython.net/native_data_types/joining_lists.html
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 
+http://www.tutorialspoint.com/python/ | Python Tutorial
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
