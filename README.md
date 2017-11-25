@@ -260,18 +260,102 @@ https://github.com/Developer-Y/cs-video-courses
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/prakhar1989/awesome-courses
 
+https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+https://github.com/faif/python-patterns/blob/master/behavioral/strategy.py | python-patterns/strategy.py at master · faif/python-patterns
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
+
 https://github.com/18F/transformation-research
 https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
 https://github.com/opensourceway/open-decision-framework
-
-https://github.com/keon/algorithms
 
 https://github.com/todogroup/awesome-oss-mgmt
 http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
 -->
 
+<!--
+## Interesting Curated Learning Resources
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+* [Lists](https://github.com/jnv/lists)
+
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Open Source Society University](https://github.com/open-source-society/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://github.com/braydie/HowToBeAProgrammer
+http://ashleymcnamara.github.io/learn_to_code/
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://github.com/atav1k/product-modeling | atav1k/product-modeling
+https://github.com/thoughtbot/apprenticeship
+https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
 
 
+https://www.sideprojectchecklist.com/
+https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
+
+https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/jlevy/og-equity-compensation
+https://github.com/leonar15/startup-checklist
+
+https://github.com/Kristories/awesome-guidelines
+https://github.com/mrmrs/styleguide-checklist
+
+https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+https://github.com/thedaviddias/Resources-Front-End-Beginner | thedaviddias/Resources-Front-End-Beginner: 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+
+https://github.com/bradfrost/frontend-guidelines-questionnaire
+
+https://github.com/xitu/front-end-handbook-2017
+https://github.com/FrontendMasters/front-end-handbook-2017
+https://frontendmasters.com
+https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
+https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
+
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
+
+https://github.com/gurugio/lowlevelprogramming-university
+
+https://github.com/jlevy/og-osx-shortcuts
+https://github.com/jaywcjlove/awesome-mac
+https://github.com/herrbischoff/awesome-osx-command-line
+
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/Idnan/bash-guide
+
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
 
 
 ## Coding Competitions and Algorithms
@@ -295,9 +379,11 @@ Guides for Development
 Competitive Programmers Handbook
 https://cses.fi/book.html
 https://github.com/lnishan/awesome-competitive-programming
-https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
 https://github.com/AhmadElsagheer/Competitive-programming-library
 https://github.com/haseebr/competitive-programming
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
 -->
 
 ## Algorithms, Design Patterns and Conventions
@@ -376,17 +462,6 @@ https://en.wikipedia.org/wiki/Programming_style
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 https://en.wikipedia.org/wiki/Flyweight_pattern
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 -->
 
 
@@ -2047,83 +2122,7 @@ Shortcuts
   
 
   
-<!--
-## Interesting Curated Learning Resources
 
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-* [Lists](https://github.com/jnv/lists)
-
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Open Source Society University](https://github.com/open-source-society/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-* [Front End Guide](https://github.com/grab/front-end-guide)
-* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
-
-https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-
-https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
-
-https://github.com/thedaviddias/Resources-Front-End-Beginner | thedaviddias/Resources-Front-End-Beginner: 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
-
-https://github.com/jlevy/og-osx-shortcuts
-https://github.com/jaywcjlove/awesome-mac
-https://github.com/herrbischoff/awesome-osx-command-line
-
-https://github.com/jlevy/the-art-of-command-line
-https://github.com/Idnan/bash-guide
-
-https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
-
-
-https://github.com/braydie/HowToBeAProgrammer
-https://github.com/mrmrs/styleguide-checklist
-https://github.com/atav1k/product-modeling | atav1k/product-modeling
-https://github.com/thoughtbot/apprenticeship
-http://ashleymcnamara.github.io/learn_to_code/
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
-https://github.com/Kristories/awesome-guidelines
-
-https://github.com/bradfrost/frontend-guidelines-questionnaire
-
-https://frontendmasters.com
-https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
-
-https://github.com/xitu/front-end-handbook-2017
-https://github.com/FrontendMasters/front-end-handbook-2017
-https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
-
-https://www.sideprojectchecklist.com/
-https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
-
-https://github.com/jlevy/og-equity-compensation
-https://github.com/leonar15/startup-checklist
-
-https://github.com/tuvttran/project-based-learning
-
-https://github.com/karan/Projects
-https://github.com/gurugio/lowlevelprogramming-university
--->
 
 ## Git and Workflow
 
