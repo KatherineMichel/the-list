@@ -255,13 +255,6 @@ https://github.com/Developer-Y/cs-video-courses
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/prakhar1989/awesome-courses
 
-Competitive Programmers Handbook
-https://cses.fi/book.html
-https://github.com/lnishan/awesome-competitive-programming
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-
 https://github.com/18F/transformation-research
 https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
 https://github.com/opensourceway/open-decision-framework
@@ -274,6 +267,129 @@ http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides 
 
 
 
+
+
+## Coding Competitions and Algorithms
+
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+<!--
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+https://github.com/lnishan/awesome-competitive-programming
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+-->
+
+## Design Patterns and Conventions
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+
+
+
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
+
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
+
+Software Design Patterns
+Coding Conventions
+Object Oriented Programming
+Programming language comparisons
+Programming style
+
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+
+https://en.wikipedia.org/wiki/Coding_conventions
+
+https://en.wikipedia.org/wiki/Programming_style
+-->
+
+<!--
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://en.wikipedia.org/wiki/Flyweight_pattern
+-->
+
+<!--
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
+-->
+
+
 ## Python- Object Oriented Programming
 
 * [SOLID Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
@@ -282,10 +398,19 @@ http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides 
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
 <!--
+https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
+https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
+https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
+https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html
+https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
+
 Kenneth Reitz
-https://docs.python.org/3.6/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
-https://docs.python.org/3.6/library/
-https://docs.python.org/3/library/functions.html
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
 https://docs.python.org/3.6/tutorial/datastructures.html
 https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
@@ -370,11 +495,7 @@ http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Orien
 https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
 https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
 
-https://docs.python.org/3.6/library/stdtypes.html
-https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3.6/library/string.html
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3.6/library/sys.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
 https://docs.python.org/3/library/pathlib.html
@@ -390,39 +511,40 @@ Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
 
 MOOCs
-* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
+* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
 
 <!--
+https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
+
 MOOCs
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
 * [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
 * [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
+-->
 
+Learning Platforms (See also others)
+* [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Google's Python Class](https://developers.google.com/edu/python)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
+
+Pluralsight and DataCamp
+* [DataCamp](https://www.datacamp.com)
+* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
+
+<!--
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
 
 https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
--->
-
-Learning Platforms (See also others)
-* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Google's Python Class](https://developers.google.com/edu/python)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
-
-<!--
-https://www.codecademy.com/en/tracks/python | Python | Codecademy
-https://www.codecademy.com/courses/learn-python/lessons/introduction-to-classes/exercises/why-use-classes?action=lesson_resume | Learn Python | Codecademy
-
-https://www.coursera.org/courses/?languages=en&query=PYTHON | PYTHON Courses | Coursera
 https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
 
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
@@ -450,7 +572,7 @@ Forums
 
 Python Tutors
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0)
+* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0) and [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com)
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
@@ -476,6 +598,21 @@ Python Websites and Newsletters
 
 
 <!--
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+
+https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
@@ -498,8 +635,6 @@ Python- Playbooks
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
 
 http://www.ironpythoninaction.com
-
-* [DataCamp](https://www.datacamp.com)
 
 https://stephensugden.com/crash_into_python/ | Crash into Python
 https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
@@ -546,14 +681,8 @@ Coding is for girls  1
 PyLadiesRemote Webcasts
 freeCodeCamp  14
 
-http://inventwithpython.com/chapters
 http://inventwithpython.com/hacking/
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
-
-https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=116411-750171 | Learn Python for Data Science - Online Course
-https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
-https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
-
 
 https://python.swaroopch.com/ | Introduction · A Byte of Python
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
@@ -589,6 +718,7 @@ https://www.djangopackages.com/python3/
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 -->
@@ -1837,103 +1967,7 @@ Books
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
-## Coding Competitions and Algorithms
 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
-## Design Patterns and Conventions
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-Design Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-
-
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
-
-Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
-
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
-
-https://en.wikipedia.org/wiki/Coding_conventions
-
-https://en.wikipedia.org/wiki/Programming_style
--->
-
-<!--
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://en.wikipedia.org/wiki/Flyweight_pattern
--->
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-
-
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
 
 
 
@@ -1951,27 +1985,8 @@ http://thenewstack.io
 
 * [Glitch](https://glitch.com)
 * [StackShare Trending](https://stackshare.io/trending)
-
-Hackathons
-
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
 -->
 
-
-
-Guides for Development
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
-
-<!--
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
--->
 
 
 
@@ -2091,6 +2106,18 @@ https://github.com/gurugio/lowlevelprogramming-university
 Ops School and DevOps Bootcamp
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
 * [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+
+<!--
+https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1 | DevOps BootCamp 2015-2016 - YouTube
+https://devopsbootcamp.osuosl.org/bootcamp_content.html | DevOps Bootcamp — OSU DevOps BootCamp 0.0.1 documentation
+http://devopsbootcamp.osuosl.org/documentation-communication.html | Lesson 3: Docs & Communication — OSU DevOps BootCamp 0.0.1 documentation
+http://devopsbootcamp.osuosl.org/start-here.html | Lesson 0: Start Here — OSU DevOps BootCamp 0.0.1 documentation
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+http://www.opsschool.org/en/latest/sysadmin_101.html | Sysadmin 101 — Ops School Curriculum 0.1 documentation
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
 
 More Workflows
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
