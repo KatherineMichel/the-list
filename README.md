@@ -195,6 +195,9 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
+https://www.instagram.com/p/Bb5Y8EgFQRd/ | Tim Ferriss on Instagram: “Want to get all of your holiday shopping done in no time? See the first two bullets here...” • Instagram
+
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
@@ -1647,7 +1650,7 @@ PyData
 * [PyData Events](https://pydata.org/events.html)
 
 <!--
-http://videolectures.net
+http://videolectures.net/ | VideoLectures.NET - VideoLectures.NET
 
 http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
 https://pydata.org/warsaw2017/ | PyData Warsaw 2017
