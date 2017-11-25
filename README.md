@@ -240,13 +240,17 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
 
-Awesome
-* [Awesome Python](https://github.com/vinta/awesome-python)
-* [Awesome Django](https://github.com/rosarior/awesome-django)
-* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+Awesome Python and Django
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python)
+* [Awesome Django GitHub](https://github.com/rosarior/awesome-django)
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+
+Awesome Data Science
+* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Resources GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
 
 <!--
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -294,10 +298,10 @@ https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-pa
 
 
 
-https://github.com/sindresorhus/awesome#computer-science
-https://github.com/Developer-Y/cs-video-courses
+https://github.com/sindresorhus/awesome#computer-science | sindresorhus/awesome: Curated list of awesome lists
+https://github.com/Developer-Y/cs-video-courses | Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/prakhar1989/awesome-courses
 
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
 https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
@@ -428,21 +432,19 @@ Scripting and MVCs
 
 <!--
 https://en.wikipedia.org/wiki/Observer_pattern
+https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
 https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+uml strategy pattern - Google Search
+observer pattern uml - Google Search
+https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
-uml strategy pattern - Google Search
 python design patterns
 https://en.wikipedia.org/wiki/Separation_of_concerns | Separation of concerns - Wikipedia
-https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
-observer pattern uml - Google Search
 https://en.wikipedia.org/wiki/Design_pattern | Design pattern - Wikipedia
 classification creational structural behavioral patterns - Google Search
 liskov substitution principle - Google Search
 dependency inversion - Google Search
-
-
-https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
 
@@ -467,9 +469,7 @@ Comparison of type systems
 https://en.wikipedia.org/wiki/Coding_conventions
 
 https://en.wikipedia.org/wiki/Programming_style
--->
 
-<!--
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 https://en.wikipedia.org/wiki/Flyweight_pattern
@@ -603,6 +603,7 @@ Python Websites and Newsletters
 
 
 <!--
+Automate the Boring Stuff
 https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
