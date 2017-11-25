@@ -244,6 +244,7 @@ Awesome
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Awesome Django](https://github.com/rosarior/awesome-django)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
@@ -253,15 +254,8 @@ Awesome
 
 https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
 
-https://github.com/siboehm/awesome-learn-datascience
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-https://github.com/sindresorhus/awesome#computer-science
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/prakhar1989/awesome-courses
 
-https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
-https://github.com/faif/python-patterns/blob/master/behavioral/strategy.py | python-patterns/strategy.py at master · faif/python-patterns
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
@@ -274,7 +268,6 @@ https://github.com/todogroup/awesome-oss-mgmt
 http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
 -->
 
-<!--
 ## Interesting Curated Learning Resources
 
 Awesome Tools
@@ -294,7 +287,17 @@ Awesome Tools
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
+<!--
+https://github.com/atav1k/product-modeling | atav1k/product-modeling
+https://github.com/thoughtbot/apprenticeship
+https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
+
+
+
+https://github.com/sindresorhus/awesome#computer-science
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/prakhar1989/awesome-courses
 
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
 https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
@@ -303,10 +306,7 @@ https://github.com/braydie/HowToBeAProgrammer
 http://ashleymcnamara.github.io/learn_to_code/
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
-https://github.com/atav1k/product-modeling | atav1k/product-modeling
-https://github.com/thoughtbot/apprenticeship
-https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
-
+https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
@@ -427,15 +427,26 @@ Scripting and MVCs
 
 
 <!--
+https://en.wikipedia.org/wiki/Observer_pattern
+https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+
+https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
+uml strategy pattern - Google Search
+python design patterns
+https://en.wikipedia.org/wiki/Separation_of_concerns | Separation of concerns - Wikipedia
+https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
+observer pattern uml - Google Search
+https://en.wikipedia.org/wiki/Design_pattern | Design pattern - Wikipedia
+classification creational structural behavioral patterns - Google Search
+liskov substitution principle - Google Search
+dependency inversion - Google Search
+
+
 https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
 
 Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
 
 Programming Language Comparisons
 Category "Programming language comparisons"
@@ -467,7 +478,15 @@ https://en.wikipedia.org/wiki/Flyweight_pattern
 
 ## Python- Programming Paradigms
 
-* [Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+<!--
+https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
+https://en.wikipedia.org/wiki/Code_reuse | Code reuse - Wikipedia
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself | Don't repeat yourself - Wikipedia
+-->
+
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
@@ -478,17 +497,8 @@ https://en.wikipedia.org/wiki/Encapsulation_(computer_programming) | Encapsulati
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming) | Inheritance (object-oriented programming) - Wikipedia
 https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
 
-https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
-https://en.wikipedia.org/wiki/Code_reuse | Code reuse - Wikipedia
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself | Don't repeat yourself - Wikipedia
-
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 -->
-
-
-
 
 <!--
 https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
@@ -514,80 +524,6 @@ https://docs.python.org/3/glossary.html#glossary
 https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-
-Digital Ocean
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
-
-https://www.amazon.com/Robert-C.-Martin/e/B000APG87E/ref=pd_sim_14_bl_2?_encoding=UTF8&refRID=HC2DY278F6YQP7A83G34 | Amazon.com: Robert C. Martin: Books, Biography, Blog, Audiobooks, Kindle
-https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445 | Amazon.com: Agile Software Development, Principles, Patterns, and Practices (9780135974445): Robert C. Martin: Books
-https://www.youtube.com/watch?v=TMuno5RZNeE&app=desktop | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
-
-https://sites.google.com/site/unclebobconsultingllc/ | Clean Coder
-http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html | Clean Coder Blog
-https://www.youtube.com/watch?v=t86v3N4OshQ | The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin - YouTube
-http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod | ArticleS.UncleBob.PrinciplesOfOod
-http://www.oodesign.com/design-principles.html | Design Principles | Object Oriented Design
-https://www.youtube.com/results?search_query=uncle+bob+martin | uncle bob martin - YouTube
-
-https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
-https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
-https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-
-
-https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
-https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
-
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
-https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
-http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
-https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
-http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
-https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/ | Improve Your Python: Python Classes and Object Oriented Programming
-https://dbader.org/python-oop-cheatsheet | 7 Great Resources for Learning OOP in Python – dbader.org
-https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/ | Why is Object-Oriented Programming Useful? (With a Role Playing Game Example) - The Invent with Python Blog
-https://blog.newrelic.com/2015/04/01/python-programming-styles/ | Embracing the Four Python Programming Styles
-
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
-
-http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
-
-
-http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
-http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
-http://www.diveintopython.net/native_data_types/joining_lists.html
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
-
-http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
-http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-
-https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
-https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
-
 https://docs.python.org/3.6/library/string.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
@@ -595,8 +531,6 @@ https://docs.python.org/3/library/pathlib.html
 https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/logging.config.html
 -->
-
-
 
 ## Python and Django Books and Tutorials
 
@@ -629,8 +563,12 @@ Learning Platforms (See also others)
 
 Pluralsight and DataCamp
 * [DataCamp](https://www.datacamp.com)
-* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Pluralsight Python](https://app.pluralsight.com/library/search?q=python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
+
+<!--
+https://app.pluralsight.com/library/search?q=python+script | Search | Pluralsight
+-->
 
 Forums
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
@@ -665,6 +603,9 @@ Python Websites and Newsletters
 
 
 <!--
+https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
 SOLID (Object Oriented Design)
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
@@ -752,9 +693,6 @@ https://github.com/coodict/python3-in-one-pic
 -->
 
 <!--
-https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
-
 https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex1.html
@@ -800,6 +738,77 @@ https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effectiv
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 -->
 
+<!--
+Digital Ocean
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+https://www.amazon.com/Robert-C.-Martin/e/B000APG87E/ref=pd_sim_14_bl_2?_encoding=UTF8&refRID=HC2DY278F6YQP7A83G34 | Amazon.com: Robert C. Martin: Books, Biography, Blog, Audiobooks, Kindle
+https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445 | Amazon.com: Agile Software Development, Principles, Patterns, and Practices (9780135974445): Robert C. Martin: Books
+https://www.youtube.com/watch?v=TMuno5RZNeE&app=desktop | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
+
+https://sites.google.com/site/unclebobconsultingllc/ | Clean Coder
+http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html | Clean Coder Blog
+https://www.youtube.com/watch?v=t86v3N4OshQ | The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin - YouTube
+http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod | ArticleS.UncleBob.PrinciplesOfOod
+http://www.oodesign.com/design-principles.html | Design Principles | Object Oriented Design
+https://www.youtube.com/results?search_query=uncle+bob+martin | uncle bob martin - YouTube
+
+https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
+https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
+https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+
+
+https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
+https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
+
+http://cslibrary.stanford.edu/ | Stanford CS Ed Library
+http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
+https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
+http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
+https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
+http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
+https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/ | Improve Your Python: Python Classes and Object Oriented Programming
+https://dbader.org/python-oop-cheatsheet | 7 Great Resources for Learning OOP in Python – dbader.org
+https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/ | Why is Object-Oriented Programming Useful? (With a Role Playing Game Example) - The Invent with Python Blog
+https://blog.newrelic.com/2015/04/01/python-programming-styles/ | Embracing the Four Python Programming Styles
+
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
+
+
+http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
+http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
+http://www.diveintopython.net/native_data_types/joining_lists.html
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
+
+http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
+http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
+
+https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
+https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+-->
 
 
 
@@ -816,6 +825,9 @@ https://www.djangopackages.com/python3/
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
+
+https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+https://github.com/faif/python-patterns/blob/master/behavioral/strategy.py | python-patterns/strategy.py at master · faif/python-patterns
 
 https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Python_Programming/Functions
