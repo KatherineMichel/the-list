@@ -263,9 +263,6 @@ Awesome Data Science
 https://github.com/keon/awesome-nlp
 https://github.com/kjw0612/awesome-deep-vision
 
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/sindresorhus/awesome#computer-science
-
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
@@ -299,20 +296,18 @@ Awesome Tools
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-<!--
+Stellar Programming Learning Resources
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university)
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
-
+<!--
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
 
 
-
-https://github.com/sindresorhus/awesome#computer-science | sindresorhus/awesome: Curated list of awesome lists
-https://github.com/Developer-Y/cs-video-courses | Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 
@@ -392,6 +387,8 @@ https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
 
 Competitive Programmers Handbook
 https://cses.fi/book.html
