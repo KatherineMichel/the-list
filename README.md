@@ -398,6 +398,11 @@ https://github.com/AhmadElsagheer/Competitive-programming-library
 https://github.com/haseebr/competitive-programming
 https://github.com/tuvttran/project-based-learning
 https://github.com/karan/Projects
+https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
 -->
 
 ## Algorithms, Design Patterns and Conventions
@@ -1076,7 +1081,6 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 ## Data Science
 
-<!--
 Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
@@ -1096,7 +1100,6 @@ Deep Learning and Neural Networks
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 * [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
--->
 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
@@ -1189,6 +1192,8 @@ Playbooks
 https://github.com/thundergolfer/google-rules-of-machine-learning
 
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
+
 http://www.datasciguide.com
 http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
