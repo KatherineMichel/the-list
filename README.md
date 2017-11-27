@@ -416,6 +416,7 @@ Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 Design Patterns
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -452,18 +453,13 @@ https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
 uml strategy pattern - Google Search
 observer pattern uml - Google Search
 https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
+https://en.wikipedia.org/wiki/Flyweight_pattern
 
-https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
-python design patterns
-https://en.wikipedia.org/wiki/Separation_of_concerns | Separation of concerns - Wikipedia
-https://en.wikipedia.org/wiki/Design_pattern | Design pattern - Wikipedia
 classification creational structural behavioral patterns - Google Search
-liskov substitution principle - Google Search
-dependency inversion - Google Search
+
+python design patterns
 
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
-
-Software Design Patterns
 
 Programming Language Comparisons
 Category "Programming language comparisons"
@@ -472,7 +468,6 @@ Comparison of basic instructions of programming languages
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
 Comparison of programming languages (string functions)
 Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
 Comparison of programming languages (array)
 Comparison of programming languages (object-oriented programming)
 Comparison of programming languages (list comprehension)
@@ -486,8 +481,6 @@ https://en.wikipedia.org/wiki/Coding_conventions
 https://en.wikipedia.org/wiki/Programming_style
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
 
@@ -497,31 +490,37 @@ https://en.wikipedia.org/wiki/Flyweight_pattern
 https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
 https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
 https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
-https://en.wikipedia.org/wiki/Code_reuse | Code reuse - Wikipedia
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself | Don't repeat yourself - Wikipedia
 
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 https://en.wikipedia.org/wiki/Pattern_language | Pattern language - Wikipedia
-https://en.wikipedia.org/wiki/Design_Patterns | Design Patterns - Wikipedia
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
 https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
 https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
+
+https://en.wikipedia.org/wiki/Design_Patterns | Design Patterns - Wikipedia
+https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 -->
 
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
-<!--
 Object Oriented Programming
-https://en.wikipedia.org/wiki/Encapsulation_(computer_programming) | Encapsulation (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming) | Inheritance (object-oriented programming) - Wikipedia
-https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
--->
+SOLID
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+Concepts
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 <!--
 https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
@@ -940,10 +939,6 @@ pip-tools https://github.com/nvie/pip-tools
 
 
 ## Django Tutorials
-
-<!--
-https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
--->
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
