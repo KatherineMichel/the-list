@@ -560,6 +560,11 @@ https://docs.python.org/3/glossary.html#glossary
 https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 
+https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
+https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes — Python 3.6.3 documentation
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
+
 https://docs.python.org/3.6/library/string.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
