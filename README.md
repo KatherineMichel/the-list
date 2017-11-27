@@ -499,6 +499,14 @@ https://en.wikipedia.org/wiki/Agile_software_development | Agile software develo
 https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
 https://en.wikipedia.org/wiki/Code_reuse | Code reuse - Wikipedia
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself | Don't repeat yourself - Wikipedia
+
+https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
+https://en.wikipedia.org/wiki/Pattern_language | Pattern language - Wikipedia
+https://en.wikipedia.org/wiki/Design_Patterns | Design Patterns - Wikipedia
+https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 -->
 
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
@@ -520,8 +528,21 @@ https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.
 https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
 https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
 https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
-https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
+
+https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
+
 https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
 https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html
