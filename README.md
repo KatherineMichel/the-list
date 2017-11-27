@@ -422,6 +422,22 @@ Design Patterns
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
+<!--
+python design patterns
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+classification creational structural behavioral patterns - Google Search
+
+https://en.wikipedia.org/wiki/Observer_pattern
+https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+uml strategy pattern - Google Search
+observer pattern uml - Google Search
+https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
+https://en.wikipedia.org/wiki/Flyweight_pattern
+-->
+
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
@@ -434,33 +450,11 @@ Programming Languages
 * [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 * [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
 * [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-
-
 <!--
-https://en.wikipedia.org/wiki/Observer_pattern
-https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-uml strategy pattern - Google Search
-observer pattern uml - Google Search
-https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern
-
-classification creational structural behavioral patterns - Google Search
-
-python design patterns
-
-https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms | Comparison of programming paradigms - Wikipedia
-
 Programming Language Comparisons
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
@@ -475,12 +469,19 @@ Comparison of programming languages (mapping)
 Comparison of programming paradigms
 Comparison of multi-paradigm programming languages
 Comparison of type systems
+-->
 
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+<!--
 https://en.wikipedia.org/wiki/Coding_conventions
 
 https://en.wikipedia.org/wiki/Programming_style
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 -->
 
 
@@ -504,6 +505,7 @@ https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Ori
 -->
 
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 
