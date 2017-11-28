@@ -645,6 +645,8 @@ Python Websites and Newsletters
 
 
 <!--
+https://github.com/norvig/pytudes
+
 Automate the Boring Stuff
 https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
