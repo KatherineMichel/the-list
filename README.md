@@ -645,6 +645,7 @@ Python Tutors
 
 <!--
 Automate the Boring Stuff
+https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0 | Automate the Boring Stuff with Python Programming | Udemy
 https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 -->
@@ -664,6 +665,12 @@ https://github.com/vintasoftware/python-api-checklist
 http://djangoappschecklist.com
 
 https://github.com/norvig/pytudes
+
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
+
 
 https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
 
@@ -695,6 +702,11 @@ https://dbader.org/python-tricks | Improve Your Python With Python Tricks – db
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
+https://dbader.org/blog/python-first-class-functions
+https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
+https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
 
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
@@ -738,31 +750,6 @@ https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges
 
 http://campus.codeschool.com/courses/try-django/contents
--->
-
-
-<!--
-Python- Playbooks
-* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
-
-http://www.ironpythoninaction.com
-
-https://stephensugden.com/crash_into_python/ | Crash into Python
-https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
-
-http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
-https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
-http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
-http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
-http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
-
 
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
@@ -772,6 +759,7 @@ https://github.com/jacobian/django-dotenv
 
 pydanny’s blog
 http://pydanny.com/tag/django.html
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 http://pydanny.com/tag/class-based-views.html
 http://www.pydanny.com/tag/forms.html
 http://www.pydanny.com/python-decorator-cheatsheet.html
@@ -785,13 +773,29 @@ https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expr
 https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
 https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
+http://treyhunner.com/talk-talk/#/
 https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 -->
 
 
+
 <!--
+Python- Playbooks
+* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
+
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
+http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
+
+
+
+
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
 
 YouTube
@@ -810,7 +814,6 @@ http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, Typ
 https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
 http://thepythonguru.com/ | Learn Python | Python tutorials for beginners | The Python Guru
 http://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, Idiomatic Python - YouTube
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
@@ -846,8 +849,16 @@ https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Re
 Derek Banas
 https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
 
+
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
 Object Oriented
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
@@ -860,19 +871,20 @@ https://dbader.org/python-oop-cheatsheet | 7 Great Resources for Learning OOP in
 https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/ | Why is Object-Oriented Programming Useful? (With a Role Playing Game Example) - The Invent with Python Blog
 https://blog.newrelic.com/2015/04/01/python-programming-styles/ | Embracing the Four Python Programming Styles
 
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+http://www.ironpythoninaction.com
+
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
 http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
 
 http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
 http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
 
+http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
 http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
@@ -1142,6 +1154,7 @@ https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance re
 https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
 -->
 
 
