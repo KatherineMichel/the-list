@@ -247,6 +247,7 @@ Awesome Python and Django
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python)
 * [Awesome Django GitHub](https://github.com/rosarior/awesome-django)
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
 Awesome Data Science
 * [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
@@ -525,6 +526,12 @@ Concepts
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 <!--
+https://docs.python.org/3/ | 3.6.2 Documentation
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+django parallel tests
+https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
+Django Sites
+
 https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
 https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
 https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
@@ -636,6 +643,12 @@ Python Tutors
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+<!--
+Automate the Boring Stuff
+https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+-->
+
 Python Websites and Newsletters
 * [Python Central](http://www.pythoncentral.io)
 * [Python for Beginners](http://www.pythonforbeginners.com)
@@ -645,11 +658,27 @@ Python Websites and Newsletters
 
 
 <!--
+New
+http://python.apichecklist.com
+https://github.com/vintasoftware/python-api-checklist
+http://djangoappschecklist.com
+
 https://github.com/norvig/pytudes
 
-Automate the Boring Stuff
-https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+
+https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
 
 https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
@@ -666,21 +695,6 @@ https://dbader.org/python-tricks | Improve Your Python With Python Tricks – db
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
-https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
 
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
@@ -748,7 +762,34 @@ http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingE
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
+
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+
+https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
+https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
+https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
+https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
+http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
+https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 -->
+
 
 <!--
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
@@ -796,22 +837,22 @@ http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod | ArticleS.UncleBob.Pri
 http://www.oodesign.com/design-principles.html | Design Principles | Object Oriented Design
 https://www.youtube.com/results?search_query=uncle+bob+martin | uncle bob martin - YouTube
 
+Corey Schafer
 https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
 https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
 https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
+https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
+
+Derek Banas
+https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
-
-
-https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
-https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
-
+Object Oriented
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
 https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
-http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
 https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
 http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
 https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/ | Improve Your Python: Python Classes and Object Oriented Programming
@@ -829,9 +870,10 @@ http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Mag
 
 http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
 
-
 http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
 http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
+
+http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
