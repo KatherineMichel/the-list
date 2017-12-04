@@ -243,9 +243,14 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [React Docs](https://reactjs.org/docs)
 * [Sass Basics](http://sass-lang.com/guide)
 
-Awesome Python and Django
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python)
-* [Awesome Django GitHub](https://github.com/rosarior/awesome-django)
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+
+Awesome Django
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
 * [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
@@ -660,6 +665,9 @@ Python Websites and Newsletters
 
 <!--
 New
+https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
+https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
+
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
 http://djangoappschecklist.com
@@ -670,6 +678,7 @@ https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Djang
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
+
 
 
 https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
@@ -1146,6 +1155,14 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
 https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
 https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+
+django fixtures
+wsgi
+
+https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Django 2.0? // Speaker Deck
+https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+
+https://docs.djangoproject.com/en/1.11/ref/models/querysets/#django.db.models.query.QuerySet.exists | QuerySet API reference | Django documentation | Django
 
 https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
