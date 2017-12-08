@@ -500,36 +500,6 @@ https://en.wikipedia.org/wiki/Programming_style
 ## Python- Programming Paradigms
 
 <!--
-New
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
-https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
-https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
-https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/models/fields/ | Model field reference | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/ | Introduction to class-based views | Django documentation | Django
-https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
-
-https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
-https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
-django uml - Google Search
-
-http://www.nextdayvideo.com/ | Next Day Video : Welcome
-https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
-
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-
-https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
-
-https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
-
-
-
-
 https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
 https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
 https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
@@ -700,6 +670,26 @@ Python Websites and Newsletters
 
 
 <!--
+New
+https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
+https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+django uml - Google Search
+
+http://www.nextdayvideo.com/ | Next Day Video : Welcome
+https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
+
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+
+https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
+
+https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
+
+
+
 New
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
@@ -1195,8 +1185,18 @@ https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django 
 django fixtures
 wsgi
 
-https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Django 2.0? // Speaker Deck
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
+https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
+https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/models/fields/ | Model field reference | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/ | Introduction to class-based views | Django documentation | Django
+https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
+
+https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Django 2.0? // Speaker Deck
+https://www.caktusgroup.com/blog/2017/12/04/caktus-excited-about-django-2/ | Caktus is Excited about Django 2.0 | Caktus Group
+https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
 
 https://docs.djangoproject.com/en/1.11/ref/models/querysets/#django.db.models.query.QuerySet.exists | QuerySet API reference | Django documentation | Django
 
