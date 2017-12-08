@@ -309,11 +309,6 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
-New
-https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-
-
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
@@ -679,11 +674,6 @@ https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collection
 https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 django uml - Google Search
 
-http://www.nextdayvideo.com/ | Next Day Video : Welcome
-https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
-
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
 
 https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
@@ -706,6 +696,9 @@ https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-ima
 https://github.com/coodict/python3-in-one-pic
 
 
+
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
 
 https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
 
@@ -742,6 +735,11 @@ https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of 
 https://dbader.org/blog/python-first-class-functions
 https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
 https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
+
+https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
+https://dbader.org/blog/why-learn-python | Why Learn Python? Here Are 8 Data-Driven Reasons – dbader.org
+https://www.youtube.com/watch?v=ixO9oXy1Dhw | Object-Oriented Programming (OOP) in Python – A Good Idea? 🚨🐍 - YouTube
+https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
 
 https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
@@ -809,6 +807,7 @@ https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
 https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
 http://treyhunner.com/talk-talk/#/
+http://treyhunner.com/loop-better/#/ | Loop Better
 https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
@@ -918,10 +917,11 @@ http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip 
 
 http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
 http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
+http://www.diveintopython.net/native_data_types/joining_lists.html
 
+http://www.diveintopython3.net/whats-new.html | What's New In Dive Into Python 3
 http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
 http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
-http://www.diveintopython.net/native_data_types/joining_lists.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
@@ -1214,6 +1214,17 @@ https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transa
 
 ## Data Science
 
+<!--
+https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
+https://research.google.com/teams/brain/ | Research at Google
+https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
+https://research.google.com/teams/brain/about.html | Research at Google
+https://research.google.com/teams/brain/machine-learning/ | Research at Google
+https://research.google.com/teams/ | Research at Google
+
+https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
+-->
+
 Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
@@ -1309,10 +1320,13 @@ Data Science Websites
 <!--
 http://www.vincentgranville.com
 
-Sam DeBrule
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+
 https://machinelearnings.co
 https://www.producthunt.com/posts/machine-learnings-newsletter
 http://subscribe.machinelearnings.co/
+https://machinelearnings.co/@samdebrule
+https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
 
 http://www.partiallyderivative.com
 -->
@@ -1476,8 +1490,11 @@ https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Inst
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
 -->
 
-Ethics
-* [OpenAI](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
+Partnerships, Exchanges, Ethics
+* [Artificial Intelligence Index](http://aiindex.org)
+* [Open Neural Network Exchange Format (Facebook and Microsoft)](https://onnx.ai) and [ONNX GitHub](https://github.com/onnx/onnx)
+* [OpenAI (Various Companies and People)](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
+* [Partnership on AI (Various Companies)](https://www.partnershiponai.org)
 
 Labs
 * [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
@@ -1757,6 +1774,12 @@ Probability
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
 #### Python and Django Conference Videos and Slides
+
+<!--
+https://2017.pygotham.org/ | PyGotham 2017
+http://www.nextdayvideo.com/ | Next Day Video : Welcome
+https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
+-->
 
 PyVideo
 * [PyVideo](http://pyvideo.org)
