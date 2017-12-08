@@ -309,6 +309,11 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
+New
+https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+
+
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
@@ -348,6 +353,7 @@ https://github.com/bradfrost/frontend-guidelines-questionnaire
 https://github.com/xitu/front-end-handbook-2017
 https://github.com/FrontendMasters/front-end-handbook-2017
 https://frontendmasters.com
+https://frontendmasters.com/courses/#free | Video Courses on JavaScript and Front-End Web Development
 https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
 
@@ -494,6 +500,36 @@ https://en.wikipedia.org/wiki/Programming_style
 ## Python- Programming Paradigms
 
 <!--
+New
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
+https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
+https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
+https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/models/fields/ | Model field reference | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/ | Introduction to class-based views | Django documentation | Django
+https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
+
+https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
+https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+django uml - Google Search
+
+http://www.nextdayvideo.com/ | Next Day Video : Welcome
+https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
+
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+
+https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
+
+https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
+
+
+
+
 https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
 https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
 https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
