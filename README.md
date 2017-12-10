@@ -532,36 +532,36 @@ Concepts
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 <!--
+https://www.python.org/dev/peps/pep-0008/
+
+https://docs.python.org/3/contents.html
+https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/py-modindex.html
+https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
+
 https://docs.python.org/3/ | 3.6.2 Documentation
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-django parallel tests
 https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
 Django Sites
 
-https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
 https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
 
 https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
+https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
-https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
-
-https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
-https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html
-https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
 
 Kenneth Reitz
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
@@ -569,8 +569,8 @@ https://docs.python.org/3.6/tutorial/datastructures.html
 https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 
-https://docs.python.org/3/glossary.html#glossary
-
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+django parallel tests
 https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 
@@ -579,6 +579,8 @@ https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
 
+https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/string.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
