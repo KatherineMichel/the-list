@@ -113,6 +113,12 @@ Stars
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
+<!--
+http://www.hntoplinks.com/all | All Time - Hacker News Top Links
+https://news.ycombinator.com/best | Top Links | Hacker News
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+-->
+
 ## Interesting Ideas
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
