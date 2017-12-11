@@ -534,6 +534,7 @@ Concepts
 <!--
 https://www.python.org/dev/peps/pep-0008/
 
+https://docs.python.org/3/ | 3.6.4rc1 Documentation
 https://docs.python.org/3/contents.html
 https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
@@ -562,6 +563,7 @@ https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model —
 https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
 
 Kenneth Reitz
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
@@ -591,13 +593,17 @@ https://docs.python.org/3/library/logging.config.html
 
 ## Python and Django Books and Tutorials
 
+<!--
+https://github.com/topics/python | Topic: python
+-->
+
 Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
 <!--
 https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
@@ -633,14 +639,14 @@ Forums
 
 Python Tutors
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0) and [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff)
+* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com)
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Daniel Roy Greenfield](http://www.pydanny.com)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
-* [Eric Matthes: Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Eric Matthes: Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
+* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
@@ -651,19 +657,14 @@ Python Tutors
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
-<!--
-Automate the Boring Stuff
-https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0 | Automate the Boring Stuff with Python Programming | Udemy
-https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
--->
-
 Python Websites and Newsletters
 * [Python Central](http://www.pythoncentral.io)
 * [Python for Beginners](http://www.pythonforbeginners.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
-
+<!--
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+-->
 
 
 <!--
@@ -685,14 +686,14 @@ https://frontendmasters.com/courses/functional-javascript-v2/functional-programm
 New
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
 http://djangoappschecklist.com
 
-https://github.com/norvig/pytudes
-
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
@@ -768,9 +769,6 @@ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Intro
 https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
 
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
@@ -801,6 +799,8 @@ http://www.pydanny.com/python-decorator-cheatsheet.html
 https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
 
+https://www.crowdcast.io/e/asterisks/register | Python Asterisks: How Unpacking Has Changed - Crowdcast
+https://www.crowdcast.io/e/functions | Functions in Python – Crowdcast
 https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
 https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
@@ -1188,6 +1188,9 @@ django fixtures
 wsgi
 
 https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
+
+https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
+https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
 https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
@@ -1200,16 +1203,16 @@ https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Dj
 https://www.caktusgroup.com/blog/2017/12/04/caktus-excited-about-django-2/ | Caktus is Excited about Django 2.0 | Caktus Group
 https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
 
-https://docs.djangoproject.com/en/1.11/ref/models/querysets/#django.db.models.query.QuerySet.exists | QuerySet API reference | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exists | QuerySet API reference | Django documentation | Django
 
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/topics/db/transactions/ | Database transactions | Django documentation | Django
 -->
 
 
