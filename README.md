@@ -572,6 +572,10 @@ https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound st
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
 
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
 Kenneth Reitz
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
 https://docs.python.org/3.6/tutorial/datastructures.html
