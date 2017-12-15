@@ -114,6 +114,7 @@ Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
 <!--
+https://www.reddit.com/r/all/top/?sort=top&t=all | top scoring links : all
 http://www.hntoplinks.com/all | All Time - Hacker News Top Links
 https://news.ycombinator.com/best | Top Links | Hacker News
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
@@ -2456,6 +2457,8 @@ Documentation- Mozilla
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Glossary | Glossary | MDN
+
 JavaScript- Microsoft
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
