@@ -1161,6 +1161,7 @@ https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
 
 https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
 
+https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
 https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
 
 https://hellowebbooks.com/news/hello-web-app-online-forever
