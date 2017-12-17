@@ -542,6 +542,16 @@ Concepts
 <!--
 https://www.python.org/dev/peps/pep-0008/
 
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+Kenneth Reitz
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://docs.python.org/3.6/tutorial/datastructures.html
+https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+
 https://docs.python.org/3/ | 3.6.4rc1 Documentation
 https://docs.python.org/3/contents.html
 https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
@@ -572,16 +582,6 @@ https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — P
 https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
-Kenneth Reitz
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://docs.python.org/3.6/tutorial/datastructures.html
-https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
 django parallel tests
