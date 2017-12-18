@@ -1947,23 +1947,12 @@ http://lanyrd.com/places/greater-london
 https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
 -->
 
+
 ## Engineering Blogs
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://medium.com/uber-developers)  
--->
-
-
- 
 
 ## Hosting News
 
@@ -2334,6 +2323,10 @@ Shortcuts
 
 ## Git and Workflow
 
+<!--
+See Git Workflow
+-->
+
 Ops School and DevOps Bootcamp
 * [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
 * [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
@@ -2382,10 +2375,6 @@ Software Versioning
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-<!--
-See Git Workflow
--->
 
 ## Web Development Standards and Documentation
 
