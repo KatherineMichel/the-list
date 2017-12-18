@@ -2319,62 +2319,11 @@ Shortcuts
   
 
   
-
-
 ## Git and Workflow
 
 <!--
-See Git Workflow
+See Git Workflow, DevOps, Dotfiles, Code Review
 -->
-
-Ops School and DevOps Bootcamp
-* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-
-<!--
-https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1 | DevOps BootCamp 2015-2016 - YouTube
-https://devopsbootcamp.osuosl.org/bootcamp_content.html | DevOps Bootcamp — OSU DevOps BootCamp 0.0.1 documentation
-http://devopsbootcamp.osuosl.org/documentation-communication.html | Lesson 3: Docs & Communication — OSU DevOps BootCamp 0.0.1 documentation
-http://devopsbootcamp.osuosl.org/start-here.html | Lesson 0: Start Here — OSU DevOps BootCamp 0.0.1 documentation
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-http://www.opsschool.org/en/latest/sysadmin_101.html | Sysadmin 101 — Ops School Curriculum 0.1 documentation
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
--->
-
-More Workflows
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
-* [GitHub Flow](https://help.github.com/articles/github-flow)
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
-* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
-* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
-* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
-
-Software Versioning
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-
-
-
-* Startup Engineering MOOC
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 ## Web Development Standards and Documentation
 
