@@ -2384,66 +2384,8 @@ Code Review (See also Project Management)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
 
 <!--
-Go Through Again
-
-Git Docs
-* [Git Homepage](https://git-scm.com)
-* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Pro Git Book](https://git-scm.com/book/en/v2)
-* [GitHub Help](https://help.github.com)
-* [GitHub Guides](https://guides.github.com)
-* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
-* [Git Index](http://gitref.org) 
-* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorials)
-* [Git Tower Learn](https://www.git-tower.com/learn)
-
-GitHub Docs
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
-* [GitHub Guides](https://guides.github.com) 
-
-Git Cheat Sheets and Tutorials
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](http://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
-
-<!--
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
-
-https://github.com/k88hudson/git-flight-rules | k88hudson/git-flight-rules: Flight rules for git
-https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
-
-* [Git Index](http://gitref.org)  
-
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-Recommended
-https://github.com/progit/progit2
-https://opensource.guide
-https://github.com/github/opensource.guide
-
-Atlassian: Bitbucket and SourceTree
-* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
-* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Atlassian SourceTree](https://www.sourcetreeapp.com)
-
-More GitHub Alternatives, Sourceforge
-* [Google Code](https://code.google.com)  
-
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
+See Git Workflow
 -->
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* [Gitlab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-
 
 ## Web Development Standards and Documentation
 
