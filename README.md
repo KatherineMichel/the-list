@@ -607,7 +607,20 @@ https://docs.python.org/3/library/logging.config.html
 
 <!--
 https://github.com/topics/python | Topic: python
+
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
+
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 -->
+
+
 
 Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
