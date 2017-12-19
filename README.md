@@ -618,6 +618,9 @@ https://martinfowler.com/bliki/TestCoverage.html
 
 http://pythontesting.net/start-here | Start Here - Python Testing
 http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+http://www.fullstackpython.com/deployment.html
+http://masteringdjango.com/testing-in-django
 -->
 
 
