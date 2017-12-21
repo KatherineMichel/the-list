@@ -492,12 +492,18 @@ https://en.wikipedia.org/wiki/Coding_conventions
 https://en.wikipedia.org/wiki/Programming_style
 -->
 
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+
 <!--
-https://en.wikipedia.org/wiki/Class_diagram
-https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
+Python
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
 http://staruml.io/ | StarUML
 https://www.draw.io/ | draw.io
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 
 https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
 https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
@@ -507,7 +513,6 @@ https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tu
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
 https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
 https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 django uml - Google Search
 -->
 
@@ -521,8 +526,6 @@ https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wiki
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 https://en.wikipedia.org/wiki/Pattern_language | Pattern language - Wikipedia
 https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
-https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
 https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 
 https://en.wikipedia.org/wiki/Design_Patterns | Design Patterns - Wikipedia
@@ -616,28 +619,11 @@ https://docs.python.org/3/library/logging.config.html
 
 ## Python and Django Books and Tutorials
 
-<!--
-https://github.com/topics/python | Topic: python
-
-https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-
-https://docs.python.org/3.5/library/unittest.html
-http://www.diveintopython.net/unit_testing
-
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
-
-http://www.fullstackpython.com/deployment.html
-http://masteringdjango.com/testing-in-django
--->
-
-
-
 Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
+
+Python Topics
+* [GitHub Topic: python](https://github.com/topics/python)
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
@@ -706,6 +692,23 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 -->
 
 
+
+<!--
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
+
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+http://www.fullstackpython.com/deployment.html
+http://masteringdjango.com/testing-in-django
+-->
+
 <!--
 New
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
@@ -722,9 +725,6 @@ https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Djang
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
 http://djangoappschecklist.com
-
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
