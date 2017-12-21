@@ -423,16 +423,14 @@ Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
-Design Patterns
+Design Patterns- General
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Django Design Patterns and Best Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 <!--
-python design patterns
-
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 classification creational structural behavioral patterns - Google Search
@@ -492,47 +490,6 @@ https://en.wikipedia.org/wiki/Coding_conventions
 https://en.wikipedia.org/wiki/Programming_style
 -->
 
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-
-<!--
-Python
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
-
-https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
-https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
-https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
-
-https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-django uml - Google Search
--->
-
-## Python- Programming Paradigms
-
-<!--
-https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
-
-https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
-https://en.wikipedia.org/wiki/Pattern_language | Pattern language - Wikipedia
-https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
-
-https://en.wikipedia.org/wiki/Design_Patterns | Design Patterns - Wikipedia
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
--->
-
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -552,6 +509,62 @@ Concepts
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
+<!--
+https://en.wikipedia.org/wiki/Adaptive_software_development | Adaptive software development - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
+
+https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
+https://en.wikipedia.org/wiki/Pattern_language | Pattern language - Wikipedia
+https://en.wikipedia.org/wiki/Flowchart | Flowchart - Wikipedia
+
+https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+-->
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+
+## Python- Programming Paradigms
+
+<!--
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
+
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+
+https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+django uml - Google Search
+-->
+
+Python Syntax and Semantics
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+Python and Django Design Patterns
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+
+<!--
+Python
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
+https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+https://github.com/faif/python-patterns/blob/master/behavioral/strategy.py | python-patterns/strategy.py at master · faif/python-patterns
+
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+-->
 
 <!--
 https://www.python.org/dev/peps/pep-0008/
@@ -985,17 +998,8 @@ Wiki Books
 <!--
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-* [Python Patterns Library](https://github.com/faif/python-patterns)
-
-https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
-https://github.com/faif/python-patterns/blob/master/behavioral/strategy.py | python-patterns/strategy.py at master · faif/python-patterns
-
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 -->
+
 
 Python- Books
 * [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
@@ -1101,9 +1105,9 @@ Simple is Better than Complex
 https://github.com/sibtc | Simple is Better Than Complex
 https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
 
-https://disqus.com/home/explore/?email_verified=1 | Disqus
 https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
 https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
+https://disqus.com/home/explore/?email_verified=1 | Disqus
 
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
 
