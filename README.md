@@ -248,6 +248,7 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 * [Django Docs](https://docs.djangoproject.com)  
 * [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [React Docs](https://reactjs.org/docs)
+* [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
 
 Awesome Python
@@ -280,14 +281,6 @@ https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-
-
-https://github.com/18F/transformation-research
-https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
-https://github.com/opensourceway/open-decision-framework
-
-https://github.com/todogroup/awesome-oss-mgmt
-http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
 -->
 
 ## Interesting Curated Learning Resources
@@ -499,6 +492,24 @@ https://en.wikipedia.org/wiki/Coding_conventions
 https://en.wikipedia.org/wiki/Programming_style
 -->
 
+<!--
+https://en.wikipedia.org/wiki/Class_diagram
+https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+
+https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
+https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
+https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
+
+https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+django uml - Google Search
+-->
 
 ## Python- Programming Paradigms
 
@@ -697,14 +708,6 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 <!--
 New
-https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models | Django Tutorial Part 3: Using models - Learn web development | MDN
-https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html | A Complete Beginner's Guide to Django - Part 7
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
-django uml - Google Search
-
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
 
 https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
@@ -1095,13 +1098,6 @@ Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
 <!--
-https://en.wikipedia.org/wiki/Class_diagram
-https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
-
-
 https://github.com/sibtc | Simple is Better Than Complex
 https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
 
@@ -2153,7 +2149,7 @@ Courses
 * [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 * [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
@@ -2165,10 +2161,6 @@ http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Comp
 https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
 
 http://ready.codecademy.com | Build Websites From Scratch
-
-
-
-[Khan Academy GitHub](https://github.com/Khan) 
 -->
 
 Forums
@@ -2255,10 +2247,6 @@ Fave Pluralsight Authors
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
-<!--
-https://twitter.com/housecor/status/858870694326800385
--->
 
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
