@@ -501,8 +501,6 @@ https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Ori
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 
 
-https://en.wikipedia.org/wiki/Computer_programming | Computer programming - Wikipedia
-
 https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
 -->
 
@@ -520,6 +518,7 @@ Concepts
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
