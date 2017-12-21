@@ -1875,9 +1875,16 @@ DjangoCon Europe
 <!--
 https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
 http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
-https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
 https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
+https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
+https://www.pycascades.com/speakers
+https://pyohio.org/schedule/
+https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
+http://il.pycon.org/2016/about/speakers.html
+https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
+
 https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
 -->
 
@@ -2338,19 +2345,9 @@ Google Developers- General
 * [Google Chrome Home](https://developers.google.com/chrome)
 
 Documentation- Mozilla
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Glossary | Glossary | MDN
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
--->
 
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
@@ -2373,6 +2370,10 @@ Addy Osmani
 
 Kyle Simpson
 * [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 
 ## Markdown, YAML, Jekyll
 
