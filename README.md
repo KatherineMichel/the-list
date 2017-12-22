@@ -624,6 +624,9 @@ https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound st
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
 
+https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
+https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
+
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
 django parallel tests
 https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
