@@ -1284,6 +1284,17 @@ https://docs.djangoproject.com/en/2.0/topics/db/transactions/ | Database transac
 ## Data Science
 
 <!--
+https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+
+https://github.com/cs50/
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
+https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
+
 https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
 https://research.google.com/teams/brain/ | Research at Google
 https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
