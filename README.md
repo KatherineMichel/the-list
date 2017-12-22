@@ -153,6 +153,9 @@ Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 <!--
+https://twitter.com/balajis/following | People followed by Balaji S. Srinivasan (@balajis) | Twitter
+https://twitter.com/cdixon | Chris Dixon (@cdixon) | Twitter
+
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
@@ -413,11 +416,27 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
 -->
 
+
 ## Algorithms, Design Patterns and Conventions
 
 <!--
+https://en.wikipedia.org/wiki/Coding_conventions
+
+https://en.wikipedia.org/wiki/Programming_style
+
+https://www.owasp.org/index.php/Main_Page | OWASP
+https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
+
+
 Programming and Paradigm
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
 
 https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
 https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
@@ -500,12 +519,7 @@ Scripting and MVCs
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-<!--
-https://en.wikipedia.org/wiki/Coding_conventions
-
-https://en.wikipedia.org/wiki/Programming_style
--->
-
+Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
@@ -515,9 +529,6 @@ https://en.wikipedia.org/wiki/Programming_style
 <!--
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
-
-
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
 -->
 
 Object Oriented Programming
@@ -540,6 +551,11 @@ Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 * [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+
+<!--
+https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
+https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
+-->
 
 ## Python- Programming Paradigms
 
