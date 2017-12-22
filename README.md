@@ -739,9 +739,22 @@ http://masteringdjango.com/testing-in-django
 
 <!--
 New
-https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
-
 https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
+
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+http://jakevdp.github.io
+
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+
+https://simpleisbetterthancomplex.com/tips/2017/07/03/django-tip-20-working-with-multiple-settings-modules.html | Django Tips #20 Working With Multiple Settings Modules
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+
 
 
 
@@ -1182,6 +1195,11 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
+
+https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
+
+
 https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
 https://speakerdeck.com/limedaring/pyladies-remote
