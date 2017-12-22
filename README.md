@@ -1872,6 +1872,7 @@ Probability
 #### Python and Django Conference Videos and Slides
 
 <!--
+[North Bay Python YouTube](https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos)
 https://2017.pygotham.org/ | PyGotham 2017
 http://www.nextdayvideo.com/ | Next Day Video : Welcome
 https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
