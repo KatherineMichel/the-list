@@ -415,6 +415,11 @@ https://github.com/blakeembrey/code-problems
 
 ## Algorithms, Design Patterns and Conventions
 
+<!--
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+-->
+
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
