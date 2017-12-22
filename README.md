@@ -418,6 +418,16 @@ https://github.com/blakeembrey/code-problems
 <!--
 Programming and Paradigm
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
+https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
+https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
+https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80
+https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 -->
 
 Algorithms
@@ -498,8 +508,9 @@ https://en.wikipedia.org/wiki/Programming_style
 
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 
 <!--
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
