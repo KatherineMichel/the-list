@@ -294,7 +294,7 @@ Awesome Tools
 * [Lists](https://github.com/jnv/lists)
 
 * [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Open Source Society University](https://github.com/open-source-society/computer-science)
+* [Open Source Society University](https://github.com/ossu/computer-science)
 * [Skill Map](https://github.com/TeamStuQ/skill-map)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
