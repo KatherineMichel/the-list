@@ -330,6 +330,8 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
+https://github.com/huyingjie/Checklist-Checklist | huyingjie/Checklist-Checklist: 🌈 A Curated List of Checklists ✔︎✔︎
+
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
 
@@ -437,6 +439,10 @@ Programming and Paradigm
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
+
+https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 
 https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
 https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
