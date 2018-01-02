@@ -143,6 +143,11 @@ Curated Blogs and Podcasts
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) 
 
+<!--
+https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017 | The Best of Farnam Street 2017
+https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup/ | Complete 2017 Roundup
+-->
+
 Finance Blogs
 * [Michael Mauboussin](http://michaelmauboussin.com)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
@@ -183,6 +188,12 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
+<!--
+https://en.wikipedia.org/wiki/Pattern_recognition_(psychology) | Pattern recognition (psychology) - Wikipedia
+
+https://news.ycombinator.com/item?id=16009028 | Ask HN: Any recommended books on developing mental models? | Hacker News
+-->
+
 Charlie Munger's 18 Biases
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
@@ -205,6 +216,8 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+Eisenhower Matrix
+
 https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
 https://www.instagram.com/p/Bb5Y8EgFQRd/ | Tim Ferriss on Instagram: “Want to get all of your holiday shopping done in no time? See the first two bullets here...” • Instagram
 
@@ -429,6 +442,8 @@ https://en.wikipedia.org/wiki/Programming_style
 https://www.owasp.org/index.php/Main_Page | OWASP
 https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
 
+Code Editors
+https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
 https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
 https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
 https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
