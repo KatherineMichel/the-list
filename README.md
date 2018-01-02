@@ -216,6 +216,7 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 Eisenhower Matrix
 
 https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
@@ -2361,6 +2362,7 @@ Books
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [No Starch Press](https://www.nostarch.com)
 
 
 
