@@ -98,9 +98,13 @@ Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
+
+<!--
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+-->
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
@@ -113,14 +117,11 @@ Stars
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
-<!--
-https://www.reddit.com/r/all/top/?sort=top&t=all | top scoring links : all
-http://www.hntoplinks.com/all | All Time - Hacker News Top Links
-https://news.ycombinator.com/best | Top Links | Hacker News
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
--->
-
 ## Interesting Ideas
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
@@ -138,15 +139,10 @@ Agency
 Curated Blogs and Podcasts
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Farnham Street Blog](https://www.farnamstreetblog.com)
-* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles) and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
+* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Nir Eyal](http://www.nirandfar.com)
-* [Ribbonfarm](http://www.ribbonfarm.com)
+* [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Wait But Why](http://waitbutwhy.com) 
-
-<!--
-https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017 | The Best of Farnam Street 2017
-https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup/ | Complete 2017 Roundup
--->
 
 Finance Blogs
 * [Michael Mauboussin](http://michaelmauboussin.com)
@@ -157,10 +153,6 @@ Finance Blogs
 Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
-<!--
-https://twitter.com/balajis/following | People followed by Balaji S. Srinivasan (@balajis) | Twitter
-https://twitter.com/cdixon | Chris Dixon (@cdixon) | Twitter
-
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
@@ -168,6 +160,10 @@ Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 http://nuzzel.com/gc
+
+<!--
+https://twitter.com/balajis/following | People followed by Balaji S. Srinivasan (@balajis) | Twitter
+https://twitter.com/cdixon | Chris Dixon (@cdixon) | Twitter
 
 MarcA Books
 http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
@@ -179,6 +175,9 @@ https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Boo
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
 
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
+
 Mental Models
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -189,8 +188,6 @@ Mental Models
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 <!--
-https://en.wikipedia.org/wiki/Pattern_recognition_(psychology) | Pattern recognition (psychology) - Wikipedia
-
 https://news.ycombinator.com/item?id=16009028 | Ask HN: Any recommended books on developing mental models? | Hacker News
 -->
 
