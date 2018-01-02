@@ -73,21 +73,6 @@ https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of 
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
-http://www.investopedia.com/terms/d/dcf.asp | Discounted Cash Flow (DCF)
-https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedia
-
-Agile and Lean
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-Scientific Method
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-
-https://hbr.org/2016/09/the-elements-of-value
 -->
 
 
@@ -131,10 +116,6 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
-
-Agency
-* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
-* [Strategyzer Blog](http://blog.strategyzer.com)
 
 Curated Blogs and Podcasts
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
@@ -254,6 +235,29 @@ https://personalmba.com/ | The Personal MBA - Josh Kaufman
 http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
 http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
+-->
+
+## Scientific Method
+
+Agency
+* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
+* [Strategyzer Blog](http://blog.strategyzer.com)
+
+<!--
+https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
+http://www.investopedia.com/terms/d/dcf.asp | Discounted Cash Flow (DCF)
+https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedia
+
+Agile and Lean
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+Scientific Method
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+
+https://hbr.org/2016/09/the-elements-of-value
 -->
 
 ## Software Tools
