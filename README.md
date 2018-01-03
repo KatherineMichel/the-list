@@ -65,14 +65,7 @@ User Interfaces
 
 site reliability engineering
 
-See Python
-
 https://www.udemy.com/js-and-react-for-devs
-
-https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 -->
 
 
@@ -239,14 +232,23 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 
 ## Scientific Method
 
+Scientific Method and Minimum Viable Product
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
 
 <!--
-https://en.wikipedia.org/wiki/SWOT_analysis | SWOT analysis - Wikipedia
-http://www.investopedia.com/terms/d/dcf.asp | Discounted Cash Flow (DCF)
-https://en.wikipedia.org/wiki/Monte_Carlo_method | Monte Carlo method - Wikipedia
+Marty Cagan
+
+https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
 
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
@@ -254,10 +256,44 @@ http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
-Scientific Method
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-
 https://hbr.org/2016/09/the-elements-of-value
+-->
+
+<!--
+https://medium.com/startup-grind/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8#.ad6k04luv
+
+https://news.ycombinator.com/item?id=14227063
+https://makebook.io
+https://www.youtube.com/watch?v=m3nb_Qj3mRA
+https://levels.io/hoodmaps/
+https://twitter.com/levelsio/status/861835999604752384
+http://coastery.com/2016/how-pieter-levels-works/
+https://levels.io/bootstrapping
+https://twitter.com/levelsio/status/884667359792779264 | Pieter Levels @ 🇺🇸 on Twitter: "Should I tell the story how I got fucked over by a guy who used me and others to raise $3 million dollars of funding in SF?"
+https://twitter.com/levelsio/status/895829157413658625
+https://twitter.com/levelsio/status/893309499293016065
+https://twitter.com/levelsio/status/895818820161462272
+https://twitter.com/levelsio/status/889454248026451968 | Pieter Levels @ 🇺🇸 on Twitter: "https://t.co/08KgAoIk3W press tour: - @ProductHunt LIVE chat - @TechCrunch interview - @NYTimes interview - @IndieHackers podcast interview"
+https://twitter.com/levelsio/status/742166715853885440
+https://twitter.com/levelsio/status/850666099817328640
+https://twitter.com/levelsio/status/887979497475129344
+https://twitter.com/levelsio/status/903791440844742656 | Pieter Levels @ 🇳🇱 on Twitter: "Entire bookkeeping soon finished, I'll publish all numbers and start /open page with all revenue this week"
+
+https://twitter.com/levelsio/status/907450486718164993 | Pieter Levels @ 🇳🇱 on Twitter: "Life Pro Tip: find a productivity partner, someone you mutually share your tasks with every day, this instantly makes your To-Do accountable"
+https://twitter.com/levelsio/status/911135199265804289 | Pieter Levels @ 🇳🇱 on Twitter: "@braddwyer @magicsudokuapp Jesus christ"
+https://twitter.com/levelsio/status/908833499452514309 | Pieter Levels @ 🇳🇱 on Twitter: " Here's my to-do system that's only @Postit's https://t.co/7Pm5ts1u5m"
+https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹🇼 on Twitter: "Nomad List 3.0 roadmap ✅ 1000 cities ✅ New engine ✅ Nomad Card ✅ Nomad Radar ⭕️ Nomad Camp ⭕️ Nomad Store"
+
+
+https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-no-customers | How to Launch a Product With No Money and No Customers – Chris Mason – Indie Hackers
+
+https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
+
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2016/03/04/5-million-week
+http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 -->
 
 ## Software Tools
@@ -608,6 +644,8 @@ Unified Modeling Language in Practice
 
 
 <!--
+https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+
 https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 
 http://staruml.io/ | StarUML
@@ -778,6 +816,13 @@ http://masteringdjango.com/testing-in-django
 
 <!--
 New
+Projects to Learn
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+
+https://www.reddit.com/r/django/ | Django
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+
 https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
 
 http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
