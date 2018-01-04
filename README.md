@@ -797,6 +797,7 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 Python Tutors- YouTube
+* [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Derek Banas YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
 * [Harrison Kinsley YouTube](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
@@ -896,6 +897,9 @@ https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
 -->
 
 
@@ -906,9 +910,6 @@ https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Djang
 SOLID (Object Oriented Design)
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
 
 New
 Projects to Learn
@@ -961,9 +962,6 @@ http://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
 https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, Idiomatic Python - YouTube
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
-
-
-https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 -->
 
 <!--
@@ -1093,7 +1091,6 @@ http://www.diveintopython.net/unit_testing
 http://pythontesting.net/start-here | Start Here - Python Testing
 http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
-http://www.fullstackpython.com/deployment.html
 http://masteringdjango.com/testing-in-django
 -->
 
@@ -1132,11 +1129,13 @@ Python- Style Guides
 
 <!--
 http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://devcenter.heroku.com/articles/deploying-python
 
 See other article also
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
+
+http://www.fullstackpython.com/deployment.html
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 -->
 
 
