@@ -812,8 +812,6 @@ New
 Projects to Learn
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
 
-https://www.reddit.com/r/django/ | Django
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
 
 https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
@@ -823,8 +821,6 @@ http://jakevdp.github.io
 
 http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
-
-https://simpleisbetterthancomplex.com/tips/2017/07/03/django-tip-20-working-with-multiple-settings-modules.html | Django Tips #20 Working With Multiple Settings Modules
 
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
@@ -1026,7 +1022,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Objec
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
 Object Oriented
-http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
 https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
 https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
@@ -1114,9 +1109,6 @@ Testing and Deployment
 https://docs.python.org/3.5/library/unittest.html
 http://www.diveintopython.net/unit_testing
 
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
 http://pythontesting.net/start-here | Start Here - Python Testing
 http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
@@ -1167,10 +1159,13 @@ pip-tools https://github.com/nvie/pip-tools
 -->
 
 
-## Django Tutorials
+## Django Learning Resources
 
-Python- Django- Official Tutorial
-* [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
+Django- Official Tutorial
+* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
+
+Forums
+* [Reddit Django](https://www.reddit.com/r/django)
 
 Django Consulting Firms, Blogs, Repos
 * [Changeset Consulting](https://changeset.nyc)
@@ -1182,7 +1177,7 @@ Django Consulting Firms, Blogs, Repos
 * [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 Teachers
-* [PyDanny Django Tag](http://pydanny.com/tag/django.html)
+* [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html)
 
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
@@ -1198,54 +1193,10 @@ Simple is Better than Complex
 
 
 <!--
-Lincoln Loop’s Django Best Practices
-http://lincolnloop.com/django-best-practices/
-https://github.com/lincolnloop/django-best-practices
-Deprecated
-https://github.com/lincolnloop/django-layout
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 
-pydanny’s blog
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
-
-https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
-
-http://www.revsys.com/12days
-http://www.frankwiles.com/posts/django-template-variable-or-else
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
 -->
-
-<!--
-https://disqus.com/home/explore/?email_verified=1 | Disqus
-
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
-
-https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
-
-http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-
-Class-Based Views vs. Function-Based Views
-https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html
-
-https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
-https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
-https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
-
-https://simpleisbetterthancomplex.com/tutorial/2016/07/28/how-to-create-django-signals.html | How to Create Django Signals
-
-https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
--->
-
 
 
 
@@ -1298,8 +1249,7 @@ https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qey
 https://hellowebapp.com/tutorial/intro/
 https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
 
-https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
-
+Interesting
 https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
 https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
 
@@ -1332,6 +1282,9 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Ultimate Django](https://ultimatedjango.com)
 
 <!--
+https://github.com/twoscoops
+https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
+
 https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
 https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
 https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
@@ -1344,14 +1297,9 @@ https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Pyt
 https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
 https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
-
-https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Django 2.0? // Speaker Deck
-https://www.caktusgroup.com/blog/2017/12/04/caktus-excited-about-django-2/ | Caktus is Excited about Django 2.0 | Caktus Group
-https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
 -->
 
 
