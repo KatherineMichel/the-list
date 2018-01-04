@@ -776,7 +776,7 @@ Forums
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
-Python Tutors
+Python Tutors- Regular
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com)
@@ -796,6 +796,18 @@ Python Tutors
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+Python Tutors- YouTube
+* [Derek Banas YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
+* [Harrison Kinsley YouTube](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
+* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
+
+<!--
+https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
+https://www.youtube.com/watch?v=N4mEzFDjqtA | Derek Banas Python Programming - YouTube
+-->
+
 Python Websites and Newsletters
 * [Python Central](http://www.pythoncentral.io)
 * [Python for Beginners](http://www.pythonforbeginners.com)
@@ -806,41 +818,7 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 -->
 
 
-
 <!--
-New
-Projects to Learn
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
-
-https://frontendmasters.com/courses/functional-javascript-v2/functional-programming/ | FrontendMasters Course Player
-
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-http://jakevdp.github.io
-
-http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
-
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
-
-New
-https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
-https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-http://python.apichecklist.com
-https://github.com/vintasoftware/python-api-checklist
-http://djangoappschecklist.com
-
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
-
-
-
-
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
@@ -896,7 +874,6 @@ http://campus.codeschool.com/courses/try-django/contents
 
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
-
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
@@ -912,37 +889,43 @@ https://dbader.org/blog/why-learn-python | Why Learn Python? Here Are 8 Data-Dri
 https://www.youtube.com/watch?v=ixO9oXy1Dhw | Object-Oriented Programming (OOP) in Python – A Good Idea? 🚨🐍 - YouTube
 https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
 
-https://twitter.com/Sentdex | Harrison Kinsley (@Sentdex) | Twitter
-https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ | sentdex - YouTube
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
 
-https://pythonprogramming.net/ | Python Programming Tutorials
-https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
-
-https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw | Derek Banas - YouTube
-https://twitter.com/NewThinkTank | Derek Banas (@NewThinkTank) | Twitter
-http://www.newthinktank.com/ | Video Tutorials on Web Development Negotiation Bargaining
-
-https://twitter.com/mkennedy | Michael Kennedy (@mkennedy) | Twitter
-https://blog.michaelckennedy.net/ | Michael Kennedy on Technology – Cutting-Edge Developer and Technology Writing
-
-SOLID (Object Oriented Design)
-* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
-* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
-
-
-https://www.crowdcast.io/e/asterisks/register | Python Asterisks: How Unpacking Has Changed - Crowdcast
-http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
-http://treyhunner.com/talk-talk/#/
-http://treyhunner.com/loop-better/#/ | Loop Better
-https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
+https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 -->
 
 
 
+
+
 <!--
+SOLID (Object Oriented Design)
+* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+
+New
+Projects to Learn
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+http://jakevdp.github.io
+
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+
+http://python.apichecklist.com
+https://github.com/vintasoftware/python-api-checklist
+http://djangoappschecklist.com
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
 Python- Playbooks
 * [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
@@ -1007,8 +990,6 @@ https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5Jz
 https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
 https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
 
-Derek Banas
-https://www.youtube.com/watch?v=N4mEzFDjqtA | Python Programming - YouTube
 
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
@@ -1193,9 +1174,11 @@ Simple is Better than Complex
 
 
 <!--
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+http://philipjohnjames.com/ | Philip John James
 
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 -->
 
 
