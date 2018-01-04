@@ -667,8 +667,6 @@ django uml - Google Search
 -->
 
 <!--
-https://www.python.org/dev/peps/pep-0008/
-
 Kenneth Reitz Advice to Me 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
@@ -810,20 +808,6 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 
 <!--
-https://docs.python.org/3.5/library/unittest.html
-http://www.diveintopython.net/unit_testing
-
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
-
-http://www.fullstackpython.com/deployment.html
-http://masteringdjango.com/testing-in-django
--->
-
-<!--
 New
 Projects to Learn
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
@@ -846,11 +830,6 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
 https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
 
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-
-
-
-
 New
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
@@ -865,6 +844,14 @@ https://github.com/coodict/python3-in-one-pic
 
 
 
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+
 https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
 
@@ -878,11 +865,6 @@ https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
 https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
 
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
 https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex1.html
@@ -893,6 +875,31 @@ https://learnpythonthehardway.org/book/nopython3.html
 
 https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
+https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+
+http://campus.codeschool.com/courses/try-django/contents
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -927,51 +934,8 @@ SOLID (Object Oriented Design)
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
-https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
-
-http://campus.codeschool.com/courses/try-django/contents
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
 
 https://www.crowdcast.io/e/asterisks/register | Python Asterisks: How Unpacking Has Changed - Crowdcast
-https://www.crowdcast.io/e/functions | Functions in Python – Crowdcast
-https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
-https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
-https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
-https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
-https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
-https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
 http://treyhunner.com/talk-talk/#/
 http://treyhunner.com/loop-better/#/ | Loop Better
@@ -1144,6 +1108,23 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
+<!--
+Testing and Deployment
+
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
+
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+http://www.fullstackpython.com/deployment.html
+http://masteringdjango.com/testing-in-django
+-->
+
+
 #### Python Styleguides
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
@@ -1155,7 +1136,7 @@ Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0008 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 * [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
@@ -1163,13 +1144,10 @@ Python- PEP
 <!--
 https://www.python.org/dev/peps/pep-0498
 
-https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
-http://www.python.org/dev/peps/pep-0008/#maximum-line-length
 http://www.python.org/dev/peps/pep-0328/
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
 http://www.python.org/dev/peps/pep-0263/
-http://www.python.org/dev/peps/pep-0257
 
 https://github.com/amontalenti/elements-of-python-style
 -->
@@ -1194,13 +1172,30 @@ pip-tools https://github.com/nvie/pip-tools
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
-Django Blogs
-* [Caktus Blog](https://www.caktusgroup.com/blog/)
-* [Eldarion Blog](http://eldarion.com/blog)
+Django Consulting Firms, Blogs, Repos
+* [Changeset Consulting](https://changeset.nyc)
+* [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
 * [Pinax Blog](http://blog.pinaxproject.com)
-* [Lincoln Loop Blog](https://lincolnloop.com/blog)
-* [RevSys Blog](http://www.revsys.com/blog) and [RevSys Tidbits](http://www.revsys.com/tidbits)
-* [Vinta Blog](https://www.vinta.com.br/blog)
+* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Lincoln Loop](http://lincolnloop.com) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
+* [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
+
+Teachers
+* [PyDanny Django Tag](http://pydanny.com/tag/django.html)
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+Mozilla Development Network 
+* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
+
+Simple is Better than Complex
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+
+
 
 <!--
 Lincoln Loop’s Django Best Practices
@@ -1209,30 +1204,30 @@ https://github.com/lincolnloop/django-best-practices
 Deprecated
 https://github.com/lincolnloop/django-layout
 
+pydanny’s blog
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+
+https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+
 http://www.revsys.com/12days
 http://www.frankwiles.com/posts/django-template-variable-or-else
 
-https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
 -->
 
-Python- Django- Project Stucture
-* [Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-Simple is Better than Complex
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
-
 <!--
-https://github.com/mdn/django-locallibrary-tutorial | mdn/django-locallibrary-tutorial: Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
-
-https://github.com/sibtc | Simple is Better Than Complex
-https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
-
-https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
-https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
 https://disqus.com/home/explore/?email_verified=1 | Disqus
 
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
+
+https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
@@ -1352,24 +1347,11 @@ https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes |
 https://docs.djangoproject.com/en/2.0/releases/2.0/#simplified-url-routing-syntax | Django 2.0 release notes | Django documentation | Django
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/models/fields/ | Model field reference | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/ | Introduction to class-based views | Django documentation | Django
 https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 
 https://speakerdeck.com/flipperpa/whats-new-in-django-2-dot-0 | What's New in Django 2.0? // Speaker Deck
 https://www.caktusgroup.com/blog/2017/12/04/caktus-excited-about-django-2/ | Caktus is Excited about Django 2.0 | Caktus Group
 https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
-
-https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exists | QuerySet API reference | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/topics/db/transactions/ | Database transactions | Django documentation | Django
 -->
 
 
