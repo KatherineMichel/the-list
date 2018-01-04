@@ -110,6 +110,10 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
 
+<!--
+https://www.ted.com/playlists/607/curator_s_picks_top_10_ted_talks_of_2017 | Curator's Picks: Top 10 TED Talks of 2017 | TED Talks
+-->
+
 Curated Blogs and Podcasts
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Farnham Street Blog](https://www.farnamstreetblog.com)
@@ -242,6 +246,8 @@ Agency
 
 <!--
 Marty Cagan
+
+https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
 
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
 
