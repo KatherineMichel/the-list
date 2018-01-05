@@ -885,6 +885,10 @@ https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/Performan
 
 Python MRO
 
+https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
+https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
+https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
+
 
 
 
