@@ -81,6 +81,10 @@ Look at Daily
 * [Techmeme](https://www.techmeme.com)
 
 <!--
+http://500makers.com/?sort=votes | 500 makers // A list of the Top 500 makers on Product Hunt
+http://500hunters.com/ | 500 Hunters // A list of the Top 500 Hunters on Product Hunt
+http://500products.com/
+
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 -->
 
@@ -250,6 +254,7 @@ Marty Cagan
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
 
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
+https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
 
 Financial Ratio
 * [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
