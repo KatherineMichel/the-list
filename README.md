@@ -638,6 +638,9 @@ https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architect
 <!--
 ## Python- Code Editors
 
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+ 
 https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
 https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
 https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
@@ -840,6 +843,34 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 
 <!--
+CPython
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
+
+https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+
+https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
+
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
+
+Python MRO
+
+
+
+
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
