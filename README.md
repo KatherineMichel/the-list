@@ -169,10 +169,6 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
-<!--
-https://news.ycombinator.com/item?id=16009028 | Ask HN: Any recommended books on developing mental models? | Hacker News
--->
-
 Charlie Munger's 18 Biases
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
@@ -195,6 +191,11 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement/ | Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)
+
+https://news.ycombinator.com/item?id=16009028 | Ask HN: Any recommended books on developing mental models? | Hacker News
+
 https://twitter.com/AlexOsterwalder/following | People followed by Alex Osterwalder🇨🇭 (@AlexOsterwalder) | Twitter
 https://twitter.com/coachgoldsmith | Marshall Goldsmith (@coachgoldsmith) | Twitter
 http://inquiryinstitute.com/blog/interview-with-dr-marshall-goldsmith/ | Inquiring Mindset Interview With Dr. Marshall Goldsmith - Inquiry Institute
@@ -293,6 +294,8 @@ https://hbr.org/2016/09/the-elements-of-value
 -->
 
 <!--
+https://blog.winnie.com/ | Winnie
+
 https://medium.com/startup-grind/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8#.ad6k04luv
 
 https://news.ycombinator.com/item?id=14227063
