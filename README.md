@@ -506,6 +506,14 @@ https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-tea
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 -->
 
+<!--
+https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
+https://en.wikipedia.org/wiki/Central_processing_unit | Central processing unit - Wikipedia
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+-->
+
 ## Algorithms, Design Patterns and Conventions
 
 <!--
@@ -628,7 +636,8 @@ https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architect
 -->
 
 <!--
-Code Editors
+## Python- Code Editors
+
 https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
 https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
 https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
