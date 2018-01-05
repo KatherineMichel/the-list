@@ -202,6 +202,9 @@ https://www.youtube.com/watch?v=YWpUqXFe4Fw | The 6 Daily Questions - YouTube
 https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s | How to Get Better at Almost Anything - YouTube
 https://www.hrbartender.com/images/GoldsmithQuestions.pdf | Microsoft Word - Questions That Make a Difference Latest
 
+https://www.mindtools.com/pages/article/newHTE_91.htm | Eisenhower's Urgent/Important Principle - Time Management Skills
+https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now | A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now
+
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 Eisenhower Matrix
 
@@ -646,7 +649,11 @@ https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architect
 -->
 
 <!--
-## Python- Code Editors
+## Python- Code Editors and Docs
+
+https://kapeli.com/dash | Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
 
 https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
 https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
