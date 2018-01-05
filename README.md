@@ -483,29 +483,13 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
 -->
 
-
-## Algorithms, Design Patterns and Conventions
-
 <!--
-https://en.wikipedia.org/wiki/Coding_conventions
-
-https://en.wikipedia.org/wiki/Programming_style
+## InfoSec
 
 https://www.owasp.org/index.php/Main_Page | OWASP
 https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
 
-Code Editors
-https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
-https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
-https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
-https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
-https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
-
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
+## General Developer
 
 https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
 
@@ -520,6 +504,19 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+-->
+
+## Algorithms, Design Patterns and Conventions
+
+<!--
+https://en.wikipedia.org/wiki/Coding_conventions
+
+https://en.wikipedia.org/wiki/Programming_style
+
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
 -->
 
 Algorithms
@@ -628,6 +625,15 @@ Unified Modeling Language
 <!--
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
+-->
+
+<!--
+Code Editors
+https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
 -->
 
 ## Python- Programming Paradigms
@@ -1111,21 +1117,6 @@ Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
-* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
-
-<!--
-https://www.python.org/dev/peps/pep-0498
-
-http://www.python.org/dev/peps/pep-0328/
-http://www.python.org/dev/peps/pep-0386
-http://www.python.org/dev/peps/pep-0427/
-http://www.python.org/dev/peps/pep-0263/
-
-https://github.com/amontalenti/elements-of-python-style
--->
 
 Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -1174,17 +1165,6 @@ Mozilla Development Network
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
-
-
-
-<!--
-http://philipjohnjames.com/ | Philip John James
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
--->
-
 
 
 Python- Django- Dedicated Websites
@@ -1256,7 +1236,8 @@ https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
 -->
 
 Two Scoops Books
-* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) and [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
 
 Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
 * [High Performance Django](https://highperformancedjango.com)
@@ -1270,7 +1251,6 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 <!--
 https://github.com/twoscoops
-https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
 
 https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
 https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
