@@ -1013,12 +1013,11 @@ https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Re
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
 
 https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
 
 Object Oriented
 http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
