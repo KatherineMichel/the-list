@@ -195,6 +195,13 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+https://twitter.com/AlexOsterwalder/following | People followed by Alex Osterwalder🇨🇭 (@AlexOsterwalder) | Twitter
+https://twitter.com/coachgoldsmith | Marshall Goldsmith (@coachgoldsmith) | Twitter
+http://inquiryinstitute.com/blog/interview-with-dr-marshall-goldsmith/ | Inquiring Mindset Interview With Dr. Marshall Goldsmith - Inquiry Institute
+https://www.youtube.com/watch?v=YWpUqXFe4Fw | The 6 Daily Questions - YouTube
+https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s | How to Get Better at Almost Anything - YouTube
+https://www.hrbartender.com/images/GoldsmithQuestions.pdf | Microsoft Word - Questions That Make a Difference Latest
+
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 Eisenhower Matrix
 
@@ -249,9 +256,16 @@ Agency
 * [Strategyzer Blog](http://blog.strategyzer.com)
 
 <!--
-Marty Cagan
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2016/03/04/5-million-week
+http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
+
+https://en.wikipedia.org/wiki/Technology_life_cycle | Technology life cycle - Wikipedia
+http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
 
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
 https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
@@ -269,6 +283,8 @@ http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+Marty Cagan
 
 https://hbr.org/2016/09/the-elements-of-value
 -->
@@ -302,12 +318,6 @@ https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹�
 https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-no-customers | How to Launch a Product With No Money and No Customers – Chris Mason – Indie Hackers
 
 https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
-
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2016/03/04/5-million-week
-http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 -->
 
 ## Software Tools
