@@ -864,12 +864,15 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 <!--
 CPython
+https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
+
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 
 http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
 https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
 
 http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
 
 https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
 https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
@@ -880,6 +883,8 @@ https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python�
 https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
 
 https://eli.thegreenplace.net/ | Eli Bendersky's website
+
+https://leanpub.com/insidethepythonvirtualmachine | Inside The Python Virtual… by Obi Ike-Nwosu [PDF/iPad/Kindle]
 
 https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
 
