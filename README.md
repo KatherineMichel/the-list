@@ -863,6 +863,24 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 
 <!--
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+
+https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
+
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
+https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
+https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
+
+https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
+
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines
+
+
+
 CPython
 https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
 
@@ -896,10 +914,10 @@ Python MRO
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
 https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
 https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
+-->
 
 
-
-
+<!--
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
@@ -1273,6 +1291,7 @@ https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
 
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
 
+https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
 
 https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
