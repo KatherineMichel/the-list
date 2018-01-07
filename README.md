@@ -7,25 +7,18 @@ Company Design Systems
 Style Guides
 Built With
 DevCenter
-Computer Basics
-Command Line and Shell
+The Cathedral and the Bazaar
+Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, Visual Studio Code, PyCharm, EditorConfig, Makefile
 Keyboard Shortcuts
-Dot Files
+Encoding, Dot Files
 Startup Engineering MOOC
-Open Company
-Digital Agencies and Code Philosophies
-DevOps
-Git and Markdown
-Open Source, Open Source Documentation
 Operating System, Browser, Layout Engine
-Unix and Linux
+Operating System Comparison
+Unix and Linux- General
+Apple- Dash Docs
+Graphite and Graphana
+Pixels
 
-  * [Open Source](#open-source)
-  * [Open Source Management](#open-source-management) 
-  * [Unix and Linux General](#unix-and-linux-general)
-  * [Apple General](#apple-general)
-* [Social Media and Webmaster](#social-media-and-webmaster) 
-* [Social Media](#social-media)
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Themes and Static Site Generators](#themes-and-static-site-generators)
@@ -66,6 +59,12 @@ User Interfaces
 site reliability engineering
 
 https://www.udemy.com/js-and-react-for-devs
+
+Open Company
+Digital Agencies and Code Philosophies
+DevOps
+Git and Markdown
+Open Source, Open Source Documentation
 -->
 
 
@@ -523,11 +522,65 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/John_von_Neumann
+
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Microprocessor
 https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
 https://en.wikipedia.org/wiki/Central_processing_unit | Central processing unit - Wikipedia
 https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
 https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Microprocessor, CPU and Instruction Set
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+Status Code Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
 -->
 
 ## Algorithms, Design Patterns and Conventions
@@ -880,6 +933,8 @@ http://aosabook.org/en/index.html
 https://github.com/aosabook/500lines
 
 
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
 CPython
 https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
