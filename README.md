@@ -79,11 +79,12 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
-<!--
-http://500makers.com/?sort=votes | 500 makers // A list of the Top 500 makers on Product Hunt
-http://500hunters.com/ | 500 Hunters // A list of the Top 500 Hunters on Product Hunt
-http://500products.com/
+Product Hunt Top 500
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Products](http://500products.com)
+* [Top 500 Hunters](http://500hunters.com)
 
+<!--
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 -->
 
@@ -109,13 +110,10 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
 * [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
 * [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Top 10 TED Talks of 2017 (curated)](https://www.ted.com/playlists/607/curator_s_picks_top_10_ted_talks_of_2017)
 * [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
-
-<!--
-https://www.ted.com/playlists/607/curator_s_picks_top_10_ted_talks_of_2017 | Curator's Picks: Top 10 TED Talks of 2017 | TED Talks
--->
 
 Curated Blogs and Podcasts
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
@@ -325,6 +323,7 @@ https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-n
 https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
 -->
 
+
 ## Software Tools
 
 * [Python Docs](https://docs.python.org)
@@ -448,61 +447,17 @@ https://github.com/herrbischoff/awesome-osx-command-line
 
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
-
-https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 -->
 
 
-## Coding Competitions and Algorithms
-
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-<!--
-Hackathons
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-https://github.com/lnishan/awesome-competitive-programming
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-https://github.com/tuvttran/project-based-learning
-https://github.com/karan/Projects
-https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
--->
 
 <!--
 ## InfoSec
 
 https://www.owasp.org/index.php/Main_Page | OWASP
 https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
+
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
 
 ## General Developer
 
@@ -577,10 +532,73 @@ HTTP
 Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
 https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
+-->
+
+<!--
+## Python- Code Editors and Docs
+
+https://kapeli.com/dash | Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+ 
+https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
+-->
+
+
+## Coding Competitions and Algorithms
+
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+<!--
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+https://github.com/lnishan/awesome-competitive-programming
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
+https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
 -->
 
 ## Algorithms, Design Patterns and Conventions
@@ -702,23 +720,6 @@ Unified Modeling Language
 <!--
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
--->
-
-<!--
-## Python- Code Editors and Docs
-
-https://kapeli.com/dash | Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
-https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
-https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
- 
-https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
-https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
-https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
-https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
-https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
 -->
 
 ## Python- Programming Paradigms
