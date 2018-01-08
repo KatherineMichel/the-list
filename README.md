@@ -265,6 +265,9 @@ http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-b
 
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
 
+http://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework – AVC
+https://www.google.com/search?q=Carlota+Perez+chart&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSrfm13LTYAhVr2oMKHfPjA-sQ_AUICigB&biw=1366&bih=615#imgrc=7EhvUMlJrePmsM: | Carlota Perez chart - Google Search
+
 https://en.wikipedia.org/wiki/Technology_life_cycle | Technology life cycle - Wikipedia
 http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
 
