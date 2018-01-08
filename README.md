@@ -188,6 +188,44 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 
 <!--
+https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
+
+https://tim.blog/2017/11/18/booklist/
+https://tim.blog/2017/11/18/under100/
+http://go.fourhourworkweek.com/5-bullet-friday/
+https://tim.blog/2017/07/06/tao-of-seneca/
+
+https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
+
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+
+https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
+
+https://www.mindtools.com/pages/article/newHTE_91.htm | Eisenhower's Urgent/Important Principle - Time Management Skills
+https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now | A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now
+http://www.eisenhower.me/eisenhower-matrix-canvas/ | Official Eisenhower Matrix Canvas PDF
+https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+
+https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
+https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
+https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
+https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
+https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
+https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
+https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
+
+http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
+https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
+
+https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
+https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
+
 https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
 https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement/ | Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)
 
@@ -200,19 +238,6 @@ https://www.youtube.com/watch?v=YWpUqXFe4Fw | The 6 Daily Questions - YouTube
 https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s | How to Get Better at Almost Anything - YouTube
 https://www.hrbartender.com/images/GoldsmithQuestions.pdf | Microsoft Word - Questions That Make a Difference Latest
 
-https://www.mindtools.com/pages/article/newHTE_91.htm | Eisenhower's Urgent/Important Principle - Time Management Skills
-https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now | A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now
-
-https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
-Eisenhower Matrix
-
-https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
-https://www.instagram.com/p/Bb5Y8EgFQRd/ | Tim Ferriss on Instagram: “Want to get all of your holiday shopping done in no time? See the first two bullets here...” • Instagram
-
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
 Fast AI Math versus Baseball
 https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
 https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
@@ -222,6 +247,8 @@ https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
 
 <!--
 Also Hobbies
+https://en.wikipedia.org/wiki/List_of_hobbies | List of hobbies - Wikipedia
+
 https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
 http://en.skill-project.org/the-project/ | Skill Project | The Project
 
@@ -240,6 +267,8 @@ Personal MBA
 * [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
 
 <!--
+https://personalmba.com/second-order-effects/ | Second-Order Effects - The Personal MBA
+
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
 http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Personal MBA
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
@@ -260,7 +289,7 @@ Agency
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
 http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
 http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2016/03/04/5-million-week
+https://tim.blog/2016/03/04/5-million-week/ | Real-World Blueprint for a $5-Million Week | The Blog of Author Tim Ferriss
 http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
 
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
@@ -292,6 +321,7 @@ Marty Cagan
 
 https://hbr.org/2016/09/the-elements-of-value
 -->
+
 
 <!--
 https://blog.winnie.com/ | Winnie
@@ -452,16 +482,7 @@ https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 -->
 
-
-
 <!--
-## InfoSec
-
-https://www.owasp.org/index.php/Main_Page | OWASP
-https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
-
-https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
-
 ## General Developer
 
 https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
@@ -477,6 +498,15 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+## InfoSec
+
+https://www.owasp.org/index.php/Main_Page | OWASP
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
+
+https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
 -->
 
 <!--
@@ -526,6 +556,10 @@ TCP-IP and OSI Protocols
 * [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
 * [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
+<!--
+https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
+-->
+
 HTTP
 * [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
@@ -544,6 +578,10 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+https://pypi.python.org/pypi/flake8
+https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
 
 https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
@@ -896,6 +934,11 @@ Python Tutors- Regular
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+<!--
+https://jeffknupp.com/blog/archives/ | Archives
+https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
+-->
+
 Python Tutors- YouTube
 * [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Derek Banas YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
@@ -920,6 +963,7 @@ https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with P
 
 
 <!--
+Click
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 
 https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
@@ -934,7 +978,7 @@ https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Py
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
 http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
 
 Method Resolution Order
