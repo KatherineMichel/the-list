@@ -233,6 +233,7 @@ https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making
 https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
 https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/
 
 http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
 https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
