@@ -222,6 +222,7 @@ https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-
 http://www.eisenhower.me/eisenhower-matrix-canvas/ | Official Eisenhower Matrix Canvas PDF
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
 
+Batching
 https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
 https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
@@ -229,9 +230,12 @@ https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smar
 https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
 https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
 https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
+https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
+https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
 
 http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
 https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
+http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
 
 https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
@@ -513,7 +517,15 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 
 ## InfoSec
 
+www.cert.org
+https://www.defcon.org
+https://security.googleblog.com
+
+https://msdn.microsoft.com/en-us/library/ff648644.aspx | Threat Modeling
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+
 https://www.owasp.org/index.php/Main_Page | OWASP
+
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
 https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
 https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
@@ -889,8 +901,13 @@ https://docs.python.org/3/library/logging.config.html
 Official Python Tutorial
 * [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
 
-Python Topics
+Python Trending and Topics
+* [GitHub Trending: python](https://github.com/trending/python )
 * [GitHub Topic: python](https://github.com/topics/python)
+
+<!--
+https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
+-->
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
