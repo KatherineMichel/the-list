@@ -146,9 +146,10 @@ Nuzzel
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-http://nuzzel.com/gc
 
 <!--
+http://nuzzel.com/gc
+
 https://twitter.com/balajis/following | People followed by Balaji S. Srinivasan (@balajis) | Twitter
 https://twitter.com/cdixon | Chris Dixon (@cdixon) | Twitter
 
@@ -161,6 +162,31 @@ https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Boo
 
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
+
+Productivity- Marshall Goldsmith
+* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw) and ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Productivity- Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+Productivity- Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+Productivity- Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+Productivity- The Art of Focus
+* [Index](https://bitcq.com/torrent/3196010)
+
+Productivity- Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Tim Ferris
+* [Tools of Titans](https://toolsoftitans.com) and [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+* [Tribe of Mentors](https://tribeofmentors.com)
+
+Hooked
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 
 Pattern
 * [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
@@ -177,9 +203,6 @@ Mental Models
 Charlie Munger's 18 Biases
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
 Neuorplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
@@ -187,27 +210,14 @@ Learning
 * [Review and Summary of A Mind for Numbers](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
 * ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
-
-Learning Methods
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Tim Ferris
-* [Tools of Titans](https://toolsoftitans.com) and [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
-* [Tribe of Mentors](https://tribeofmentors.com)
+* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 
 <!--
+https://tim.blog/2017/07/06/tao-of-seneca/
+
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
-Eisenhower Matrix
-https://www.mindtools.com/pages/article/newHTE_91.htm | Eisenhower's Urgent/Important Principle - Time Management Skills
-https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now | A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now
-http://www.eisenhower.me/eisenhower-matrix-canvas/ | Official Eisenhower Matrix Canvas PDF
-https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
-
-https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
-
-https://tim.blog/2017/07/06/tao-of-seneca/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
@@ -222,6 +232,7 @@ https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-pr
 https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
 https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
 https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
+https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
 
 http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
 https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
@@ -234,45 +245,25 @@ https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.
 
 https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
 https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement/ | Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)
-
-https://news.ycombinator.com/item?id=16009028 | Ask HN: Any recommended books on developing mental models? | Hacker News
-
-https://twitter.com/AlexOsterwalder/following | People followed by Alex Osterwalder🇨🇭 (@AlexOsterwalder) | Twitter
-https://twitter.com/coachgoldsmith | Marshall Goldsmith (@coachgoldsmith) | Twitter
-http://inquiryinstitute.com/blog/interview-with-dr-marshall-goldsmith/ | Inquiring Mindset Interview With Dr. Marshall Goldsmith - Inquiry Institute
-https://www.youtube.com/watch?v=YWpUqXFe4Fw | The 6 Daily Questions - YouTube
-https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s | How to Get Better at Almost Anything - YouTube
-https://www.hrbartender.com/images/GoldsmithQuestions.pdf | Microsoft Word - Questions That Make a Difference Latest
-
-Fast AI Math versus Baseball
-https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719 | Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins: 9780470633717: Amazon.com: Books
-https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
 -->
 
 ## Skills and Employment
-
-<!--
-Also Hobbies
-https://en.wikipedia.org/wiki/List_of_hobbies | List of hobbies - Wikipedia
-
-https://blog.springrole.com/the-skills-project-cc4b7879f940 | The Skills Project – SpringRole
-http://en.skill-project.org/the-project/ | Skill Project | The Project
-
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-
-https://www.slideshare.net/adamnash/stanford-cs-00707-personal-finance-for-engineers-good-investing-is-boring | Stanford CS 007-07: Personal Finance for Engineers / Good Investing i…
-https://www.slideshare.net/adamnash/stanford-cs-00706-personal-finance-for-engineers-all-about-debt | Stanford CS 007-06: Personal Finance for Engineers / All About Debt
-https://cs007.blog/ | CS 007: Personal Finance for Engineers | Stanford University 2017-8
--->
-
-## Personal MBA
 
 Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
 * [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
 * [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
 
+Skills and Hobbies
+* [SpringRole Skill Project Blog Post](https://blog.springrole.com/the-skills-project-cc4b7879f940), [SpringRole Skill Project](http://en.skill-project.org/the-project), and [Skill Project Database](http://en.skill-project.org/skills)
+* [List of Hobbies Wikipedia](https://en.wikipedia.org/wiki/List_of_hobbies)
+
+Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
+* [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
+
 <!--
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+
 https://personalmba.com/second-order-effects/ | Second-Order Effects - The Personal MBA
 
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
@@ -291,29 +282,30 @@ Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
 
-<!--
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-https://tim.blog/2016/03/04/5-million-week/ | Real-World Blueprint for a $5-Million Week | The Blog of Author Tim Ferriss
-http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
+Tim Ferris Blueprints
+* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
+* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
+* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
+* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
-https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
-
-http://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework – AVC
-https://www.google.com/search?q=Carlota+Perez+chart&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSrfm13LTYAhVr2oMKHfPjA-sQ_AUICigB&biw=1366&bih=615#imgrc=7EhvUMlJrePmsM: | Carlota Perez chart - Google Search
-
-https://en.wikipedia.org/wiki/Technology_life_cycle | Technology life cycle - Wikipedia
-http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
-
-https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
-https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
+Carlota Perez Framework
+* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surve Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
+* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
 
 Financial Ratio
 * [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+
+<!--
+https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
+
+https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
+https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
+
+http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
 
 https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
 
@@ -341,14 +333,18 @@ https://levels.io/hoodmaps/
 https://twitter.com/levelsio/status/861835999604752384
 http://coastery.com/2016/how-pieter-levels-works/
 https://levels.io/bootstrapping
-https://twitter.com/levelsio/status/884667359792779264 | Pieter Levels @ 🇺🇸 on Twitter: "Should I tell the story how I got fucked over by a guy who used me and others to raise $3 million dollars of funding in SF?"
-https://twitter.com/levelsio/status/895829157413658625
-https://twitter.com/levelsio/status/893309499293016065
-https://twitter.com/levelsio/status/895818820161462272
+
+His business
+https://twitter.com/levelsio/status/895811761223237632
 https://twitter.com/levelsio/status/889454248026451968 | Pieter Levels @ 🇺🇸 on Twitter: "https://t.co/08KgAoIk3W press tour: - @ProductHunt LIVE chat - @TechCrunch interview - @NYTimes interview - @IndieHackers podcast interview"
 https://twitter.com/levelsio/status/742166715853885440
 https://twitter.com/levelsio/status/850666099817328640
-https://twitter.com/levelsio/status/887979497475129344
+
+Story
+https://twitter.com/levelsio/status/884667359792779264 | Pieter Levels @ 🇺🇸 on Twitter: "Should I tell the story how I got fucked over by a guy who used me and others to raise $3 million dollars of funding in SF?"
+
+
+
 https://twitter.com/levelsio/status/903791440844742656 | Pieter Levels @ 🇳🇱 on Twitter: "Entire bookkeeping soon finished, I'll publish all numbers and start /open page with all revenue this week"
 
 https://twitter.com/levelsio/status/907450486718164993 | Pieter Levels @ 🇳🇱 on Twitter: "Life Pro Tip: find a productivity partner, someone you mutually share your tasks with every day, this instantly makes your To-Do accountable"
@@ -357,9 +353,9 @@ https://twitter.com/levelsio/status/908833499452514309 | Pieter Levels @ 🇳�
 https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹🇼 on Twitter: "Nomad List 3.0 roadmap ✅ 1000 cities ✅ New engine ✅ Nomad Card ✅ Nomad Radar ⭕️ Nomad Camp ⭕️ Nomad Store"
 
 
-https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-no-customers | How to Launch a Product With No Money and No Customers – Chris Mason – Indie Hackers
-
 https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
+
+https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-no-customers | How to Launch a Product With No Money and No Customers – Chris Mason – Indie Hackers
 -->
 
 
@@ -371,6 +367,8 @@ https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter:
 * [React Docs](https://reactjs.org/docs)
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
+
+## Some Favorite Awesome
 
 Awesome Python
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
@@ -831,6 +829,7 @@ https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.
 https://docs.python.org/3.6/tutorial/datastructures.html
 https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
 
 https://docs.python.org/3/ | 3.6.4rc1 Documentation
 https://docs.python.org/3/contents.html
@@ -848,6 +847,7 @@ Django Sites
 https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
 
 https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
 https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
@@ -857,6 +857,8 @@ https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types �
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/string.html | 6.1. string — Common string operations — Python 3.6.4 documentation
+
 https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
@@ -889,15 +891,7 @@ https://docs.python.org/3/library/logging.config.html
 ## Python and Django Books and Tutorials
 
 Official Python Tutorial
-* [Python Tutorial](https://docs.python.org/3.6/tutorial/) 
-
-Python Trending and Topics
-* [GitHub Trending: python](https://github.com/trending/python )
-* [GitHub Topic: python](https://github.com/topics/python)
-
-<!--
-https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
--->
+* [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
@@ -932,7 +926,10 @@ Pluralsight and DataCamp
 https://app.pluralsight.com/library/search?q=python+script | Search | Pluralsight
 -->
 
-Forums
+Python Trending, Topics, Forums
+* [GitHub Trending: python](https://github.com/trending/python )
+* [GitHub Topic: python](https://github.com/topics/python)
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
@@ -958,17 +955,22 @@ Python Tutors- Regular
 <!--
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
+
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+Books
+https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
+https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
+https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
 -->
 
 Python Tutors- YouTube
-* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-* [Derek Banas YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
-* [Harrison Kinsley YouTube](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
+* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
+* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
+* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
-https://www.youtube.com/channel/UCLcwsZfFsUF2N6R7mYBBETg | Harrison Kinsley - YouTube
-
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
 https://www.youtube.com/watch?v=N4mEzFDjqtA | Derek Banas Python Programming - YouTube
 -->
@@ -978,9 +980,10 @@ Python Websites and Newsletters
 * [Python for Beginners](http://www.pythonforbeginners.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
-<!--
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
--->
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
+
 
 
 <!--
@@ -1005,8 +1008,9 @@ https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
-CPython
-https://stackoverflow.com/questions/tagged/python-internals?sort=votes | Highest Voted 'python-internals' Questions - Stack Overflow
+
+
+
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 
@@ -1034,11 +1038,8 @@ https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c a
 https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
 
 Python MRO
-
-https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
-https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
-https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
 -->
+
 
 
 <!--
@@ -2053,6 +2054,8 @@ Statistics- General
 Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
+
+
 
 #### Python and Django Conference Videos and Slides
 
