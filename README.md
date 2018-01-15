@@ -223,7 +223,6 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 
 Batching
-https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
 https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
 https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
@@ -232,12 +231,13 @@ https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-pr
 https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
 https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
 https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
+https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
-https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/
 
 http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
 https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
 http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
+http://calnewport.com/blog/
 
 https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
@@ -374,12 +374,12 @@ https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-n
 
 ## Developer and Team Success
 
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
 <!--
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
-https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80
-
-
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 
 https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
@@ -393,6 +393,10 @@ https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-20
 --<
 
 ## Some Favorite Awesome
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
 Awesome Python
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
@@ -420,9 +424,7 @@ Awesome Data Science
 
 ## Interesting Curated Learning Resources
 
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+Lists
 * [Lists](https://github.com/jnv/lists)
 
 * [Open Product Management](https://github.com/tron1991/open-product-management)
@@ -498,6 +500,7 @@ https://github.com/herrbischoff/awesome-osx-command-line
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 
+
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
@@ -523,22 +526,7 @@ https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to fin
 https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Computer_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/John_von_Neumann
-
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Microprocessor
-https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
-https://en.wikipedia.org/wiki/Central_processing_unit | Central processing unit - Wikipedia
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+## Computers- General
 
 Microprocessor, CPU and Instruction Set
 * [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
@@ -580,6 +568,23 @@ HTTP
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
+<!--
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/John_von_Neumann
+
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Microprocessor
+https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
+https://en.wikipedia.org/wiki/Central_processing_unit | Central processing unit - Wikipedia
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+
 Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
@@ -594,8 +599,6 @@ http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-https://pypi.python.org/pypi/flake8
-https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
 
 https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
@@ -1141,6 +1144,7 @@ http://djangoappschecklist.com
 
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
+
 Python- Playbooks
 * [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
@@ -1178,6 +1182,7 @@ https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, 
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
 -->
+
 
 <!--
 Digital Ocean
@@ -1298,6 +1303,9 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 
 <!--
 Testing and Deployment
+
+https://pypi.python.org/pypi/flake8
+https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
 
 https://docs.python.org/3.5/library/unittest.html
 http://www.diveintopython.net/unit_testing
