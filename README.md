@@ -133,6 +133,14 @@ Finance Blogs
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 * [25iq Books](https://www.25iqbooks.com)
 
+<!--
+Check Other Repo
+http://michaelmauboussin.com/index.html | Michael Mauboussin
+https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin/ | Michael J. Mauboussin – Hurricane Capital
+http://www.valuewalk.com/michael-mauboussin/ | Michael Mauboussin Bio, Books, Papers, Quotes, Research
+http://michaelmauboussin.com/writing.html | Writing
+-->
+
 Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
@@ -619,6 +627,9 @@ James Damore Coding Competition Books
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
+http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
+https://web.stanford.edu/class/cs9/#information
+
 Hackathons
 https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
