@@ -953,10 +953,20 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
+
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
+
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 
+https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
+https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
 
 Books
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
@@ -984,33 +994,18 @@ Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
 
-
-
 <!--
-Click
+https://github.com/pallets/click
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-
-https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
-
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-
-https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
-https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
-http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
-
-
+Python MRO
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
-
-
-
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 
@@ -1036,8 +1031,6 @@ https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or 
 
 https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
 https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
-
-Python MRO
 -->
 
 
@@ -1120,9 +1113,6 @@ https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
 -->
 
 
@@ -1134,12 +1124,11 @@ SOLID (Object Oriented Design)
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
 * [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 
-New
-Projects to Learn
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-
 http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
 http://jakevdp.github.io
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks
+
 
 http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
@@ -1164,6 +1153,7 @@ http://www.pythonforbeginners.com/super/working-python-super-function | Working 
 
 
 
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
 
 YouTube
