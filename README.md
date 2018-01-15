@@ -85,6 +85,8 @@ Product Hunt Top 500
 * [Top 500 Hunters](http://500hunters.com)
 
 <!--
+http://www.gitlogs.com | Top Resources on Github
+
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 -->
 
@@ -116,30 +118,24 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [PBS](http://www.pbs.org)
 
 Curated Blogs and Podcasts
-* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
-* [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Farnham Street Blog](https://www.farnamstreetblog.com) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
 * [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Wait But Why](http://waitbutwhy.com) 
 
-<!--
-https://www.facebook.com/FarnamStreet/posts
--->
+Tim Ferris
+* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
+* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
+* [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
 
 Finance Blogs
-* [Michael Mauboussin](http://michaelmauboussin.com)
+* [Michael Mauboussin](http://michaelmauboussin.com) and [Michael Mauboussin Writing](http://michaelmauboussin.com/writing.html)
+* [Michael Mauboussin Hurricane Capital Index](https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin)
+* [Michael Mauboussin Value Walk Resource Page](http://www.valuewalk.com/michael-mauboussin) and [Michael Mauboussin Value Walk Tumblr Index](http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 * [25iq Books](https://www.25iqbooks.com)
-
-<!--
-Check Other Repo
-http://michaelmauboussin.com/index.html | Michael Mauboussin
-https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin/ | Michael J. Mauboussin – Hurricane Capital
-http://www.valuewalk.com/michael-mauboussin/ | Michael Mauboussin Bio, Books, Papers, Quotes, Research
-http://michaelmauboussin.com/writing.html | Writing
--->
 
 Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
@@ -196,31 +192,25 @@ Learning Methods
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 Tim Ferris
-* [Tools of Titans](https://toolsoftitans.com)
+* [Tools of Titans](https://toolsoftitans.com) and [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
 * [Tribe of Mentors](https://tribeofmentors.com)
 
+
 <!--
-https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
-
-https://tim.blog/2017/11/18/booklist/
-https://tim.blog/2017/11/18/under100/
-http://go.fourhourworkweek.com/5-bullet-friday/
-https://tim.blog/2017/07/06/tao-of-seneca/
-
-https://www.instagram.com/timferriss/ | Tim Ferriss (@timferriss) • Instagram photos and videos
-
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
-
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
+Eisenhower Matrix
 https://www.mindtools.com/pages/article/newHTE_91.htm | Eisenhower's Urgent/Important Principle - Time Management Skills
 https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now | A 2×2 Matrix to Help You Prioritize the Skills to Learn Right Now
 http://www.eisenhower.me/eisenhower-matrix-canvas/ | Official Eisenhower Matrix Canvas PDF
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+
+https://www.nirandfar.com/download/hooked-workbook.pdf | hooked-workbook.pdf
+
+https://tim.blog/2017/07/06/tao-of-seneca/
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 
 Batching
 https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
