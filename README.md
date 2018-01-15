@@ -305,6 +305,9 @@ https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simpl
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
 https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
 
+https://github.com/jlevy/og-equity-compensation
+https://github.com/leonar15/startup-checklist
+
 http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
 
 https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
@@ -368,6 +371,26 @@ https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-n
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
 
+## Developer and Team Success
+
+<!--
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80
+
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+
+https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
+https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
+https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
+--<
+
 ## Some Favorite Awesome
 
 Awesome Python
@@ -391,16 +414,8 @@ Awesome Data Science
 * [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-
-<!--
-https://github.com/keon/awesome-nlp
-https://github.com/kjw0612/awesome-deep-vision
-
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
--->
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ## Interesting Curated Learning Resources
 
@@ -455,9 +470,6 @@ https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for
 
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 
-https://github.com/jlevy/og-equity-compensation
-https://github.com/leonar15/startup-checklist
-
 https://github.com/Kristories/awesome-guidelines
 https://github.com/mrmrs/styleguide-checklist
 
@@ -484,25 +496,14 @@ https://github.com/herrbischoff/awesome-osx-command-line
 
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
+
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 -->
 
 <!--
-## General Developer
-
-https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-
-https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
-https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
-https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80
-https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
-
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
-
 ## InfoSec
 
 www.cert.org
