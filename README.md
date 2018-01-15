@@ -123,6 +123,10 @@ Curated Blogs and Podcasts
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Wait But Why](http://waitbutwhy.com) 
 
+<!--
+https://www.facebook.com/FarnamStreet/posts
+-->
+
 Finance Blogs
 * [Michael Mauboussin](http://michaelmauboussin.com)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
