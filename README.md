@@ -306,6 +306,8 @@ A16Z Metrics
 http://blog.strategyzer.com
 https://medium.com/the-xplane-collection
 
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
 
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
 
@@ -432,6 +434,7 @@ https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-20
 
 Lists
 * [Lists](https://github.com/jnv/lists)
+* [Checklists](https://github.com/huyingjie/Checklist-Checklist)
 
 * [Open Product Management](https://github.com/tron1991/open-product-management)
 * [Open Source Society University](https://github.com/ossu/computer-science)
@@ -469,8 +472,6 @@ http://ashleymcnamara.github.io/learn_to_code/
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
-
-https://github.com/huyingjie/Checklist-Checklist | huyingjie/Checklist-Checklist: 🌈 A Curated List of Checklists ✔︎✔︎
 
 https://www.sideprojectchecklist.com/
 https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
@@ -532,24 +533,13 @@ https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to fin
 https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)
 -->
 
+
 ## Computers- General
-
-<!--
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/John_von_Neumann
-
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Microprocessor
-https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
--->
 
 Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
 
 CPU and Instruction Set
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
@@ -560,6 +550,17 @@ CPU and Instruction Set
 
 Types of CPUs
 * [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+<!--
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+-->
 
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
