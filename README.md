@@ -116,6 +116,7 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
 * [Charlie Rose](http://www.charlierose.com)
 * [PBS](http://www.pbs.org)
+* [This American Life](http://www.thisamericanlife.org)
 
 Curated Blogs and Podcasts
 * [Farnham Street Blog](https://www.farnamstreetblog.com) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
@@ -213,12 +214,11 @@ Learning
 * [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 Seneca
+* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
+* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
-https://en.wikipedia.org/wiki/Seneca_the_Younger
-https://tim.blog/2017/07/06/tao-of-seneca/
-https://tim.blog/2016/01/22/the-tao-of-seneca/
-
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
@@ -257,10 +257,6 @@ Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
 * [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
 * [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-
-Skills and Hobbies
-* [SpringRole Skill Project Blog Post](https://blog.springrole.com/the-skills-project-cc4b7879f940), [SpringRole Skill Project](http://en.skill-project.org/the-project), and [Skill Project Database](http://en.skill-project.org/skills)
-* [List of Hobbies Wikipedia](https://en.wikipedia.org/wiki/List_of_hobbies)
 
 Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
 * [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
@@ -307,6 +303,10 @@ A16Z Metrics
 
 
 <!--
+http://blog.strategyzer.com
+https://medium.com/the-xplane-collection
+
+
 https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
 
 https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
@@ -534,20 +534,38 @@ https://github.com/FallibleInc/security-guide-for-developers | FallibleInc/secur
 
 ## Computers- General
 
-Microprocessor, CPU and Instruction Set
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+<!--
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/John_von_Neumann
+
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Microprocessor
+https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+-->
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
 * [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
 * [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
 
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
 * [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
 
 Port and Host
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
@@ -575,22 +593,6 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-https://en.wikipedia.org/wiki/Computer_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/John_von_Neumann
-
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Microprocessor
-https://en.wikibooks.org/wiki/Microprocessor_Design | Microprocessor Design - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture | Apple–Intel architecture - Wikipedia
-https://en.wikipedia.org/wiki/Central_processing_unit | Central processing unit - Wikipedia
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
-
 Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
@@ -603,6 +605,10 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
