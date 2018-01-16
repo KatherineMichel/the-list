@@ -308,19 +308,6 @@ https://medium.com/the-xplane-collection
 
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
 
-
-https://www.kansas.gov/businesscenter/index.html | Kansas Business Center: Simple steps for success on thinking, starting, maintaining, and closing a business in Kansas
-
-https://mattermark.com/venture-capital-dictionary/ | A Beginner's Dictionary of Venture Capital - Mattermark
-https://mattermark.com/want-learn-venture-capital/ | The Beginner's Guide To VC - Mattermark
-
-https://github.com/jlevy/og-equity-compensation
-https://github.com/leonar15/startup-checklist
-
-http://www.businessdictionary.com/definition/S-curve.html | What is S curve? definition and meaning - BusinessDictionary.com
-
-https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
-
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
@@ -335,34 +322,6 @@ http://coastery.com/2016/how-pieter-levels-works/
 https://makebook.io
 https://www.youtube.com/watch?v=m3nb_Qj3mRA
 https://levels.io/hoodmaps/
-
-His business
-https://twitter.com/levelsio/status/895811761223237632
-https://twitter.com/levelsio/status/889454248026451968 | Pieter Levels @ 🇺🇸 on Twitter: "https://t.co/08KgAoIk3W press tour: - @ProductHunt LIVE chat - @TechCrunch interview - @NYTimes interview - @IndieHackers podcast interview"
-https://twitter.com/levelsio/status/742166715853885440
-https://twitter.com/levelsio/status/903791440844742656 | Pieter Levels @ 🇳🇱 on Twitter: "Entire bookkeeping soon finished, I'll publish all numbers and start /open page with all revenue this week"
-https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹🇼 on Twitter: "Nomad List 3.0 roadmap ✅ 1000 cities ✅ New engine ✅ Nomad Card ✅ Nomad Radar ⭕️ Nomad Camp ⭕️ Nomad Store"
-
-Tips
-https://twitter.com/levelsio/status/908833499452514309 | Pieter Levels @ 🇳🇱 on Twitter: " Here's my to-do system that's only @Postit's https://t.co/7Pm5ts1u5m"
-https://twitter.com/levelsio/status/907450486718164993 | Pieter Levels @ 🇳🇱 on Twitter: "Life Pro Tip: find a productivity partner, someone you mutually share your tasks with every day, this instantly makes your To-Do accountable"
-
-How to Make...
-https://twitter.com/levelsio/status/861835999604752384
-https://twitter.com/levelsio/status/850666099817328640
-
-Story
-https://twitter.com/levelsio/status/884667359792779264 | Pieter Levels @ 🇺🇸 on Twitter: "Should I tell the story how I got fucked over by a guy who used me and others to raise $3 million dollars of funding in SF?"
-
-https://blog.winnie.com/ | Winnie
-
-https://news.ycombinator.com/item?id=14227063
-
-https://medium.com/startup-grind/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8#.ad6k04luv
-
-https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
-
-https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-no-customers | How to Launch a Product With No Money and No Customers – Chris Mason – Indie Hackers
 -->
 
 
