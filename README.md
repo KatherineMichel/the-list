@@ -264,7 +264,7 @@ Scientific Method and Minimum Viable Product
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
-* [XPLANE Medium](https://medium.com/the-xplane-collection)
+* [XPLANE Blog](http://xblog.xplane.com) and [XPLANE Medium](https://medium.com/the-xplane-collection)
 
 Tim Ferris Blueprints
 * ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
@@ -273,14 +273,10 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 Pieter Levels
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
 * [Bootstrapping](https://levels.io/bootstrapping)
 * [Make Book](https://makebook.io)
-
-<!--
-http://coastery.com/2016/how-pieter-levels-works/
-https://www.youtube.com/watch?v=m3nb_Qj3mRA
-https://levels.io/hoodmaps/
--->
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
@@ -681,105 +677,7 @@ https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collection
 django uml - Google Search
 -->
 
-<!--
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
 
-Kenneth Reitz
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://docs.python.org/3.6/tutorial/datastructures.html
-https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
-https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
-
-https://docs.python.org/3/ | 3.6.4rc1 Documentation
-https://docs.python.org/3/contents.html
-https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/py-modindex.html
-https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
-
-https://docs.python.org/3/ | 3.6.2 Documentation
-https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
-Django Sites
-
-https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
-
-https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
-https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
-https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
-https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
-https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/string.html | 6.1. string — Common string operations — Python 3.6.4 documentation
-
-https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
-https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
-https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes — Python 3.6.3 documentation
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
-
-https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/string.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/howto/argparse.html
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/howto/regex.html
-https://docs.python.org/3/library/logging.config.html
-
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-django parallel tests
-
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
-https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
-
-https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-
-https://leanpub.com/insidethepythonvirtualmachine | Inside The Python Virtual… by Obi Ike-Nwosu [PDF/iPad/Kindle]
-
-https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
-
-https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
-
-https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
--->
 
 ## Python and Django Books and Tutorials
 
@@ -890,231 +788,6 @@ Python Websites and Newsletters
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
-<!--
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
-
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/community/tutorials/finance-python-trading | Python For Finance: Algorithmic Trading (article) - DataCamp
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
-https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
-
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-https://www.lynda.com/Python-3-tutorials/essential-training/62226-2.html | Python 3 Essential Training
-https://www.lynda.com/Python-tutorials/Object-oriented-functional-Python/534425/583147-4.html | Object-oriented and functional Python
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
-
-http://campus.codeschool.com/courses/try-django/contents
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
-
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-
-https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
-https://dbader.org/blog/python-first-class-functions
-https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
-https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
-
-https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
-https://dbader.org/blog/why-learn-python | Why Learn Python? Here Are 8 Data-Driven Reasons – dbader.org
-https://www.youtube.com/watch?v=ixO9oXy1Dhw | Object-Oriented Programming (OOP) in Python – A Good Idea? 🚨🐍 - YouTube
-https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
-
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
-
-https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
-https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-
-https://github.com/pallets/click
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
--->
-
-
-
-
-
-<!--
-SOLID (Object Oriented Design)
-* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
-* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
-
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-http://jakevdp.github.io
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks
-
-
-http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
-
-http://python.apichecklist.com
-https://github.com/vintasoftware/python-api-checklist
-http://djangoappschecklist.com
-
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
-
-
-
-https://stephensugden.com/crash_into_python/ | Crash into Python
-https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
-
-http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
-http://www.pythoncentral.io/pythons-help-function/ | Python’s help() Function | Python Central
-http://www.pythonforbeginners.com/super/working-python-super-function | Working with the Python Super Function
-
-
-
-
-https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
-https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-
-YouTube
-Coding is for girls  1
-PyLadiesRemote Webcasts
-freeCodeCamp  14
-
-http://inventwithpython.com/hacking/
-http://inventwithpython.com/blog/ | The Invent with Python Blog -
-
-https://python.swaroopch.com/ | Introduction · A Byte of Python
-http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
-
-https://bitbucket.org/gregmalcolm/python_koans | gregmalcolm / python_koans — Bitbucket
-http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
-https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
-http://thepythonguru.com/ | Learn Python | Python tutorials for beginners | The Python Guru
-http://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
-https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, Idiomatic Python - YouTube
-http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
-https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
--->
-
-
-<!--
-Digital Ocean
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
-
-https://www.amazon.com/Robert-C.-Martin/e/B000APG87E/ref=pd_sim_14_bl_2?_encoding=UTF8&refRID=HC2DY278F6YQP7A83G34 | Amazon.com: Robert C. Martin: Books, Biography, Blog, Audiobooks, Kindle
-https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445 | Amazon.com: Agile Software Development, Principles, Patterns, and Practices (9780135974445): Robert C. Martin: Books
-https://www.youtube.com/watch?v=TMuno5RZNeE&app=desktop | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
-
-https://sites.google.com/site/unclebobconsultingllc/ | Clean Coder
-http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html | Clean Coder Blog
-https://www.youtube.com/watch?v=t86v3N4OshQ | The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin - YouTube
-http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod | ArticleS.UncleBob.PrinciplesOfOod
-http://www.oodesign.com/design-principles.html | Design Principles | Object Oriented Design
-https://www.youtube.com/results?search_query=uncle+bob+martin | uncle bob martin - YouTube
-
-Corey Schafer
-https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
-https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
-https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
-https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
-
-
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-
-Object Oriented
-http://stanford.edu/class/cme193/python_course/lectures/lecture5.pdf | CME 193: Introduction to Scientific Python Lecture 5: Object Oriented Programming
-https://teamtreehouse.com/library/objectoriented-python-2 | Object-Oriented Python Course
-https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
-http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
-https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/ | Improve Your Python: Python Classes and Object Oriented Programming
-https://dbader.org/python-oop-cheatsheet | 7 Great Resources for Learning OOP in Python – dbader.org
-https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/ | Why is Object-Oriented Programming Useful? (With a Role Playing Game Example) - The Invent with Python Blog
-https://blog.newrelic.com/2015/04/01/python-programming-styles/ | Embracing the Four Python Programming Styles
-
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
-
-http://www.ironpythoninaction.com
-
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-
-http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
-
-http://www.diveintopython.net/object_oriented_framework/index.html | Chapter 5. Objects and Object-Orientation
-http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
-http://www.diveintopython.net/native_data_types/joining_lists.html
-
-http://www.diveintopython3.net/whats-new.html | What's New In Dive Into Python 3
-http://www.diveintopython3.net/special-method-names.html | Special Method Names - Dive Into Python 3
-http://www.diveintopython3.net/iterators.html | Classes & Iterators - Dive Into Python 3
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-
-http://www.tutorialspoint.com/python/ | Python Tutorial
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
-
-http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
-http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-
-https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
-https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
--->
 
 
 
@@ -1153,22 +826,6 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
-<!--
-Testing and Deployment
-
-https://pypi.python.org/pypi/flake8
-https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
-
-https://docs.python.org/3.5/library/unittest.html
-http://www.diveintopython.net/unit_testing
-
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
-
-http://masteringdjango.com/testing-in-django
--->
-
-
 #### Python Styleguides
 
 <!--
@@ -1191,18 +848,6 @@ Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
 * [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-<!--
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-
-See other article also
-http://nvie.com/posts/pin-your-packages/
-pip-tools https://github.com/nvie/pip-tools
-
-http://www.fullstackpython.com/deployment.html
-https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
--->
-
 
 ## Django Learning Resources
 
@@ -1269,42 +914,6 @@ Python- Django- Hello Web App
 * [Hello Web App Discuss](http://discuss.hellowebapp.com)
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
-<!--
-https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
-
-https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
-
-https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
-
-https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
-https://speakerdeck.com/limedaring
-https://speakerdeck.com/limedaring/pyladies-remote
-https://speakerdeck.com/limedaring/pycaribbean | On Writing Friendly and Welcoming Documentation / PyCaribbean // Speaker Deck
-https://speakerdeck.com/limedaring/pycaribbean-1
-https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7 | Five tips for improving your technical writing and documentation.
-https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
-https://hellowebapp.com/tutorial/intro/
-https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
-
-Interesting
-https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
-https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
-
-https://hellowebbooks.com/news/hello-web-app-online-forever
-
-https://hellowebbooks.com/news/introduction-to-class-based-views/ | Introduction to Class-Based Views - Hello Web Books
-https://hellowebapp.com/news/tutorial-class-based-views
-https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
-https://hellowebbooks.com/news/tutorial-password-change-views/ | Tutorial: Setting Up the Password Change Functionality - Hello Web Books
-
-https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
-https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
-https://github.com/hellowebapp/hellowebapp/tree/master/windows-help
-
-https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
-https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
--->
-
 Two Scoops Books
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
@@ -1318,26 +927,6 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
-
-<!--
-https://github.com/twoscoops
-
-https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-
-django fixtures
-wsgi
-
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
-
-https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
-https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
-https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
-https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
--->
 
 
 
