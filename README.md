@@ -245,8 +245,6 @@ Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
 * [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
 
 <!--
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-
 https://personalmba.com/second-order-effects/ | Second-Order Effects - The Personal MBA
 
 https://personalmba.com/ | The Personal MBA - Josh Kaufman
@@ -264,12 +262,23 @@ Scientific Method and Minimum Viable Product
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
+* [XPLANE Medium](https://medium.com/the-xplane-collection)
 
 Tim Ferris Blueprints
 * ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
 * ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
 * ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
+Pieter Levels
+* [Bootstrapping](https://levels.io/bootstrapping)
+
+<!--
+http://coastery.com/2016/how-pieter-levels-works/
+https://makebook.io
+https://www.youtube.com/watch?v=m3nb_Qj3mRA
+https://levels.io/hoodmaps/
+-->
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
@@ -286,25 +295,11 @@ A16Z Metrics
 
 
 <!--
-http://blog.strategyzer.com
-https://medium.com/the-xplane-collection
-
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
--->
-
-
-<!--
-https://levels.io/bootstrapping
-http://coastery.com/2016/how-pieter-levels-works/
-https://makebook.io
-https://www.youtube.com/watch?v=m3nb_Qj3mRA
-https://levels.io/hoodmaps/
 -->
 
 
