@@ -212,9 +212,12 @@ Learning
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
+Seneca
 
 <!--
+https://en.wikipedia.org/wiki/Seneca_the_Younger
 https://tim.blog/2017/07/06/tao-of-seneca/
+https://tim.blog/2016/01/22/the-tao-of-seneca/
 
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
@@ -289,6 +292,9 @@ Tim Ferris Blueprints
 * ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
+The Elements of Value
+* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
 Carlota Perez Framework
 * [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surve Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
 * [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
@@ -320,8 +326,6 @@ http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.p
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 Marty Cagan
-
-https://hbr.org/2016/09/the-elements-of-value
 -->
 
 
