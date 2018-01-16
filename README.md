@@ -326,36 +326,35 @@ https://hbr.org/2016/09/the-elements-of-value
 
 
 <!--
-https://blog.winnie.com/ | Winnie
-
-https://medium.com/startup-grind/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8#.ad6k04luv
-
-https://news.ycombinator.com/item?id=14227063
+https://levels.io/bootstrapping
+http://coastery.com/2016/how-pieter-levels-works/
 https://makebook.io
 https://www.youtube.com/watch?v=m3nb_Qj3mRA
 https://levels.io/hoodmaps/
-https://twitter.com/levelsio/status/861835999604752384
-http://coastery.com/2016/how-pieter-levels-works/
-https://levels.io/bootstrapping
 
 His business
 https://twitter.com/levelsio/status/895811761223237632
 https://twitter.com/levelsio/status/889454248026451968 | Pieter Levels @ 🇺🇸 on Twitter: "https://t.co/08KgAoIk3W press tour: - @ProductHunt LIVE chat - @TechCrunch interview - @NYTimes interview - @IndieHackers podcast interview"
 https://twitter.com/levelsio/status/742166715853885440
+https://twitter.com/levelsio/status/903791440844742656 | Pieter Levels @ 🇳🇱 on Twitter: "Entire bookkeeping soon finished, I'll publish all numbers and start /open page with all revenue this week"
+https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹🇼 on Twitter: "Nomad List 3.0 roadmap ✅ 1000 cities ✅ New engine ✅ Nomad Card ✅ Nomad Radar ⭕️ Nomad Camp ⭕️ Nomad Store"
+
+Tips
+https://twitter.com/levelsio/status/908833499452514309 | Pieter Levels @ 🇳🇱 on Twitter: " Here's my to-do system that's only @Postit's https://t.co/7Pm5ts1u5m"
+https://twitter.com/levelsio/status/907450486718164993 | Pieter Levels @ 🇳🇱 on Twitter: "Life Pro Tip: find a productivity partner, someone you mutually share your tasks with every day, this instantly makes your To-Do accountable"
+
+How to Make...
+https://twitter.com/levelsio/status/861835999604752384
 https://twitter.com/levelsio/status/850666099817328640
 
 Story
 https://twitter.com/levelsio/status/884667359792779264 | Pieter Levels @ 🇺🇸 on Twitter: "Should I tell the story how I got fucked over by a guy who used me and others to raise $3 million dollars of funding in SF?"
 
+https://blog.winnie.com/ | Winnie
 
+https://news.ycombinator.com/item?id=14227063
 
-https://twitter.com/levelsio/status/903791440844742656 | Pieter Levels @ 🇳🇱 on Twitter: "Entire bookkeeping soon finished, I'll publish all numbers and start /open page with all revenue this week"
-
-https://twitter.com/levelsio/status/907450486718164993 | Pieter Levels @ 🇳🇱 on Twitter: "Life Pro Tip: find a productivity partner, someone you mutually share your tasks with every day, this instantly makes your To-Do accountable"
-https://twitter.com/levelsio/status/911135199265804289 | Pieter Levels @ 🇳🇱 on Twitter: "@braddwyer @magicsudokuapp Jesus christ"
-https://twitter.com/levelsio/status/908833499452514309 | Pieter Levels @ 🇳🇱 on Twitter: " Here's my to-do system that's only @Postit's https://t.co/7Pm5ts1u5m"
-https://twitter.com/levelsio/status/846723592863846404 | Pieter Levels @ 🇹🇼 on Twitter: "Nomad List 3.0 roadmap ✅ 1000 cities ✅ New engine ✅ Nomad Card ✅ Nomad Radar ⭕️ Nomad Camp ⭕️ Nomad Store"
-
+https://medium.com/startup-grind/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8#.ad6k04luv
 
 https://twitter.com/ajlkn/status/903642253725503488 | aj ⚡️ 🍜 on Twitter: "August 🙋 3,483 new users 🌐 6,319 new sites 💵 $6.6k"
 
@@ -371,26 +370,6 @@ https://www.indiehackers.com/@cmason/how-to-launch-a-product-with-no-money-and-n
 * [React Docs](https://reactjs.org/docs)
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
-
-## Developer and Team Success
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-<!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-
-https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
-https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
-https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
-
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
-
-https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
---<
 
 ## Some Favorite Awesome
 
@@ -421,6 +400,29 @@ Awesome Data Science
 * [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+
+## Developer and Team Success
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+
+https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
+https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
+https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6 | Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
+--<
+
+
 
 ## Interesting Curated Learning Resources
 
@@ -873,11 +875,6 @@ https://docs.python.org/3.6/library/collections.html | 8.3. collections — Cont
 https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
 https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
 
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-django parallel tests
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
-
 https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
 https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes — Python 3.6.3 documentation
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
@@ -891,6 +888,42 @@ https://docs.python.org/3/howto/argparse.html
 https://docs.python.org/3/library/pathlib.html
 https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/logging.config.html
+
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+django parallel tests
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
+
+https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+
+https://leanpub.com/insidethepythonvirtualmachine | Inside The Python Virtual… by Obi Ike-Nwosu [PDF/iPad/Kindle]
+
+https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
+
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
 -->
 
 ## Python and Django Books and Tutorials
@@ -958,6 +991,8 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+http://aosabook.org/en/index.html
+
 https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
 
 https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
@@ -977,6 +1012,8 @@ Books
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
 https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
 https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
+
+https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 -->
 
 Python Tutors- YouTube
@@ -997,48 +1034,6 @@ Python Websites and Newsletters
 
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-
-<!--
-https://github.com/pallets/click
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-
-https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
-Python MRO
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
-https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
-
-https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-
-https://leanpub.com/insidethepythonvirtualmachine | Inside The Python Virtual… by Obi Ike-Nwosu [PDF/iPad/Kindle]
-
-https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
-
-https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
-https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
--->
-
-
 
 <!--
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
@@ -1118,6 +1113,10 @@ https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
 https://www.eventbrite.com/orderconfirmation/38013550553/690640906/AA6ItQMDN7BiE_4EaXAueVUwGETzZNzITA/ | You're going to Introduction to Machine Learning in Python with Alyssa Batul...
 https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+
+
+https://github.com/pallets/click
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 -->
 
 
@@ -1145,9 +1144,7 @@ http://djangoappschecklist.com
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
 
-Python- Playbooks
-* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+
 
 https://stephensugden.com/crash_into_python/ | Crash into Python
 https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
@@ -1318,6 +1315,12 @@ http://masteringdjango.com/testing-in-django
 
 
 #### Python Styleguides
+
+<!--
+Python- Playbooks
+* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
+-->
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
