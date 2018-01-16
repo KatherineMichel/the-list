@@ -184,8 +184,13 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
-Charlie Munger's 18 Biases
+Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+
+<!--
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+-->
 
 Neuorplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
@@ -229,9 +234,6 @@ https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
 https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
 https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
-
-https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
-https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement/ | Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)
 -->
 
 ## Skills and Employment
@@ -272,10 +274,10 @@ Tim Ferris Blueprints
 
 Pieter Levels
 * [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
 
 <!--
 http://coastery.com/2016/how-pieter-levels-works/
-https://makebook.io
 https://www.youtube.com/watch?v=m3nb_Qj3mRA
 https://levels.io/hoodmaps/
 -->
@@ -293,6 +295,7 @@ Financial Ratio
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
+## Project Management
 
 <!--
 Agile and Lean
@@ -301,7 +304,6 @@ http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 -->
-
 
 ## Software Tools
 
@@ -341,7 +343,6 @@ Awesome Data Science
 * [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
 
 ## Developer and Team Success
 
