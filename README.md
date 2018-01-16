@@ -84,12 +84,6 @@ Product Hunt Top 500
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
 
-<!--
-http://www.gitlogs.com | Top Resources on Github
-
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
--->
-
 GitHub More
 * [GitHub Explore](https://github.com/explore)
 * [GitHub Discover](https://github.com/dashboard/discover)
@@ -147,17 +141,6 @@ Nuzzel
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-<!--
-http://nuzzel.com/gc
-
-https://twitter.com/balajis/following | People followed by Balaji S. Srinivasan (@balajis) | Twitter
-https://twitter.com/cdixon | Chris Dixon (@cdixon) | Twitter
-
-MarcA Books
-http://www.rightrelevance.com/search/articles/hero?article=646f94c519df824013cb7d0beb29b377fd7ff395&query=venture%20capital&taccount=venturecap_rr | venture capital Articles : 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
-https://medium.com/@valkyrie8411/marc-andreessen-bookshelf-beea2a567d2 | 291 Books Recommended by Marc Andreessen – BookAdvice – Medium
--->
 
 ## Mind Tools
 
