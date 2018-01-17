@@ -76,9 +76,8 @@ Python- Heroku, AWS, Digital Ocean
 * [Security](#security)
 
 Developer Playground/IDE, Maker, Bots
+Terraform, Docker, Kubernetes
 
-
-* [Dev Ops Tools](#dev-ops-tools)
 * [Functions](#functions)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
