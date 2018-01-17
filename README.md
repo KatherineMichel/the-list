@@ -19,16 +19,39 @@ Apple- Dash Docs
 Graphite and Graphana
 Pixels
 
-* [Design Thinking](#design-thinking)
-* [Pretotyping and Prototyping](#pretotyping-and-prototyping)
-* [Themes and Static Site Generators](#themes-and-static-site-generators)
-* [Facebook and Google Design and Development Approaches](#facebook-and-google-design-and-development-approaches)
-* [Front-End Development](#front-end-development) 
-* [CSS Helpers](#css-helpers)
-* [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer](#apple-developer)
-  * [Google Developer](#google-developer)
-  * [Microsoft Developer](#microsoft-developer)
+Prototyping Software- Keynotopia
+* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
+
+Prototyping Software- Keynotopia- Tutorials
+* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
+
+Prototyping Software- Keynote- Docs
+* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
+* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
+* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
+
+https://www.nngroup.com
+Design Blogs
+Bootstrap, Kickstarters
+Favicon, Sitemap, robots.txt, humans.txt
+Website Downloaders
+
+Google Material Design (See also Facebook React)
+Bootstrap Material Design
+Polymer (See also Facebook React)
+https://developers.google.com/web/showcase
+Entire section: * [Front-End Development](#front-end-development) 
+Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
+
+Mac OS X- Architecture
+Mac OS X Directory Strucure and Listing Applications
+Apple Developer Helpers
+iTerm2, Dash
+Google Developers- General
+Google Developers- Code
+Google Developers- Web
+
   * [Mozilla Developer](#mozilla-developer)
   * [Browser and Layout Engines](#browser-and-layout-engines)    
   * [Developer Tools](#developer-tools)
@@ -37,7 +60,21 @@ Pixels
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
   * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
-* [Python and Django Toolkit](#python-and-django-toolkit)
+  
+Back-End Programming Languages, MVCs
+Programming Languages
+Scripting and MVCs
+Programming Languages- Assembly
+Jekyll
+Jekyll Admin/CMS
+.NET, ASP, Visual Studio
+JavaScript- Microsoft
+Web Development- Microsoft
+Visual Studio
+ASP.NET- All
+Joni Trythall
+
+
 * [Dashboards](#dashboards)
 * [AWS](#aws)
 * [Heroku](#heroku)
