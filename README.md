@@ -23,15 +23,8 @@ Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 
-Prototyping Software- Keynotopia- Tutorials
-* [How to Use Keynote Master Slides in Apple Keynote](http://keynotopia.com/how-to-use-keynote-master-slides-in-apple-keynote)
-
-Prototyping Software- Keynote- Docs
-* [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
-* [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
-* [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
-
 https://www.nngroup.com
+
 Design Blogs
 Bootstrap, Kickstarters
 Favicon, Sitemap, robots.txt, humans.txt
@@ -65,31 +58,32 @@ Back-End Programming Languages, MVCs
 Programming Languages
 Scripting and MVCs
 Programming Languages- Assembly
-Jekyll
-Jekyll Admin/CMS
-.NET, ASP, Visual Studio
+Jekyll, Jekyll Admin/CMS
 JavaScript- Microsoft
 Web Development- Microsoft
 Visual Studio
 ASP.NET- All
 Joni Trythall
 
-
-* [Dashboards](#dashboards)
 * [AWS](#aws)
 * [Heroku](#heroku)
 * [Digital Ocean](#digital-ocean)
 * [Google Cloud](#google-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
+Python- Heroku, AWS, Digital Ocean
 * [Domains, DNS, SSL](#domains-dns-ssl)
 * [Security](#security)
-* [Deployment, Cloud, and Playgrounds](#deployment-cloud-and-playgrounds)
+
+Developer Playground/IDE, Maker, Bots
+
+
 * [Dev Ops Tools](#dev-ops-tools)
 * [Functions](#functions)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Servers and Databases](#servers-and-databases)
+
 
 User Interfaces
 
