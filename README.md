@@ -359,8 +359,9 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 -->
 
 
+## Interesting Curated Learning Resources- General
 
-## Interesting Curated Learning Resources
+## Interesting Curated Learning Resources- Programming
 
 Stellar Programming Learning Resources
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -706,7 +707,7 @@ Learning Platforms (See also others)
 * [Google's Python Class](https://developers.google.com/edu/python)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 Pluralsight and DataCamp
 * [DataCamp](https://www.datacamp.com)
@@ -729,13 +730,13 @@ Python Tutors- Regular
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com)
 * [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Daniel Roy Greenfield](http://www.pydanny.com)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
@@ -743,23 +744,24 @@ Python Tutors- Regular
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+
+
 <!--
-http://aosabook.org/en/index.html
-
-https://wiki.python.org/moin/AdvancedBooks | AdvancedBooks - Python Wiki
-
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
-
-https://jeffknupp.com/blog/archives/ | Archives
-https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
-
 https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
 https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+https://jeffknupp.com/blog/archives/ | Archives
+https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 
 Books
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
@@ -781,14 +783,23 @@ https://www.youtube.com/watch?v=N4mEzFDjqtA | Derek Banas Python Programming - Y
 -->
 
 Python Websites and Newsletters
+* [Interactive Python](http://www.interactivepython.org)
+* [Iron Python in Action](http://www.ironpythoninaction.com)
+* [Learn Python](http://www.learnpython.org)
 * [Python Central](http://www.pythoncentral.io)
 * [Python for Beginners](http://www.pythonforbeginners.com)
+* [Python Tutor](http://pythontutor.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+* [The Python Guru](http://thepythonguru.com)
 
-
+<!--
+https://github.com/RafeKettler
+http://www.tutorialspoint.com/python/ | Python Tutorial
+-->
 
 Wiki Books
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
+* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
@@ -835,6 +846,7 @@ https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolu
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
+https://github.com/aosabook/500lines/tree/master/interpreter
 http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
 https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
 
@@ -852,12 +864,6 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
 
 #### Python Styleguides
-
-<!--
-Python- Playbooks
-* [The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
--->
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
@@ -887,12 +893,14 @@ Django Consulting Firms, Blogs, Repos
 * [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
 * [Pinax Blog](http://blog.pinaxproject.com)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
-* [Lincoln Loop](http://lincolnloop.com) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
 * [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
 * [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 Teachers
-* [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html)
+* * [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
+* [Frank Wiles](http://www.frankwiles.com)
+* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
 
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
