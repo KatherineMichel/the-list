@@ -110,103 +110,6 @@ Terraform, Docker, Kubernetes
 * [Servers and Databases](#servers-and-databases)
 
 
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-https://en.wikipedia.org/wiki/Unix-like
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-Programming Languages- Assembly 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
-
 Jekyll- DjangoCon, Other Stuff
 
 https://html5boilerplate.com/
@@ -899,6 +802,93 @@ HTTP
 Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+https://en.wikipedia.org/wiki/Unix-like
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
+https://en.wikipedia.org/wiki/File_system_permissions
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+Programming Languages- Assembly 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
@@ -909,9 +899,14 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
 
@@ -919,6 +914,10 @@ https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 -->
 
 
