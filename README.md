@@ -1,6 +1,14 @@
 # Favorite Learning Resources
 
 <!--
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
+
+https://www.pluralsight.com/teach
+https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
+https://www.pluralsight.com/blog/news/authoring-for-pluralsight
+
+http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
+
 Startup Engineering MOOC
 
 Developer Surveys
@@ -76,8 +84,6 @@ JavaScript- Microsoft
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
 
-Back-End Programming Languages, MVCs
-Programming Languages
 Scripting and MVCs
 Programming Languages- Assembly
 Microsoft, ASP.NET- All
@@ -175,6 +181,41 @@ EditorConfig (tabs versus spaces, ect) .editorconfig
 * [EditorConfig Plugins](http://editorconfig.org/#download)
 
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+Programming Languages- Assembly 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+
+Jekyll- DjangoCon, Other Stuff
+
+https://html5boilerplate.com/
+
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
+https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 
 https://www.openstack.org/coa
 https://docs.openstack.org
