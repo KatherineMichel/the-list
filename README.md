@@ -112,6 +112,13 @@ Terraform, Docker, Kubernetes
 
 Jekyll- DjangoCon, Other Stuff
 
+https://help.shopify.com/themes/liquid/filters
+
+http://daigofuji.github.io/jekyll-foundation-6-starter
+http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
+http://daigofuji.github.io/jekyll-foundation-5-starter
+https://github.com/daigofuji/jekyll-foundation-5-starter
+
 https://html5boilerplate.com/
 
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
