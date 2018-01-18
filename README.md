@@ -36,8 +36,6 @@ Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
-Operating System, Browser, Layout Engine
-Operating System Comparison
 Unix and Linux- General
 Social Media Webmaster and Ads, Pixels
 Metatags, Social Graph, Rich Snippets
@@ -59,19 +57,20 @@ Bootstrap Material Design
 Polymer (See also Facebook React)
 https://developers.google.com/web/showcase
 
-Entire section: * [Front-End Development](#front-end-development) 
 Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
 
-Mac OS X- Architecture, Mac OS X Directory Strucure and Listing Applications
-Apple Developer Helpers, iTerm2
-Google Developers- General
-Google Developers- Code
-Google Developers- Web
+* [Front-End Development](#front-end-development) 
+* [CSS Helpers](#css-helpers)
 
+* [Development Environment and Programming](#development-environment-and-programming)
+  * [Apple Developer](#apple-developer)
+  * [Google Developer](#google-developer)
+  * [Microsoft Developer](#microsoft-developer)
   * [Mozilla Developer](#mozilla-developer)
   * [Browser and Layout Engines](#browser-and-layout-engines)    
   * [Developer Tools](#developer-tools)
 * [Testing and Performance](#testing-and-performance)
+
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
   * [JavaScript Framework](#javascript-framework)
@@ -84,8 +83,6 @@ JavaScript- Microsoft
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
 
-Scripting and MVCs
-Programming Languages- Assembly
 Microsoft, ASP.NET- All
 Joni Trythall
  
@@ -114,32 +111,6 @@ Terraform, Docker, Kubernetes
 
 
 
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-https://en.wikipedia.org/wiki/Unix-like
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
 * [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
@@ -149,9 +120,35 @@ Smartphones (See also Mobile)
 * [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+https://en.wikipedia.org/wiki/Unix-like
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
+https://en.wikipedia.org/wiki/File_system_permissions
+
 * [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
 * [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
 * [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
