@@ -109,7 +109,6 @@ Terraform, Docker, Kubernetes
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Servers and Databases](#servers-and-databases)
 
-
 Jekyll- DjangoCon, Other Stuff
 
 https://help.shopify.com/themes/liquid/filters
@@ -123,6 +122,58 @@ https://html5boilerplate.com/
 
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+
+See Events
+http://webbyawards.com
+
+https://developer.apple.com/reference/accelerate/1912851-bnns
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+https://en.wikipedia.org/wiki/Apple_File_System
+https://en.wikipedia.org/wiki/HFS_Plus
+
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
+
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
+
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
+
+* [Apple Open Source](https://developer.apple.com/opensource)
+
+iTerm2
+* [iTerm2](https://www.iterm2.com)
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Chrome Extensions
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+
 
 https://www.openstack.org/coa
 https://docs.openstack.org
