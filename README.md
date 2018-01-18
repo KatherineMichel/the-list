@@ -5,30 +5,27 @@ Developer Surveys
 Company Design Blogs
 Company Design Systems
 Style Guides
-Built With
+
+Built With, Website Downloaders
 DevCenter
+
 The Cathedral and the Bazaar
-Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, Visual Studio Code, PyCharm, EditorConfig, Makefile
+Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, PyCharm, EditorConfig, Makefile
 Keyboard Shortcuts
 Encoding, Dot Files
+
 Startup Engineering MOOC
 Operating System, Browser, Layout Engine
 Operating System Comparison
 Unix and Linux- General
-Apple- Dash Docs
 Graphite and Graphana
 Pixels
-
-Prototyping Software- Keynotopia
-* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 
 https://www.nngroup.com
 
 Design Blogs
 Bootstrap, Kickstarters
 Favicon, Sitemap, robots.txt, humans.txt
-Website Downloaders
 
 Google Material Design (See also Facebook React)
 Bootstrap Material Design
@@ -40,7 +37,7 @@ Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffin
 Mac OS X- Architecture
 Mac OS X Directory Strucure and Listing Applications
 Apple Developer Helpers
-iTerm2, Dash
+iTerm2
 Google Developers- General
 Google Developers- Code
 Google Developers- Web
@@ -58,12 +55,12 @@ Back-End Programming Languages, MVCs
 Programming Languages
 Scripting and MVCs
 Programming Languages- Assembly
-Jekyll, Jekyll Admin/CMS
 JavaScript- Microsoft
 Web Development- Microsoft
-Visual Studio
 ASP.NET- All
 Joni Trythall
+ 
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
 
 * [AWS](#aws)
 * [Heroku](#heroku)
@@ -323,6 +320,10 @@ A16Z Metrics
 
 ## Project Management
 
+Prototyping Software- Keynotopia
+* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
+
 <!--
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
@@ -330,6 +331,25 @@ http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 -->
+
+## People and Projects
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+GitHub Trending Developers
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
+<!--
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+-->
+
+## Engineering Blogs
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 ## Software Tools
 
@@ -339,6 +359,474 @@ http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 * [React Docs](https://reactjs.org/docs)
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
+
+Jekyll
+* [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+## MOOCs, Courses, Teachers
+
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+
+Courses
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
+* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
+* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
+* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
+* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+<!--
+New, Check Other Repo
+http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
+
+https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
+
+http://ready.codecademy.com | Build Websites From Scratch
+-->
+
+Forums
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
+
+<!--
+More forums or GitHub?
+
+https://www.pluralsight.com/guides
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online
+https://www.pluralsight.com/blog/career/tech-in-2025
+Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
+
+https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+https://www.codecademy.com/learn/learn-sass
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
+
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/computing/computer-programming/sql
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
+http://treehouse.github.io/installation-guides
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
+-->
+
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+* [Free Code Camp Map](https://www.freecodecamp.com/map)
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+
+<!--
+https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
+
+https://medium.freecodecamp.org/tagged/events
+https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+https://github.com/freeCodeCamp/contribute
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+-->
+
+Math and General Knowledge  
+* [Project Euler Problems](http://projecteuler.net/problems) 
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram Resources](http://www.wolfram.com/resources)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Functions](http://functions.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Math is Fun](http://www.mathsisfun.com)
+
+<!--
+New
+* [Stack Exchange Math](https://math.stackexchange.com)
+* [Stack Exchange Stats](https://stats.stackexchange.com)
+
+https://reference.wolfram.com
+
+https://www.khanacademy.org/math
+
+https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
+https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
+-->
+
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
+
+## Live Coding
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+## Books
+
+Books
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [No Starch Press](https://www.nostarch.com)
+
+
+
+## Tools and General Learning
+
+Wikipedia
+* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
+<!--
+https://www.techopedia.com
+
+http://www.computerhistory.org
+https://twitter.com/ComputerHistory
+-->
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+<!--
+https://medium.com/@preethikasireddy
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
+-->
+
+
+
+
+#### Python and Django Conference Videos and Slides
+
+<!--
+[North Bay Python YouTube](https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos)
+https://2017.pygotham.org/ | PyGotham 2017
+http://www.nextdayvideo.com/ | Next Day Video : Welcome
+https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
+-->
+
+PyVideo
+* [PyVideo](http://pyvideo.org)
+* [PyVideo Events](http://pyvideo.org/events.html)
+
+Confreaks
+* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+
+Python Events
+* [PSF Python Events](https://www.python.org/events)
+
+PyVideo
+* [PyVideo Events](http://pyvideo.org/events.html)
+
+PyCon
+* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
+* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
+* [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos)
+* [PyCon 2014](https://www.youtube.com/user/PyCon2014/videos)
+
+PyCon Canada
+* [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
+
+PyData
+* [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
+* [PyData Events](https://pydata.org/events.html)
+
+<!--
+http://videolectures.net/ | VideoLectures.NET - VideoLectures.NET
+
+http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
+https://pydata.org/warsaw2017/ | PyData Warsaw 2017
+
+https://nips.cc
+http://create.baidu.com
+http://aifrontiers.com/ | AI Frontiers Conference
+
+https://nips.cc/ | 2017 Conference
+https://nips.cc/Conferences/2017/Videos
+https://nips.cc/Conferences/2016/Videos
+https://nips.cc/Conferences/2015/Videos
+https://nips.cc/Conferences/2014/Videos
+https://nips.cc/Conferences/2013/Videos
+https://nips.cc/Conferences/2012/Videos
+https://nips.cc/Conferences/2011/Videos
+https://nips.cc/Conferences/2010/Videos
+-->
+
+EuroPython
+* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
+
+DjangoCon US
+* [DjangoCon US Videos](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos)
+* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
+* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
+* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
+* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
+* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
+DjangoCon Europe
+* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+
+<!--
+https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
+http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
+https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
+https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
+https://www.pycascades.com/speakers
+https://pyohio.org/schedule/
+https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
+http://il.pycon.org/2016/about/speakers.html
+https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
+
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
+-->
+
+<!--
+http://pyvideo.org/pygotham-2017
+http://pyvideo.org/events/pygotham-2017.html | PyVideo.org · PyGotham 2017
+https://www.youtube.com/channel/UCKWYZNMRBRuecwgZMLy-8gw/featured?disable_polymer=1 | PyGotham 2017 - YouTube
+
+https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
+https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
+https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
+http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
+
+https://us.pycon.org/2017/keynote-speakers
+https://us.pycon.org/2017/schedule/talks/list
+https://us.pycon.org/2017/schedule/talks
+https://us.pycon.org/2017/schedule/tutorials
+https://us.pycon.org/2016/events/keynotes
+https://us.pycon.org/2016/schedule/talks
+https://us.pycon.org/2016/schedule/tutorials
+https://us.pycon.org/2015/schedule/talks/list
+https://us.pycon.org/2015/schedule/talks
+https://us.pycon.org/2015/schedule/tutorials/list
+
+https://us.pycon.org/2014/schedule/talks
+https://us.pycon.org/2013/schedule/talks
+https://us.pycon.org/2012/schedule
+https://us.pycon.org/2011/schedule
+-->
+
+## Events, Videos, Experts
+
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
+* [PaperCall](https://www.papercall.io)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+
+Python and Django
+* [PSF Python Events](https://www.python.org/events)
+* [Meetup Topic Django](https://www.meetup.com/topics/django)
+* [Meetup Topic Python](http://www.meetup.com/topics/python)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
+
+https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
+https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
+https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
+https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
+
+https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
+
+http://lmorillas.github.io/python_events/ | Python Events
+
+https://www.meetup.com/topics/django/us
+https://www.meetup.com/topics/django/all
+
+http://lanyrd.com/search/?context=future&q=python
+http://lanyrd.com/search/?context=future&q=django
+
+http://lanyrd.com/search/?q=django&type=conference&context=future
+http://lanyrd.com/search/?context=future&q=django&type=conference
+
+https://github.com/pythonkc
+
+http://lanyrd.com/topics/devops
+
+http://lanyrd.com/2017
+http://lanyrd.com/2018
+http://lanyrd.com/conferences
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
+
+https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
+-->
+
+
+
+
+
+
+<!--
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+http://thenewstack.io
+
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+* [Glitch](https://glitch.com)
+* [StackShare Trending](https://stackshare.io/trending)
+
+Analysis
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+
+
+Shortcuts
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+-->
+
+
+
+
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
+
+IBM Documentation
+* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
+* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+
+
+## Web Development Standards and Documentation
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Documentation- Mozilla
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+## JavaScript Resources
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+
+
+
 
 ## Some Favorite Awesome
 
@@ -403,6 +891,123 @@ Stellar Programming Learning Resources
 
 
 ## InfoSec
+
+
+
+## Git and Workflow
+
+<!--
+See Git Workflow, DevOps, Dotfiles, Code Review
+-->
+
+## Hosting News
+
+Hosting Blogs
+* [GitHub Blog](https://github.com/blog)
+* [GitHub Engineering](https://githubengineering.com)
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
+
+Tools
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
+
+<!--
+Heroku and GitHub Marketplaces
+
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+-->
+
+## Hosting Docs
+
+Hosting Docs
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
+* [Digital Ocean Community](https://www.digitalocean.com/community)
+
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+<!--
+AWS Certifications
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+-->
+
+Heroku- General
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+
+<!--
+Google Cloud Blog
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+-->
+
+<!--
+https://aws.amazon.com/events/aws-innovate
+-->
+
 
 
 ## Computers- General
@@ -489,24 +1094,6 @@ https://en.wikipedia.org/wiki/Makefile
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
 -->
-
-<!--
-## Python- Code Editors and Docs
-
-https://kapeli.com/dash | Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
-https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
-https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
- 
-https://www.jetbrains.com/pycharm/ | PyCharm: Python IDE for Professional Developers by JetBrains
-https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
-https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
-https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
-https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
--->
-
 
 ## Coding Competitions and Algorithms
 
@@ -708,6 +1295,43 @@ https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collection
 django uml - Google Search
 -->
 
+
+## Python- Code Editors and Docs
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+<!--
+https://code.visualstudio.com/docs/editor/intellisense
+https://code.visualstudio.com/docs/introvideos/intellisense
+
+https://code.visualstudio.com/Docs/setup/setup-overview
+https://www.youtube.com/user/VisualStudio
+
+* Other Electron-based IDE
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+    
+https://code.visualstudio.com/docs/setup/mac
+
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
+-->
 
 
 ## Python and Django Books and Tutorials
@@ -1564,607 +2188,3 @@ Statistics- General
 Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
-
-
-
-#### Python and Django Conference Videos and Slides
-
-<!--
-[North Bay Python YouTube](https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos)
-https://2017.pygotham.org/ | PyGotham 2017
-http://www.nextdayvideo.com/ | Next Day Video : Welcome
-https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
--->
-
-PyVideo
-* [PyVideo](http://pyvideo.org)
-* [PyVideo Events](http://pyvideo.org/events.html)
-
-Confreaks
-* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
-
-Python Events
-* [PSF Python Events](https://www.python.org/events)
-
-PyVideo
-* [PyVideo Events](http://pyvideo.org/events.html)
-
-PyCon
-* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
-* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
-* [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos)
-* [PyCon 2014](https://www.youtube.com/user/PyCon2014/videos)
-
-PyCon Canada
-* [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
-
-PyData
-* [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
-* [PyData Events](https://pydata.org/events.html)
-
-<!--
-http://videolectures.net/ | VideoLectures.NET - VideoLectures.NET
-
-http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
-https://pydata.org/warsaw2017/ | PyData Warsaw 2017
-
-https://nips.cc
-http://create.baidu.com
-http://aifrontiers.com/ | AI Frontiers Conference
-
-https://nips.cc/ | 2017 Conference
-https://nips.cc/Conferences/2017/Videos
-https://nips.cc/Conferences/2016/Videos
-https://nips.cc/Conferences/2015/Videos
-https://nips.cc/Conferences/2014/Videos
-https://nips.cc/Conferences/2013/Videos
-https://nips.cc/Conferences/2012/Videos
-https://nips.cc/Conferences/2011/Videos
-https://nips.cc/Conferences/2010/Videos
--->
-
-EuroPython
-* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
-
-DjangoCon US
-* [DjangoCon US Videos](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos)
-* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
-DjangoCon Europe
-* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
-
-<!--
-https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
-http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
-https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
-https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
-https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
-https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
-https://www.pycascades.com/speakers
-https://pyohio.org/schedule/
-https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
-http://il.pycon.org/2016/about/speakers.html
-https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
-
-https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
--->
-
-<!--
-http://pyvideo.org/pygotham-2017
-http://pyvideo.org/events/pygotham-2017.html | PyVideo.org · PyGotham 2017
-https://www.youtube.com/channel/UCKWYZNMRBRuecwgZMLy-8gw/featured?disable_polymer=1 | PyGotham 2017 - YouTube
-
-https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
-https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
-https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
-https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
-https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
-http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
-
-https://us.pycon.org/2017/keynote-speakers
-https://us.pycon.org/2017/schedule/talks/list
-https://us.pycon.org/2017/schedule/talks
-https://us.pycon.org/2017/schedule/tutorials
-https://us.pycon.org/2016/events/keynotes
-https://us.pycon.org/2016/schedule/talks
-https://us.pycon.org/2016/schedule/tutorials
-https://us.pycon.org/2015/schedule/talks/list
-https://us.pycon.org/2015/schedule/talks
-https://us.pycon.org/2015/schedule/tutorials/list
-
-https://us.pycon.org/2014/schedule/talks
-https://us.pycon.org/2013/schedule/talks
-https://us.pycon.org/2012/schedule
-https://us.pycon.org/2011/schedule
--->
-
-## Events, Videos, Experts
-
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
-* [PaperCall](https://www.papercall.io)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
-
-https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
-https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
-https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
-https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
-https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
-
-https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
-
-http://lmorillas.github.io/python_events/ | Python Events
-
-https://www.meetup.com/topics/django/us
-https://www.meetup.com/topics/django/all
-
-http://lanyrd.com/search/?context=future&q=python
-http://lanyrd.com/search/?context=future&q=django
-
-http://lanyrd.com/search/?q=django&type=conference&context=future
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-https://github.com/pythonkc
-
-http://lanyrd.com/topics/devops
-
-http://lanyrd.com/2017
-http://lanyrd.com/2018
-http://lanyrd.com/conferences
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
-
-https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfTr5I/pubhtml
--->
-
-
-## Engineering Blogs
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-## Hosting News
-
-Hosting Blogs
-* [GitHub Blog](https://github.com/blog)
-* [GitHub Engineering](https://githubengineering.com)
-* [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
-
-Tools
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-
-Hosting Newsletters
-* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
-* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
-* [Heroku Newsletter](https://www.heroku.com/newsletter)
-
-<!--
-Heroku and GitHub Marketplaces
-
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
--->
-
-## Hosting Docs
-
-Hosting Docs
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
-* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
-* [Digital Ocean Community](https://www.digitalocean.com/community)
-
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-
-AWS- GitHub and Livecoding
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-<!--
-AWS Certifications
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
--->
-
-Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
-Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Developers](https://cloud.google.com/developers)  
-
-
-<!--
-Google Cloud Blog
-
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
--->
-
-<!--
-https://aws.amazon.com/events/aws-innovate
--->
-
-
-
-
-
-## Tools and General Learning
-
-Wikipedia
-* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-<!--
-https://www.techopedia.com
-
-http://www.computerhistory.org
-https://twitter.com/ComputerHistory
--->
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
--->
-
-
-## MOOCs, Courses, Teachers
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
-
-Courses
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
-* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
-* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
-* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
-
-<!--
-New, Check Other Repo
-http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
-
-https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
-
-http://ready.codecademy.com | Build Websites From Scratch
--->
-
-Forums
-* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
-* [Free Code Camp Forum](http://forum.freecodecamp.com)
-* [Treehouse Community](https://teamtreehouse.com/community)
-
-<!--
-More forums or GitHub?
-
-https://www.pluralsight.com/guides
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-https://www.pluralsight.com/blog/career/tech-in-2025
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
-
-https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/learn-sass
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
-http://treehouse.github.io/installation-guides
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
--->
-
-Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
-* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Map](https://www.freecodecamp.com/map)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-
-<!--
-https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
-https://medium.freecodecamp.org/tagged/events
-https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
-https://github.com/freeCodeCamp/contribute
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
--->
-
-Math and General Knowledge  
-* [Project Euler Problems](http://projecteuler.net/problems) 
-* [Khan Academy](https://www.khanacademy.org)
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Functions](http://functions.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-* [Math is Fun](http://www.mathsisfun.com)
-
-<!--
-New
-* [Stack Exchange Math](https://math.stackexchange.com)
-* [Stack Exchange Stats](https://stats.stackexchange.com)
-
-https://reference.wolfram.com
-
-https://www.khanacademy.org/math
-
-https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
-https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
--->
-
-Fave Pluralsight Authors
-* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
-* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
-
-## Live Coding
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
-## Books
-
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [No Starch Press](https://www.nostarch.com)
-
-
-
-
-
-<!--
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-
-http://thenewstack.io
-
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-* [Glitch](https://glitch.com)
-* [StackShare Trending](https://stackshare.io/trending)
--->
-
-
-
-
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-Stack Exchange
-* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
-IBM Documentation
-* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
-* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-
-
-
-Analysis
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
-
-
-Shortcuts
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-  
-
-  
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
-
-## Web Development Standards and Documentation
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Documentation- Mozilla
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-## JavaScript Resources
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-## Markdown, YAML, Jekyll
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Jekyll
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
-## People and Projects
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Trending Developers
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-<!--
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
--->
