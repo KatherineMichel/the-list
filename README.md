@@ -395,7 +395,30 @@ Microsoft- JavaScript
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 -->
 
-## MOOCs, Courses, Teachers
+## Developer and Team Success
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+
+https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
+https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
+https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+-->
+
+## Tech Learning Resources
+
+Wikipedia Tech Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -420,9 +443,6 @@ Courses
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 <!--
-New, Check Other Repo
-http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
-
 https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
 
 http://ready.codecademy.com | Build Websites From Scratch
@@ -483,6 +503,8 @@ https://github.com/FreeCodeCamp/design-style-guide
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 -->
 
+## Math
+
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy](https://www.khanacademy.org)
@@ -494,6 +516,9 @@ Math and General Knowledge
 * [Math is Fun](http://www.mathsisfun.com)
 
 <!--
+New, Check Other Repo
+http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
+
 New
 * [Stack Exchange Math](https://math.stackexchange.com)
 * [Stack Exchange Stats](https://stats.stackexchange.com)
@@ -507,6 +532,15 @@ https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computin
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
 
+## Live Coding
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+## Favorite Authors and Blogs
+
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
@@ -518,13 +552,6 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 * [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
 
-## Live Coding
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
 ## Books
 
 Books
@@ -534,15 +561,94 @@ Books
 * [No Starch Press](https://www.nostarch.com)
 
 
+## Crowdsourced, Curated Programming Learning Resources
 
-## Tools and General Learning
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+## Interesting Curated Learning Resources- General
 
 
-Wikipedia Tech Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
+<!--
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+http://thenewstack.io
+
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+* [Glitch](https://glitch.com)
+* [StackShare Trending](https://stackshare.io/trending)
+
+Analysis
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+
+
+Shortcuts
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+-->
+
+
+
+
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
+
+IBM Documentation
+* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
+* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+
+
+## Web Development Standards and Documentation
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Documentation- Mozilla
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+
+
+
+## History of Technology and Computer Science
 
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -584,8 +690,242 @@ https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5f
 https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
 -->
 
+## Computers- General
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+<!--
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+-->
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+<!--
+https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
+-->
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+Status Code Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
+-->
 
 
+
+
+## InfoSec
+
+
+
+## Git and Workflow
+
+<!--
+See Git Workflow, DevOps, Dotfiles, Code Review
+-->
+
+## Hosting News
+
+Hosting Blogs
+* [GitHub Blog](https://github.com/blog)
+* [GitHub Engineering](https://githubengineering.com)
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
+
+Tools
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
+
+<!--
+Heroku and GitHub Marketplaces
+
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+-->
+
+## Hosting Docs
+
+Hosting Docs
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
+* [Digital Ocean Community](https://www.digitalocean.com/community)
+
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+<!--
+AWS Certifications
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+-->
+
+Heroku- General
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+
+<!--
+Google Cloud Blog
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+-->
+
+<!--
+https://aws.amazon.com/events/aws-innovate
+-->
+
+
+## Some Favorite Awesome
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+
+Awesome Django
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+Awesome Data Science
+* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
+* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
+* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Python and Django Conference Videos and Slides
 
@@ -754,347 +1094,6 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 
 
 
-
-
-<!--
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-
-http://thenewstack.io
-
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-* [Glitch](https://glitch.com)
-* [StackShare Trending](https://stackshare.io/trending)
-
-Analysis
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
-
-
-Shortcuts
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
--->
-
-
-
-
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-Stack Exchange
-* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
-IBM Documentation
-* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
-* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-
-
-## Web Development Standards and Documentation
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Documentation- Mozilla
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-
-
-## Some Favorite Awesome
-
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-
-Awesome Django
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
-* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
-* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
-* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-* [Awesome NLP](https://github.com/keon/awesome-nlp)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
-## Developer and Team Success
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-<!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-
-https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
-https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-for-top-talent-14b63f03146d
-https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
-
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
--->
-
-
-## Interesting Curated Learning Resources- General
-
-## Interesting Curated Learning Resources- Programming
-
-Stellar Programming Learning Resources
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-
-
-
-## InfoSec
-
-
-
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
-
-## Hosting News
-
-Hosting Blogs
-* [GitHub Blog](https://github.com/blog)
-* [GitHub Engineering](https://githubengineering.com)
-* [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
-
-Tools
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-
-Hosting Newsletters
-* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
-* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
-* [Heroku Newsletter](https://www.heroku.com/newsletter)
-
-<!--
-Heroku and GitHub Marketplaces
-
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
--->
-
-## Hosting Docs
-
-Hosting Docs
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
-* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
-* [Digital Ocean Community](https://www.digitalocean.com/community)
-
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-
-AWS- GitHub and Livecoding
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-<!--
-AWS Certifications
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
--->
-
-Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
-Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Developers](https://cloud.google.com/developers)  
-
-
-<!--
-Google Cloud Blog
-
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
--->
-
-<!--
-https://aws.amazon.com/events/aws-innovate
--->
-
-
-
-## Computers- General
-
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-CPU and Instruction Set
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-<!--
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
--->
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-Port and Host
-* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-<!--
-https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
--->
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-Status Code Definitions
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
-https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
-https://www.gnu.org/software/make/manual/make.html
--->
 
 ## Coding Competitions and Algorithms
 
