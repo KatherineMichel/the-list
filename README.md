@@ -457,6 +457,72 @@ https://deis.com/blog/2016/kubernetes-illustrated-guide/
 
 
 
+Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [JS Bin](https://jsbin.com)
+* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+* [Codepen](http://codepen.io)
+* [Cloud9](https://c9.io)
+* [Runkit](https://runkit.com)
+* [Nitrous.IO GitHub (Nitrous Went Away)](https://github.com/nitrous-io)
+
+Makers
+* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
+* [Glitch Websites](https://glitch.com/websites)
+* [IFTTT Maker](https://platform.ifttt.com/maker)
+* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
+
+
+
+Bots
+* [Microsoft Bot Framework](https://dev.botframework.com)
+
+
+Workflow Automation
+* [Zapier](https://zapier.com)
+* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
+
+https://glitch.com/art
+
+https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
+https://chatbotsmagazine.com
+
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
+https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
+
+New
+https://www.mongodb.com/cloud/stitch
+https://www.digitalocean.com/products/storage/object-storage
+https://www.openshift.io/
+https://devcenter.heroku.com/articles/heroku-ci
+
+https://github.com/zeit/pkg
+https://zeit.co
+https://zeit.co/blog/github
+* [now](https://zeit.co/now)
+
+      * [Next.js](https://github.com/zeit/next.js)
+
+* [Cloud9](https://c9.io/katherinemichel)
+
+
+
 
 https://www.openstack.org/coa
 https://docs.openstack.org
