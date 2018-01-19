@@ -181,7 +181,29 @@ http://djangoci.com
 http://docs.python-guide.org/en/latest/scenarios/ci
 
 
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
 
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+ 
+http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
+http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
+https://github.com/cyberomin/terraform/tree/master/part-ii
+
+https://heap.engineering/terraform-gotchas
+
+Container Intro
+* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
+ 
+* [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
+* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
+* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
 
 
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
@@ -567,12 +589,26 @@ https://zeit.co/blog/github
 
 ## Software Tools
 
+Languages and Frameworks
 * [Python Docs](https://docs.python.org)
 * [Django Docs](https://docs.djangoproject.com)  
-* [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [React Docs](https://reactjs.org/docs)
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
+
+Containers- Kubernetes
+* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
+* [Kubernetes Docs](https://kubernetes.io/docs/home)
+
+Containers- Docker
+* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+* [Docker GitHub](https://github.com/docker/docker)  
+* [Docker Hub](https://hub.docker.com)
+* [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
+
+Terraform
+* [Terraform](https://www.terraform.io)
+* [Terraform Module Registry](https://registry.terraform.io)
 
 Jekyll
 * [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
@@ -587,80 +623,45 @@ Markdown
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
+
 <!--
 ## JavaScript Resources
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-
-
-See also Django
- 
-Terraform
-* [Terraform](https://www.terraform.io)
-* [Terraform Module Registry](https://registry.terraform.io)
-
-http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
-http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
-https://github.com/cyberomin/terraform/tree/master/part-ii
-
-https://heap.engineering/terraform-gotchas
-
-
-Container Intro
-* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
- 
-Docker (See also Kubernetes)
-* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-* [Docker GitHub](https://github.com/docker/docker)  
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
-* [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
-* [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
-* [Docker Hub](https://hub.docker.com)
-* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
-* [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
-
 
 https://mobyproject.org/#moby-and-docker
 
 https://github.com/docker/cli
-https://github.com/moby/moby
-https://github.com/linuxkit/linuxkit
 https://github.com/docker/infrakit
+https://github.com/moby/moby
+
+https://github.com/linuxkit/linuxkit
 
 https://github.com/Docker/labs
 
-    * Containers
-      * [Docker](https://docs.docker.com/engine/reference/builder/)
+* [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
+* [Docker Run Reference](https://docs.docker.com/engine/reference/run)
+* [Docker Compose](https://docs.docker.com/compose/overview)
+
+Container Clusters
+* [Compose File Reference](https://docs.docker.com/compose/compose-file/)
+* [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
+	
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+
+Kubernetes
+* [Kel](http://www.kelproject.com)
+
         * Learning
           * [Play with docker classroom](http://training.play-with-docker.com/)
           * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
           * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-        * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-        * [Docker run reference](https://docs.docker.com/engine/reference/run/)
-        * [Docker Compose](https://docs.docker.com/compose/overview/)
+	  	
       * Docker Images
         * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
         * [docker-lambda](https://github.com/lambci/docker-lambda)
-    * Container Clusters
-      * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
-        * [Compose file reference](https://docs.docker.com/compose/compose-file/)
-
 
 Bitnami Stacksmith
 * [Bitnami Stacksmith](https://stacksmith.bitnami.com)
-
-
-
-* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications)  
 
 
 Heroku- Docker
@@ -675,11 +676,6 @@ GitLab- Docker
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 
 https://hub.docker.com/r/heroku/cedar
-
-
-Kubernetes
-* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
-* [Kel](http://www.kelproject.com)
 
 
 https://github.com/revsys/jslog4kube
