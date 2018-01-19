@@ -148,19 +148,6 @@ https://www.owasp.org/index.php/Main_Page
 https://jekyllrb.com/docs/continuous-integration
 
  
-http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
-http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
-https://github.com/cyberomin/terraform/tree/master/part-ii
-
-https://heap.engineering/terraform-gotchas
-
-Container Intro
-* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
- 
-* [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
-* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
-* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
-
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 
@@ -588,6 +575,27 @@ YAML
 
 
 <!--
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+
 ## JavaScript Resources
 
 Microsoft- JavaScript
@@ -619,19 +627,14 @@ Container Clusters
 Kubernetes
 * [Kel](http://www.kelproject.com)
 
-        * Learning
-          * [Play with docker classroom](http://training.play-with-docker.com/)
-	  
-          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
-          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-	  	
-      * Docker Images
-        * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
-        * [docker-lambda](https://github.com/lambci/docker-lambda)
+* [Play with docker classroom](http://training.play-with-docker.com/)
+	  	  	
+Docker Images
+* [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
+* [docker-lambda](https://github.com/lambci/docker-lambda)
 
 Bitnami Stacksmith
 * [Bitnami Stacksmith](https://stacksmith.bitnami.com)
-
 
 Heroku- Docker
 * [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
@@ -665,9 +668,6 @@ https://github.com/kubernetes-incubator/cri-o
 https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
 https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
 https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-
-http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
-https://deis.com/blog/2016/kubernetes-illustrated-guide/
 -->
 
 ## Developer and Team Success
@@ -737,21 +737,19 @@ MOOCs
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
 
 Courses
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
 * [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
+* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+* [Learn to Code the Hard Way](http://learncodethehardway.org) 
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
+* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 
 <!--
-* [Khan Academy](https://www.khanacademy.org)
-
-https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
@@ -1012,18 +1010,18 @@ https://developers.google.com/maps/documentation/javascript
 
 
 
-  * Platform Status
-    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+Platform Status
+* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
     
-  * Platform Releases
-    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+Platform Releases
+ * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
     
-  * Platform Updates
-    * [Mozilla Hacks](https://hacks.mozilla.org/)
-    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-    * [Webkit Blog](https://webkit.org/blog/)
-    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+Platform Updates
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+* [Webkit Blog](https://webkit.org/blog/)
+* [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+* [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
 
 ## Live Coding
@@ -1061,10 +1059,6 @@ Stellar Programming Learning Resources
 
 
 ## History of Technology and Computer Science
-
-<!--
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
--->
 
 History of Technology and Computer Science
 * [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
@@ -1214,11 +1208,6 @@ Smartphones (See also Mobile)
 
 
 
-OS X Terminal
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
 Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
@@ -1232,6 +1221,10 @@ Compilers
 * [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
 * [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 * [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+<!--
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+-->
 
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
@@ -1263,28 +1256,14 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
-https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
-https://www.gnu.org/software/make/manual/make.html
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
+Machine Learning
 https://developer.apple.com/reference/accelerate/1912851-bnns		
-		
+-->
+
+
+<!--
+Personal Development Environment
+
 Mac OS X- Architecture		
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))		
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)		
@@ -1297,6 +1276,11 @@ Mac OS X Directory Strucure and Listing Applications
 https://en.wikipedia.org/wiki/Apple_File_System		
 https://en.wikipedia.org/wiki/HFS_Plus		
 		
+OS X Terminal
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
 http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
 		
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
@@ -1311,17 +1295,13 @@ iTerm2
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 -->
 
-
-
-## InfoSec
-
-
-
 ## Git and Workflow
 
 <!--
 See Git Workflow, DevOps, Dotfiles, Code Review
 -->
+
+## InfoSec
 
 
 
@@ -1348,11 +1328,41 @@ Hosting Newsletters
 Heroku and GitHub Marketplaces
 
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
 
+## Hosting Events
+
+<!--
 http://githubuniverse.com/watch
 https://github.com/universe-2016
 https://githubuniverse.com/2016/program/sessions/
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+-->
+
+<!--
+Google Cloud Blog
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+-->
+
+<!--
+https://aws.amazon.com/events/aws-innovate
 -->
 
 ## Hosting Docs
@@ -1407,31 +1417,7 @@ Google Cloud, App Engine
 * [Google Cloud Developers](https://cloud.google.com/developers)  
 
 
-<!--
-Google Cloud Blog
 
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
--->
-
-<!--
-https://aws.amazon.com/events/aws-innovate
--->
 
 
 
@@ -1443,7 +1429,7 @@ https://aws.amazon.com/events/aws-innovate
 https://www.alibabacloud.com
 -->
 
-#### Functions
+#### Microservices and Serverless
 
 AWS- Lambda
 * [AWS Lambda](http://aws.amazon.com/lambda)  
