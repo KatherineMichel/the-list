@@ -134,15 +134,7 @@ Chrome Extensions
 https://developer.chrome.com/apps/notifications
 https://developer.chrome.com/extensions/crx
 
-#### Mozilla Developer
 
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-
-
-https://www.mozilla.org/en-US/firefox/channel/desktop/
-https://testpilot.firefox.com
 
 
 
@@ -164,6 +156,8 @@ Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 * [Opera Neon](http://www.opera.com/computer/neon)
 
+
+
 Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
@@ -172,7 +166,10 @@ Edge and EdgeHTML (Browser, Layout Engine)
 * [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
 * [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
 
-
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
 
   * [Chakra](https://github.com/Microsoft/ChakraCore)
     * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
@@ -192,9 +189,10 @@ Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
-
-
 [WebKit JS](https://developer.apple.com/reference/webkitjs/)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
 
 
 
@@ -202,16 +200,18 @@ Mozilla (Browser, Layout Engine)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
 * [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
 
-Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
-#### Developer Tools
+https://www.mozilla.org/en-US/firefox/channel/desktop/
+https://testpilot.firefox.com
 
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
+     
+     
 
 
       * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
@@ -299,11 +299,7 @@ Google Maps JavaScript API
 https://developers.google.com/maps/documentation/javascript
 
 
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
-     
   * Platform Status
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
     
