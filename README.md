@@ -912,6 +912,10 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+https://developer.chrome.com/devtools
+https://developer.chrome.com/apps
+https://developer.chrome.com/extensions
+
 Brave
 
 [WebKit JS](https://developer.apple.com/reference/webkitjs/)
@@ -968,7 +972,6 @@ Google Chrome Doc Archive
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
 
-https://developer.chrome.com/devtools/docs
 https://developer.chrome.com/devtools/docs/network
 https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
@@ -981,10 +984,6 @@ https://developer.chrome.com/apps/about_apps
 https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
 
 
-
-
-Chrome Extensions
-
 https://developer.chrome.com/apps/notifications
 https://developer.chrome.com/extensions/crx
 
@@ -994,25 +993,6 @@ https://www.codeschool.com/courses/discover-devtools
 http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
 
 https://www.udacity.com/course/website-performance-optimization--ud884
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-https://zapier.com/blog/inspect-element-tutorial/
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
-
-Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript
 -->
 
 ## Live Coding
@@ -1068,10 +1048,8 @@ Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
-<!--
-http://www.computerhistory.org
-https://twitter.com/ComputerHistory
--->
+Computer History Museum
+* [Computer History Museum](http://www.computerhistory.org) and [Computer History Museum Twitter](https://twitter.com/ComputerHistory)
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
@@ -1111,10 +1089,9 @@ Microprocessor
 * [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
 * [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
 
-<!--
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
--->
+Machine Code and Assembly Language
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
 Binary
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
@@ -1195,27 +1172,8 @@ Smartphones (See also Mobile)
 * [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 
-
-
-
-
-Status Code Definitions
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-
-
-
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-<!--
+Programming Languages- Usage in Popular Websites
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
--->
 
 Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
@@ -1230,12 +1188,18 @@ Programming Languages
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+
+
+https://en.wikipedia.org/wiki/File_system_permissions
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+Status Code Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 What are the Numbers that Every Computer Engineer Should Know
@@ -1284,6 +1248,43 @@ https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-T
 iTerm2		
 * [iTerm2](https://www.iterm2.com)		
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+
+
+## Python- Code Editors and Docs
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+
+https://code.visualstudio.com/docs/editor/intellisense
+https://code.visualstudio.com/docs/introvideos/intellisense
+
+https://code.visualstudio.com/Docs/setup/setup-overview
+https://www.youtube.com/user/VisualStudio
+
+* Other Electron-based IDE
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+    
+https://code.visualstudio.com/docs/setup/mac
+
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
 -->
 
 ## Git and Workflow
@@ -1967,17 +1968,6 @@ https://pypi.python.org/pypi/static3/0.5
 Python- Django- AWS Elastic Beanstalk Deployment
 * [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
-Python- Django- Digital Ocean Deployment (See also Docker)
-* [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
-* [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
-
-Python- Django- OpenShift Deployment
-* [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
-
-.NET and ASP.Net- Heroku
-* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
-* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
-
 .NET- Amazon
 * [AWS .NET](https://aws.amazon.com/net)
 * [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
@@ -2392,45 +2382,6 @@ https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association e
 https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
 django uml - Google Search
 -->
-
-
-## Python- Code Editors and Docs
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-<!--
-https://code.visualstudio.com/docs/editor/intellisense
-https://code.visualstudio.com/docs/introvideos/intellisense
-
-https://code.visualstudio.com/Docs/setup/setup-overview
-https://www.youtube.com/user/VisualStudio
-
-* Other Electron-based IDE
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-    
-https://code.visualstudio.com/docs/setup/mac
-
-https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
-https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
-
-https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
-https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
-https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
-https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
--->
-
 
 
 ## Python and Django Books and Tutorials
