@@ -1121,6 +1121,34 @@ https://www.gnu.org/software/make/manual/make.html
 Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+https://developer.apple.com/reference/accelerate/1912851-bnns		
+		
+Mac OS X- Architecture		
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))		
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)		
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)		
+		
+Mac OS X Directory Strucure and Listing Applications		
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)		
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)		
+		
+https://en.wikipedia.org/wiki/Apple_File_System		
+https://en.wikipedia.org/wiki/HFS_Plus		
+		
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
+		
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)		
+		
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md		
+  		  
+* [Apple Open Source](https://developer.apple.com/opensource)		
+  		  
+iTerm2		
+* [iTerm2](https://www.iterm2.com)		
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 -->
 
 
