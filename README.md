@@ -41,12 +41,15 @@ Developer Surveys
 Company Design Blogs
 Company Design Systems
 Style Guides
-
 The Cathedral and the Bazaar
 Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, PyCharm, EditorConfig, Makefile
-
 Built With
 Encoding, Dot Files
+Unix and Linux- General
+Social Media Webmaster and Ads, Pixels
+Metatags, Social Graph, Rich Snippets
+KPCB and John Maeda Design in Tech Report
+Design Blogs
 
 Mac Keyboard Shortcuts
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
@@ -57,15 +60,8 @@ Keyboard Shortcuts
 * [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
-Unix and Linux- General
-Social Media Webmaster and Ads, Pixels
-Metatags, Social Graph, Rich Snippets
-KPCB and John Maeda Design in Tech Report
-
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
-
-Design Blogs
 
 https://www.nngroup.com
 
@@ -80,6 +76,8 @@ https://developers.google.com/web/showcase
 
 Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
 
+https://html5boilerplate.com/
+
 * [Front-End Development](#front-end-development) 
 * [CSS Helpers](#css-helpers)
 
@@ -92,12 +90,9 @@ Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffin
   
 Microsoft, ASP.NET- All
 Joni Trythall
- 
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
+DNS, SSL, Wildcard
 
-* [Glitch](https://glitch.com)
-
-* [Servers, Databases, Architectures](#servers-databases-architectures)
+ * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Servers and Databases](#servers-and-databases)
 
@@ -109,76 +104,6 @@ http://daigofuji.github.io/jekyll-foundation-6-starter
 http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
 http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
-
-https://html5boilerplate.com/
-
-* [Levelsio Twitch](http://www.twitch.tv/levelsio)
-https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
-
-See Events
-http://webbyawards.com
-
-New
-https://www.mongodb.com/cloud/stitch
-https://www.digitalocean.com/products/storage/object-storage
-https://www.openshift.io/
-https://devcenter.heroku.com/articles/heroku-ci
-
-
-
-
-
-
-Continuous Integration, Jenkins CI, Travis CI, and Other Tools
-* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
-* [Jenkins](http://jenkins-ci.org)  
-* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
-* [Codeship](https://codeship.com)
-* [AppVeyor (Windows)](http://www.appveyor.com)
-
-
-https://www.jetbrains.com/teamcity
-
-Org and Com
-https://docs.travis-ci.com/user/coveralls/ | Coveralls - Travis CI
-https://docs.travis-ci.com
-
-https://jekyllrb.com/docs/continuous-integration
-
-https://badge.fury.io
-https://docs.travis-ci.com/user/status-images
-
-
-Codeship
-https://documentation.codeship.com
-https://blog.codeship.com
-http://resources.codeship.com
-
-CI
-https://circleci.com/beta-access
-https://circleci.com
-https://circleci.com/docs/config-sample/
-
-https://drone.io
-codecov.io
-
-http://djangoci.com
-http://docs.python-guide.org/en/latest/scenarios/ci
-
-
-
-
-
-
-
-Authorities
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
-* [Internet Assigned Numbers Authority](http://www.iana.org)
-
-* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
-
-DNS, SSL, Wildcard
-
 
 #### Security
 
@@ -221,6 +146,55 @@ https://www.owasp.org/index.php/Main_Page
 
 
 
+Continuous Integration, Jenkins CI, Travis CI, and Other Tools
+* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
+* [Jenkins](http://jenkins-ci.org)  
+* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
+* [Codeship](https://codeship.com)
+* [AppVeyor (Windows)](http://www.appveyor.com)
+
+https://www.jetbrains.com/teamcity
+
+Org and Com
+https://docs.travis-ci.com/user/coveralls/ | Coveralls - Travis CI
+https://docs.travis-ci.com
+
+https://jekyllrb.com/docs/continuous-integration
+
+https://badge.fury.io
+https://docs.travis-ci.com/user/status-images
+
+Codeship
+https://documentation.codeship.com
+https://blog.codeship.com
+http://resources.codeship.com
+
+CI
+https://circleci.com/beta-access
+https://circleci.com
+https://circleci.com/docs/config-sample/
+
+https://drone.io
+codecov.io
+
+http://djangoci.com
+http://docs.python-guide.org/en/latest/scenarios/ci
+
+
+
+
+
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
+https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+
+See Events
+http://webbyawards.com
+
+New
+https://www.mongodb.com/cloud/stitch
+https://www.digitalocean.com/products/storage/object-storage
+https://www.openshift.io/
+https://devcenter.heroku.com/articles/heroku-ci
 
 https://www.openstack.org/coa
 https://docs.openstack.org
@@ -248,6 +222,14 @@ Digital Agencies and Code Philosophies
 DevOps
 Git and Markdown
 Open Source, Open Source Documentation
+
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
+
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
+
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
 
 https://github.com/heroku/mobile-template1
 https://github.com/heroku/heroku-buildkits
