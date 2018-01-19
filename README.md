@@ -523,6 +523,56 @@ https://zeit.co/blog/github
 
 
 
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
+
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
+
+DNS, SSL, Wildcard
+
+
+#### Security
+
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+Repeat?
+https://www.amazon.com/Yubico/pages/10358012011 | Amazon.com: Yubico
+https://www.yubico.com/products/yubikey-hardware/
+
+https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
+
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+CIS Apple Security Guidelines
+https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
+https://benchmarks.cisecurity.org/
+
+https://www.cisecurity.org/training/resources/
+https://www.cisecurity.org/training/publications/
+
+https://github.com/usnistgov/applesec
+https://github.com/usnistgov
+
+https://github.com/OWASP
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
+
+https://www.us-cert.gov
+https://www.digicert.com
+http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
+
+https://www.owasp.org/index.php/Main_Page
+
+
+
+
 
 https://www.openstack.org/coa
 https://docs.openstack.org
