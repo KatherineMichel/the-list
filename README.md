@@ -145,54 +145,10 @@ https://www.owasp.org/index.php/Main_Page
 
 
 
-
-Continuous Integration, Jenkins CI, Travis CI, and Other Tools
-* [Continuous Integration Wikipedia](http://en.wikipedia.org/wiki/Continuous_Integration)
-* [Jenkins](http://jenkins-ci.org)  
-* [Travis CI ](https://travis-ci.org) and [Travis CI GitHub](https://github.com/travis-ci/travis-ci)
-* [Codeship](https://codeship.com)
-* [AppVeyor (Windows)](http://www.appveyor.com)
-
-https://www.jetbrains.com/teamcity
-
-Org and Com
-https://docs.travis-ci.com/user/coveralls/ | Coveralls - Travis CI
-https://docs.travis-ci.com
-
 https://jekyllrb.com/docs/continuous-integration
 
-https://badge.fury.io
-https://docs.travis-ci.com/user/status-images
-
-Codeship
-https://documentation.codeship.com
-https://blog.codeship.com
-http://resources.codeship.com
-
-CI
-https://circleci.com/beta-access
-https://circleci.com
-https://circleci.com/docs/config-sample/
-
-https://drone.io
-codecov.io
-
-http://djangoci.com
-http://docs.python-guide.org/en/latest/scenarios/ci
-
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
  
- http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
+http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
 http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
 https://github.com/cyberomin/terraform/tree/master/part-ii
 
