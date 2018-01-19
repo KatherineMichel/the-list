@@ -205,6 +205,15 @@ Container Intro
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
 * [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
 
+Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
+* [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
+* [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
+* [Dokku](http://progrium.viewdocs.io/dokku/index)  
+* [Dokku GitHub](https://github.com/progrium/dokku)  
+* [Deis](http://deis.io)  
+* [Deis GitHub](https://github.com/deis/deis) 
+
+
 
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
@@ -714,6 +723,8 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
+
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 
 https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
@@ -727,9 +738,44 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
 
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online
+https://www.pluralsight.com/blog/career/tech-in-2025
+Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
+
+Specific Courses
+https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+https://www.codecademy.com/learn/learn-sass
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
+
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/computing/computer-programming/sql
+
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
+-->
+
+Wikipedia Tech Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+Tech Terminology
+* [Techopedia](https://www.techopedia.com)
+
+Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Reddit
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
@@ -744,12 +790,6 @@ Stack Exchange
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
 * [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
--->
-
-Wikipedia Tech Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -768,16 +808,17 @@ Courses
 * [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 * [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+Khan Academy
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 
 <!--
-https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
-
-http://ready.codecademy.com | Build Websites From Scratch
+https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
+https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
 
 Forums
@@ -789,24 +830,8 @@ Forums
 More forums or GitHub?
 
 https://www.pluralsight.com/guides
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-https://www.pluralsight.com/blog/career/tech-in-2025
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
 
-https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/learn-sass
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
 http://treehouse.github.io/installation-guides
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 -->
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
@@ -823,10 +848,6 @@ Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, Y
 <!--
 https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
 
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
 https://medium.freecodecamp.org/tagged/events
 https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
 https://github.com/freeCodeCamp/contribute
@@ -839,29 +860,20 @@ https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
-* [Khan Academy](https://www.khanacademy.org)
+* [Khan Academy Math](https://www.khanacademy.org/math)
 * [Math Overflow](http://mathoverflow.net)
+* [Stack Exchange Math](https://math.stackexchange.com)
+* [Stack Exchange Stats](https://stats.stackexchange.com)
 * [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
 * [Wolfram Functions](http://functions.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
 
 <!--
-New, Check Other Repo
-http://www.wolfram.com/mathematica/ | Wolfram Mathematica: Modern Technical Computing
-
-New
-* [Stack Exchange Math](https://math.stackexchange.com)
-* [Stack Exchange Stats](https://stats.stackexchange.com)
+* [Khan Academy](https://www.khanacademy.org)
 
 https://reference.wolfram.com
-
-https://www.khanacademy.org/math
-
-https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
-https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
 
 ## Books
@@ -902,23 +914,6 @@ Documentation- Mozilla
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-
-<!--
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-
-Chrome Extensions
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-
-Google Developers- General
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-
 
 #### Browsers, Layout Engines, Developer Tools
 
@@ -974,6 +969,21 @@ Firefox Add-Ons
 
 
 
+
+<!--
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+
+Chrome Extensions
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+
+Google Developers- General
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+* [Google Chrome Home](https://developers.google.com/chrome)
 
 Brave
 
@@ -1156,8 +1166,6 @@ Computer Scientists
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 <!--
-https://www.techopedia.com
-
 http://www.computerhistory.org
 https://twitter.com/ComputerHistory
 -->
@@ -1879,13 +1887,6 @@ Digital Ocean (VPS)
 * [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
-Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
-* [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
-* [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
-* [Dokku](http://progrium.viewdocs.io/dokku/index)  
-* [Dokku GitHub](https://github.com/progrium/dokku)  
-* [Deis](http://deis.io)  
-* [Deis GitHub](https://github.com/deis/deis)  
 
 <!--
 https://www.digitalocean.com/help/getting-started
