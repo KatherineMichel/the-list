@@ -842,6 +842,21 @@ Documentation- Mozilla
 
 #### Browsers, Layout Engines, Developer Tools
 
+<!--
+Platform Status
+* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+Platform Releases
+ * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+Platform Updates
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+* [Webkit Blog](https://webkit.org/blog/)
+* [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+* [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+-->
+
 Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
@@ -896,22 +911,15 @@ Mozilla Developer Tools
 Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
-
-
-
 <!--
-Chrome Extensions
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-
-Google Developers- General
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-
 Brave
 
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+     
+https://www.mozilla.org/en-US/firefox/channel/desktop/
+https://testpilot.firefox.com
+
+ChakraCore
   * [Chakra](https://github.com/Microsoft/ChakraCore)
     * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
     * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
@@ -921,18 +929,12 @@ Brave
     * Next Generation
       * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
 
-[WebKit JS](https://developer.apple.com/reference/webkitjs/)
-     
-     https://www.mozilla.org/en-US/firefox/channel/desktop/
-https://testpilot.firefox.com
-     
-     
-      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+Google Developers- General
+* [Google Chrome Home](https://developers.google.com/chrome)
 
 Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
 
-* [Google Chrome Home](https://developers.google.com/chrome)
 * [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
 * [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
 * [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
@@ -940,7 +942,8 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
-
+        
+* Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 
 https://developers.google.com/web/tools/setup/setup-workflow
 
@@ -953,14 +956,6 @@ https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#ac
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
 
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-
-
-
 Google Developers- Canary Chrome
 * [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 
@@ -969,10 +964,6 @@ Google Developers- Google Chrome Tools
 
 Google Chrome Doc Archive 
 * [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-
-
-https://www.udacity.com/course/website-performance-optimization--ud884
 
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
@@ -988,6 +979,21 @@ https://developer.chrome.com/extensions/devguide
 https://developer.chrome.com/apps/about_apps
 
 https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+
+
+
+Chrome Extensions
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://www.udacity.com/course/website-performance-optimization--ud884
 
 Miscellaneous
 https://bugs.chromium.org/p/v8/issues/list
@@ -1007,21 +1013,6 @@ https://developer.mozilla.org/en-US/docs/Chrome_Registration
 
 Google Maps JavaScript API
 https://developers.google.com/maps/documentation/javascript
-
-
-
-Platform Status
-* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
-Platform Releases
- * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
-    
-Platform Updates
-* [Mozilla Hacks](https://hacks.mozilla.org/)
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-* [Webkit Blog](https://webkit.org/blog/)
-* [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-* [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
 
 ## Live Coding
