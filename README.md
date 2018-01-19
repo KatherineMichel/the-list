@@ -62,13 +62,6 @@ Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffin
 * [Front-End Development](#front-end-development) 
 * [CSS Helpers](#css-helpers)
 
-* [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer](#apple-developer)
-  * [Google Developer](#google-developer)
-  * [Microsoft Developer](#microsoft-developer)
-  * [Mozilla Developer](#mozilla-developer)
-  * [Browser and Layout Engines](#browser-and-layout-engines)    
-  * [Developer Tools](#developer-tools)
 * [Testing and Performance](#testing-and-performance)
 
 * [JavaScript](#javascript)
@@ -76,13 +69,6 @@ Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffin
   * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
   
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
-
 Microsoft, ASP.NET- All
 Joni Trythall
  
@@ -126,33 +112,8 @@ https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 See Events
 http://webbyawards.com
 
-https://developer.apple.com/reference/accelerate/1912851-bnns
 
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
 
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-https://en.wikipedia.org/wiki/Apple_File_System
-https://en.wikipedia.org/wiki/HFS_Plus
-
-http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
-
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
-
-https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
-https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
-
-* [Apple Open Source](https://developer.apple.com/opensource)
-
-iTerm2
-* [iTerm2](https://www.iterm2.com)
-* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -172,6 +133,190 @@ Chrome Extensions
 
 https://developer.chrome.com/apps/notifications
 https://developer.chrome.com/extensions/crx
+
+#### Mozilla Developer
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+
+
+https://www.mozilla.org/en-US/firefox/channel/desktop/
+https://testpilot.firefox.com
+
+
+
+#### Browser and Layout Engines
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Neon](http://www.opera.com/computer/neon)
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+
+
+  * [Chakra](https://github.com/Microsoft/ChakraCore)
+    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
+    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
+    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
+    * Internal
+      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
+    * Next Generation
+      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
+
+
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+
+
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+
+
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+#### Developer Tools
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+
+
+      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+
+
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+
+
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+
+
+https://developers.google.com/web/tools/setup/setup-workflow
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles
+https://developers.google.com/web/tools/chrome-devtools/javascript
+https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+
+
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+https://zapier.com/blog/inspect-element-tutorial/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+     
+  * Platform Status
+    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+  * Platform Releases
+    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+  * Platform Updates
+    * [Mozilla Hacks](https://hacks.mozilla.org/)
+    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+    * [Webkit Blog](https://webkit.org/blog/)
+    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+
 
 
 
