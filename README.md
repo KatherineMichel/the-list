@@ -192,7 +192,7 @@ Addy Osmani
 Kyle Simpson
 * [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
  
-http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
+ http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
 http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
 https://github.com/cyberomin/terraform/tree/master/part-ii
 
@@ -204,16 +204,6 @@ Container Intro
 * [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
 * [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
-
-Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
-* [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
-* [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
-* [Dokku](http://progrium.viewdocs.io/dokku/index)  
-* [Dokku GitHub](https://github.com/progrium/dokku)  
-* [Deis](http://deis.io)  
-* [Deis GitHub](https://github.com/deis/deis) 
-
-
 
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
@@ -520,11 +510,9 @@ List of Engineering Blogs
 
 <!--
 Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
-
-* [StackShare Trending](https://stackshare.io/trending)
 
 http://thenewstack.io
 
@@ -598,6 +586,16 @@ https://zeit.co/blog/github
 
 ## Software Tools
 
+Assembly 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
+
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
 * [Django Docs](https://docs.djangoproject.com)  
@@ -636,6 +634,11 @@ YAML
 <!--
 ## JavaScript Resources
 
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+
 https://mobyproject.org/#moby-and-docker
 
 https://github.com/docker/cli
@@ -662,6 +665,7 @@ Kubernetes
 
         * Learning
           * [Play with docker classroom](http://training.play-with-docker.com/)
+	  
           * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
           * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
 	  	
@@ -708,11 +712,6 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kub
 
 http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
 https://deis.com/blog/2016/kubernetes-illustrated-guide/
-
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 -->
 
 ## Developer and Team Success
@@ -739,28 +738,6 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 
 <!--
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-https://www.pluralsight.com/blog/career/tech-in-2025
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
-
-Specific Courses
-https://www.codecademy.com/catalog/subject/web-development | Catalog | Codecademy
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/learn-sass
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 -->
 
 Wikipedia Tech Portals
@@ -816,6 +793,8 @@ Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 
 <!--
+* [Khan Academy](https://www.khanacademy.org)
+
 https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g | Khan Academy - YouTube
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
@@ -828,8 +807,6 @@ Forums
 
 <!--
 More forums or GitHub?
-
-https://www.pluralsight.com/guides
 
 http://treehouse.github.io/installation-guides
 -->
@@ -856,7 +833,11 @@ https://github.com/FreeCodeCamp/design-style-guide
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 -->
 
-## Math
+Wolfram
+* [Wolfram Resources](http://www.wolfram.com/resources)
+* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
+* [Wolfram Functions](http://functions.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -864,17 +845,7 @@ Math and General Knowledge
 * [Math Overflow](http://mathoverflow.net)
 * [Stack Exchange Math](https://math.stackexchange.com)
 * [Stack Exchange Stats](https://stats.stackexchange.com)
-* [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
-* [Wolfram Functions](http://functions.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Math is Fun](http://www.mathsisfun.com)
-
-<!--
-* [Khan Academy](https://www.khanacademy.org)
-
-https://reference.wolfram.com
--->
 
 ## Books
 
@@ -933,6 +904,10 @@ Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 * [Opera Neon](http://www.opera.com/computer/neon)
 
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+
 Internet Explorer and Trident (Browser, Layout Engine)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
@@ -971,10 +946,6 @@ Firefox Add-Ons
 
 
 <!--
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-
 Chrome Extensions
 
 https://developer.chrome.com/apps/notifications
@@ -996,25 +967,16 @@ Brave
     * Next Generation
       * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
 
-
-
-
-
-
 [WebKit JS](https://developer.apple.com/reference/webkitjs/)
      
      https://www.mozilla.org/en-US/firefox/channel/desktop/
 https://testpilot.firefox.com
      
-
-
+     
       * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-
-
 
 Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-
 
 * [Google Chrome Home](https://developers.google.com/chrome)
 * [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
@@ -1211,7 +1173,6 @@ Microprocessor
 <!--
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
 -->
 
 Binary
@@ -1246,51 +1207,32 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
-Status Code Definitions
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-https://en.wikipedia.org/wiki/Unix-like
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
 * [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
 * [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
 * [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 * [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 
 Web Browser
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
@@ -1302,6 +1244,33 @@ Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+
+
+
+
+OS X Terminal
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
+Status Code Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://en.wikipedia.org/wiki/File_system_permissions
+
+
+
+
 
 Compilers
 * [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
@@ -1327,14 +1296,6 @@ Scripting and MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-Programming Languages- Assembly 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
 
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 What are the Numbers that Every Computer Engineer Should Know
