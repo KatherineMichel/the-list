@@ -1026,6 +1026,80 @@ Stellar Programming Learning Resources
 
 ## Interesting Curated Learning Resources- General
 
+<!--
+Lists
+* [Lists](https://github.com/jnv/lists)
+* [Checklists](https://github.com/huyingjie/Checklist-Checklist)
+
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+https://github.com/atav1k/product-modeling | atav1k/product-modeling
+https://github.com/thoughtbot/apprenticeship
+https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
+
+
+https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://github.com/braydie/HowToBeAProgrammer
+http://ashleymcnamara.github.io/learn_to_code/
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
+
+https://www.sideprojectchecklist.com/
+https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
+
+https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/Kristories/awesome-guidelines
+https://github.com/mrmrs/styleguide-checklist
+
+https://codeburst.io/the-front-end-checklist-8b2292fdda44 | The Front-End Checklist – codeburst
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+https://github.com/thedaviddias/Resources-Front-End-Beginner | thedaviddias/Resources-Front-End-Beginner: 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+
+https://github.com/bradfrost/frontend-guidelines-questionnaire
+
+https://github.com/xitu/front-end-handbook-2017
+https://github.com/FrontendMasters/front-end-handbook-2017
+https://frontendmasters.com
+https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
+https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
+
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
+
+https://github.com/gurugio/lowlevelprogramming-university
+
+https://github.com/jlevy/og-osx-shortcuts
+https://github.com/jaywcjlove/awesome-mac
+https://github.com/herrbischoff/awesome-osx-command-line
+
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/Idnan/bash-guide
+
+
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+-->
 
 
 
