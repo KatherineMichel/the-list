@@ -697,6 +697,8 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 <!--
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 
+http://exercism.io/
+
 Upvotes
 https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
