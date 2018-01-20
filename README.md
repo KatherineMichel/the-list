@@ -537,6 +537,8 @@ Assembly
 <!--
 https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
 -->
 
 Languages and Frameworks
@@ -694,6 +696,16 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 
 <!--
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
+http://cslibrary.stanford.edu/ | Stanford CS Ed Library
+https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
+https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
+https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
+https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
+
+https://codepen.io/2017/popular/pens/ | Top Pens of 2017 on CodePen
 -->
 
 Wikipedia Tech Portals
