@@ -833,6 +833,16 @@ Google Developers- Web
 <!--
 Mozilla and Documentation
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+
+https://support.mozilla.org/en-US/
+
+https://newsroom.intel.com
+https://developer.arm.com
+
+https://support.apple.com
+
+https://www.chromium.org
+https://googleprojectzero.blogspot.com
 -->
 
 Documentation- Mozilla
