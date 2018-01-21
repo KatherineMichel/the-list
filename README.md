@@ -2951,6 +2951,7 @@ Data Science Websites
 http://www.vincentgranville.com
 
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1
 
 https://machinelearnings.co
 https://www.producthunt.com/posts/machine-learnings-newsletter
@@ -3357,11 +3358,6 @@ Artificial Intelligence- General
 * [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 * [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Machine Learning- General
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
 Deep Learning and Neural Networks
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
