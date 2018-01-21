@@ -876,6 +876,7 @@ Mozilla and Documentation
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
 
 https://support.mozilla.org/en-US/
+https://hacks.mozilla.org
 
 https://newsroom.intel.com
 https://developer.arm.com
@@ -963,6 +964,10 @@ Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
 <!--
+https://www.mozilla.org/en-US/firefox/new/
+https://github.com/devtools-html/debugger.html | devtools-html/debugger.html: The Firefox debugger that works anywhere
+
+
 https://developer.chrome.com/devtools
 https://developer.chrome.com/apps
 https://developer.chrome.com/extensions
