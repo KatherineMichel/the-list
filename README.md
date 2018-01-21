@@ -51,15 +51,6 @@ Metatags, Social Graph, Rich Snippets
 KPCB and John Maeda Design in Tech Report
 Design Blogs
 
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
@@ -98,12 +89,14 @@ DNS, SSL, Wildcard
 
 Jekyll- DjangoCon, Other Stuff
 
+https://jekyllrb.com/docs/continuous-integration
 https://help.shopify.com/themes/liquid/filters
 
 http://daigofuji.github.io/jekyll-foundation-6-starter
 http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
 http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
+
 
 #### Security
 
@@ -143,9 +136,6 @@ http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
 
 https://www.owasp.org/index.php/Main_Page
 
-
-
-https://jekyllrb.com/docs/continuous-integration
 
  
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
@@ -1403,6 +1393,15 @@ https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-f
 https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
 https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
 https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
+
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 -->
 
 ## Git and Workflow
