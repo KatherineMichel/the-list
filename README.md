@@ -221,6 +221,10 @@ Top 10 Articles
 
 ## Interesting Ideas
 
+<!--
+https://www.nytimes.com/books/best-sellers | Best Sellers - The New York Times
+-->
+
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists)
 
@@ -245,6 +249,10 @@ Curated Blogs and Podcasts
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Wait But Why](http://waitbutwhy.com) 
+
+<!--
+https://stratechery.com/2017/the-2017-stratechery-year-in-review/ | The 2017 Stratechery Year in Review – Stratechery by Ben Thompson
+-->
 
 Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
@@ -398,6 +406,10 @@ Tim Ferris Blueprints
 * ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
 * ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
+<!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+-->
 
 Pieter Levels
 * ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
