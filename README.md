@@ -506,13 +506,6 @@ https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
 
 https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
-
-https://github.com/zeit/pkg
-https://zeit.co
-https://zeit.co/blog/github
-* [now](https://zeit.co/now)
-
-      * [Next.js](https://github.com/zeit/next.js)
 -->
 
 ## Software Tools
@@ -2888,6 +2881,7 @@ Thought Pieces
 Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 Front-Runners and Models
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
