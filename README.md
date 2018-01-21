@@ -24,6 +24,11 @@ Consoles: Webmaster and Analytics
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 
+https://status.cloud.google.com/incident/cloud-networking/17002 | Google Cloud Status Dashboard
+
+https://myactivity.google.com/myactivity | Google – My Activity
+
+
 * [Cloud9](https://c9.io/katherinemichel)
 
 
