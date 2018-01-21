@@ -103,45 +103,6 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-#### Security
-
-Malware and Encryption
-* [hackerone](https://hackerone.com)
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
-
-Repeat?
-https://www.amazon.com/Yubico/pages/10358012011 | Amazon.com: Yubico
-https://www.yubico.com/products/yubikey-hardware/
-
-https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
-
-https://code.google.com/p/browsersec/wiki/Main
-
-https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-
-CIS Apple Security Guidelines
-https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
-https://benchmarks.cisecurity.org/
-
-https://www.cisecurity.org/training/resources/
-https://www.cisecurity.org/training/publications/
-
-https://github.com/usnistgov/applesec
-https://github.com/usnistgov
-
-https://github.com/OWASP
-https://www.owasp.org/index.php/Top_10_2013-Top_10
-
-https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
-
-https://www.us-cert.gov
-https://www.digicert.com
-http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
-
-https://www.owasp.org/index.php/Main_Page
-
-
  
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
@@ -697,6 +658,64 @@ https://github.com/kubernetes-incubator/cri-o
 https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
 https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
 https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+-->
+
+<!--
+
+#### Security
+
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+https://github.com/OWASP
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
+https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://msdn.microsoft.com/en-us/library/ff648644.aspx | Threat Modeling
+
+https://decentsecurity.com
+
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+CIS Apple Security Guidelines
+https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
+https://benchmarks.cisecurity.org/
+
+https://www.cisecurity.org/training/resources/
+https://www.cisecurity.org/training/publications/
+
+https://www.us-cert.gov
+https://www.digicert.com
+www.cert.org
+https://www.kb.cert.org
+http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
+
+https://www.defcon.org
+
+https://security.googleblog.com
+https://research.google.com
+https://googleprojectzero.blogspot.com
+https://www.chromium.org/Home/chromium-security
+
+https://azure.microsoft.com/en-us/blog
+
+https://aws.amazon.com/security
+
+https://developer.arm.com
+https://newsroom.intel.com
+https://lkml.org
+
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
 -->
 
 ## Developer and Team Success
