@@ -2515,11 +2515,18 @@ Python and Django Design Patterns
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 <!--
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
 Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
 https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+
+https://github.com/OpenGenus/cosmos
 
 https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Python_Programming/Functions
