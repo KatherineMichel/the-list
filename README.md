@@ -344,11 +344,19 @@ The Hero's Journey
 https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces | The Hero with a Thousand Faces - Wikipedia
 https://www.facebook.com/raydalio/videos/408132982941716/ | (3) Ray Dalio - As You Think About the New Year, I Suggest You Think...
 
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+https://www.health.harvard.edu/topics/improving-memory | Improving Memory - Harvard Health
+http://www.worldmemorychampionships.com/ | Welcome to the 26th World Memory Championships 2017 - The World Memory Championships
+
+productivity methods
+How the brain works
+transcendental meditation
 
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
+Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 
 Batching
@@ -432,6 +440,10 @@ Financial Ratio
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+<!--
+hobbies, habits
+-->
 
 ## Project Management
 
