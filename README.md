@@ -95,6 +95,7 @@ DNS, SSL, Wildcard
 Jekyll- DjangoCon, Other Stuff
 
 https://jekyllrb.com/docs/continuous-integration
+
 https://help.shopify.com/themes/liquid/filters
 
 http://daigofuji.github.io/jekyll-foundation-6-starter
@@ -104,8 +105,7 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
  
-* [Levelsio Twitch](http://www.twitch.tv/levelsio)
-https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+
 
 See Events
 http://webbyawards.com
@@ -1076,6 +1076,11 @@ Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
 * [YouTube](https://www.youtube.com)
+
+<!--
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
+https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+-->
 
 ## Favorite Authors and Blogs
 
