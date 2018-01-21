@@ -342,6 +342,14 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+New Year's
+https://www.facebook.com/FarnamStreet/posts/1501663903220308 | Farnam Street - Posts
+
+The Hero's Journey
+https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces | The Hero with a Thousand Faces - Wikipedia
+https://www.facebook.com/raydalio/videos/408132982941716/ | (3) Ray Dalio - As You Think About the New Year, I Suggest You Think...
+
+
 https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
