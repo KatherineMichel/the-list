@@ -1116,6 +1116,15 @@ Stellar Programming Learning Resources
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
+<!--
+https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+-->
+
 ## Interesting Curated Learning Resources- General
 
 <!--
@@ -1139,13 +1148,6 @@ https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
 
-
-https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
 
 https://github.com/braydie/HowToBeAProgrammer
 http://ashleymcnamara.github.io/learn_to_code/
