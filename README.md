@@ -163,14 +163,11 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
-Product Hunt Top 500
+Product Hunt Golden Kitty Awards and Top 500
+* [Golden Kitty Awards](https://goldenkittyawards.com)
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
-
-<!--
-https://goldenkittyawards.com
--->
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
@@ -303,6 +300,9 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+Feynman Technique
+https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/
+
 https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
 https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 https://mbl.stanford.edu/
@@ -757,8 +757,10 @@ Upvotes
 https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
+
 https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
 https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
+
 https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
 
 https://codepen.io/2017/popular/pens/ | Top Pens of 2017 on CodePen
