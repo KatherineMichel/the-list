@@ -521,8 +521,9 @@ https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
 -->
 
-Linux Code
-* [Linux GitHub](https://github.com/torvalds/linux)
+Linux and Darwin Code
+* [Linux Kernel GitHub](https://github.com/torvalds/linux)
+* [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
 
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
