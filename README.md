@@ -736,6 +736,10 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
+https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
+
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 
 http://exercism.io/
