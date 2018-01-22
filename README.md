@@ -2859,6 +2859,8 @@ https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter:
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 https://www.slideshare.net/NVIDIA
 
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+
 https://nips.cc/ | 2017 Conference
 https://nips.cc/Conferences/2017/Schedule
 
