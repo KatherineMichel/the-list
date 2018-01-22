@@ -88,7 +88,7 @@ Microsoft, ASP.NET- All
 Joni Trythall
 DNS, SSL, Wildcard
 
- * [Servers, Databases, Architectures](#servers-databases-architectures)
+* [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Servers and Databases](#servers-and-databases)
 
@@ -109,6 +109,11 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 
 See Events
 http://webbyawards.com
+
+Major Conferences
+https://www.cebit.de/en/ | CEBIT – Europe's Business Festival for Innovation and Digitization
+https://www.mobileworldcongress.com/ | Home | Mobile World Congress
+https://www.ces.tech/ | CES - The Global Stage for Innovation - CES 2018
 
 New
 https://www.digitalocean.com/products/storage/object-storage
