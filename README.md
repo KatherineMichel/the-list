@@ -111,7 +111,6 @@ See Events
 http://webbyawards.com
 
 New
-https://www.mongodb.com/cloud/stitch
 https://www.digitalocean.com/products/storage/object-storage
 https://www.openshift.io/
 https://devcenter.heroku.com/articles/heroku-ci
@@ -1515,14 +1514,26 @@ https://aws.amazon.com/events/aws-innovate
 
 ## Hosting Docs
 
-Hosting Docs
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
 * [Heroku Dev Center](https://devcenter.heroku.com)  
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+
+Digital Ocean Hosting Docs (VPS)
+* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
+* [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
+* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
+* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 * [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
 * [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
 * [Digital Ocean Community](https://www.digitalocean.com/community)
+* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
+
+<!--
+* [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
+-->
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
@@ -1552,10 +1563,6 @@ https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
 -->
 
 Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 * [Getting Started on Heroku](https://devcenter.heroku.com/start)
 
 Google Cloud, App Engine
@@ -1564,18 +1571,11 @@ Google Cloud, App Engine
 * [Google Cloud Solutions](https://cloud.google.com/solutions)  
 * [Google Cloud Developers](https://cloud.google.com/developers)  
 
+Alibaba
+* [Alibaba Cloud](https://www.alibabacloud.com)
 
 
 
-
-
-
-
-#### Alibaba Cloud
-
-<!--
-https://www.alibabacloud.com
--->
 
 #### Microservices and Serverless
 
@@ -1587,6 +1587,18 @@ AWS- Lambda
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/)
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+Google Cloud Functions (See also Amazon Web Services- Lambda)
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+Firebase Functions
+* [Firebase Functions](https://firebase.google.com/features/functions)
+
+Azure Functions
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+
+
 
 <!--
 https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
@@ -1649,15 +1661,7 @@ http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework
 https://github.com/MitocGroup/deep-microservices-todomvc
 -->
 
-Google Cloud Functions (See also Amazon Web Services- Lambda)
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
-Firebase Functions
-* [Firebase Functions](https://firebase.google.com/features/functions)
-
-Azure Functions
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
 <!--
     * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
@@ -1929,21 +1933,6 @@ https://blog.heroku.com/deploying-react-with-zero-configuration
 https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 -->
 
-#### Digital Ocean
-
-Digital Ocean (VPS)
-* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
-* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
-* [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
-* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
-* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
-
-
-<!--
-https://www.digitalocean.com/help/getting-started
-https://manage.serverpilot.io
-https://serverpilot.io/community
--->
 
 #### Google Cloud
 
