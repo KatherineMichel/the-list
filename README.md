@@ -2856,7 +2856,7 @@ https://research.google.com/teams/brain/about.html | Research at Google
 https://research.google.com/teams/brain/machine-learning/ | Research at Google
 https://research.google.com/teams/ | Research at Google
 
-https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
+https://developers.google.com/machine-learning
 -->
 
 Linear Algebra and Calculus
@@ -2870,9 +2870,14 @@ Artificial Intelligence- General
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
 
 Machine Learning- General
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 * [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+<!--
+https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
+-->
 
 Deep Learning and Neural Networks
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
@@ -2905,8 +2910,6 @@ https://github.com/fchollet/keras-resources
 
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
 
 https://github.com/hindupuravinash/the-gan-zoo
 https://github.com/nightrome/really-awesome-gan
@@ -3074,6 +3077,8 @@ https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fa
 https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 -->
 
+
+
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
 * [Kaggle Competitions](https://www.kaggle.com/competitions)  
@@ -3096,6 +3101,8 @@ http://ndres.me/kaggle-past-solutions
 
 Kaggle National Data Science Bowl
 -->
+
+
 
 ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
