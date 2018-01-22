@@ -2841,6 +2841,17 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 ## Data Science
 
 <!--
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+
+https://www.kaggle.com/learn/deep-learning | Education | Kaggle
+https://www.kaggle.com/learn/overview | Education | Kaggle
+
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
+https://www.kaggle.com/kernels | Kernels | Kaggle
+
+
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
 https://github.com/cs50/
