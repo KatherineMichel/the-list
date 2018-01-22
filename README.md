@@ -2374,6 +2374,7 @@ https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9
 Competitive Programmers Handbook
 https://cses.fi/book.html
 https://github.com/lnishan/awesome-competitive-programming
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
 https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
 https://github.com/AhmadElsagheer/Competitive-programming-library
 https://github.com/haseebr/competitive-programming
@@ -2512,9 +2513,10 @@ https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architect
 Python Syntax and Semantics
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
-Python and Django Design Patterns
+Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
 
 <!--
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
@@ -2525,8 +2527,6 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
-https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
 
 https://github.com/OpenGenus/cosmos
 
@@ -2589,10 +2589,6 @@ Pluralsight and DataCamp
 * [DataCamp](https://www.datacamp.com)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
-
-<!--
-https://app.pluralsight.com/library/search?q=python+script | Search | Pluralsight
--->
 
 Python Trending, Topics, Forums
 * [GitHub Trending: python](https://github.com/trending/python )
