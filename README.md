@@ -176,12 +176,11 @@ Top 10 Articles
 
 ## Interesting Ideas
 
-<!--
-https://www.nytimes.com/books/best-sellers | Best Sellers - The New York Times
--->
-
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists)
+
+Best Sellers
+* [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
@@ -203,11 +202,8 @@ Curated Blogs and Podcasts
 * [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
+* [Stratechery: The 2017 Stratechery Year in Review](https://stratechery.com/2017/the-2017-stratechery-year-in-review)
 * [Wait But Why](http://waitbutwhy.com) 
-
-<!--
-https://stratechery.com/2017/the-2017-stratechery-year-in-review/ | The 2017 Stratechery Year in Review – Stratechery by Ben Thompson
--->
 
 Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
@@ -517,9 +513,10 @@ Assembly
 <!--
 https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
-
-https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
 -->
+
+Linux Code
+* [Linux GitHub](https://github.com/torvalds/linux)
 
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
