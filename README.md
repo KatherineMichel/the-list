@@ -184,8 +184,9 @@ Top 10 Articles
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists)
 
-Best Sellers
+Best Books
 * [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
+* [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
