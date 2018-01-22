@@ -168,6 +168,10 @@ Product Hunt Top 500
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
 
+<!--
+https://goldenkittyawards.com
+-->
+
 GitHub More
 * [GitHub Explore](https://github.com/explore)
 * [GitHub Discover](https://github.com/dashboard/discover)
@@ -299,6 +303,10 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
+https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
+https://mbl.stanford.edu/
+
 New Year's
 https://www.facebook.com/FarnamStreet/posts/1501663903220308 | Farnam Street - Posts
 
