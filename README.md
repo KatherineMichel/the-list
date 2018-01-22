@@ -2841,8 +2841,16 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 ## Data Science
 
 <!--
+https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+
+https://github.com/cs50/
+
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
 https://www.kaggle.com/learn/deep-learning | Education | Kaggle
 https://www.kaggle.com/learn/overview | Education | Kaggle
@@ -2851,14 +2859,10 @@ https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets O
 https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
 https://www.kaggle.com/kernels | Kernels | Kaggle
 
-
-https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
-
-https://github.com/cs50/
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
+http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
 https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-
-https://www.khanacademy.org/computing/computer-science/algorithms
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
