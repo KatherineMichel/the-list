@@ -300,6 +300,8 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+https://twitter.com/aaronchall/status/955242113754632192
+
 Feynman Technique
 https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/
 
@@ -2958,7 +2960,7 @@ Data Science Websites
 http://www.vincentgranville.com
 
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 
 https://machinelearnings.co
 https://www.producthunt.com/posts/machine-learnings-newsletter
