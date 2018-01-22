@@ -2848,6 +2848,32 @@ https://github.com/cs50/
 https://www.khanacademy.org/computing/computer-science/algorithms
 
 
+
+https://en.wikipedia.org/wiki/Linear_regression | Linear regression - Wikipedia
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://www.cbinsights.com/research-ai-100 | The AI 100
+https://en.wikipedia.org/wiki/Artificial_general_intelligence | Artificial general intelligence - Wikipedia
+https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+https://machinelearning.apple.com
+https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+https://www.slideshare.net/NVIDIA
+
+https://nips.cc/ | 2017 Conference
+https://nips.cc/Conferences/2017/Schedule
+
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
+http://playground.tensorflow.org | A Neural Network Playground
+
+https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
+https://www.landing.ai/ | landing-ai
+https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
+
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
+http://machinelearningmastery.com
+
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
@@ -2873,6 +2899,8 @@ https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research a
 https://research.google.com/teams/brain/about.html | Research at Google
 https://research.google.com/teams/brain/machine-learning/ | Research at Google
 https://research.google.com/teams/ | Research at Google
+
+https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://developers.google.com/machine-learning
 -->
