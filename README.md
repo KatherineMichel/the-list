@@ -2857,26 +2857,17 @@ https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-
 https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-
 https://nips.cc/ | 2017 Conference
 https://nips.cc/Conferences/2017/Schedule
 
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-http://playground.tensorflow.org | A Neural Network Playground
-
-https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
-https://www.landing.ai/ | landing-ai
 
 https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
-http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
@@ -2885,17 +2876,6 @@ https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://developers.google.com/machine-learning
 -->
-
-Linear Algebra and Calculus
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
 
 Artificial Intelligence- General
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
@@ -2917,10 +2897,18 @@ Deep Learning and Neural Networks
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
-Interesting
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
+
+Linear Algebra and Calculus
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
+* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
 
 Front-Runners and Models
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
@@ -2930,12 +2918,58 @@ Front-Runners and Models
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 
 <!--
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+http://playground.tensorflow.org | A Neural Network Playground
+
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
+http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
+
 https://github.com/pytorch/examples
 
 https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
 
 https://github.com/fchollet/keras-resources
+-->
+
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+https://www.kaggle.com/kernels | Kernels | Kaggle
+https://www.kaggle.com/learn/deep-learning | Education | Kaggle
+https://www.kaggle.com/learn/overview | Education | Kaggle
+
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
+
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
+
+Kaggle National Data Science Bowl
+-->
+
+
+<!--
+Interesting
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
@@ -3023,6 +3057,13 @@ http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
 -->
 
+Andrew Ng
+* [Landing AI](https://www.landing.ai)
+
+<!--
+https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
+-->
+
 Machine Learning (Andrew Ng, Stanford)
 * [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
 * [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
@@ -3108,40 +3149,6 @@ http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pyto
 https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
 https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 -->
-
-
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions)  
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Scripts](https://www.kaggle.com/scripts)
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
-Kaggle Submission
-
-<!--
-https://www.kaggle.com/kernels | Kernels | Kaggle
-https://www.kaggle.com/learn/deep-learning | Education | Kaggle
-https://www.kaggle.com/learn/overview | Education | Kaggle
-
-https://github.com/floydwch/kaggle-cli
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
-
-https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
-
-https://github.com/EliotAndres/kaggle-past-solutions
-http://ndres.me/kaggle-past-solutions
-
-Kaggle National Data Science Bowl
--->
-
 
 
 ImageNet
