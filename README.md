@@ -2851,15 +2851,11 @@ https://www.khanacademy.org/computing/computer-science/algorithms
 
 
 
-https://en.wikipedia.org/wiki/Linear_regression | Linear regression - Wikipedia
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://www.cbinsights.com/research-ai-100 | The AI 100
-https://en.wikipedia.org/wiki/Artificial_general_intelligence | Artificial general intelligence - Wikipedia
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
-https://machinelearning.apple.com
 https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
-https://www.slideshare.net/NVIDIA
 
 https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 
@@ -2872,37 +2868,18 @@ http://playground.tensorflow.org | A Neural Network Playground
 
 https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
 https://www.landing.ai/ | landing-ai
-https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
 
 https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
-
-http://machinelearningmastery.com
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
-https://www.kaggle.com/learn/deep-learning | Education | Kaggle
-https://www.kaggle.com/learn/overview | Education | Kaggle
-
-https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
-https://www.kaggle.com/kernels | Kernels | Kaggle
-
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
-https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
-
-https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
-https://research.google.com/teams/brain/ | Research at Google
-https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
-https://research.google.com/teams/brain/about.html | Research at Google
-https://research.google.com/teams/brain/machine-learning/ | Research at Google
-https://research.google.com/teams/ | Research at Google
 
 https://research.google.com/teams/brain/residency/ | Research at Google
 
@@ -2913,8 +2890,16 @@ Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
 
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
 Artificial Intelligence- General
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
 * [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 * [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
@@ -2922,21 +2907,15 @@ Artificial Intelligence- General
 Machine Learning- General
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
 * [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-<!--
-https://en.wikipedia.org/wiki/Outline_of_machine_learning | Outline of machine learning - Wikipedia
--->
 
 Deep Learning and Neural Networks
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 * [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-
-Thought Pieces
-* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
+* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
 Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
@@ -2990,8 +2969,6 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 https://github.com/sbrugman/deep-learning-papers
 https://github.com/dennybritz/deeplearning-papernotes
 
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-
 https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
@@ -3006,18 +2983,22 @@ Data Science Websites
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
 
 <!--
-http://www.vincentgranville.com
-
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 
+http://machinelearningmastery.com
+http://www.datasciguide.com
+http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
 https://machinelearnings.co
 https://www.producthunt.com/posts/machine-learnings-newsletter
 http://subscribe.machinelearnings.co/
 https://machinelearnings.co/@samdebrule
 https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
-
 http://www.partiallyderivative.com
+
+https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
+http://martin.zinkevich.org/
+http://www.vincentgranville.com
 -->
 
 Playbooks
@@ -3025,20 +3006,21 @@ Playbooks
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
-https://github.com/thundergolfer/google-rules-of-machine-learning
+http://a16z.com/2017/05/12/ai-playbook
+https://vimeo.com/215926017
+-->
 
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+
+
+<!--
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
 
-http://www.datasciguide.com
 http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
-
-http://a16z.com/2017/05/12/ai-playbook
-https://vimeo.com/215926017
-
-http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html | Practical advice for analysis of large, complex data sets
-http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
 -->
 
 Machine Learning (Andrew Ng, Stanford)
@@ -3140,11 +3122,19 @@ Kaggle
 Kaggle Submission
 
 <!--
+https://www.kaggle.com/kernels | Kernels | Kaggle
+https://www.kaggle.com/learn/deep-learning | Education | Kaggle
+https://www.kaggle.com/learn/overview | Education | Kaggle
+
 https://github.com/floydwch/kaggle-cli
 
 https://www.kaggle.com/wiki/CompetitionLaunchChecklist
 https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
 https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
 
 https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
@@ -3183,6 +3173,10 @@ https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Inst
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
 -->
 
+Thought Pieces
+* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
+
 Partnerships, Exchanges, Ethics
 * [Artificial Intelligence Index](http://aiindex.org)
 * [Open Neural Network Exchange Format (Facebook and Microsoft)](https://onnx.ai) and [ONNX GitHub](https://github.com/onnx/onnx)
@@ -3203,6 +3197,7 @@ http://videolectures.net/site/search/?q=MLSS
 http://videolectures.net/deeplearning2016_montreal/
 -->
 
+
 Baidu Research
 * [Baidu Research](http://research.baidu.com)
 
@@ -3219,21 +3214,36 @@ Google Research
 * [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
 
+<!--
+https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
+https://research.google.com/teams/brain/ | Research at Google
+https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
+https://research.google.com/teams/brain/about.html | Research at Google
+https://research.google.com/teams/brain/machine-learning/ | Research at Google
+https://research.google.com/teams/ | Research at Google
+-->
+
 NVIDIA
 * [NVIDIA Developer](https://developer.nvidia.com)
 * [NVIDIA Dev Blog](http://devblogs.nvidia.com)
 * [NVIDIA Blogs](https://blogs.nvidia.com)
 * [NVIDIA AI Podcast](https://blogs.nvidia.com/ai-podcast)
+* [NVIDIA AI Slideshare](https://www.slideshare.net/NVIDIA)
 
 <!--
 NVIDIA Architecture
 -->
 
 Company Research
+* [Apple Machine Learning](https://machinelearning.apple.com)
 * [Airbnb](https://medium.com/airbnb-engineering)
 * [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
 * [Uber Engineering](https://eng.uber.com)
 * [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
+
+<!--
+Uber Common
+-->
 
 Companies on GitHub that Do Data Science
 * [AddThis GitHub](https://github.com/addthis)
@@ -3245,6 +3255,7 @@ Companies on GitHub that Do Data Science
 * [Baidu Research GitHub](https://github.com/baidu-research)
 * [Cisco GitHub](https://github.com/CiscoSystems)
 * [Cloudera GitHub](https://github.com/cloudera)
+* [DeepMind (Google) GitHub](https://github.com/deepmind)
 * [Facebook Incubator GitHub](https://github.com/facebookincubator)
 * [Facebook Research GitHub](https://github.com/facebookresearch)
 * [Google GitHub](https://github.com/google)
@@ -3268,10 +3279,9 @@ Companies on GitHub that Do Data Science
 * [Yelp GitHub](https://github.com/Yelp)
 
 <!--
-https://github.com/deepmind
-
 * [Google: DeepDream](https://github.com/google/deepdream) 
 -->
+
 
 Conda
 * [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
@@ -3415,23 +3425,6 @@ https://cloud.google.com/ml/docs
 https://cloud.google.com/ml-engine
 -->
 
-Artificial Intelligence- General
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Deep Learning and Neural Networks
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
 
 Data, Data Science, Big Data
 * [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
@@ -3442,9 +3435,6 @@ Data, Data Science, Big Data
 Data Monetization
 * [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
 * [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
-
-Linear Algebra
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
 
 Linear/Regression (Supervised Learning)
 * [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
