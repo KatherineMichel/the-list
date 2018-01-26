@@ -146,6 +146,282 @@ Digital Agencies and Code Philosophies
 DevOps
 Git and Markdown
 Open Source, Open Source Documentation
+
+https://devcenter.heroku.com/ | Heroku Dev Center
+https://devcenter.heroku.com/categories/reference | Reference | Heroku Dev Center
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+https://dashboard.heroku.com/apps | Personal apps | Heroku
+https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
+ 		 		
+https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
+https://www.pluralsight.com/careers/view-all | All Careers | Pluralsight
+
+https://www.pluralsight.com/product/paths
+https://www.pluralsight.com/blog/career/smarter-secrets-habits-success
+https://learn.pluralsight.com/resource/offers/top-10-courses-by-industry
+https://app.pluralsight.com/player?course=personality-tests-employers-use&author=doru-catana&name=personality-tests-employers-use-m0&clip=0&mode=live | Personality Tests: How Employers Use Them
+https://medium.com/pluralsight/pluralsight-iq-free-assessments-fe2807c99518 | 53 free technical skill assessments you can take right now
+https://www.pluralsight.com/event-details/2017/live-2017-agenda
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online		
+https://www.pluralsight.com/blog/career/tech-in-2025		
+Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight		
+
+https://app.pluralsight.com/library/browse | Browse | Pluralsight
+https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
+https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
+https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
+
+https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+https://app.pluralsight.com/library/courses/surveying-blockchain-technologies-enterprise/table-of-contents | Surveying Blockchain Technologies for Enterprise | Pluralsight
+https://www.google.com/search?q=scott+driscoll+bitcoin&oq=scott+driscoll+&aqs=chrome.1.69i57j0l5.9966j0j7&sourceid=chrome&ie=UTF-8 | scott driscoll bitcoin - Google Search
+https://app.pluralsight.com/profile/author/scott-driscoll | Scott Driscoll | Profile
+https://app.pluralsight.com/player?course=creating-brand-style-guide&author=pariah-burke&name=creating-brand-style-guide-m0&clip=0&mode=live
+https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents
+https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
+https://www.pluralsight.com/courses/writing-testable-code
+
+https://app.pluralsight.com/paths/certificate/aws-certified-devops-engineer | AWS Certified DevOps Engineer Path | Pluralsight
+https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career | Upgrading Your Technology Career Path | Pluralsight
+https://app.pluralsight.com/paths/certificate/fundamentals-of-it-operations | Fundamentals of IT Operations Path | Pluralsight
+https://app.pluralsight.com/paths/certificate/business-analysis-pmi-pba | Business Analysis – PMI-PBA® Path | Pluralsight
+https://app.pluralsight.com/paths/certificate/comptia-project | CompTIA Project+ (PK0-004) Path | Pluralsight
+
+https://app.pluralsight.com/paths/skills/understanding-devops | Understanding DevOps Path | Pluralsight
+https://app.pluralsight.com/paths/skill/the-scrum-framework | Using the Scrum Framework Path | Pluralsight
+https://app.pluralsight.com/paths/certificate/comptia-a-plus | CompTIA A+ Path | Pluralsight
+
+https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
+https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
+https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
+https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
+https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
+https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
+
+https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde | We fired our top talent. Best decision we ever made.
+https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.x4vy52l68 | What programming language should you learn first?
+https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd | Trending Developer Skills, Based on my Analysis of “Ask HN: Who’s Hiring?”
+https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67 | How did I land my first job as a self-taught developer? I prepared like crazy.
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
+https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
+https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b | How we got our 2-year-old repo trending on GitHub in just 48 hours
+
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7 | Are Programmer Brains Different? – JavaScript Scene – Medium
+https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80 | The Essential Guide to Building Balanced Development Teamshttps://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team – JavaScript Scene – Medium
+
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
+https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
+https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard | The Pragmatic Bookshelf
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+
+https://www.codecademy.com/courses/learn-the-command-line		
+https://www.khanacademy.org/partner-content/pixar		
+https://www.codecademy.com/learn/learn-sass	
+
+https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
+
+http://campus.codeschool.com/courses/try-django/contents
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
+
+https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+
+https://github.com/pallets/click
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/flake8
+https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
+https://docs.python.org/3.5/library/unittest.html
+
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
+https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+
+Digital Ocean
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
+
+Use
+https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
+https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
+
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressions-cef70ccb49db | Python List Comprehensions VS Generator Expressions
+
+http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
+
+http://exercism.io/languages/python/about | Python - exercism.io
+
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
+https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
+
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+http://jakevdp.github.io
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks
+
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
+
+Corey Schafer
+https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
+https://www.youtube.com/watch?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
+https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
+https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
+
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
+
+https://www.youtube.com/watch?v=9Os0o3wzS_I&index=8&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 | Python Tutorial for Beginners 8: Functions - YouTube
+https://www.youtube.com/watch?v=PNpt7cFjGsM | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods - YouTube
+https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
+https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
+https://www.youtube.com/watch?v=CGRKqnoQGgM&index=12&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Programming Tutorial - Function Parameters - YouTube
+
+http://www.diveintopython3.net/your-first-python-program.html | Your first Python program - Dive Into Python 3
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+See other article also
+http://nvie.com/posts/pin-your-packages/
+pip-tools https://github.com/nvie/pip-tools
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+
+
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+PythonSoftwareFoundationNews+%28Python+Software+Foundation+News%29 | Python Software Foundation News: 2017: A year in review
+
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
+
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+
+https://cloud.google.com/compute/docs/gpus/
+
+https://github.com/pythonsd
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
+
+https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
+
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+
+https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
 -->
 
 
