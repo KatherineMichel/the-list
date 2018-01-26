@@ -293,10 +293,6 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 
 
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-
 
 https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
@@ -2772,6 +2768,9 @@ https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’
 https://eli.thegreenplace.net/ | Eli Bendersky's website
 
 
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
 https://github.com/pallets/click
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 https://pypi.python.org/pypi/flake8
