@@ -460,9 +460,38 @@ https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes |
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
 https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
+
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
+
+https://twitter.com/helloyupgup/lists/community-folks/members | List members
+http://jonibologna.com/ | Joni Bologna’s Blog
+http://yupgup.com/ | Design for Events & Communities - YupGup
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+
+https://github.com/python/performance
+
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 -->
-
-
 
 
 
