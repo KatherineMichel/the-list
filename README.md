@@ -448,10 +448,6 @@ https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
 https://medium.com/@limedaring
 
-http://python.apichecklist.com
-https://github.com/vintasoftware/python-api-checklist
-http://djangoappschecklist.com
-
 https://github.com/twoscoops
 
 https://djangobook.com
