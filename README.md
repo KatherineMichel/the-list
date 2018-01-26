@@ -274,7 +274,6 @@ https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges
 
 
-https://github.com/pythonsd
 https://github.com/jazzband
 
 
@@ -2730,32 +2729,9 @@ django uml - Google Search
 <!--
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+PythonSoftwareFoundationNews+%28Python+Software+Foundation+News%29 | Python Software Foundation News: 2017: A year in review
 
-
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
-https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-https://github.com/nedbat/byterun/tree/master/byterun | byterun/byterun at master · nedbat/byterun
-
-https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-
 
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
@@ -2765,7 +2741,6 @@ https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons
 https://pypi.python.org/pypi/flake8
 https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
 https://docs.python.org/3.5/library/unittest.html
-
 
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
 https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
@@ -2825,11 +2800,6 @@ https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework 
 
 https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
 https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
-
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
 
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
