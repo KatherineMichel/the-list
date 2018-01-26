@@ -147,6 +147,7 @@ DevOps
 Git and Markdown
 Open Source, Open Source Documentation
 
+
 https://devcenter.heroku.com/ | Heroku Dev Center
 https://devcenter.heroku.com/categories/reference | Reference | Heroku Dev Center
 https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
@@ -156,6 +157,13 @@ https://elements.heroku.com/buttons | Buttons - Heroku Elements
 https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
 https://dashboard.heroku.com/apps | Personal apps | Heroku
 https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
+
+https://cloud.google.com/compute/docs/gpus/
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+
 
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
@@ -263,14 +271,6 @@ https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges
 
 
-
-
-https://cloud.google.com/compute/docs/gpus/
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-
 https://github.com/pythonsd
 https://github.com/jazzband
 
@@ -288,6 +288,12 @@ https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, 
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 
+https://github.com/python/performance
+
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 
 Joni Trythall
@@ -305,14 +311,6 @@ https://confreaks.tv/videos/djangoconus2016-just-enough-typography
 https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
-
-
-https://github.com/python/performance
-
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 -->
 
 
