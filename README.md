@@ -422,6 +422,48 @@ https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code fo
 https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
 
 https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
+
+https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
+
+Cory House- React
+https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on Pluralsight
+
+https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
+
+https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
+https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
+https://github.com/lorenanicole/djangocon/blob/master/model/views.py
+
+https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
+
+https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
+
+https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
+
+Interesting
+https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
+https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
+
+https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
+https://speakerdeck.com/limedaring
+https://medium.com/@limedaring
+
+http://python.apichecklist.com
+https://github.com/vintasoftware/python-api-checklist
+http://djangoappschecklist.com
+
+https://github.com/twoscoops
+
+https://djangobook.com
+
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
+
+https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
+https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
+https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
+https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 -->
 
 
