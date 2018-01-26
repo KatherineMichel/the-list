@@ -265,19 +265,15 @@ https://github.com/freeCodeCamp/python-coding-challenges
 
 
 
-
-
-
 https://cloud.google.com/compute/docs/gpus/
 
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+
 https://github.com/pythonsd
+https://github.com/jazzband
 
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
-
-https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
-
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
 
 https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
 
@@ -293,10 +289,6 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 
 
-
-https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
-https://speakerdeck.com/limedaring
-https://medium.com/@limedaring
 
 Joni Trythall
 http://elaconf.com
@@ -314,10 +306,6 @@ https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 
 https://github.com/python/performance
 
