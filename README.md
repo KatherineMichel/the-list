@@ -165,6 +165,30 @@ https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A 
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 
 
+
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
+https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
+https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
+https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard | The Pragmatic Bookshelf
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+
+
+https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde | We fired our top talent. Best decision we ever made.
+https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.x4vy52l68 | What programming language should you learn first?
+https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd | Trending Developer Skills, Based on my Analysis of “Ask HN: Who’s Hiring?”
+https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67 | How did I land my first job as a self-taught developer? I prepared like crazy.
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
+https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
+https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b | How we got our 2-year-old repo trending on GitHub in just 48 hours
+
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+
+
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
@@ -189,12 +213,13 @@ https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
-https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
+https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
 https://app.pluralsight.com/library/courses/surveying-blockchain-technologies-enterprise/table-of-contents | Surveying Blockchain Technologies for Enterprise | Pluralsight
 https://www.google.com/search?q=scott+driscoll+bitcoin&oq=scott+driscoll+&aqs=chrome.1.69i57j0l5.9966j0j7&sourceid=chrome&ie=UTF-8 | scott driscoll bitcoin - Google Search
 https://app.pluralsight.com/profile/author/scott-driscoll | Scott Driscoll | Profile
@@ -220,28 +245,6 @@ https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
 https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
 https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
 
-https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde | We fired our top talent. Best decision we ever made.
-https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.x4vy52l68 | What programming language should you learn first?
-https://medium.freecodecamp.org/trending-developer-skills-based-on-my-analysis-of-ask-hn-whos-hiring-26c02a3ca1fd | Trending Developer Skills, Based on my Analysis of “Ask HN: Who’s Hiring?”
-https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67 | How did I land my first job as a self-taught developer? I prepared like crazy.
-https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
-https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
-https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
-https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b | How we got our 2-year-old repo trending on GitHub in just 48 hours
-
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7 | Are Programmer Brains Different? – JavaScript Scene – Medium
-https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80 | The Essential Guide to Building Balanced Development Teamshttps://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team – JavaScript Scene – Medium
-
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
-https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
-https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
-https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard | The Pragmatic Bookshelf
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 https://www.codecademy.com/courses/learn-the-command-line		
 https://www.khanacademy.org/partner-content/pixar		
@@ -904,7 +907,7 @@ https://medium.com/javascript-scene/how-to-turn-a-job-opening-into-a-dream-job-f
 https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-developers-mentorship-is-the-answer-d352ea3574eb
 
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7 | Are Programmer Brains Different? – JavaScript Scene – Medium
 -->
 
 ## Tech Learning Resources
