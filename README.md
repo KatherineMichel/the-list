@@ -210,14 +210,11 @@ https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
-https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
-https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
-https://app.pluralsight.com/library/courses/surveying-blockchain-technologies-enterprise/table-of-contents | Surveying Blockchain Technologies for Enterprise | Pluralsight
-https://www.google.com/search?q=scott+driscoll+bitcoin&oq=scott+driscoll+&aqs=chrome.1.69i57j0l5.9966j0j7&sourceid=chrome&ie=UTF-8 | scott driscoll bitcoin - Google Search
-https://app.pluralsight.com/profile/author/scott-driscoll | Scott Driscoll | Profile
-https://app.pluralsight.com/player?course=creating-brand-style-guide&author=pariah-burke&name=creating-brand-style-guide-m0&clip=0&mode=live
-https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents
 https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
+https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
+
+https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
+https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents
 https://www.pluralsight.com/courses/writing-testable-code
 
 https://app.pluralsight.com/paths/certificate/aws-certified-devops-engineer | AWS Certified DevOps Engineer Path | Pluralsight
