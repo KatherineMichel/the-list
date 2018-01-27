@@ -148,23 +148,6 @@ Git and Markdown
 Open Source, Open Source Documentation
 
 
-https://devcenter.heroku.com/ | Heroku Dev Center
-https://devcenter.heroku.com/categories/reference | Reference | Heroku Dev Center
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
-https://dashboard.heroku.com/apps | Personal apps | Heroku
-https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
-
-https://cloud.google.com/compute/docs/gpus/
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-
-
 
 https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
@@ -1700,6 +1683,19 @@ Heroku Hosting Docs
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
+<!--
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+https://dashboard.heroku.com/apps | Personal apps | Heroku
+https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
+-->
+
 Digital Ocean Hosting Docs (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
 * [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
@@ -1742,9 +1738,6 @@ https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
 * [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 -->
 
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
 * [Google Cloud Products](https://cloud.google.com/products)  
@@ -1758,6 +1751,12 @@ Alibaba
 
 
 #### Microservices and Serverless
+
+<!--
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+-->
 
 AWS- Lambda
 * [AWS Lambda](http://aws.amazon.com/lambda)  
@@ -3790,6 +3789,8 @@ AIaaS/BDaaS: Computer Vision
 * [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
 
 <!--
+https://cloud.google.com/compute/docs/gpus/
+
 https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
 https://cloud.google.com/ml/
 https://cloud.google.com/ml/docs
