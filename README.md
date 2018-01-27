@@ -78,28 +78,15 @@ https://html5boilerplate.com/
   * [JavaScript Tools](#javascript-tools)
   
 Microsoft, ASP.NET- All
-Joni Trythall
 DNS, SSL, Wildcard
 
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Servers and Databases](#servers-and-databases)
 
-Jekyll- DjangoCon, Other Stuff
-
-https://jekyllrb.com/docs/continuous-integration
-
-https://help.shopify.com/themes/liquid/filters
-
-http://daigofuji.github.io/jekyll-foundation-6-starter
-http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
-http://daigofuji.github.io/jekyll-foundation-5-starter
-https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
  
-
-
 https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
 
 See Events
@@ -216,19 +203,21 @@ Cory House- React
 https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on Pluralsight
 https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
 
-https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
-
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 
-https://github.com/python/performance
 
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
+https://jekyllrb.com/docs/continuous-integration
+
+https://help.shopify.com/themes/liquid/filters
+
+http://daigofuji.github.io/jekyll-foundation-6-starter
+http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
+http://daigofuji.github.io/jekyll-foundation-5-starter
+https://github.com/daigofuji/jekyll-foundation-5-starter
 
 Joni Trythall
 http://elaconf.com
@@ -1458,6 +1447,8 @@ http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
 		
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
 * [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)			
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
 https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
 https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md		
   		  
@@ -2689,6 +2680,14 @@ django uml - Google Search
 
 
 <!--
+https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
+
+https://github.com/python/performance
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+PythonSoftwareFoundationNews+%28Python+Software+Foundation+News%29 | Python Software Foundation News: 2017: A year in review
 
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
