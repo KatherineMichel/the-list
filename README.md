@@ -567,6 +567,8 @@ Makers
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
 
 <!--
+http://exercism.io
+
 http://thenewstack.io
 
 https://websitedownloader.io/wayback-machine-downloader
@@ -578,10 +580,15 @@ Workflow Automation
 * [Zapier](https://zapier.com)
 * [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
 
+https://glitch.com/art
+
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
+https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
+
 Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
-
-https://glitch.com/art
 
 https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
 https://chatbotsmagazine.com
@@ -597,11 +604,6 @@ https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
 
 https://github.com/jw84/messenger-bot-tutorial
 https://github.com/WhiteHouse/fb_messenger_bot
-
-https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
-https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
-
-https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
 -->
 
 ## Software Tools
@@ -791,6 +793,12 @@ iTerm2
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
+
 ## Python- Code Editors and Docs
 
 Visual Studio Code
@@ -800,10 +808,6 @@ Visual Studio Code
 
 PyCharm
 * [PyCharm](https://www.jetbrains.com/pycharm)
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
 
 https://code.visualstudio.com/docs/editor/intellisense
 https://code.visualstudio.com/docs/introvideos/intellisense
@@ -815,9 +819,6 @@ https://www.youtube.com/user/VisualStudio
     * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
     
 https://code.visualstudio.com/docs/setup/mac
-
-https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
-https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
 
 https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
 https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
@@ -877,13 +878,7 @@ https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree 
 
 https://www.khanacademy.org/partner-content/pixar
 
-http://exercism.io/
-
-Upvotes
-https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-
-https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
 
 https://codepen.io/2017/popular/pens/ | Top Pens of 2017 on CodePen
 -->
@@ -965,6 +960,13 @@ http://treehouse.github.io/installation-guides
 
 Reddit
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+<!--
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
+
+https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
+-->
 
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
