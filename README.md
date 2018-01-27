@@ -32,13 +32,6 @@ https://myactivity.google.com/myactivity | Google – My Activity
 * [Cloud9](https://c9.io/katherinemichel)
 
 
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-
-https://www.pluralsight.com/teach
-https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
-https://www.pluralsight.com/blog/news/authoring-for-pluralsight
-
-http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
 
 Startup Engineering MOOC
 
@@ -107,6 +100,8 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
  
 
 
+https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
+
 See Events
 http://webbyawards.com
 
@@ -160,9 +155,6 @@ https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
-
 https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
 https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
 
@@ -176,9 +168,7 @@ https://developer.chrome.com/extensions/getstarted
 https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
 
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
- 		 		
-https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
-	
+ 		 			
 https://app.pluralsight.com/library/browse | Browse | Pluralsight
 https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
@@ -210,17 +200,13 @@ https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
 https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
 
 
-https://www.codecademy.com/courses/learn-the-command-line		
-https://www.khanacademy.org/partner-content/pixar		
+https://www.codecademy.com/courses/learn-the-command-line				
 https://www.codecademy.com/learn/learn-sass	
-
 
 
 
 https://github.com/jazzband
 
-
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
 https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
 
@@ -228,6 +214,7 @@ https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-
 
 Cory House- React
 https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on Pluralsight
+https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
 
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -776,63 +763,7 @@ https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kel
 https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 -->
 
-<!--
 
-#### Security
-
-Malware and Encryption
-* [hackerone](https://hackerone.com)
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
-
-https://github.com/OWASP
-https://www.owasp.org/index.php/Main_Page
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-https://www.owasp.org/index.php/Top_10_2013-Top_10
-
-https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
-https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
-
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://msdn.microsoft.com/en-us/library/ff648644.aspx | Threat Modeling
-
-https://decentsecurity.com
-
-https://code.google.com/p/browsersec/wiki/Main
-
-https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-
-CIS Apple Security Guidelines
-https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
-https://benchmarks.cisecurity.org/
-
-https://www.cisecurity.org/training/resources/
-https://www.cisecurity.org/training/publications/
-
-https://www.us-cert.gov
-https://www.digicert.com
-www.cert.org
-https://www.kb.cert.org
-http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
-
-https://www.defcon.org
-
-https://security.googleblog.com
-https://research.google.com
-https://googleprojectzero.blogspot.com
-https://www.chromium.org/Home/chromium-security
-
-https://azure.microsoft.com/en-us/blog
-
-https://aws.amazon.com/security
-
-https://developer.arm.com
-https://newsroom.intel.com
-https://lkml.org
-
-https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
--->
 
 ## Developer and Team Success
 
@@ -863,19 +794,15 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 <!--
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
-https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://www.khanacademy.org/partner-content/pixar
 
 http://exercism.io/
 
 Upvotes
 https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
-
-https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
-https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
 
 https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
 
@@ -905,10 +832,6 @@ Stack Overflow
 
 Stack Exchange
 * [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
-IBM Documentation
-* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
-* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -967,10 +890,11 @@ https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of ea
 
 https://medium.freecodecamp.org/tagged/events
 https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+
 https://github.com/freeCodeCamp/contribute
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 -->
 
 Wolfram
@@ -997,6 +921,25 @@ Books
 
 ## Web Development Standards and Documentation
 
+<!--
+Mozilla and Documentation
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+
+https://support.mozilla.org/en-US/
+https://hacks.mozilla.org
+
+https://newsroom.intel.com
+https://developer.arm.com
+
+https://support.apple.com
+
+https://www.chromium.org
+https://googleprojectzero.blogspot.com
+
+https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
+https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
+-->
+
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
@@ -1016,26 +959,14 @@ Google Developers- Code
 Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
 
-<!--
-Mozilla and Documentation
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-
-https://support.mozilla.org/en-US/
-https://hacks.mozilla.org
-
-https://newsroom.intel.com
-https://developer.arm.com
-
-https://support.apple.com
-
-https://www.chromium.org
-https://googleprojectzero.blogspot.com
--->
-
 Documentation- Mozilla
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+IBM Documentation
+* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
+* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 
 #### Browsers, Layout Engines, Developer Tools
 
@@ -1231,6 +1162,11 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+
 https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
@@ -1585,6 +1521,64 @@ See Git Workflow, DevOps, Dotfiles, Code Review
 -->
 
 ## InfoSec
+
+<!--
+
+#### Security
+
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
+
+https://github.com/OWASP
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
+https://www.ibm.com/developerworks/library/se-owasp-top10 | Scan your app to find and fix OWASP Top 10 - 2017 vulnerabilities
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://msdn.microsoft.com/en-us/library/ff648644.aspx | Threat Modeling
+
+https://decentsecurity.com
+
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+CIS Apple Security Guidelines
+https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
+https://benchmarks.cisecurity.org/
+
+https://www.cisecurity.org/training/resources/
+https://www.cisecurity.org/training/publications/
+
+https://www.us-cert.gov
+https://www.digicert.com
+www.cert.org
+https://www.kb.cert.org
+http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
+
+https://www.defcon.org
+
+https://security.googleblog.com
+https://research.google.com
+https://googleprojectzero.blogspot.com
+https://www.chromium.org/Home/chromium-security
+
+https://azure.microsoft.com/en-us/blog
+
+https://aws.amazon.com/security
+
+https://developer.arm.com
+https://newsroom.intel.com
+https://lkml.org
+
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
+-->
 
 
 
@@ -3150,6 +3144,8 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 ## Data Science
 
 <!--
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
 A16Z
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
@@ -3179,15 +3175,11 @@ https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-scien
 https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science?utm_content=buffera0d68&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016?utm_content=buffer00056&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
-
-
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
 https://github.com/cs50/
 
 https://www.khanacademy.org/computing/computer-science/algorithms
-
-
 
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://www.cbinsights.com/research-ai-100 | The AI 100
