@@ -160,33 +160,25 @@ https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+
 https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
 https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
 
 https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b | How we got our 2-year-old repo trending on GitHub in just 48 hours
 
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 
 
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
  		 		
 https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
-https://www.pluralsight.com/careers/view-all | All Careers | Pluralsight
-
-https://www.pluralsight.com/product/paths
-https://www.pluralsight.com/blog/career/smarter-secrets-habits-success
-https://learn.pluralsight.com/resource/offers/top-10-courses-by-industry
-https://app.pluralsight.com/player?course=personality-tests-employers-use&author=doru-catana&name=personality-tests-employers-use-m0&clip=0&mode=live | Personality Tests: How Employers Use Them
-https://medium.com/pluralsight/pluralsight-iq-free-assessments-fe2807c99518 | 53 free technical skill assessments you can take right now
-https://www.pluralsight.com/event-details/2017/live-2017-agenda
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online		
-https://www.pluralsight.com/blog/career/tech-in-2025		
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight		
-
+	
 https://app.pluralsight.com/library/browse | Browse | Pluralsight
 https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
