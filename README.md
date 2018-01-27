@@ -233,6 +233,29 @@ https://confreaks.tv/videos/djangoconus2016-just-enough-typography
 https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+
+
+https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
+
+https://twitter.com/km/status/931235931230584832 | Kanyi Maqubela on Twitter: "Consumer products release the chemical neurotransmitters below. Thus far, not enough oxytocin released on the internet. Cortisol - stress r… https://t.co/E3albWjFsM"
+
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
+
+https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+
+https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
+
+https://levels.io/100-days-of-shipping/?utm_content=buffer3c64b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://levels.io/bootstrapping/ | Bootstrapping Side Projects into Profitable Startups
+
+https://github.com/google/yapf | google/yapf: A formatter for Python files
+https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 -->
 
 
