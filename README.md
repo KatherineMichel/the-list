@@ -121,8 +121,6 @@ User Interfaces
 
 site reliability engineering
 
-https://www.udemy.com/js-and-react-for-devs
-
 Open Company
 Digital Agencies and Code Philosophies
 DevOps
@@ -187,6 +185,7 @@ https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
 https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
 
 
+https://www.udemy.com/js-and-react-for-devs
 https://www.codecademy.com/courses/learn-the-command-line				
 https://www.codecademy.com/learn/learn-sass	
 
@@ -530,19 +529,16 @@ GitHub Trending Developers
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
 -->
 
-## Engineering Blogs
+## Engineering Blogs, Stack, Building Tools
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
-<!--
 Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
-
-http://thenewstack.io
 
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
@@ -553,11 +549,6 @@ Product/Service Directories
 
 DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me) 
-
-https://websitedownloader.io/wayback-machine-downloader
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 
 Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Fiddle](https://fiddles.io)
@@ -574,6 +565,14 @@ Makers
 * [Glitch Websites](https://glitch.com/websites)
 * [IFTTT Maker](https://platform.ifttt.com/maker)
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
+
+<!--
+http://thenewstack.io
+
+https://websitedownloader.io/wayback-machine-downloader
+https://websitedownloader.io
+https://webpreserver.com
+https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 
 Workflow Automation
 * [Zapier](https://zapier.com)
