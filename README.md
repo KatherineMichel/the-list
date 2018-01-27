@@ -3158,6 +3158,37 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 ## Data Science
 
 <!--
+A16Z
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
+http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
+
+https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
+https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html | Top 10 Machine Learning Videos on YouTube
+https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html?utm_content=bufferda8ad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Videos on Deep Learning in Python
+http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html
+
+https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms?utm_content=buffer4e048&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Machine Learning Algorithms - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers?utm_content=buffer00c86&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Most cited deep learning papers - Data Science Central
+https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
+http://www.datasciencecentral.com/profiles/blogs/practical-data-science-building-minimum-viable-models?overrideMobileRedirect=1 | Practical data science: Building Minimum Viable Models - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/book-evaluating-machine-learning-models?utm_content=buffer1797a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Book: Evaluating Machine Learning Models - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/j-p-morgan-s-comprehensive-guide-on-machine-learning | J.P. Morgan's Comprehensive Guide on Machine Learning - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science?utm_content=buffercf004&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | [Cheat Sheet] Python Basics For Data Science - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
+http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free | Deep Learning for Everyone – and (Almost) Free - Data Science Central
+http://www.datasciencecentral.com/profiles/blogs/the-data-science-toolkit-my-boot-camp-ciriculum | The Data Science Toolkit - My Boot Camp Ciriculum - Data Science Central
+http://www.datasciencecentral.com/profiles/blogs/learn-python-in-3-days-step-by-step-guide | Learn Python in 3 days : Step by Step Guide - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science | Learning Python For Data Science - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science?utm_content=buffera0d68&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016?utm_content=buffer00056&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
+
+
+
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
 https://github.com/cs50/
