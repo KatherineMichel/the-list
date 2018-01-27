@@ -656,27 +656,6 @@ YAML
 
 
 <!--
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
-https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
-https://www.gnu.org/software/make/manual/make.html
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-
 ## JavaScript Resources
 
 Microsoft- JavaScript
@@ -752,6 +731,118 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kub
 -->
 
 
+<!--
+My Dev Env and other tools
+
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+-->
+
+<!--
+Personal Development Environment
+
+Mac OS X- Architecture		
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))		
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)		
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)		
+		
+Mac OS X Directory Strucure and Listing Applications		
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)		
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)		
+		
+https://en.wikipedia.org/wiki/Apple_File_System		
+https://en.wikipedia.org/wiki/HFS_Plus		
+		
+OS X Terminal
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
+		
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)			
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md		
+  		  
+* [Apple Open Source](https://developer.apple.com/opensource)		
+  		  
+iTerm2		
+* [iTerm2](https://www.iterm2.com)		
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+
+
+## Python- Code Editors and Docs
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+
+https://code.visualstudio.com/docs/editor/intellisense
+https://code.visualstudio.com/docs/introvideos/intellisense
+
+https://code.visualstudio.com/Docs/setup/setup-overview
+https://www.youtube.com/user/VisualStudio
+
+* Other Electron-based IDE
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+    
+https://code.visualstudio.com/docs/setup/mac
+
+https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
+https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
+https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
+https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
+https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
+
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+-->
+
+## Git and Workflow
+
+<!--
+See Git Workflow, DevOps, Dotfiles, Code Review
+-->
+
 
 ## Developer and Team Success
 
@@ -805,22 +896,6 @@ Wikipedia Tech Portals
 Tech Terminology
 * [Techopedia](https://www.techopedia.com)
 
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Reddit
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-Stack Exchange
-* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
@@ -843,23 +918,15 @@ Courses
 * [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 
 <!--
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
--->
-
-Forums
-* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
-* [Free Code Camp Forum](http://forum.freecodecamp.com)
-* [Treehouse Community](https://teamtreehouse.com/community)
-
-<!--
-More forums or GitHub?
-
-http://treehouse.github.io/installation-guides
 -->
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
@@ -884,6 +951,30 @@ https://github.com/freeCodeCamp/contribute
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
+
+Forums
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
+
+<!--
+More forums or GitHub?
+
+http://treehouse.github.io/installation-guides
+-->
+
+Reddit
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
 
 Wolfram
 * [Wolfram Resources](http://www.wolfram.com/resources)
@@ -1422,99 +1513,9 @@ https://developer.apple.com/reference/accelerate/1912851-bnns
 -->
 
 
-<!--
-Personal Development Environment
 
-Mac OS X- Architecture		
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))		
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)		
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)		
-		
-Mac OS X Directory Strucure and Listing Applications		
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)		
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)		
-		
-https://en.wikipedia.org/wiki/Apple_File_System		
-https://en.wikipedia.org/wiki/HFS_Plus		
-		
-OS X Terminal
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
-http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
-		
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
-* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)			
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
-
-https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
-https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md		
-  		  
-* [Apple Open Source](https://developer.apple.com/opensource)		
-  		  
-iTerm2		
-* [iTerm2](https://www.iterm2.com)		
-* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-
-
-## Python- Code Editors and Docs
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-
-https://code.visualstudio.com/docs/editor/intellisense
-https://code.visualstudio.com/docs/introvideos/intellisense
-
-https://code.visualstudio.com/Docs/setup/setup-overview
-https://www.youtube.com/user/VisualStudio
-
-* Other Electron-based IDE
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-    
-https://code.visualstudio.com/docs/setup/mac
-
-https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
-https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace		
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
-
-https://blogs.msdn.microsoft.com/pythonengineering/2017/12/14/python-extension-for-visual-studio-code-version-0-9-0-now-available/ | Python extension for Visual Studio Code version 0.9.0 now available – Python Engineering at Microsoft
-https://github.com/blog/1816-partial-commits-in-github-for-mac | Partial commits in GitHub for Mac
-https://help.github.com/desktop-classic/guides/contributing/committing-and-reviewing-changes-to-your-project/ | Committing and reviewing changes to your project
-https://github.com/Microsoft/vscode-tips-and-tricks | Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.
-
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
--->
-
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
 
 ## InfoSec
-
-<!--
-
-#### Security
 
 Malware and Encryption
 * [hackerone](https://hackerone.com)
