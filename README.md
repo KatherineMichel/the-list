@@ -214,32 +214,13 @@ https://www.codecademy.com/courses/learn-the-command-line
 https://www.khanacademy.org/partner-content/pixar		
 https://www.codecademy.com/learn/learn-sass	
 
-https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
-
-http://campus.codeschool.com/courses/try-django/contents
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
 
 
 https://github.com/jazzband
 
+
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
 https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
 
@@ -2865,13 +2846,29 @@ https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for
 
 ## Python and Django Books and Tutorials
 
-Official Python Tutorial
-* [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
+<!--
+https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
-MOOCs
-* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
+
+http://campus.codeschool.com/courses/try-django/contents
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+-->
 
 <!--
 https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
@@ -2883,6 +2880,14 @@ MOOCs
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
 -->
+
+Official Python Tutorial
+* [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
+
+MOOCs
+* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
 Learning Platforms (See also others)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
