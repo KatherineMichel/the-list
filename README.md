@@ -734,30 +734,6 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kub
 
 
 <!--
-My Dev Env and other tools
-
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
-https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
-https://www.gnu.org/software/make/manual/make.html
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
--->
-
-<!--
 Personal Development Environment
 
 Mac OS X- Architecture		
@@ -838,6 +814,28 @@ Keyboard Shortcuts
 * [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 -->
 
+<!--
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
+
+https://en.wikipedia.org/wiki/Make_(software)
+https://en.wikipedia.org/wiki/Makefile
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
+https://www.gnu.org/software/make/manual/make.html
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+-->
+
 ## Git and Workflow
 
 <!--
@@ -879,8 +877,6 @@ https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree 
 https://www.khanacademy.org/partner-content/pixar
 
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-
-https://codepen.io/2017/popular/pens/ | Top Pens of 2017 on CodePen
 -->
 
 Wikipedia Tech Portals
@@ -958,15 +954,14 @@ More forums or GitHub?
 http://treehouse.github.io/installation-guides
 -->
 
+CodePen
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
 Reddit
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 
-<!--
-Upvotes
-https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
-
-https://www.openstack.org/community/ | Community - OpenStack is open source software for creating private and public clouds.
--->
+OpenStack
+* [OpenStack Community](https://www.openstack.org/community)
 
 Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
@@ -974,6 +969,11 @@ Stack Overflow
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 * [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+<!--
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
+-->
 
 Stack Exchange
 * [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
@@ -1558,17 +1558,17 @@ http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
 https://www.defcon.org
 
 https://security.googleblog.com
-https://research.google.com
-https://googleprojectzero.blogspot.com
 https://www.chromium.org/Home/chromium-security
 
 https://azure.microsoft.com/en-us/blog
-
-https://aws.amazon.com/security
-
+https://research.google.com
+https://googleprojectzero.blogspot.com
+https://www.chromium.org
 https://developer.arm.com
 https://newsroom.intel.com
 https://lkml.org
+
+https://aws.amazon.com/security
 
 https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
 -->
