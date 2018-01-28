@@ -3627,10 +3627,6 @@ Company Research
 * [Uber Engineering](https://eng.uber.com)
 * [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
 
-<!--
-Uber Common
--->
-
 Companies on GitHub that Do Data Science
 * [AddThis GitHub](https://github.com/addthis)
 * [Airbnb GitHub](https://github.com/airbnb)
