@@ -3650,6 +3650,7 @@ Companies on GitHub that Do Data Science
 * [Mozilla GitHub](https://github.com/mozilla)
 * [Mozilla GitHub](https://github.com/mozilla)
 * [Nervana Systems GitHub](https://github.com/NervanaSystems)
+* [Netflix](https://github.com/Netflix)
 * [NVIDIA GitHub](https://github.com/NVIDIA)
 * [OpenStack GitHub](https://github.com/openstack)
 * [Samsung GitHub](https://github.com/Samsung)
