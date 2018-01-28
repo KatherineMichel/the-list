@@ -3244,8 +3244,9 @@ Screenshot to Code in Keras
 https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
 https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
 https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://www.floydhub.com/pricing | Pricing | FloydHub
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+https://www.floydhub.com/pricing | Pricing | FloydHub
 -->
 
 Artificial Intelligence- General
@@ -3272,6 +3273,7 @@ Deep Learning and Neural Networks
 Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
 
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
@@ -3307,18 +3309,22 @@ https://github.com/fchollet/keras-resources
 
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions) 
+* [Kaggle Progression](https://www.kaggle.com/progression) 
+* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle Learn](https://www.kaggle.com/learn)
+* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Kernels](https://www.kaggle.com/kernels) 
 * [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 * [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
 
 Kaggle Submission
 
 <!--
-https://www.kaggle.com/kernels | Kernels | Kaggle
-https://www.kaggle.com/learn/deep-learning | Education | Kaggle
-https://www.kaggle.com/learn/overview | Education | Kaggle
+http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
 
 https://github.com/floydwch/kaggle-cli
 
