@@ -3646,6 +3646,7 @@ Companies on GitHub that Do Data Science
 * [IBM GitHub](https://github.com/ibm)
 * [Intel GitHub](https://github.com/intel)
 * [Intel Analytics GitHub](https://github.com/intel-analytics)
+* [LinkedIn](https://github.com/linkedin)
 * [Microsoft GitHub](https://github.com/Microsoft)
 * [Mozilla GitHub](https://github.com/mozilla)
 * [Mozilla GitHub](https://github.com/mozilla)
