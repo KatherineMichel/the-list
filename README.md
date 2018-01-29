@@ -253,6 +253,7 @@ https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Pro
 https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
 https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
 https://levels.io/bootstrapping/ | Bootstrapping Side Projects into Profitable Startups
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
@@ -3170,6 +3171,24 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 <!--
 https://devpost.com/hackathons | New & upcoming hackthons · Devpost
 
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
+
+https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
+https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
+http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
+https://github.com/datacamp | DataCamp
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
+
 A16Z
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
@@ -3181,6 +3200,10 @@ https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html | 
 https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html?utm_content=bufferda8ad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Videos on Deep Learning in Python
 http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html
 
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
+
+https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms?utm_content=buffer4e048&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Machine Learning Algorithms - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
