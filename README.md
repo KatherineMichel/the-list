@@ -257,6 +257,62 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
+
+https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
+
+https://priceonomics.com/introduction-to-the-analysis-engine-whats-the-most/ | Introduction to the Analysis Engine: What’s the Most Popular XKCD Comic?
+https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
+
+https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+
+https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
+http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
+
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
+
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
+https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
+https://talkpython.fm/ | Talk Python To Me Podcast
+
+https://www.producthunt.com/golden-kitty-awards-2017 | Product Hunt Golden Kitty Awards 2017
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
+https://www.twitchtools.com/followers | Followers - TwitchTools
+https://www.twitch.tv/directory/creative | Creative - Twitch
+
+https://www.farnamstreetblog.com/reading-2017/ | What I'm Reading in 2017
+
+http://slatestarcodex.com
+https://www.hbs.edu
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
 -->
 
 
@@ -3173,7 +3229,10 @@ https://devpost.com/hackathons | New & upcoming hackthons · Devpost
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
 
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
