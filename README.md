@@ -247,13 +247,6 @@ https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with
 
 https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
-https://levels.io/100-days-of-shipping/?utm_content=buffer3c64b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://levels.io/bootstrapping/ | Bootstrapping Side Projects into Profitable Startups
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
@@ -282,32 +275,14 @@ https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package 
 https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://talkpython.fm/ | Talk Python To Me Podcast
 
-https://www.producthunt.com/golden-kitty-awards-2017 | Product Hunt Golden Kitty Awards 2017
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
-
 https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 https://www.twitchtools.com/followers | Followers - TwitchTools
 https://www.twitch.tv/directory/creative | Creative - Twitch
-
-https://www.farnamstreetblog.com/reading-2017/ | What I'm Reading in 2017
-
-http://slatestarcodex.com
-https://www.hbs.edu
 
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
@@ -333,6 +308,10 @@ Product Hunt Golden Kitty Awards and Top 500
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
+
+<!--
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+-->
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
@@ -399,6 +378,14 @@ Nuzzel
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+<!--
+https://www.farnamstreetblog.com/reading-2017/ | What I'm Reading in 2017
+
+http://slatestarcodex.com
+
+https://www.hbs.edu
+-->
 
 ## Mind Tools
 
@@ -564,6 +551,15 @@ Pieter Levels
 * [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
 * [Bootstrapping](https://levels.io/bootstrapping)
 * [Make Book](https://makebook.io)
+
+<!--
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
@@ -3221,12 +3217,68 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Ultimate Django](https://ultimatedjango.com)
 
 
+## Competitions, Algorithms, Patterns
 
-## Data Science
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions) 
+* [Kaggle Progression](https://www.kaggle.com/progression) 
+* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle Learn](https://www.kaggle.com/learn)
+* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Kernels](https://www.kaggle.com/kernels) 
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
+
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
+
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
+
+Kaggle National Data Science Bowl
+-->
 
 <!--
 https://devpost.com/hackathons | New & upcoming hackthons · Devpost
 
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+-->
+
+
+## Data Science
+
+<!--
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
@@ -3285,9 +3337,6 @@ https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-s
 
 https://github.com/cs50/
 
-https://www.khanacademy.org/computing/computer-science/algorithms
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://www.cbinsights.com/research-ai-100 | The AI 100
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 
@@ -3301,9 +3350,6 @@ https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Ued
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
 
 https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
@@ -3386,42 +3432,6 @@ https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
 
 https://github.com/fchollet/keras-resources
--->
-
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions) 
-* [Kaggle Progression](https://www.kaggle.com/progression) 
-* [Kaggle Rankings](https://www.kaggle.com/rankings) 
-* [Kaggle Learn](https://www.kaggle.com/learn)
-* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Kernels](https://www.kaggle.com/kernels) 
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
-Kaggle Submission
-
-<!--
-http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
-
-https://github.com/floydwch/kaggle-cli
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
-
-https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
-
-https://github.com/EliotAndres/kaggle-past-solutions
-http://ndres.me/kaggle-past-solutions
-
-Kaggle National Data Science Bowl
 -->
 
 
