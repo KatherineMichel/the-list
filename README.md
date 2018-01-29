@@ -280,14 +280,13 @@ https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://talkpython.fm/ | Talk Python To Me Podcast
 
-https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
-https://www.twitchtools.com/followers | Followers - TwitchTools
-https://www.twitch.tv/directory/creative | Creative - Twitch
-
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
 
+https://www.coursera.org/learn/machine-learning/ | Machine Learning | Coursera
+https://status.bitbucket.org/ | Atlassian Bitbucket Status
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 -->
 
 
@@ -1292,6 +1291,10 @@ Live Coding
 * [YouTube](https://www.youtube.com)
 
 <!--
+https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
+https://www.twitchtools.com/followers | Followers - TwitchTools
+https://www.twitch.tv/directory/creative | Creative - Twitch
+
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 -->
