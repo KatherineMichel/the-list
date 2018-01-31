@@ -205,6 +205,7 @@ https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
+https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
 
 
@@ -241,9 +242,6 @@ https://twitter.com/km/status/931235931230584832 | Kanyi Maqubela on Twitter: "C
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
-
-https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
 
 https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
@@ -287,6 +285,12 @@ https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awes
 https://www.coursera.org/learn/machine-learning/ | Machine Learning | Coursera
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+https://en.wikipedia.org/wiki/Threat_model
+
+https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
 
 
@@ -370,9 +374,6 @@ Finance Blogs
 
 Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
-
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
 
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
@@ -1265,7 +1266,6 @@ https://developer.chrome.com/devtools/docs/console
 https://developer.chrome.com/devtools/docs/javascript-debugging
 https://developer.chrome.com/devtools/docs/videos
 https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
 https://developer.chrome.com/extensions/devguide
 https://developer.chrome.com/apps/about_apps
 
@@ -1550,23 +1550,6 @@ Smartphones (See also Mobile)
 * [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 
-Programming Languages- Usage in Popular Websites
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-
 
 
 https://en.wikipedia.org/wiki/File_system_permissions
@@ -1641,10 +1624,8 @@ https://www.chromium.org/Home/chromium-security
 
 https://azure.microsoft.com/en-us/blog
 https://research.google.com
-https://googleprojectzero.blogspot.com
 https://www.chromium.org
-https://developer.arm.com
-https://newsroom.intel.com
+
 https://lkml.org
 
 https://aws.amazon.com/security
@@ -1723,9 +1704,6 @@ Heroku Hosting Docs
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
 <!--
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
 https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
 https://elements.heroku.com/addons | Add-ons - Heroku Elements
 https://elements.heroku.com/buttons | Buttons - Heroku Elements
@@ -1960,7 +1938,6 @@ https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
 https://aws.amazon.com/blogs/apn/announcing-the-aws-storage-competency-for-consulting-partners
 
 Repeat?
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
 
 DevOps
 https://aws.amazon.com/devops/what-is-devops
@@ -2099,8 +2076,7 @@ http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-b
 #### Heroku
 
 Heroku- General
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+  * [Getting Started on Heroku](https://devcenter.heroku.com/start)
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
@@ -2155,12 +2131,8 @@ https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-te
 #### Google Cloud
 
 Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
+ * [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
 * [Google Cloud Pricing](https://cloud.google.com/appengine/pricing) 
-* [Google Cloud Developers](https://cloud.google.com/developers)  
 * [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
@@ -2185,11 +2157,10 @@ https://cloud.google.com/container-engine
 
 https://cloud.google.com/source-repositories/docs
 
-https://cloud.google.com/products
-
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
+
 
 
 #### Deployment and Git Integration
@@ -2294,8 +2265,6 @@ Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 
 <!--
 * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
-
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 -->
 
 JavaScript- Amazon
@@ -2394,12 +2363,6 @@ PyVideo
 Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
 
-Python Events
-* [PSF Python Events](https://www.python.org/events)
-
-PyVideo
-* [PyVideo Events](http://pyvideo.org/events.html)
-
 PyCon
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
 * [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
@@ -2452,7 +2415,6 @@ DjangoCon Europe
 https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
 http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
 https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
-https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
 https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
 https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
 https://www.pycascades.com/speakers
@@ -2598,10 +2560,6 @@ Programming and Paradigm
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
 -->
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -2635,14 +2593,24 @@ Programming Language Leveling Up and Comparisons
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
 
+Programming Languages- Usage in Popular Websites
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 * [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
 
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 <!--
 Programming Language Comparisons
@@ -2720,7 +2688,6 @@ Python and Django Design Patterns and Algorithms
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
@@ -2801,17 +2768,6 @@ Use
 https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
 https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
 
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
 https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressions-cef70ccb49db | Python List Comprehensions VS Generator Expressions
 
 http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
@@ -2819,9 +2775,6 @@ http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=e
 http://exercism.io/languages/python/about | Python - exercism.io
 
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
 https://learncodethehardway.org/more-python/
 
@@ -2872,7 +2825,6 @@ https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/
 
 https://www.youtube.com/watch?v=9Os0o3wzS_I&index=8&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 | Python Tutorial for Beginners 8: Functions - YouTube
 https://www.youtube.com/watch?v=PNpt7cFjGsM | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods - YouTube
-https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
 https://www.youtube.com/watch?v=CGRKqnoQGgM&index=12&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Programming Tutorial - Function Parameters - YouTube
 
@@ -2928,6 +2880,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-i
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
 
 https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+
 https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
 
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
@@ -3258,6 +3211,8 @@ Kaggle National Data Science Bowl
 -->
 
 <!--
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
+
 https://devpost.com/hackathons | New & upcoming hackthons · Devpost
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
@@ -3294,13 +3249,24 @@ https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
 https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
 https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
 
+https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
+
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
 https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
 https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
 https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
 http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
 https://github.com/datacamp | DataCamp
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 
 A16Z
@@ -3319,7 +3285,7 @@ https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learn
 https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms?utm_content=buffer4e048&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Machine Learning Algorithms - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers?utm_content=buffer00c86&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Most cited deep learning papers - Data Science Central
@@ -3404,7 +3370,6 @@ Deep Learning and Neural Networks
 Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-
 
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
@@ -3635,7 +3600,6 @@ Analyst Group Resources
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
 <!--
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
 https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
 -->
@@ -3743,7 +3707,6 @@ Companies on GitHub that Do Data Science
 * [Intel Analytics GitHub](https://github.com/intel-analytics)
 * [LinkedIn](https://github.com/linkedin)
 * [Microsoft GitHub](https://github.com/Microsoft)
-* [Mozilla GitHub](https://github.com/mozilla)
 * [Mozilla GitHub](https://github.com/mozilla)
 * [Nervana Systems GitHub](https://github.com/NervanaSystems)
 * [Netflix](https://github.com/Netflix)
