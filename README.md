@@ -186,6 +186,7 @@ https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
 
 
 https://www.udemy.com/js-and-react-for-devs
+
 https://www.codecademy.com/courses/learn-the-command-line				
 https://www.codecademy.com/learn/learn-sass	
 
