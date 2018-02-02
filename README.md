@@ -172,31 +172,10 @@ https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshi
 https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
 
 
-Cory House- React
-https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on 
-Pluralsight
-
-https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
-https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents
-https://www.pluralsight.com/courses/writing-testable-code
-
-https://app.pluralsight.com/paths/certificate/aws-certified-devops-engineer | AWS Certified DevOps Engineer Path | Pluralsight
-https://app.pluralsight.com/paths/certificate/upgrading-your-technology-career | Upgrading Your Technology Career Path | Pluralsight
-https://app.pluralsight.com/paths/certificate/fundamentals-of-it-operations | Fundamentals of IT Operations Path | Pluralsight
-https://app.pluralsight.com/paths/certificate/business-analysis-pmi-pba | Business Analysis – PMI-PBA® Path | Pluralsight
-https://app.pluralsight.com/paths/certificate/comptia-project | CompTIA Project+ (PK0-004) Path | Pluralsight
-
-https://app.pluralsight.com/paths/skills/understanding-devops | Understanding DevOps Path | Pluralsight
-https://app.pluralsight.com/paths/skill/the-scrum-framework | Using the Scrum Framework Path | Pluralsight
-https://app.pluralsight.com/paths/certificate/comptia-a-plus | CompTIA A+ Path | Pluralsight
-
-
-
 https://www.udemy.com/js-and-react-for-devs
 
 https://www.codecademy.com/courses/learn-the-command-line				
 https://www.codecademy.com/learn/learn-sass	
-
 
 
 https://github.com/jazzband
@@ -3149,6 +3128,7 @@ https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/03219
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
