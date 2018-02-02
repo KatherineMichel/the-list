@@ -152,16 +152,29 @@ https://developer.chrome.com/extensions/getstarted
 
 https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
 
-https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
  		 			
 https://app.pluralsight.com/library/browse | Browse | Pluralsight
-https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
+
+https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
+https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
+https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
+https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
+https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
+https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
+
 https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
+
+https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
-https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
+
 
 https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
 https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
+
+
+Cory House- React
+https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on 
+Pluralsight
 
 https://app.pluralsight.com/library/courses/tensorflow-sentiment-analysis-recurrent-neural-networks/table-of-contents | Sentiment Analysis with Recurrent Neural Networks in TensorFlow | Pluralsight
 https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents
@@ -177,12 +190,6 @@ https://app.pluralsight.com/paths/skills/understanding-devops | Understanding De
 https://app.pluralsight.com/paths/skill/the-scrum-framework | Using the Scrum Framework Path | Pluralsight
 https://app.pluralsight.com/paths/certificate/comptia-a-plus | CompTIA A+ Path | Pluralsight
 
-https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
-https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
-https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
-https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
-https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
-https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
 
 
 https://www.udemy.com/js-and-react-for-devs
@@ -199,14 +206,7 @@ https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harm
 
 https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
-Cory House- React
-https://github.com/coryhouse/react-big-picture | coryhouse/react-big-picture: Examples for "React: The Big Picture" on Pluralsight
-https://app.pluralsight.com/profile/author/cory-house | Cory House | Profile
 
-https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
-https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
-https://github.com/lorenanicole/djangocon/blob/master/model/views.py
-https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
 
 
@@ -223,8 +223,6 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
-
-https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
@@ -649,6 +647,8 @@ Assembly
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
 
 <!--
+https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
+
 https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
 -->
@@ -3250,17 +3250,9 @@ https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 ## Data Science
 
 <!--
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
+https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
 
 https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
@@ -3314,6 +3306,27 @@ http://www.datasciencecentral.com/profiles/blogs/learn-python-in-3-days-step-by-
 https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science | Learning Python For Data Science - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science?utm_content=buffera0d68&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016?utm_content=buffer00056&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
+
+
+
+
+https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
+https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
+https://github.com/lorenanicole/djangocon/blob/master/model/views.py
+https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
+
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
+
 
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
