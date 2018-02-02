@@ -221,41 +221,15 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
-
-
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
-https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
-
-https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
-
-
-https://github.com/google/yapf | google/yapf: A formatter for Python files
-https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
 
 https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
 
 http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
-
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
-
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
-https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-
-http://inventwithpython.com/cracking/ | Cracking Codes with Python
-https://nostarch.com/pythonplayground | Python Playground | No Starch Press
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
-https://talkpython.fm/ | Talk Python To Me Podcast
 
 
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
@@ -269,8 +243,6 @@ https://status.bitbucket.org/ | Atlassian Bitbucket Status
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
 https://en.wikipedia.org/wiki/Threat_model
-
-https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
 
 
@@ -2554,187 +2526,37 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
 -->
 
-## Algorithms, Design Patterns and Conventions
 
-<!--
-https://en.wikipedia.org/wiki/Coding_conventions
-
-https://en.wikipedia.org/wiki/Programming_style
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
--->
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-Design Patterns- General
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-<!--
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-classification creational structural behavioral patterns - Google Search
-
-https://en.wikipedia.org/wiki/Observer_pattern
-https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-uml strategy pattern - Google Search
-observer pattern uml - Google Search
-https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern
--->
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
-
-Programming Languages- Usage in Popular Websites
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
--->
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-
-<!--
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
-https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
--->
-
-Object Oriented Programming
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-SOLID
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-Concepts
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-
-<!--
-https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
-https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
--->
-
-## Python- Programming Paradigms
-
-Python Syntax and Semantics
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
-
-<!--
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
-Python
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
-https://github.com/OpenGenus/cosmos
-
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
--->
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
 
 
 <!--
-https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
+https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
+https://github.com/google/yapf | google/yapf: A formatter for Python files
+https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
 
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-django uml - Google Search
--->
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
+
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
+https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
+https://talkpython.fm/ | Talk Python To Me Podcast
 
 
-<!--
+
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
 https://github.com/python/performance
@@ -2875,6 +2697,8 @@ https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Cou
 Interesting
 https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
 https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
+
+https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
 
 ## Python and Django Books and Tutorials
@@ -3178,6 +3002,188 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
+
+
+
+## Algorithms, Design Patterns and Conventions
+
+<!--
+https://en.wikipedia.org/wiki/Coding_conventions
+
+https://en.wikipedia.org/wiki/Programming_style
+
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
+-->
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+Design Patterns- General
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+<!--
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+classification creational structural behavioral patterns - Google Search
+
+https://en.wikipedia.org/wiki/Observer_pattern
+https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+uml strategy pattern - Google Search
+observer pattern uml - Google Search
+https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
+https://en.wikipedia.org/wiki/Flyweight_pattern
+-->
+
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
+
+Programming Languages- Usage in Popular Websites
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+<!--
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+-->
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+
+<!--
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
+-->
+
+Object Oriented Programming
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+SOLID
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+Concepts
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+
+<!--
+https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
+https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
+-->
+
+## Python- Programming Paradigms
+
+Python Syntax and Semantics
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+Python and Django Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
+
+<!--
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
+Python
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
+https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
+https://github.com/OpenGenus/cosmos
+
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+-->
+
+Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
+
+
+<!--
+https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
+
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+django uml - Google Search
+-->
+
 
 
 ## Competitions, Algorithms, Patterns
