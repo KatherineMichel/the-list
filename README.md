@@ -220,26 +220,10 @@ http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
 http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
-Joni Trythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-https://twitter.com/JoniTrythall
-
-https://twitter.com/helloyupgup/lists/community-folks/members | List members
-http://jonibologna.com/ | Joni Bologna’s Blog
-http://yupgup.com/ | Design for Events & Communities - YupGup
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
 
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
-https://twitter.com/km/status/931235931230584832 | Kanyi Maqubela on Twitter: "Consumer products release the chemical neurotransmitters below. Thus far, not enough oxytocin released on the internet. Cortisol - stress r… https://t.co/E3albWjFsM"
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
@@ -250,18 +234,12 @@ https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
-https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
-
-https://priceonomics.com/introduction-to-the-analysis-engine-whats-the-most/ | Introduction to the Analysis Engine: What’s the Most Popular XKCD Comic?
-https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
 
 https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-
-https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 
 https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
 
@@ -279,13 +257,14 @@ https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://talkpython.fm/ | Talk Python To Me Podcast
 
+
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
 
 https://www.coursera.org/learn/machine-learning/ | Machine Learning | Coursera
+
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
@@ -453,7 +432,14 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
-https://twitter.com/aaronchall/status/955242113754632192
+https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
+
+https://priceonomics.com/introduction-to-the-analysis-engine-whats-the-most/ | Introduction to the Analysis Engine: What’s the Most Popular XKCD Comic?
+https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+https://twitter.com/km/status/931235931230584832 | Kanyi Maqubela on Twitter: "Consumer products release the chemical neurotransmitters below. Thus far, not enough oxytocin released on the internet. Cortisol - stress r… https://t.co/E3albWjFsM"
 
 Feynman Technique
 https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/
@@ -947,6 +933,8 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
+https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
@@ -1109,6 +1097,7 @@ Standards
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 
+
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
@@ -1119,7 +1108,6 @@ Google Developers- Web
 Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
 * [Mozilla Support](https://support.mozilla.org)
-* [Mozilla Hacks](https://hacks.mozilla.org)
 
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
@@ -1147,6 +1135,7 @@ Platform Updates
 * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
 
+
 Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
@@ -1159,9 +1148,11 @@ Chrome (Browser, Layout Engine)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
 * [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
+
 Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
 * [Opera Neon](http://www.opera.com/computer/neon)
+
 
 Windows
 * [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -1180,6 +1171,7 @@ Microsoft Developer Tools
 * ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
 * [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
 
+
 Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
 * [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
@@ -1189,6 +1181,7 @@ Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
 
 Mozilla (Browser, Layout Engine)
 * [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
@@ -1317,7 +1310,23 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 * [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
 
+<!--
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
 
+https://twitter.com/helloyupgup/lists/community-folks/members | List members
+http://jonibologna.com/ | Joni Bologna’s Blog
+http://yupgup.com/ | Design for Events & Communities - YupGup
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+-->
 
 ## Crowdsourced, Curated Programming Learning Resources
 
