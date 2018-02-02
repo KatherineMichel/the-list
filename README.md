@@ -1077,23 +1077,22 @@ Books
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [No Starch Press](https://www.nostarch.com)
 
-## Web Development Standards and Documentation
+## Standards and Documentation
+
+Arm, Intel, Linux Kernel
+* [Arm](https://developer.arm.com)
+* [Intel](https://newsroom.intel.com)
+* [Linux Kernel Mailing List](https://lkml.org)
+
+Apple
+* [Apple Support](https://support.apple.com)
 
 <!--
-Mozilla and Documentation
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-
-https://support.mozilla.org/en-US/
-https://hacks.mozilla.org
-
-https://newsroom.intel.com
-https://developer.arm.com
-
-https://support.apple.com
-
 https://www.chromium.org
 https://googleprojectzero.blogspot.com
+https://research.google.com
 
+https://azure.microsoft.com/en-us/blog
 https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
 https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
 -->
@@ -1117,7 +1116,12 @@ Google Developers- Code
 Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
 
-Documentation- Mozilla
+Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Support](https://support.mozilla.org)
+* [Mozilla Hacks](https://hacks.mozilla.org)
+
+Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
@@ -1622,13 +1626,6 @@ https://www.defcon.org
 
 https://security.googleblog.com
 https://www.chromium.org/Home/chromium-security
-
-https://azure.microsoft.com/en-us/blog
-https://research.google.com
-https://www.chromium.org
-
-https://lkml.org
-
 https://aws.amazon.com/security
 
 https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
