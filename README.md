@@ -3712,6 +3712,7 @@ Companies on GitHub that Do Data Science
 * [Facebook Research GitHub](https://github.com/facebookresearch)
 * [Google GitHub](https://github.com/google)
 * [Google Creative Lab GitHub](https://github.com/googlecreativelab)
+* [Google Genomics GitHub](https://github.com/googlegenomics)
 * [IBM GitHub](https://github.com/ibm)
 * [Intel GitHub](https://github.com/intel)
 * [Intel Analytics GitHub](https://github.com/intel-analytics)
@@ -3722,6 +3723,7 @@ Companies on GitHub that Do Data Science
 * [Netflix](https://github.com/Netflix)
 * [NVIDIA GitHub](https://github.com/NVIDIA)
 * [OpenStack GitHub](https://github.com/openstack)
+* [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
 * [Samsung GitHub](https://github.com/Samsung)
 * [Sony GitHub](https://github.com/sony)
 * [Spotify GitHub](https://github.com/spotify)
@@ -3736,7 +3738,6 @@ Companies on GitHub that Do Data Science
 <!--
 * [Google: DeepDream](https://github.com/google/deepdream) 
 -->
-
 
 Conda
 * [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
