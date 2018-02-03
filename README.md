@@ -205,7 +205,7 @@ https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedi
 
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_source=ebook&utm_medium=ebook&utm_campaign=pythonebook | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 
@@ -843,10 +843,6 @@ Keyboard Shortcuts
 #### Command Line and Shell
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
 
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
@@ -855,11 +851,15 @@ https://en.wikipedia.org/wiki/Make_(software)
 https://en.wikipedia.org/wiki/Makefile
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
+-->
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
 
 Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
--->
 
 ## Git and Workflow
 
@@ -1301,27 +1301,6 @@ https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 -->
 
-## Crowdsourced, Curated Programming Learning Resources
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-<!--
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-
-https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
--->
-
 ## Interesting Curated Learning Resources- General
 
 <!--
@@ -1348,7 +1327,6 @@ https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-pa
 
 https://github.com/braydie/HowToBeAProgrammer
 http://ashleymcnamara.github.io/learn_to_code/
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
@@ -2561,10 +2539,6 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
-
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
@@ -3239,6 +3213,31 @@ http://ndres.me/kaggle-past-solutions
 Kaggle National Data Science Bowl
 -->
 
+## Crowdsourced, Curated Programming Learning Resources
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+
+https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
 ## Algorithms and Design Patterns
 
 James Damore Coding Competition Books
@@ -3527,12 +3526,63 @@ https://github.com/fchollet/keras-resources
 -->
 
 
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+
 <!--
+http://a16z.com/2017/05/12/ai-playbook
+https://vimeo.com/215926017
+-->
+
+Learning Paths
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+
+<!--
+https://github.com/ossu/data-science
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
+
+http://www.datasciguide.com/difficulty/early-beginner
+http://www.datasciguide.com/recommended-resources-for-beginners
+-->
+
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
+<!--
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
+https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
+
+https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+-->
+
+Mind Maps and Cheat Sheets
+
+<!--
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+-->
+
 Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
+<!--
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
@@ -3544,15 +3594,6 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network
 Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 * [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 
 https://github.com/aymericdamien/TopDeepLearning
 
@@ -3573,27 +3614,6 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 
-Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
-
-<!--
-http://a16z.com/2017/05/12/ai-playbook
-https://vimeo.com/215926017
--->
-
-Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
-* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
-
-<!--
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
-
-http://www.datasciguide.com/difficulty/early-beginner
-http://www.datasciguide.com/recommended-resources-for-beginners
--->
 
 Andrew Ng
 * [Landing AI](https://www.landing.ai)
@@ -3701,23 +3721,6 @@ Analyst Group Resources
 <!--
 https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
--->
-
-Data Styleguide GitHub
-* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
-* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
-
-<!--
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
-
-https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
 -->
 
 Thought Pieces
