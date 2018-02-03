@@ -216,10 +216,6 @@ https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) | SOLID (object-ori
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 
-http://elaconf.com/ | Ela Conf 2017
-https://medium.com/@helloyupgup
-https://wiggle.work/blog/hello-introducing-wiggle-work-20180129 | Hello! Introducing Wiggle Work | Wiggle Work
-
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
@@ -1291,14 +1287,17 @@ The Practical Dev and Hackernoon
 
 <!--
 Joni Trythall
+http://jonibologna.com/ | Joni Bologna’s Blog
+https://twitter.com/JoniTrythall
 http://elaconf.com
 https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
 http://ela.community
-https://twitter.com/JoniTrythall
 
-https://twitter.com/helloyupgup/lists/community-folks/members | List members
-http://jonibologna.com/ | Joni Bologna’s Blog
 http://yupgup.com/ | Design for Events & Communities - YupGup
+https://medium.com/@helloyupgup
+https://twitter.com/helloyupgup/lists/community-folks/members | List members
+https://wiggle.work/blog/hello-introducing-wiggle-work-20180129 | Hello! Introducing Wiggle Work | Wiggle Work
+
 http://www.toptentypography.tips
 https://speakerdeck.com/jonibologna/just-enough-typography
 https://confreaks.tv/videos/djangoconus2016-just-enough-typography
