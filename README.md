@@ -3257,7 +3257,8 @@ Algorithms
 https://www.khanacademy.org/computing/computer-science/algorithms
 
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/OpenGenus/cosmos
+https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
+https://github.com/stacygohyunsi/algorithms-primer
 -->
 
 
