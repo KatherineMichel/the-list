@@ -179,11 +179,8 @@ https://www.codecademy.com/learn/learn-sass
 
 
 https://github.com/jazzband
+https://github.com/twoscoops
 
-
-https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
-
-https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
 
 https://jekyllrb.com/docs/continuous-integration
@@ -198,6 +195,9 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
+Use
+https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
+https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
@@ -568,8 +568,6 @@ Makers
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
 
 <!--
-http://exercism.io
-
 http://thenewstack.io
 
 https://websitedownloader.io/wayback-machine-downloader
@@ -667,6 +665,7 @@ Microsoft- JavaScript
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 
+https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
 https://mobyproject.org/#moby-and-docker
 
@@ -873,6 +872,10 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
+
+http://exercism.io
+
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
@@ -2329,11 +2332,11 @@ http://videolectures.net/ | VideoLectures.NET - VideoLectures.NET
 http://pyvideo.org/events/pydata-san-francisco-2016.html | PyVideo.org · PyData San Francisco 2016
 https://pydata.org/warsaw2017/ | PyData Warsaw 2017
 
-https://nips.cc
 http://create.baidu.com
 http://aifrontiers.com/ | AI Frontiers Conference
 
 https://nips.cc/ | 2017 Conference
+https://nips.cc/Conferences/2017/Schedule
 https://nips.cc/Conferences/2017/Videos
 https://nips.cc/Conferences/2016/Videos
 https://nips.cc/Conferences/2015/Videos
@@ -2466,22 +2469,12 @@ https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
-
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
-https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 https://talkpython.fm/ | Talk Python To Me Podcast
 
 
 
-https://github.com/twoscoops
 
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -2497,6 +2490,9 @@ https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
+
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
@@ -2505,6 +2501,11 @@ https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons
 https://pypi.python.org/pypi/flake8
 https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
 https://docs.python.org/3.5/library/unittest.html
+
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+
 
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
 https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
@@ -2519,87 +2520,28 @@ https://www.digitalocean.com/community/tutorials/understanding-data-types-in-pyt
 https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
 
-Use
-https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
-https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
+
+
 
 https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressions-cef70ccb49db | Python List Comprehensions VS Generator Expressions
-
-http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
-
-http://exercism.io/languages/python/about | Python - exercism.io
-
-https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
-
-https://learncodethehardway.org/more-python/
-
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-
-https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
-https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
-
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
-
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-http://jakevdp.github.io
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks
-
-http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-
-https://stephensugden.com/crash_into_python/ | Crash into Python
-https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
-
-Corey Schafer
-* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
-
-https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
-https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
-https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
-
-https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
-https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-
-https://www.youtube.com/watch?v=9Os0o3wzS_I&index=8&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 | Python Tutorial for Beginners 8: Functions - YouTube
-https://www.youtube.com/watch?v=PNpt7cFjGsM | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods - YouTube
-https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
-https://www.youtube.com/watch?v=CGRKqnoQGgM&index=12&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Programming Tutorial - Function Parameters - YouTube
-
-http://www.diveintopython3.net/your-first-python-program.html | Your first Python program - Dive Into Python 3
 
 https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
 
 
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
 
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-See other article also
-http://nvie.com/posts/pin-your-packages/
-pip-tools https://github.com/nvie/pip-tools
-http://www.kennethreitz.org/essays/a-better-pip-workflow
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 
 
+
+https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
+-->
+
+
+
+## What's New
+
+<!--
 https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
 
 https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
@@ -2607,11 +2549,7 @@ https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-releas
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
-
-https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 -->
-
-
 
 ## Python and Django Books and Tutorials
 
@@ -2632,7 +2570,23 @@ https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Py
 
 https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
 
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+
+http://exercism.io/languages/python/about | Python - exercism.io
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 
 http://campus.codeschool.com/courses/try-django/contents
 
@@ -2698,7 +2652,11 @@ Python Tutors- Regular
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
-
+Python Tutors- YouTube
+* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
+* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
+* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
+* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
 https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
@@ -2723,13 +2681,36 @@ https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python
 https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
--->
 
-Python Tutors- YouTube
-* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
-* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
-* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
-* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
+
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
+
+Corey Schafer
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+
+https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorials - Working with Classes - YouTube
+https://www.youtube.com/watch?v=jCzT9XFZ5bw&index=6&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc | Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters - YouTube
+https://www.youtube.com/watch?v=Uh2ebFW8OYM | Python Tutorial: File Objects - Reading and Writing to Files - YouTube
+
+https://www.youtube.com/watch?v=9Os0o3wzS_I&index=8&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 | Python Tutorial for Beginners 8: Functions - YouTube
+https://www.youtube.com/watch?v=PNpt7cFjGsM | Method Types in Python OOP: @classmethod, @staticmethod, and Instance Methods - YouTube
+https://www.youtube.com/watch?v=WcTXxX3vYgY | Optional Arguments in Python With *args and **kwargs - YouTube
+https://www.youtube.com/watch?v=CGRKqnoQGgM&index=12&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Programming Tutorial - Function Parameters - YouTube
+
+http://www.diveintopython3.net/your-first-python-program.html | Your first Python program - Dive Into Python 3
+
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+-->
 
 <!--
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M | Python 3 Basics Tutorial Series - YouTube
@@ -2760,6 +2741,9 @@ Wiki Books
 
 
 <!--
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
 -->
@@ -2786,6 +2770,26 @@ Python IDLE
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+
+<!--
+https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
+https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+See other article also
+http://nvie.com/posts/pin-your-packages/
+pip-tools https://github.com/nvie/pip-tools
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+
+https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
+-->
 
 ## Python Internals
 
@@ -3087,21 +3091,15 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
-https://github.com/OpenGenus/cosmos
-
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 -->
 
 Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
-
-
 <!--
+UML
+
 https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
 
 https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
@@ -3124,11 +3122,13 @@ James Damore Coding Competition Books
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
+https://github.com/OpenGenus/cosmos
+
 Product Hunt
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
 https://twitter.com/rrhoover/status/924678180073455617
 https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
@@ -3287,6 +3287,13 @@ https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | 
 
 https://www.floydhub.com/pricing | Pricing | FloydHub
 
+Interesting Presentations
+
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
+
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
@@ -3303,14 +3310,7 @@ https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-
 
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
-https://nips.cc/ | 2017 Conference
-https://nips.cc/Conferences/2017/Schedule
 https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
-
-https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
-https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-
-https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
@@ -3619,6 +3619,9 @@ Data Styleguide GitHub
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
 <!--
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+
 https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
 https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
 http://jakevdp.github.io/ | Home | Pythonic Perambulations
