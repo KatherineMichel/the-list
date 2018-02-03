@@ -186,10 +186,6 @@ https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harm
 https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
 
-
-
-
-
 https://jekyllrb.com/docs/continuous-integration
 
 https://help.shopify.com/themes/liquid/filters
@@ -206,20 +202,13 @@ https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History o
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 
-http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
-
-
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
 
-https://www.coursera.org/learn/machine-learning/ | Machine Learning | Coursera
-
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-https://en.wikipedia.org/wiki/Threat_model
 -->
 
 
@@ -1536,9 +1525,6 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
-
-Machine Learning
-https://developer.apple.com/reference/accelerate/1912851-bnns		
 -->
 
 
@@ -1546,10 +1532,13 @@ https://developer.apple.com/reference/accelerate/1912851-bnns
 
 ## InfoSec
 
+<!--
 Malware and Encryption
 * [hackerone](https://hackerone.com)
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
+
+https://en.wikipedia.org/wiki/Threat_model
 
 https://github.com/OWASP
 https://www.owasp.org/index.php/Main_Page
@@ -2466,61 +2455,18 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 
 
 
-## Coding Competitions and Algorithms
-
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-<!--
-http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
-https://web.stanford.edu/class/cs9/#information
-
-Hackathons
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-https://github.com/lnishan/awesome-competitive-programming
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-https://github.com/tuvttran/project-based-learning
-https://github.com/karan/Projects
-https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
--->
-
-
-
-
 
 <!--
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
 https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
 
 https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
 https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
@@ -2531,10 +2477,11 @@ https://docs.pytest.org/en/latest/ | pytest: helps you write better programs —
 
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://talkpython.fm/ | Talk Python To Me Podcast
 
 
+
+https://github.com/twoscoops
 
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
@@ -2662,23 +2609,9 @@ https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
 
 https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
-
-https://github.com/twoscoops
-
-https://djangobook.com
-
-https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
-
-https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
-
-https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
-
-Interesting
-https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
-https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
-
-https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
+
+
 
 ## Python and Django Books and Tutorials
 
@@ -2881,6 +2814,8 @@ https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a
 https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
 https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
 
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
 https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
 
@@ -2968,6 +2903,20 @@ Python- Django- Hello Web App
 * [Hello Web App Discuss](http://discuss.hellowebapp.com)
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
+<!--
+https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
+
+https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
+
+https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
+
+Interesting
+https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
+https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
+
+https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
+-->
+
 Two Scoops Books
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
@@ -2981,6 +2930,8 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
+
+
 
 
 
@@ -3165,6 +3116,54 @@ django uml - Google Search
 -->
 
 
+## Coding Competitions and Algorithms
+
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+<!--
+Product Hunt
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+
+
+
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
+http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
+
+http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
+https://web.stanford.edu/class/cs9/#information
+
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+https://github.com/lnishan/awesome-competitive-programming
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
+https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+-->
+
+
 
 ## Competitions, Algorithms, Patterns
 
@@ -3201,29 +3200,6 @@ https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
 
 Kaggle National Data Science Bowl
--->
-
-<!--
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
-
-https://devpost.com/hackathons | New & upcoming hackthons · Devpost
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-https://www.khanacademy.org/computing/computer-science/algorithms
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 -->
 
 
@@ -3290,22 +3266,32 @@ https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-dee
 
 
 
-https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
-https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
-https://github.com/lorenanicole/djangocon/blob/master/model/views.py
-https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
+
+Machine Learning
+https://developer.apple.com/reference/accelerate/1912851-bnns
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
 
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
 https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
 https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+
+https://www.floydhub.com/pricing | Pricing | FloydHub
+
+https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
+https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
+https://github.com/lorenanicole/djangocon/blob/master/model/views.py
+https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
+
 
 
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
@@ -3332,24 +3318,25 @@ https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wran
 https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://developers.google.com/machine-learning
+-->
 
-Some Wow Research Results
+<!--
+https://www.khanacademy.org/computing/computer-science/algorithms
 
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-https://www.floydhub.com/pricing | Pricing | FloydHub
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 -->
 
 Artificial Intelligence- General
@@ -3454,6 +3441,23 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+<!--
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
