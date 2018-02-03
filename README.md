@@ -209,15 +209,6 @@ https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 
-https://github.com/Kaggle | Kaggle
-https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
-https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
-https://www.kaggle.com/rankings | Kaggle Rankings
-
-https://github.com/fastai/fastai/ | fastai/fastai: The fast.ai deep learning library, lessons, and tutorials
-http://forums.fast.ai/ | Deep Learning Course Forums
-http://course.fast.ai/ | Deep Learning For Coders—36 hours of lessons for free
-
 https://github.com/faif/python-patterns/blob/master/creational/builder.py | python-patterns/builder.py at master · faif/python-patterns
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m6&clip=4&mode=live | Design Patterns with Python
@@ -243,22 +234,11 @@ https://en.wikipedia.org/wiki/First_principle | First principle - Wikipedia
 https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0 | Elon Musks’ “3-Step” First Principles Thinking: How to Think and Solve Difficult Problems Like a…
 https://www.youtube.com/watch?v=NV3sBlRgzTI | The First Principles Method Explained by Elon Musk - YouTube
 
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1517153137&sr=8-1&keywords=chollet | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-https://github.com/fchollet | fchollet (François Chollet)
-
 https://github.com/kilimchoi/engineering-blogs | kilimchoi/engineering-blogs: A curated list of engineering blogs
 https://github.com/sumodirjo/engineering-blogs | sumodirjo/engineering-blogs: A curated list of engineering blogs of startup and enterprise companies
 
-https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
-
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
-
-https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
+https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
+https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 -->
 
 
@@ -3000,7 +2980,7 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 
 
-## Algorithms, Design Patterns and Conventions
+## Design Patterns and Conventions
 
 <!--
 https://en.wikipedia.org/wiki/Coding_conventions
@@ -3175,19 +3155,9 @@ django uml - Google Search
 -->
 
 
-## Coding Competitions and Algorithms
-
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+## Coding Competitions
 
 <!--
-https://www.khanacademy.org/computing/computer-science/algorithms
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/OpenGenus/cosmos
-
 Product Hunt
 https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
@@ -3229,7 +3199,7 @@ https://github.com/blakeembrey/code-problems
 
 
 
-## Competitions, Algorithms, Patterns
+## Kaggle
 
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
@@ -3246,6 +3216,11 @@ Kaggle
 Kaggle Submission
 
 <!--
+https://github.com/Kaggle | Kaggle
+https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+
+https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
+
 http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
 
 http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
@@ -3266,6 +3241,27 @@ https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
 
 Kaggle National Data Science Bowl
+-->
+
+## Algorithms and Design Patterns
+
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
+<!--
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/OpenGenus/cosmos
 -->
 
 
@@ -3296,41 +3292,38 @@ https://github.com/datacamp | DataCamp
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 
-A16Z
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
+https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
+
 
 http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
 
 https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
 https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html | Top 10 Machine Learning Videos on YouTube
-https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html?utm_content=bufferda8ad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Videos on Deep Learning in Python
+https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html | Top 10 Videos on Deep Learning in Python
 http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html
 
 https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
 
-https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms?utm_content=buffer4e048&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Top 10 Machine Learning Algorithms - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Centralf
+https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers?utm_content=buffer00c86&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Most cited deep learning papers - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers | Most cited deep learning papers - Data Science Central
 https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
-http://www.datasciencecentral.com/profiles/blogs/practical-data-science-building-minimum-viable-models?overrideMobileRedirect=1 | Practical data science: Building Minimum Viable Models - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/book-evaluating-machine-learning-models?utm_content=buffer1797a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Book: Evaluating Machine Learning Models - Data Science Central
+http://www.datasciencecentral.com/profiles/blogs/practical-data-science-building-minimum-viable-models | Practical data science: Building Minimum Viable Models - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/book-evaluating-machine-learning-models | Book: Evaluating Machine Learning Models - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/j-p-morgan-s-comprehensive-guide-on-machine-learning | J.P. Morgan's Comprehensive Guide on Machine Learning - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science?utm_content=buffercf004&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | [Cheat Sheet] Python Basics For Data Science - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science | [Cheat Sheet] Python Basics For Data Science - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free | Deep Learning for Everyone – and (Almost) Free - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/the-data-science-toolkit-my-boot-camp-ciriculum | The Data Science Toolkit - My Boot Camp Ciriculum - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/learn-python-in-3-days-step-by-step-guide | Learn Python in 3 days : Step by Step Guide - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science | Learning Python For Data Science - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science?utm_content=buffera0d68&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016?utm_content=buffer00056&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
-
-
-
+https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
 Machine Learning
@@ -3341,10 +3334,12 @@ https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | De
 
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
 
+https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
+https://twitter.com/TeachTheMachine
+
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
 https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
@@ -3384,6 +3379,23 @@ https://www.reddit.com/r/MachineLearning/ | Machine Learning
 https://developers.google.com/machine-learning
 https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
 https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ | Explore the history of machine learning
+
+
+
+
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1517153137&sr=8-1&keywords=chollet | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://github.com/fchollet | fchollet (François Chollet)
+
+https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
+
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 
 
 
@@ -3446,79 +3458,6 @@ Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
-
-
-Front-Runners and Models
-* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
-* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
-* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-
-<!--
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-http://playground.tensorflow.org | A Neural Network Playground
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
-http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
-
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://github.com/pytorch/examples
-
-https://www.tensorflow.org/tutorials/deep_cnn
-https://www.tensorflow.org/tutorials
-
-https://github.com/fchollet/keras-resources
--->
-
-
-<!--
-Interesting
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
-
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-
-https://en.wikipedia.org/wiki/Convolutional_neural_network
-
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-https://github.com/aymericdamien/TopDeepLearning
-https://github.com/zer0n/deepframeworks
-https://github.com/ossu/data-science
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-https://github.com/mlreview/machine-learning-surveys
-
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/muupan/deep-reinforcement-learning-papers
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-https://github.com/sbrugman/deep-learning-papers
-https://github.com/dennybritz/deeplearning-papernotes
-
-https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/jivoi/awesome-ml-for-cybersecurity
--->
 
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
@@ -3565,6 +3504,77 @@ https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
 http://martin.zinkevich.org/
 http://www.vincentgranville.com
 -->
+
+
+Front-Runners and Models
+* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
+* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
+* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+
+<!--
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+http://playground.tensorflow.org | A Neural Network Playground
+
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
+http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+https://github.com/pytorch/examples
+
+https://www.tensorflow.org/tutorials/deep_cnn
+https://www.tensorflow.org/tutorials
+
+https://github.com/fchollet/keras-resources
+-->
+
+
+<!--
+Interesting
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
+
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+https://github.com/ossu/data-science
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+https://github.com/aymericdamien/TopDeepLearning
+
+https://github.com/zer0n/deepframeworks
+
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+-->
+
 
 Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
