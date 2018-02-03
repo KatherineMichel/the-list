@@ -193,8 +193,6 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
-
 Use
 https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
 https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
@@ -370,6 +368,8 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
+
 https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
 
 https://priceonomics.com/introduction-to-the-analysis-engine-whats-the-most/ | Introduction to the Analysis Engine: What’s the Most Popular XKCD Comic?
@@ -2456,42 +2456,12 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 
 
 
-
-
-
 <!--
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
-https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
-
 https://github.com/google/yapf | google/yapf: A formatter for Python files
 https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
-
-http://inventwithpython.com/cracking/ | Cracking Codes with Python
-https://nostarch.com/pythonplayground | Python Playground | No Starch Press
-https://talkpython.fm/ | Talk Python To Me Podcast
-
-
-
-
-https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
-
-https://github.com/python/performance
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+PythonSoftwareFoundationNews+%28Python+Software+Foundation+News%29 | Python Software Foundation News: 2017: A year in review
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
 
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
@@ -2507,18 +2477,18 @@ https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful add
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
 
-https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
-https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
 
-Digital Ocean
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
-https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
+https://github.com/python/performance
+
+
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 
 
 
@@ -2544,6 +2514,9 @@ https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 <!--
 https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
 
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+
 https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
@@ -2554,6 +2527,10 @@ https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documenta
 ## Python and Django Books and Tutorials
 
 <!--
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
@@ -2659,6 +2636,13 @@ Python Tutors- YouTube
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
+https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+https://talkpython.fm/ | Talk Python To Me Podcast
+
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
+https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
+
 https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
@@ -2710,6 +2694,19 @@ http://www.diveintopython3.net/your-first-python-program.html | Your first Pytho
 https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
+https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+
+Digital Ocean
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
 -->
 
 <!--
