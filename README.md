@@ -197,16 +197,51 @@ Use
 https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
 https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
 
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python?refcode=4d2af78748bd&utm_source=ebook&utm_medium=ebook&utm_campaign=pythonebook | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
+
+https://github.com/Kaggle | Kaggle
+https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
+https://www.kaggle.com/rankings | Kaggle Rankings
+
+https://github.com/fastai/fastai/ | fastai/fastai: The fast.ai deep learning library, lessons, and tutorials
+http://forums.fast.ai/ | Deep Learning Course Forums
+http://course.fast.ai/ | Deep Learning For Coders—36 hours of lessons for free
+
+https://github.com/faif/python-patterns/blob/master/creational/builder.py | python-patterns/builder.py at master · faif/python-patterns
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m6&clip=4&mode=live | Design Patterns with Python
+https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) | SOLID (object-oriented design) - Wikipedia
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+
+http://elaconf.com/ | Ela Conf 2017
+https://medium.com/@helloyupgup
+https://wiggle.work/blog/hello-introducing-wiggle-work-20180129 | Hello! Introducing Wiggle Work | Wiggle Work
+
+Engineering Manager
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+http://principlesofchaos.org/ | Principles of Chaos Engineering
+
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://about.gitlab.com/handbook/ | Team Handbook | GitLab
+
+https://en.wikipedia.org/wiki/First_principle | First principle - Wikipedia
+https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0 | Elon Musks’ “3-Step” First Principles Thinking: How to Think and Solve Difficult Problems Like a…
+https://www.youtube.com/watch?v=NV3sBlRgzTI | The First Principles Method Explained by Elon Musk - YouTube
 -->
 
 
@@ -2529,6 +2564,14 @@ https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documenta
 <!--
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
