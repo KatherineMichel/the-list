@@ -930,6 +930,8 @@ https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree 
 
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 
+https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
+
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
 https://www.khanacademy.org/partner-content/pixar
@@ -3181,6 +3183,9 @@ James Damore Coding Competition Books
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/OpenGenus/cosmos
 
 Product Hunt
@@ -3346,6 +3351,7 @@ https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
 https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
 
+https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
 https://www.floydhub.com/pricing | Pricing | FloydHub
 
 Interesting Presentations
@@ -3364,13 +3370,26 @@ https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at
 
 
 
-https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
-
-https://www.quora.com/topic/Machine-Learning | (2) Machine Learning - Quora
+https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+
+https://www.quora.com/topic/Machine-Learning | (2) Machine Learning - Quora
+https://www.reddit.com/r/deeplearning/ | Deep Learning
+https://www.reddit.com/r/MachineLearning/ | Machine Learning
+
+https://developers.google.com/machine-learning
+https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
+https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ | Explore the history of machine learning
+
+
+
+https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
+
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
 
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
@@ -3385,17 +3404,9 @@ https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter:
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
-
-https://research.google.com/teams/brain/residency/ | Research at Google
-
-https://developers.google.com/machine-learning
 -->
 
 <!--
-https://www.khanacademy.org/computing/computer-science/algorithms
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
