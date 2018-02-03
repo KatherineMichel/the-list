@@ -209,26 +209,15 @@ https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 
-https://github.com/faif/python-patterns/blob/master/creational/builder.py | python-patterns/builder.py at master · faif/python-patterns
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m6&clip=4&mode=live | Design Patterns with Python
-https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) | SOLID (object-oriented design) - Wikipedia
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
 
 http://principlesofchaos.org/ | Principles of Chaos Engineering
 
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://about.gitlab.com/handbook/ | Team Handbook | GitLab
-
-https://en.wikipedia.org/wiki/First_principle | First principle - Wikipedia
-https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0 | Elon Musks’ “3-Step” First Principles Thinking: How to Think and Solve Difficult Problems Like a…
-https://www.youtube.com/watch?v=NV3sBlRgzTI | The First Principles Method Explained by Elon Musk - YouTube
 
 https://github.com/kilimchoi/engineering-blogs | kilimchoi/engineering-blogs: A curated list of engineering blogs
 https://github.com/sumodirjo/engineering-blogs | sumodirjo/engineering-blogs: A curated list of engineering blogs of startup and enterprise companies
@@ -396,6 +385,10 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
 https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
@@ -403,7 +396,9 @@ https://xkcd.com/1205/ | xkcd: Is It Worth the Time?
 https://priceonomics.com/introduction-to-the-analysis-engine-whats-the-most/ | Introduction to the Analysis Engine: What’s the Most Popular XKCD Comic?
 https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
 
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+https://en.wikipedia.org/wiki/First_principle | First principle - Wikipedia
+https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0 | Elon Musks’ “3-Step” First Principles Thinking: How to Think and Solve Difficult Problems Like a…
+https://www.youtube.com/watch?v=NV3sBlRgzTI | The First Principles Method Explained by Elon Musk - YouTube
 
 https://twitter.com/km/status/931235931230584832 | Kanyi Maqubela on Twitter: "Consumer products release the chemical neurotransmitters below. Thus far, not enough oxytocin released on the internet. Cortisol - stress r… https://t.co/E3albWjFsM"
 
@@ -3117,6 +3112,8 @@ Python and Django Design Patterns and Algorithms
 * ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
 
 <!--
+https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
