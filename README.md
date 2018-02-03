@@ -188,11 +188,6 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-Use
-https://www.udemy.com/js-and-react-for-devs/learn/v4/t/lecture/7931608?start=0 | JavaScript and React for Developers: Master the Essentials | Udemy
-https://www.udemy.com/js-and-react-for-devs/learn/v4/overview | JavaScript and React for Developers: Master the Essentials | Udemy
-
-
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
@@ -3786,20 +3781,13 @@ NVIDIA
 NVIDIA Architecture
 -->
 
-Company Research
-* [Apple Machine Learning](https://machinelearning.apple.com)
-* [Airbnb](https://medium.com/airbnb-engineering)
-* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
-* [Uber Engineering](https://eng.uber.com)
-* [Uber gh-pages](http://uber.github.io) and [Uber GitHub](https://github.com/uber)
-
-Companies on GitHub that Do Data Science
+Companies that Do Data Science
 * [AddThis GitHub](https://github.com/addthis)
-* [Airbnb GitHub](https://github.com/airbnb)
+* [Airbnb Engineering](https://medium.com/airbnb-engineering) and [Airbnb GitHub](https://github.com/airbnb)
 * [Amazon GitHub](https://github.com/amzn)
 * [Amazon Labs GitHub](https://github.com/awslabs)
 * [Apache GitHub](https://github.com/apache)
-* [Apple GitHub](https://github.com/apple)
+* [Apple Machine Learning](https://machinelearning.apple.com) and [Apple GitHub](https://github.com/apple)
 * [Baidu GitHub](https://github.com/baidu)
 * [Baidu Research GitHub](https://github.com/baidu-research)
 * [Cisco GitHub](https://github.com/CiscoSystems)
@@ -3821,19 +3809,29 @@ Companies on GitHub that Do Data Science
 * [NVIDIA GitHub](https://github.com/NVIDIA)
 * [OpenStack GitHub](https://github.com/openstack)
 * [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
+* [Pinterest Engineering Medium](https://engineering.pinterest.com), [Pinterest Engineering Medium](https://medium.com/@Pinterest_Engineering), and [Pinterest GitHub](https://github.com/pinterest)
 * [Samsung GitHub](https://github.com/Samsung)
 * [Sony GitHub](https://github.com/sony)
-* [Spotify GitHub](https://github.com/spotify)
+* [Spotify Labs](https://labs.spotify.com) and [Spotify GitHub](https://github.com/spotify)
 * [Tencent GitHub](https://github.com/Tencent)
-* [Twitter GitHub](https://github.com/twitter)
+* [Twitter Engineering](https://blog.twitter.com/engineering) and [Twitter GitHub](https://github.com/twitter)
 * [Uber GitHub](https://github.com/uber)
 * [Uber Common GitHub](https://github.com/uber-common)
 * [Yahoo! GitHub](https://github.com/yahoo)
 * [Yandex GitHub](https://github.com/yandex)
-* [Yelp GitHub](https://github.com/Yelp)
+* [Yelp Engineering](https://engineeringblog.yelp.com) and [Yelp GitHub](https://github.com/Yelp)
+* [Zillo Data Science](https://www.zillow.com/data-science)
 
 <!--
 * [Google: DeepDream](https://github.com/google/deepdream) 
+
+* [Shopify Engineering](https://engineering.shopify.com)
+* [Slack Engineering](https://slack.engineering)
+* [Yammer Medium](https://medium.com/we-are-yammer)
+
+Company Research
+* [Uber Engineering](https://eng.uber.com)
+* [Uber gh-pages](http://uber.github.io)
 
 Zynga
 
@@ -3866,15 +3864,12 @@ https://blog.mozilla.org/data/tag/machine-learning/ | machine learning | Firefox
 https://blog.mozilla.org/blog
 https://medium.com/netflix-techblog
 https://www.paypal-engineering.com/ | PayPal Engineering Blog | Engineering
-https://medium.com/@Pinterest_Engineering
-https://engineering.pinterest.com/ | Pinterest Engineering |
+
 https://engineering.quora.com/Machine-Learning-at-Quora | (2) Machine Learning at Quora - Engineering at Quora - Quora
 https://redditblog.com/ | Upvoted – The official Reddit blog
-https://engineering.shopify.com/ | Shopify Engineering
-https://slack.engineering/ | Several People Are Coding
+
 http://engineering.snapdeal.com
 https://developers.soundcloud.com/blog/category/machine%20learning | Backstage Blog - SoundCloud Developers
-https://labs.spotify.com
 https://medium.com/square-corner-blog
 https://multithreaded.stitchfix.com/algorithms/ | Algorithms | Stitch Fix Technology – Multithreaded
 http://algorithms-tour.stitchfix.com/ | Stitch Fix Algorithms Tour
@@ -3882,16 +3877,13 @@ https://multithreaded.stitchfix.com/ | Stitch Fix Technology – Multithreaded
 https://stripe.com/radar/guide | Stripe: Radar Technical Guide
 https://stripe.com/blog/a-primer-on-machine-learning-for-fraud-detection | A primer on machine learning for fraud detection
 https://www.twilio.com/learn/voice-and-video
-https://blog.twitter.com/engineering
+
 https://medium.com/work-ing-at-wealthfront/tagged/machine-learning | Machine Learning – Work(ing) at Wealthfront – Medium
 https://research.yahoo.com/research-areas/scalable-machine-learning | Scalable Machine Learning | research.yahoo.com
 https://research.yahoo.com/research-areas/machine-learning-and-data-science | Research Areas | research.yahoo.com
 https://yahooeng.tumblr.com/post
-https://medium.com/we-are-yammer
-https://engineeringblog.yelp.com
 https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
-https://www.zillow.com/data-science/ | Zillow Data Science - Machine Learning, Big Data, Data Quality and DevOps at Zillow
 -->
 
 Conda
