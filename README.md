@@ -168,10 +168,6 @@ https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
 
 
-https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
-https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
-
-
 https://www.udemy.com/js-and-react-for-devs
 
 https://www.codecademy.com/courses/learn-the-command-line				
@@ -180,7 +176,6 @@ https://www.codecademy.com/learn/learn-sass
 
 https://github.com/jazzband
 https://github.com/twoscoops
-
 
 
 https://jekyllrb.com/docs/continuous-integration
@@ -203,14 +198,6 @@ https://status.bitbucket.org/ | Atlassian Bitbucket Status
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
 
-https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
-
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
@@ -218,9 +205,6 @@ http://principlesofchaos.org/ | Principles of Chaos Engineering
 
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://about.gitlab.com/handbook/ | Team Handbook | GitLab
-
-https://github.com/kilimchoi/engineering-blogs | kilimchoi/engineering-blogs: A curated list of engineering blogs
-https://github.com/sumodirjo/engineering-blogs | sumodirjo/engineering-blogs: A curated list of engineering blogs of startup and enterprise companies
 
 https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
 https://help.github.com/articles/about-releases/ | About Releases - User Documentation
@@ -2465,6 +2449,30 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 
 
 <!--
+Extra
+https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
+
+
+https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
+https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
+
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
@@ -2485,13 +2493,6 @@ https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful add
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
 
-
-https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
-
-https://github.com/python/performance
-
-
-
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
@@ -2503,13 +2504,17 @@ https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understand
 
 https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressions-cef70ccb49db | Python List Comprehensions VS Generator Expressions
 
-https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
-
 
 http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
 
-https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 
+https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
+
+https://github.com/python/performance
+
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
+
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 
 
 https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
@@ -2538,14 +2543,23 @@ https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documenta
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
+https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
+
+MOOCs
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+-->
 
 
+<!--
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
 
@@ -2566,11 +2580,6 @@ http://exercism.io/languages/python/about | Python - exercism.io
 
 https://learncodethehardway.org/more-python/
 
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
 https://learnpythonthehardway.org/python3
 https://learnpythonthehardway.org/book/nopython3.html
 
@@ -2581,17 +2590,6 @@ http://campus.codeschool.com/courses/try-django/contents
 
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges
--->
-
-<!--
-https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
-
-MOOCs
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
 -->
 
 Official Python Tutorial
@@ -2648,15 +2646,13 @@ Python Tutors- YouTube
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
+http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 https://talkpython.fm/ | Talk Python To Me Podcast
 
 http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
 https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
-
-https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -2665,8 +2661,6 @@ https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
 https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
-https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
 
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
@@ -2719,6 +2713,8 @@ https://www.digitalocean.com/community/tutorials/understanding-data-types-in-pyt
 
 https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
 -->
 
 <!--
