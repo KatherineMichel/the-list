@@ -924,19 +924,21 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
-
-http://exercism.io
+https://medium.com/udacity | Udacity Inc – Medium
+https://github.com/udacity | Udacity
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
 https://www.khanacademy.org/partner-content/pixar
 
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
+
+http://exercism.io
 -->
 
 Wikipedia Tech Portals
@@ -3239,6 +3241,8 @@ Kaggle
 Kaggle Submission
 
 <!--
+http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
+
 http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
 https://www.twitch.tv/rctatman | rctatman - Twitch
 https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
@@ -3356,6 +3360,16 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
+
+
+
+
+https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
+
+https://www.quora.com/topic/Machine-Learning | (2) Machine Learning - Quora
+
+https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 
 
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
@@ -3730,6 +3744,12 @@ Google Research
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
 
 <!--
+https://research.fb.com/category/applied-machine-learning/ | Applied Machine Learning – Facebook Research
+https://code.facebook.com/applied-machine-learning/ | Applied Machine Learning | Facebook Code
+https://cloud.withgoogle.com/build/data-analytics
+
+https://www.blog.google/topics/machine-learning/ | Machine Learning | Google Blog
+
 https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
 https://research.google.com/teams/brain/ | Research at Google
 https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
@@ -3797,6 +3817,64 @@ Companies on GitHub that Do Data Science
 
 <!--
 * [Google: DeepDream](https://github.com/google/deepdream) 
+
+Zynga
+
+https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
+
+https://codeascraft.com/ | Code as Craft, Etsy's Engineering Blog
+https://blogs.dropbox.com/tech/tag/machine-learning/ | machine learning | Dropbox Tech Blog
+http://labs.ebay.com/research-areas/research-machine-learning-and-data-science | Machine Learning and Data Science | Research
+https://www.eventbrite.com/engineering/ | Engineering Blog | Eventbrite Engineering
+https://code.flickr.net/tag/machine-learning/ | machine learning | code.flickr.com
+https://stories.flipkart.com/blog/ | Blog - Flipkart Stories
+https://engineering.foursquare.com/tagged/machine-learning | Machine Learning – foursquare-eng
+https://engineering.foursquare.com/machine-learning-at-foursquare-8c4a55694554 | Machine learning at Foursquare – foursquare-eng
+https://engineering.groupon.com/tag/machine-learning/ | machine learning | - Groupon Engineering Blog
+https://engineering.gusto.com/ | Gusto Engineering
+https://medium.com/hulu-tech-blog | Hulu Tech blog – Medium
+https://medium.com/hulu-tech-blog/tagged/machine-learning | Machine Learning – Hulu Tech blog – Medium
+http://engineering.indeedblog.com/blog/ | Blog - Indeed Engineering Blog
+https://tech.instacart.com/tagged/machine-learning | Machine Learning – tech-at-instacart
+https://engineering.instagram.com
+https://blog.intercom.com/tag/machine-learning/ | machine learning - Inside Intercom
+https://blog.intercom.com
+http://engineering.khanacademy.org/ | Working Remotely | Khan Academy Engineering
+https://engineering.linkedin.com/blog/topic/machine-learning | machine learning Articles | LinkedIn Engineering
+https://engineering.linkedin.com/blog/topic/slideshare | slideshare Articles | LinkedIn Engineering
+https://mixpanel.com/machine-learning/ | Machine Learning | Product Analytics | Mixpanel
+https://research.mozilla.org/machine-learning/ | Machine Learning & Open Source Speech-to-text Engine Development Project
+https://medium.com/mozilla-open-innovation/tagged/machine-learning | Machine Learning – Mozilla Open Innovation – Medium
+https://blog.mozilla.org/data/tag/machine-learning/ | machine learning | Firefox Data
+https://blog.mozilla.org/blog
+https://medium.com/netflix-techblog
+https://www.paypal-engineering.com/ | PayPal Engineering Blog | Engineering
+https://medium.com/@Pinterest_Engineering
+https://engineering.pinterest.com/ | Pinterest Engineering |
+https://engineering.quora.com/Machine-Learning-at-Quora | (2) Machine Learning at Quora - Engineering at Quora - Quora
+https://redditblog.com/ | Upvoted – The official Reddit blog
+https://engineering.shopify.com/ | Shopify Engineering
+https://slack.engineering/ | Several People Are Coding
+http://engineering.snapdeal.com
+https://developers.soundcloud.com/blog/category/machine%20learning | Backstage Blog - SoundCloud Developers
+https://labs.spotify.com
+https://medium.com/square-corner-blog
+https://multithreaded.stitchfix.com/algorithms/ | Algorithms | Stitch Fix Technology – Multithreaded
+http://algorithms-tour.stitchfix.com/ | Stitch Fix Algorithms Tour
+https://multithreaded.stitchfix.com/ | Stitch Fix Technology – Multithreaded
+https://stripe.com/radar/guide | Stripe: Radar Technical Guide
+https://stripe.com/blog/a-primer-on-machine-learning-for-fraud-detection | A primer on machine learning for fraud detection
+https://www.twilio.com/learn/voice-and-video
+https://blog.twitter.com/engineering
+https://medium.com/work-ing-at-wealthfront/tagged/machine-learning | Machine Learning – Work(ing) at Wealthfront – Medium
+https://research.yahoo.com/research-areas/scalable-machine-learning | Scalable Machine Learning | research.yahoo.com
+https://research.yahoo.com/research-areas/machine-learning-and-data-science | Research Areas | research.yahoo.com
+https://yahooeng.tumblr.com/post
+https://medium.com/we-are-yammer
+https://engineeringblog.yelp.com
+https://github.com/youtube | YouTube
+https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
+https://www.zillow.com/data-science/ | Zillow Data Science - Machine Learning, Big Data, Data Quality and DevOps at Zillow
 -->
 
 Conda
@@ -3940,7 +4018,10 @@ https://cloud.google.com/compute/docs/gpus/
 https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
 https://cloud.google.com/ml/
 https://cloud.google.com/ml/docs
-https://cloud.google.com/ml-engine
+
+https://cloud.google.com/ml-engine/ | Predictive Analytics - Cloud Machine Learning Engine  |  Google Cloud Platform
+https://cloud.google.com/training/data-ml | Data and Machine Learning Training  |  Google Cloud Platform
+https://cloud.google.com/ml-engine/docs/ | Cloud Machine Learning Engine Documentation  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
 -->
 
 
