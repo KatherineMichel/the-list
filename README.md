@@ -242,6 +242,23 @@ https://about.gitlab.com/handbook/ | Team Handbook | GitLab
 https://en.wikipedia.org/wiki/First_principle | First principle - Wikipedia
 https://medium.com/the-mission/elon-musks-3-step-first-principles-thinking-how-to-think-and-solve-difficult-problems-like-a-ba1e73a9f6c0 | Elon Musks’ “3-Step” First Principles Thinking: How to Think and Solve Difficult Problems Like a…
 https://www.youtube.com/watch?v=NV3sBlRgzTI | The First Principles Method Explained by Elon Musk - YouTube
+
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1517153137&sr=8-1&keywords=chollet | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://github.com/fchollet | fchollet (François Chollet)
+
+https://github.com/kilimchoi/engineering-blogs | kilimchoi/engineering-blogs: A curated list of engineering blogs
+https://github.com/sumodirjo/engineering-blogs | sumodirjo/engineering-blogs: A curated list of engineering blogs of startup and enterprise companies
+
+https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
+
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 -->
 
 
