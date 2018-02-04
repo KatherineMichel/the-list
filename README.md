@@ -615,6 +615,8 @@ Assembly
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
 
 <!--
+https://en.wikipedia.org/wiki/C%2B%2B | C++ - Wikipedia
+
 https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
 
 https://learncodethehardway.org/c/
@@ -891,6 +893,8 @@ http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
 
 http://exercism.io
+
+https://www.codeschool.com/blog/ | Code School Blog - Supplement your learning by reading posts on educational strategy, technical tips, course previews, and all the haps at Code School.
 -->
 
 Wikipedia Tech Portals
