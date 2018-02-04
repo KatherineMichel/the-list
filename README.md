@@ -1706,126 +1706,6 @@ Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
 
 
-
-
-#### Microservices and Serverless
-
-<!--
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
--->
-
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda)  
-* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-Google Cloud Functions (See also Amazon Web Services- Lambda)
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-
-Firebase Functions
-* [Firebase Functions](https://firebase.google.com/features/functions)
-
-Azure Functions
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-
-
-
-<!--
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
-http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
-https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-
-
-* Microservices
-  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
-    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
-    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
-    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
-    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
-    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
-    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
-  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
-  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-  * API Gateway
-    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
-    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
-    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
-  * Serverless
-    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
-    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
-    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
-      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
-    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
-      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
-      
-* [IronFunctions](https://github.com/iron-io/functions)
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
-https://github.com/awslabs/lambda-refarch-webapp
-https://github.com/awslabs/serverless-application-model
-https://github.com/awslabs/aws-serverless-express
-https://github.com/awslabs/serverless-photo-recognition
-
-https://github.com/serverless/site
-https://serverlesscode.com/post/zappa-wsgi-for-python/
-https://serverless.com/framework/docs/providers/aws/guide/credentials/
-https://serverlesscode.com/post/rich-jones-interview-django-zappa/
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://pypi.python.org/pypi/django-zappa
-https://github.com/ryansb/django-zappa-example
-
-http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://github.com/MitocGroup/deep-microservices-todomvc
--->
-
-
-
-<!--
-    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
-  * Static
-    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
-  * Queue / Jobs
-    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
-    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
-  * Decompose
-    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
-    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
-    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
-  * Configuration
-    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
-  * Storage / Querying
-    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
-    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
-    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
-  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
-    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
-    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
-    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
--->
-
-
-
 #### AWS
 
 AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
@@ -2249,7 +2129,121 @@ Python- Django- AWS Elastic Beanstalk Deployment
 * [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
+#### Microservices and Serverless
 
+<!--
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+-->
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda)  
+* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+Google Cloud Functions (See also Amazon Web Services- Lambda)
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+Firebase Functions
+* [Firebase Functions](https://firebase.google.com/features/functions)
+
+Azure Functions
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+
+
+
+<!--
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+
+
+* Microservices
+  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
+    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
+    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
+    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
+  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
+  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
+  * API Gateway
+    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
+    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
+    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
+  * Serverless
+    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
+    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
+    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
+      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
+    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
+      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+      
+* [IronFunctions](https://github.com/iron-io/functions)
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/awslabs/lambda-refarch-webapp
+https://github.com/awslabs/serverless-application-model
+https://github.com/awslabs/aws-serverless-express
+https://github.com/awslabs/serverless-photo-recognition
+
+https://github.com/serverless/site
+https://serverlesscode.com/post/zappa-wsgi-for-python/
+https://serverless.com/framework/docs/providers/aws/guide/credentials/
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://pypi.python.org/pypi/django-zappa
+https://github.com/ryansb/django-zappa-example
+
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
+https://github.com/MitocGroup/deep-microservices-todomvc
+-->
+
+
+
+<!--
+    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
+  * Static
+    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
+  * Queue / Jobs
+    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
+  * Decompose
+    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
+    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
+    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
+  * Configuration
+    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
+  * Storage / Querying
+    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
+  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
+    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
+    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
+-->
 
 
 
