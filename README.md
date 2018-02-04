@@ -3036,6 +3036,8 @@ Programming Paradigms
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
+
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 -->
@@ -3119,6 +3121,32 @@ django uml - Google Search
 ## Coding Competitions
 
 <!--
+https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
+
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
+http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
+https://web.stanford.edu/class/cs9/#information
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
+
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
+
 Product Hunt
 https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
@@ -3129,33 +3157,6 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
 https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-
-
-
-https://devpost.com/hackathons | New & upcoming hackthons · Devpost
-
-http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
-
-http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
-https://web.stanford.edu/class/cs9/#information
-
-Hackathons
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-https://github.com/lnishan/awesome-competitive-programming
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-https://github.com/tuvttran/project-based-learning
-https://github.com/karan/Projects
-https://github.com/chhantyal/influential-cs-books/blob/master/README.md | influential-cs-books/README.md at master · chhantyal/influential-cs-books
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
 -->
 
 
@@ -3250,6 +3251,11 @@ https://www.khanacademy.org/computing/computer-science/algorithms
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
 https://github.com/stacygohyunsi/algorithms-primer
+
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
 -->
 
 
@@ -3285,7 +3291,7 @@ https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-alg
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
-
+https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
 
 http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
 
@@ -3298,7 +3304,6 @@ https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learn
 
 https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers | Most cited deep learning papers - Data Science Central
 https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
@@ -3314,11 +3319,14 @@ https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
-Machine Learning
-https://developer.apple.com/reference/accelerate/1912851-bnns
+https://en.wikipedia.org/wiki/Geoffrey_Hinton | Geoffrey Hinton - Wikipedia
+
+http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://github.com/fchollet | fchollet (François Chollet)
 
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
 
@@ -3331,8 +3339,11 @@ https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jaso
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
 https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
 
 https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
 https://www.floydhub.com/pricing | Pricing | FloydHub
@@ -3349,11 +3360,20 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
+https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
+https://www.twitch.tv/rctatman?ignore_query=true | rctatman - Twitch
+https://twitter.com/rctatman?lang=en | Rachael Tatman (@rctatman) | Twitter
+https://github.com/rctatman?tab=repositories | rctatman (Rachael Tatman ) / Repositories
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 
 
 
+Machine Learning
+https://developer.apple.com/reference/accelerate/1912851-bnns
 
 https://research.google.com/teams/brain/residency/ | Research at Google
+
+https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 
@@ -3371,21 +3391,8 @@ https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learni
 
 
 
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1517153137&sr=8-1&keywords=chollet | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-https://github.com/fchollet | fchollet (François Chollet)
 
 https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
-
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
-
-https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
-
-
 
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
 
@@ -3404,21 +3411,6 @@ https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter:
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
--->
-
-<!--
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 -->
 
 Artificial Intelligence- General
@@ -3445,6 +3437,21 @@ Deep Learning and Neural Networks
 Linear Algebra and Calculus
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
+<!--
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+-->
 
 
 Arxiv
@@ -3495,26 +3502,29 @@ http://www.vincentgranville.com
 
 
 Front-Runners and Models
-* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 * [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-http://playground.tensorflow.org | A Neural Network Playground
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://github.com/pytorch/examples
 
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
 
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+http://playground.tensorflow.org | A Neural Network Playground
+
 https://github.com/fchollet/keras-resources
+
+https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
 
 
@@ -3577,6 +3587,8 @@ Interesting
 <!--
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
 
 https://github.com/hindupuravinash/the-gan-zoo
 https://github.com/nightrome/really-awesome-gan
@@ -3644,6 +3656,21 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
+http://pytorch.org/ | PyTorch
+
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+
+https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
+https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
+
+https://en.wikipedia.org/wiki/Universal_approximation_theorem | Universal approximation theorem - Wikipedia
+
+http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285&source_topic_id=9594 | Another treat! Early access to Intro To Machine Learning videos - Part 1 - Deep Learning Course Forums
+https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
+https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
+
 https://www.usfca.edu/data-institute/certificates
 
 Fast AI Blog
@@ -3658,6 +3685,7 @@ http://course.fast.ai/start.html
 Cutting edge Deep Learning (Lessons 8-14)
 http://course.fast.ai/part2.html
 
+Old
 https://github.com/fastai/courses/blob/master/setup/aws-alias.sh
 https://github.com/fastai/courses/blob/master/deeplearning1/nbs/utils.py
 https://github.com/fastai/courses/blob/master/deeplearning1/nbs/lesson1.ipynb
@@ -3687,6 +3715,8 @@ http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational L
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
 https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
+https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
 
 https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
 https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
@@ -3780,6 +3810,9 @@ NVIDIA
 
 <!--
 NVIDIA Architecture
+
+https://developer.nvidia.com/about-cuda | About CUDA | NVIDIA Developer
+https://en.wikipedia.org/wiki/CUDA | CUDA - Wikipedia
 -->
 
 Companies that Do Data Science
