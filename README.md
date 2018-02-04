@@ -174,10 +174,6 @@ https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/learn/learn-sass	
 
 
-https://github.com/jazzband
-https://github.com/twoscoops
-
-
 https://jekyllrb.com/docs/continuous-integration
 
 https://help.shopify.com/themes/liquid/filters
@@ -190,19 +186,17 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
 
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
 http://principlesofchaos.org/ | Principles of Chaos Engineering
 
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://about.gitlab.com/handbook/ | Team Handbook | GitLab
-
-https://help.github.com/articles/searching-issues-and-pull-requests/ | Searching issues and pull requests - User Documentation
-https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 -->
 
 
@@ -265,9 +259,10 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 
 Curated Blogs and Podcasts
 * [Farnham Street Blog](https://www.farnamstreetblog.com) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
-* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
+* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), [Farnam Street "What I'm Reading in 2017"](https://www.farnamstreetblog.com/reading-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
+* [Slate Star Codex](http://slatestarcodex.com)
 * [Stratechery: The 2017 Stratechery Year in Review](https://stratechery.com/2017/the-2017-stratechery-year-in-review)
 * [Wait But Why](http://waitbutwhy.com) 
 
@@ -292,10 +287,6 @@ Nuzzel Custom Feeds
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 <!--
-https://www.farnamstreetblog.com/reading-2017/ | What I'm Reading in 2017
-
-http://slatestarcodex.com
-
 https://www.hbs.edu
 -->
 
@@ -842,11 +833,6 @@ Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
 
 
 ## Developer and Team Success
@@ -2244,7 +2230,11 @@ https://github.com/MitocGroup/deep-microservices-todomvc
 
 
 
+## Git and Workflow
 
+<!--
+See Git Workflow, DevOps, Dotfiles, Code Review
+-->
 
 
 
