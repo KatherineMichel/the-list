@@ -3370,25 +3370,24 @@ https://twitter.com/rctatman?lang=en | Rachael Tatman (@rctatman) | Twitter
 https://github.com/rctatman?tab=repositories | rctatman (Rachael Tatman ) / Repositories
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 
+https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
+https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
-
-Machine Learning
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
+
 https://research.google.com/teams/brain/residency/ | Research at Google
+
+
+
 
 https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 
-https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
-https://github.com/collections/machine-learning | Collection: Getting started with machine learning
-
-https://www.quora.com/topic/Machine-Learning | (2) Machine Learning - Quora
-https://www.reddit.com/r/deeplearning/ | Deep Learning
-https://www.reddit.com/r/MachineLearning/ | Machine Learning
-
 https://developers.google.com/machine-learning
+
 https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
 https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ | Explore the history of machine learning
 
@@ -3399,8 +3398,6 @@ https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learni
 https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
 
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
 
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
@@ -3457,6 +3454,20 @@ https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 -->
 
+Data Science- Forums
+* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
+* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
+* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
+* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
+* [Stack Exchange AI](https://ai.stackexchange.com)
+* [Stack Exchange Data Science](https://datascience.stackexchange.com)
+
+<!--
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+-->
 
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
@@ -3836,9 +3847,14 @@ Companies that Do Data Science
 * [Google GitHub](https://github.com/google)
 * [Google Creative Lab GitHub](https://github.com/googlecreativelab)
 * [Google Genomics GitHub](https://github.com/googlegenomics)
+* [Hulu Machine Learning Medium](https://medium.com/hulu-tech-blog/tagged/machine-learning)
 * [IBM GitHub](https://github.com/ibm)
+* [Indeed Engineering Blog](http://engineering.indeedblog.com/blog)
+* [Instacart Machine Learning](https://tech.instacart.com/tagged/machine-learning)
+* [Instagram Engineering](https://engineering.instagram.com)
 * [Intel GitHub](https://github.com/intel)
 * [Intel Analytics GitHub](https://github.com/intel-analytics)
+* [Intercom Machine Learing](https://blog.intercom.com/tag/machine-learning)
 * [LinkedIn](https://github.com/linkedin)
 * [Microsoft GitHub](https://github.com/Microsoft)
 * [Mozilla GitHub](https://github.com/mozilla)
@@ -3849,6 +3865,8 @@ Companies that Do Data Science
 * [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
 * [Pinterest Engineering Medium](https://engineering.pinterest.com), [Pinterest Engineering Medium](https://medium.com/@Pinterest_Engineering), and [Pinterest GitHub](https://github.com/pinterest)
 * [Samsung GitHub](https://github.com/Samsung)
+* [Shopify Engineering](https://engineering.shopify.com)
+* [Slack Engineering](https://slack.engineering)
 * [Sony GitHub](https://github.com/sony)
 * [Spotify Labs](https://labs.spotify.com) and [Spotify GitHub](https://github.com/spotify)
 * [Tencent GitHub](https://github.com/Tencent)
@@ -3856,16 +3874,13 @@ Companies that Do Data Science
 * [Uber GitHub](https://github.com/uber)
 * [Uber Common GitHub](https://github.com/uber-common)
 * [Yahoo! GitHub](https://github.com/yahoo)
+* [Yammer Medium](https://medium.com/we-are-yammer)
 * [Yandex GitHub](https://github.com/yandex)
 * [Yelp Engineering](https://engineeringblog.yelp.com) and [Yelp GitHub](https://github.com/Yelp)
 * [Zillo Data Science](https://www.zillow.com/data-science)
 
 <!--
 * [Google: DeepDream](https://github.com/google/deepdream) 
-
-* [Shopify Engineering](https://engineering.shopify.com)
-* [Slack Engineering](https://slack.engineering)
-* [Yammer Medium](https://medium.com/we-are-yammer)
 
 Company Research
 * [Uber Engineering](https://eng.uber.com)
@@ -3885,13 +3900,7 @@ https://engineering.foursquare.com/tagged/machine-learning | Machine Learning �
 https://engineering.foursquare.com/machine-learning-at-foursquare-8c4a55694554 | Machine learning at Foursquare – foursquare-eng
 https://engineering.groupon.com/tag/machine-learning/ | machine learning | - Groupon Engineering Blog
 https://engineering.gusto.com/ | Gusto Engineering
-https://medium.com/hulu-tech-blog | Hulu Tech blog – Medium
-https://medium.com/hulu-tech-blog/tagged/machine-learning | Machine Learning – Hulu Tech blog – Medium
-http://engineering.indeedblog.com/blog/ | Blog - Indeed Engineering Blog
-https://tech.instacart.com/tagged/machine-learning | Machine Learning – tech-at-instacart
-https://engineering.instagram.com
-https://blog.intercom.com/tag/machine-learning/ | machine learning - Inside Intercom
-https://blog.intercom.com
+
 http://engineering.khanacademy.org/ | Working Remotely | Khan Academy Engineering
 https://engineering.linkedin.com/blog/topic/machine-learning | machine learning Articles | LinkedIn Engineering
 https://engineering.linkedin.com/blog/topic/slideshare | slideshare Articles | LinkedIn Engineering
