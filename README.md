@@ -876,14 +876,6 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 ## Tech Learning Resources
 
 <!--
-https://medium.com/udacity | Udacity Inc – Medium
-https://github.com/udacity | Udacity
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
-
-https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
-
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
 https://www.khanacademy.org/partner-content/pixar
@@ -893,8 +885,6 @@ http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
 
 http://exercism.io
-
-https://www.codeschool.com/blog/ | Code School Blog - Supplement your learning by reading posts on educational strategy, technical tips, course previews, and all the haps at Code School.
 -->
 
 Wikipedia Tech Portals
@@ -913,12 +903,12 @@ MOOCs
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
 * [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), [Udacity Medium](https://medium.com/udacity), and [Udacity GitHub](https://github.com/udacity)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
 
 Courses
-* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
+* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
@@ -926,6 +916,12 @@ Courses
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
 * [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+<!--
+https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
+
+https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+-->
 
 Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -3213,6 +3209,7 @@ Stellar Programming Learning Resources
 <!--
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
 
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 
@@ -3285,7 +3282,7 @@ http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_70
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
-https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1?overrideMobileRedirect=1 | A Tour of Machine Learning Algorithms - Data Science Centralf
+https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
@@ -3317,19 +3314,13 @@ https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
-https://en.wikipedia.org/wiki/Geoffrey_Hinton | Geoffrey Hinton - Wikipedia
-
 http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
 https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-https://github.com/fchollet | fchollet (François Chollet)
 
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
-
-https://github.com/jbrownlee?tab=repositories | jbrownlee (Jason Brownlee) / Repositories
-https://twitter.com/TeachTheMachine
 
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
@@ -3343,9 +3334,6 @@ https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | 
 https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
 https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
 
-https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
-https://www.floydhub.com/pricing | Pricing | FloydHub
-
 Interesting Presentations
 
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
@@ -3358,11 +3346,10 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
-https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
-https://www.twitch.tv/rctatman?ignore_query=true | rctatman - Twitch
-https://twitter.com/rctatman?lang=en | Rachael Tatman (@rctatman) | Twitter
-https://github.com/rctatman?tab=repositories | rctatman (Rachael Tatman ) / Repositories
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
+https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
 
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
@@ -3379,11 +3366,9 @@ https://research.google.com/teams/brain/residency/ | Research at Google
 https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
+https://github.com/udacity/deep-learning
 
-https://developers.google.com/machine-learning
 
-https://developers.google.com/machine-learning/glossary/ | Machine Learning  |  Google Developers
-https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/ | Explore the history of machine learning
 
 
 
@@ -3408,28 +3393,56 @@ https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
 -->
 
-Artificial Intelligence- General
+Data Scientists
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
+* [Clare Corthell GitHub](https://github.com/clarecorthell)  
+* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
+* [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
+* [Hilary Mason](http://www.hilarymason.com) 
+* [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan) 
+* [Jason Brownlee Twitter](https://twitter.com/TeachTheMachine) and [Jason Brownlee GitHub](https://github.com/jbrownlee)
+* [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
+* [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
+* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
+* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+* [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
+* [Peter Warden](https://petewarden.com)
+* [Rachel Thomas Twitter](https://twitter.com/math_rachel)
+* [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
+* [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+Kaggle and Data Camp
+
+<!--
+https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
+https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+-->
+
+Artificial Intelligence- Wikipedia
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
 * [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
 * [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 * [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
 
-Machine Learning- General
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+Machine Learning- Wikipedia
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 * [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
 * [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
-Deep Learning and Neural Networks
+Deep Learning and Neural Networks- Wikipedia
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 * [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
-
-Linear Algebra and Calculus
+Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
 
@@ -3536,6 +3549,9 @@ https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: N
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
 
+Google Machine Learning Learning Resources
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
 
 Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
@@ -3656,6 +3672,16 @@ Geoffrey Hinton
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
 -->
 
+<!--
+https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
+https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
+
+https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
+https://www.floydhub.com/pricing | Pricing | FloydHub
+-->
+
 Fast AI
 * [fast.ai](http://www.fast.ai)
 * [The fast.ai deep learning library, lessons, and tutorials GitHub](https://github.com/fastai/fastai)
@@ -3668,11 +3694,6 @@ Fast AI
 http://pytorch.org/ | PyTorch
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
-
-https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
-https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
-https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
 
 https://en.wikipedia.org/wiki/Universal_approximation_theorem | Universal approximation theorem - Wikipedia
 
@@ -3792,6 +3813,7 @@ Facebook Research
 Google Research
 * [Google Blog](https://www.blog.google), [Google Blog Topics](https://www.blog.google/topics), and [Google Blog Products](https://www.blog.google/products)
 * [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](https://research.googleblog.com)
+* [Google Developers Machine Learning](https://developers.google.com/machine-learning)
 * [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
 
