@@ -197,6 +197,25 @@ http://principlesofchaos.org/ | Principles of Chaos Engineering
 
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://about.gitlab.com/handbook/ | Team Handbook | GitLab
+
+
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
+
+
+https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+http://norvig.com/ | Peter Norvig
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a
+http://scaledml.org/ | Scaled Machine Learning
+
+https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
+
+https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+
+https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
+https://blog.deming.org
 -->
 
 
@@ -573,6 +592,7 @@ Workflow Automation
 * [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
 
 https://glitch.com/art
+https://glitch.com/slack | Slack
 
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
@@ -1000,6 +1020,10 @@ Books
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [No Starch Press](https://www.nostarch.com)
 
+<!--
+https://pragprog.com/ | The Pragmatic Bookshelf
+-->
+
 ## Standards and Documentation
 
 Arm, Intel, Linux Kernel
@@ -1068,6 +1092,8 @@ Platform Updates
 * [Webkit Blog](https://webkit.org/blog/)
 * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
 * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+
+http://release.mozilla.org/ | Mozilla Releases
 -->
 
 
