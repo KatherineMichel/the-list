@@ -3447,7 +3447,9 @@ Artificial Intelligence- Wikipedia
 Machine Learning- Wikipedia
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 * [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+<!--
 * [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+-->
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
 Deep Learning and Neural Networks- Wikipedia
@@ -3579,6 +3581,8 @@ Learning Paths
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
+https://xlinux.nist.gov/dads/
+
 https://github.com/ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
@@ -3912,6 +3916,9 @@ Companies that Do Data Science
 <!--
 * [Google: DeepDream](https://github.com/google/deepdream) 
 
+https://multithreaded.stitchfix.com/algorithms/ | Algorithms | Stitch Fix Technology – Multithreaded
+http://algorithms-tour.stitchfix.com/ | Stitch Fix Algorithms Tour
+
 Company Research
 * [Uber Engineering](https://eng.uber.com)
 * [Uber gh-pages](http://uber.github.io)
@@ -3948,8 +3955,6 @@ https://redditblog.com/ | Upvoted – The official Reddit blog
 http://engineering.snapdeal.com
 https://developers.soundcloud.com/blog/category/machine%20learning | Backstage Blog - SoundCloud Developers
 https://medium.com/square-corner-blog
-https://multithreaded.stitchfix.com/algorithms/ | Algorithms | Stitch Fix Technology – Multithreaded
-http://algorithms-tour.stitchfix.com/ | Stitch Fix Algorithms Tour
 https://multithreaded.stitchfix.com/ | Stitch Fix Technology – Multithreaded
 https://stripe.com/radar/guide | Stripe: Radar Technical Guide
 https://stripe.com/blog/a-primer-on-machine-learning-for-fraud-detection | A primer on machine learning for fraud detection
