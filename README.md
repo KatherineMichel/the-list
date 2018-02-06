@@ -3768,6 +3768,7 @@ https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9
 
 https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
 https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
+
 https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
@@ -3865,8 +3866,6 @@ https://en.wikipedia.org/wiki/CUDA | CUDA - Wikipedia
 -->
 
 Companies that Do Data Science
-* [AddThis GitHub](https://github.com/addthis)
-* [Airbnb Engineering](https://medium.com/airbnb-engineering) and [Airbnb GitHub](https://github.com/airbnb)
 * [Amazon GitHub](https://github.com/amzn)
 * [Amazon Labs GitHub](https://github.com/awslabs)
 * [Apache GitHub](https://github.com/apache)
@@ -3881,35 +3880,49 @@ Companies that Do Data Science
 * [Google GitHub](https://github.com/google)
 * [Google Creative Lab GitHub](https://github.com/googlecreativelab)
 * [Google Genomics GitHub](https://github.com/googlegenomics)
-* [Hulu Machine Learning Medium](https://medium.com/hulu-tech-blog/tagged/machine-learning)
 * [IBM GitHub](https://github.com/ibm)
+* [Intel GitHub](https://github.com/intel)
+* [Intel Analytics GitHub](https://github.com/intel-analytics)
+* [Microsoft GitHub](https://github.com/Microsoft)
+* [Nervana Systems GitHub](https://github.com/NervanaSystems)
+* [NVIDIA GitHub](https://github.com/NVIDIA)
+* [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
+* [Tencent GitHub](https://github.com/Tencent)
+* [Yahoo! GitHub](https://github.com/yahoo)
+* [Yandex GitHub](https://github.com/yandex)
+
+Companies that Use Machine Learning
+* [AddThis GitHub](https://github.com/addthis)
+* [Airbnb Engineering](https://medium.com/airbnb-engineering) and [Airbnb GitHub](https://github.com/airbnb)
+* [Etsy Code as Craft Engineering Blog](https://codeascraft.com)
+* [Dropbox Machine Learning](https://blogs.dropbox.com/tech/tag/machine-learning)
+* [Eventbrite Engineering](https://www.eventbrite.com/engineering)
+* [Flickr Machine Learning](https://code.flickr.net/tag/machine-learning)
+* [Flipkart Stories](https://stories.flipkart.com/blog)
+* [Foursquare Machine Learning](https://engineering.foursquare.com/tagged/machine-learning)
+* [Groupon Machine Learning](https://engineering.groupon.com/tag/machine-learning)
+* [Hulu Machine Learning Medium](https://medium.com/hulu-tech-blog/tagged/machine-learning)
 * [Indeed Engineering Blog](http://engineering.indeedblog.com/blog)
 * [Instacart Machine Learning](https://tech.instacart.com/tagged/machine-learning)
 * [Instagram Engineering](https://engineering.instagram.com)
-* [Intel GitHub](https://github.com/intel)
-* [Intel Analytics GitHub](https://github.com/intel-analytics)
-* [Intercom Machine Learing](https://blog.intercom.com/tag/machine-learning)
+* [Intercom Machine Learning](https://blog.intercom.com/tag/machine-learning)
 * [LinkedIn](https://github.com/linkedin)
-* [Microsoft GitHub](https://github.com/Microsoft)
+* [Mixpanel Machine Learning](https://mixpanel.com/machine-learning)
 * [Mozilla GitHub](https://github.com/mozilla)
-* [Nervana Systems GitHub](https://github.com/NervanaSystems)
+* [Mozilla Machine Learning](https://blog.mozilla.org/data/tag/machine-learning)
+* [Mozilla Research Machine Learning](https://research.mozilla.org/machine-learning)
 * [Netflix](https://github.com/Netflix)
-* [NVIDIA GitHub](https://github.com/NVIDIA)
 * [OpenStack GitHub](https://github.com/openstack)
-* [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
 * [Pinterest Engineering Medium](https://engineering.pinterest.com), [Pinterest Engineering Medium](https://medium.com/@Pinterest_Engineering), and [Pinterest GitHub](https://github.com/pinterest)
 * [Samsung GitHub](https://github.com/Samsung)
 * [Shopify Engineering](https://engineering.shopify.com)
 * [Slack Engineering](https://slack.engineering)
 * [Sony GitHub](https://github.com/sony)
 * [Spotify Labs](https://labs.spotify.com) and [Spotify GitHub](https://github.com/spotify)
-* [Tencent GitHub](https://github.com/Tencent)
 * [Twitter Engineering](https://blog.twitter.com/engineering) and [Twitter GitHub](https://github.com/twitter)
 * [Uber GitHub](https://github.com/uber)
 * [Uber Common GitHub](https://github.com/uber-common)
-* [Yahoo! GitHub](https://github.com/yahoo)
 * [Yammer Medium](https://medium.com/we-are-yammer)
-* [Yandex GitHub](https://github.com/yandex)
 * [Yelp Engineering](https://engineeringblog.yelp.com) and [Yelp GitHub](https://github.com/Yelp)
 * [Zillo Data Science](https://www.zillow.com/data-science)
 
@@ -3926,26 +3939,16 @@ Company Research
 Zynga
 
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-
-https://codeascraft.com/ | Code as Craft, Etsy's Engineering Blog
-https://blogs.dropbox.com/tech/tag/machine-learning/ | machine learning | Dropbox Tech Blog
+ 
 http://labs.ebay.com/research-areas/research-machine-learning-and-data-science | Machine Learning and Data Science | Research
-https://www.eventbrite.com/engineering/ | Engineering Blog | Eventbrite Engineering
-https://code.flickr.net/tag/machine-learning/ | machine learning | code.flickr.com
-https://stories.flipkart.com/blog/ | Blog - Flipkart Stories
-https://engineering.foursquare.com/tagged/machine-learning | Machine Learning – foursquare-eng
-https://engineering.foursquare.com/machine-learning-at-foursquare-8c4a55694554 | Machine learning at Foursquare – foursquare-eng
-https://engineering.groupon.com/tag/machine-learning/ | machine learning | - Groupon Engineering Blog
+ https://engineering.foursquare.com/machine-learning-at-foursquare-8c4a55694554 | Machine learning at Foursquare – foursquare-eng
 https://engineering.gusto.com/ | Gusto Engineering
 
 http://engineering.khanacademy.org/ | Working Remotely | Khan Academy Engineering
 https://engineering.linkedin.com/blog/topic/machine-learning | machine learning Articles | LinkedIn Engineering
 https://engineering.linkedin.com/blog/topic/slideshare | slideshare Articles | LinkedIn Engineering
-https://mixpanel.com/machine-learning/ | Machine Learning | Product Analytics | Mixpanel
-https://research.mozilla.org/machine-learning/ | Machine Learning & Open Source Speech-to-text Engine Development Project
+
 https://medium.com/mozilla-open-innovation/tagged/machine-learning | Machine Learning – Mozilla Open Innovation – Medium
-https://blog.mozilla.org/data/tag/machine-learning/ | machine learning | Firefox Data
-https://blog.mozilla.org/blog
 https://medium.com/netflix-techblog
 https://www.paypal-engineering.com/ | PayPal Engineering Blog | Engineering
 
