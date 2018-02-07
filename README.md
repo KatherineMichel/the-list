@@ -224,6 +224,15 @@ http://blakemasters.com/ | Blake Masters
 
 Andy Grove's 100 point guide to being a better manager
 Calendar
+
+http://humanetech.com/ | Center for Humane Technology
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://captology.stanford.edu/ | Persuasive Tech
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
+https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
 -->
 
 
@@ -364,6 +373,8 @@ Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
 * [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
 
 <!--
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
 https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
 -->
 
@@ -2916,6 +2927,8 @@ https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Cou
 Interesting
 https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
 https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
+https://medium.com/@limedaring/shipping-and-fulfillment-for-my-self-published-books-update-since-ive-moved-to-canada-7a5892491180 | Shipping and Fulfillment for My Self-Published Books (Update Since I’ve Moved to Canada)
+https://hellowebbooks.com/news/fulfillment-updates/ | Shipping and Fulfillment for My Self-Published Books (Update Since I’ve Moved to Canada) - Hello Web Books
 
 https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
@@ -3081,6 +3094,7 @@ Python and Django Design Patterns and Algorithms
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 http://python-patterns.guide/ | Python Patterns
 http://python-patterns.guide/gang-of-four/decorator-pattern/ | The Decorator Pattern
+http://python-patterns.guide/gang-of-four/factory-method/ | Factory Method
 https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
 http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
 http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
@@ -3185,6 +3199,8 @@ Kaggle
 Kaggle Submission
 
 <!--
+https://www.kaggle.com/wiki/Home | Home | Kaggle
+
 https://github.com/Kaggle | Kaggle
 https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
 
@@ -3407,8 +3423,6 @@ https://research.google.com/teams/brain/residency/ | Research at Google
 
 
 
-https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
-
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
 
 
@@ -3442,6 +3456,22 @@ Data Scientists
 * [Rachel Thomas Twitter](https://twitter.com/math_rachel)
 * [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+<!--
+https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
+http://karpathy.github.io/ | Andrej Karpathy blog
+https://medium.com/@karpathy | Andrej Karpathy – Medium
+https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
+https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
+
+https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
+https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
+https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
+
+https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
+https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
+https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
+-->
 
 Kaggle and Data Camp
 
@@ -3599,7 +3629,8 @@ Learning Paths
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
-https://xlinux.nist.gov/dads/
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
 
 https://github.com/ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -3731,8 +3762,6 @@ http://pytorch.org/ | PyTorch
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 
-https://en.wikipedia.org/wiki/Universal_approximation_theorem | Universal approximation theorem - Wikipedia
-
 http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285&source_topic_id=9594 | Another treat! Early access to Intro To Machine Learning videos - Part 1 - Deep Learning Course Forums
 https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
 https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
@@ -3776,6 +3805,18 @@ http://forums.fast.ai/t/part-2-early-release-videos-now-available/2621
 http://forums.fast.ai/t/lesson-8-wiki/1639
 http://forums.fast.ai/t/lesson-8-discussion/1522
 
+http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
+https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
+https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
+-->
+
+<!--
+https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
+
+Jeremy Howard- Matrix Calculus
+https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
+http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
+
 Computational Linear Algebra
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
@@ -3791,12 +3832,7 @@ https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mat
 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
 https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
-
-http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
-https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
-https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 -->
-
 
 ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
