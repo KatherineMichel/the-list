@@ -216,6 +216,14 @@ https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills R
 
 https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
 https://blog.deming.org
+
+
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+http://blakemasters.com/peter-thiels-cs183-startup | Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
+http://blakemasters.com/ | Blake Masters
+
+Andy Grove's 100 point guide to being a better manager
+Calendar
 -->
 
 
@@ -3071,6 +3079,14 @@ Python and Django Design Patterns and Algorithms
 
 <!--
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+http://python-patterns.guide/ | Python Patterns
+http://python-patterns.guide/gang-of-four/decorator-pattern/ | The Decorator Pattern
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+https://en.wikipedia.org/wiki/A_Pattern_Language | A Pattern Language - Wikipedia
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
@@ -3547,6 +3563,8 @@ Front-Runners and Models
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+Awesome Pytorch
+
 http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
