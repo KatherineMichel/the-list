@@ -3203,6 +3203,7 @@ https://www.kaggle.com/wiki/Home | Home | Kaggle
 
 https://github.com/Kaggle | Kaggle
 https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
 
 https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
 
@@ -3393,13 +3394,6 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
-http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
-https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
-https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
-
-https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
-https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
@@ -3408,13 +3402,7 @@ https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | I
 https://research.google.com/teams/brain/residency/ | Research at Google
 
 
-https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-
-
-https://www.cbinsights.com/research-ai-100 | The AI 100
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
-
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
 
@@ -3423,6 +3411,21 @@ https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wran
 
 
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+
+
+https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
+
+
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+
+Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+
+http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 
 http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
 https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
@@ -3446,6 +3449,14 @@ https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9
 https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
 https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
 https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
+
+http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
+https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
+
+https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
+https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 -->
 
 Data Scientists
@@ -3604,16 +3615,17 @@ Front-Runners and Models
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+
 Awesome Pytorch
 https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
 https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
 https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
 
-
 http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
-
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://github.com/pytorch/examples
+https://discuss.pytorch.org/ | (3) PyTorch Forums
 
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
