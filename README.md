@@ -3374,25 +3374,12 @@ https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
-http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
-
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
-https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
 
 Interesting Presentations
 
@@ -3421,8 +3408,6 @@ https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | I
 https://research.google.com/teams/brain/residency/ | Research at Google
 
 
-
-
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
 
 
@@ -3435,6 +3420,32 @@ https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter:
 
 https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
 https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
+
+
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+
+http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
+https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
+https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
+
+http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
+
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
 -->
 
 Data Scientists
@@ -3594,6 +3605,10 @@ Front-Runners and Models
 
 <!--
 Awesome Pytorch
+https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
+https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
+https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
+
 
 http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 
