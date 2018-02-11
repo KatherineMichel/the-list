@@ -3422,33 +3422,6 @@ https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
 
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-
-Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
-
-http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
-
-http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
-https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
-https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
-https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
-
-http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
-http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
-
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
-
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
 https://research.google.com/colaboratory/faq.html | Colaboratory – Google
@@ -3483,17 +3456,6 @@ https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorith
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
 https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
-
-http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
-
-https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
-
-https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
-https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
-https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
-https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
-https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
 -->
 
 Data Scientists
@@ -3543,6 +3505,7 @@ https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
 https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 -->
+
 
 Artificial Intelligence- Wikipedia
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
@@ -3654,29 +3617,35 @@ http://www.vincentgranville.com
 
 Front-Runners and Models
 * [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
+* [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
-https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
-
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-
-Awesome Pytorch
-https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
-https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
-https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
-
-http://pytorch.org/docs/0.3.0/ | PyTorch documentation — PyTorch master documentation
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://github.com/pytorch/examples
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
+
+https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+
+https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
+
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+
+Awesome
+https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
+
 
 https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 http://playground.tensorflow.org | A Neural Network Playground
@@ -3686,6 +3655,38 @@ https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
+
+<!--
+SOTA
+
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+
+https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+
+https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
+https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
+-->
+
+
+<!--
+https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
+https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
+
+https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
+https://www.floydhub.com/pricing | Pricing | FloydHub
+-->
+
 
 Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
@@ -3758,8 +3759,7 @@ https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-s
 
 https://github.com/hindupuravinash/the-gan-zoo
 https://github.com/nightrome/really-awesome-gan
-
-https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
 
 Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
@@ -3784,6 +3784,35 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 
+
+<!--
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+
+http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
+
+http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
+
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+-->
+
+
+<!--
+http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
+https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
+https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
+https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
+-->
 
 Andrew Ng
 * [Landing AI](https://www.landing.ai)
@@ -3815,15 +3844,7 @@ Geoffrey Hinton
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
 -->
 
-<!--
-https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
-https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
-https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
 
-https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
-https://www.floydhub.com/pricing | Pricing | FloydHub
--->
 
 Fast AI
 * [fast.ai](http://www.fast.ai)
@@ -3845,10 +3866,6 @@ https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at
 http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
 http://wiki.fast.ai/images/2/29/Things_we_want_to_improve.png | Things_we_want_to_improve.png (1518×1092)
 
-
-http://pytorch.org/ | PyTorch
-
-https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 
 http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285&source_topic_id=9594 | Another treat! Early access to Intro To Machine Learning videos - Part 1 - Deep Learning Course Forums
 https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
@@ -3923,10 +3940,13 @@ https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polym
 https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
 -->
 
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
+<!--
+https://ipython.org/notebook.html
+http://jupyter.org
+https://github.com/jupyterlab
+https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
+http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
+-->
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
@@ -4119,14 +4139,6 @@ Conda
 * [Anaconda](https://www.continuum.io/downloads)  
 * [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
 * [Miniconda](http://conda.pydata.org/miniconda.html)
-
-<!--
-https://ipython.org/notebook.html
-http://jupyter.org
-https://github.com/jupyterlab
-https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
-http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
--->
 
 Python- Statistics Stack- Documents and Galleries
 * [SciPy Stack](http://www.scipy.org/docs.html)  
