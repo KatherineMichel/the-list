@@ -3085,6 +3085,8 @@ Unified Modeling Language
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
 
 <!--
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
+
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
 -->
@@ -3440,6 +3442,7 @@ http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
 https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
 https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
+https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
 
 http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
@@ -3487,10 +3490,12 @@ https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorith
 https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
-https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+
 https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+
+https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
 https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
 https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
 https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
@@ -3564,6 +3569,10 @@ Deep Learning and Neural Networks- Wikipedia
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
+<!--
+https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
+-->
+
 Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
@@ -3594,6 +3603,8 @@ Data Science- Forums
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 
 <!--
+https://math.stackexchange.com
+
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 -->
@@ -3653,6 +3664,8 @@ Front-Runners and Models
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
+
 https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
 
 Awesome Pytorch
