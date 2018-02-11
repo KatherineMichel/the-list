@@ -3744,9 +3744,6 @@ http://ipython.org/videos.html http://ipython.org/documentation.html +Resources 
 -->
 
 
-
-
-
 <!--
 https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
@@ -3797,46 +3794,6 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 
 
 
-Data Scientists
-* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
-* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
-* [Clare Corthell GitHub](https://github.com/clarecorthell)  
-* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
-* [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
-* [Hilary Mason](http://www.hilarymason.com) 
-* [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
-* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan) 
-* [Jason Brownlee Twitter](https://twitter.com/TeachTheMachine) and [Jason Brownlee GitHub](https://github.com/jbrownlee)
-* [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
-* [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
-* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
-* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
-* [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
-* [Peter Warden](https://petewarden.com)
-* [Rachel Thomas Twitter](https://twitter.com/math_rachel)
-* [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
-* [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
-
-<!--
-http://norvig.com/ | Peter Norvig
-
-https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
-http://karpathy.github.io/ | Andrej Karpathy blog
-https://medium.com/@karpathy | Andrej Karpathy – Medium
-https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
-https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
-
-https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
-https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
-https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
-
-https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
-https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
-https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
--->
-
-
-
 Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
@@ -3883,6 +3840,15 @@ http://jakevdp.github.io/ | Home | Pythonic Perambulations
 https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
 
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+-->
+
+Analyst Group Resources
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+<!--
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
 -->
 
 Mind Maps and Cheat Sheets
@@ -3936,6 +3902,49 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 
+
+Data Scientists
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
+* [Clare Corthell GitHub](https://github.com/clarecorthell)  
+* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
+* [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
+* [Hilary Mason](http://www.hilarymason.com) 
+* [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan) 
+* [Jason Brownlee Twitter](https://twitter.com/TeachTheMachine) and [Jason Brownlee GitHub](https://github.com/jbrownlee)
+* [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
+* [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
+* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
+* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+* [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
+* [Peter Warden](https://petewarden.com)
+* [Rachel Thomas Twitter](https://twitter.com/math_rachel)
+* [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
+* [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+<!--
+http://norvig.com/ | Peter Norvig
+
+https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
+http://karpathy.github.io/ | Andrej Karpathy blog
+https://medium.com/@karpathy | Andrej Karpathy – Medium
+https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
+https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
+
+https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
+https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
+https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
+
+https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
+https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
+https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
+-->
+
+Arxiv
+* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
+* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
 Data Science- Forums
 * [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
@@ -3952,12 +3961,6 @@ https://math.stackexchange.com
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 -->
-
-Arxiv
-* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
-* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
-
-
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
@@ -3984,15 +3987,6 @@ http://martin.zinkevich.org/
 http://www.vincentgranville.com
 -->
 
-
-Analyst Group Resources
-* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
-* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
-
-<!--
-https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
-http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
--->
 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
