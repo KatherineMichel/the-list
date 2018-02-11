@@ -3199,6 +3199,15 @@ Kaggle
 Kaggle Submission
 
 <!--
+Kaggle and Data Camp
+https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
+https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+-->
+
+<!--
 https://www.kaggle.com/wiki/Home | Home | Kaggle
 
 https://github.com/Kaggle | Kaggle
@@ -3438,14 +3447,6 @@ https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
-Recommended by Rachel Thomas?
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
-https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
-https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
-
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
 https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
@@ -3458,353 +3459,7 @@ https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why shoul
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 -->
 
-Data Scientists
-* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
-* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
-* [Clare Corthell GitHub](https://github.com/clarecorthell)  
-* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
-* [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
-* [Hilary Mason](http://www.hilarymason.com) 
-* [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
-* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan) 
-* [Jason Brownlee Twitter](https://twitter.com/TeachTheMachine) and [Jason Brownlee GitHub](https://github.com/jbrownlee)
-* [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
-* [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
-* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
-* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
-* [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
-* [Peter Warden](https://petewarden.com)
-* [Rachel Thomas Twitter](https://twitter.com/math_rachel)
-* [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
-* [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
-<!--
-http://norvig.com/ | Peter Norvig
-
-https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
-http://karpathy.github.io/ | Andrej Karpathy blog
-https://medium.com/@karpathy | Andrej Karpathy – Medium
-https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
-https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
-
-https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
-https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
-https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
-
-https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
-https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
-https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
--->
-
-Kaggle and Data Camp
-
-<!--
-https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
-https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
--->
-
-
-Artificial Intelligence- Wikipedia
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-<!--
-* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
--->
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Deep Learning and Neural Networks- Wikipedia
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-<!--
-https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
--->
-
-Linear Algebra and Calculus- wikipedia
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-
-<!--
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
--->
-
-Data Science- Forums
-* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
-* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
-* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
-* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
-* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
-* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
-* [Stack Exchange AI](https://ai.stackexchange.com)
-* [Stack Exchange Data Science](https://datascience.stackexchange.com)
-
-<!--
-https://math.stackexchange.com
-
-https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
-https://github.com/collections/machine-learning | Collection: Getting started with machine learning
--->
-
-Arxiv
-* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
-* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
-
-<!--
-Some Wow Research Results
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
-
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
-
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
--->
-
-Data Science Websites
-* [AnalyticBridge](http://www.analyticbridge.com)
-* [Data Science Central](http://www.datasciencecentral.com) and [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests)
-* [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
-
-<!--
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
-
-http://machinelearningmastery.com
-https://machinelearningmastery.com/about/ | About - Machine Learning Mastery
-http://www.datasciguide.com
-http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
-https://machinelearnings.co
-https://www.producthunt.com/posts/machine-learnings-newsletter
-http://subscribe.machinelearnings.co/
-https://machinelearnings.co/@samdebrule
-https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
-http://www.partiallyderivative.com
-
-https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
-http://martin.zinkevich.org/
-http://www.vincentgranville.com
--->
-
-
-Front-Runners and Models
-* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
-* [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
-* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
-
-<!--
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://discuss.pytorch.org/ | (3) PyTorch Forums
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
-https://www.tensorflow.org/tutorials/deep_cnn
-https://www.tensorflow.org/tutorials
-
-https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
-
-https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
-
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-
-Awesome
-https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
-https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
-https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
-
-
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-http://playground.tensorflow.org | A Neural Network Playground
-
-https://github.com/fchollet/keras-resources
-
-https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
--->
-
-<!--
-SOTA
-
-http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
-
-https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
-
-https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
-https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
-https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
-https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
-https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
-
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
--->
-
-
-<!--
-https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
-https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
-https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
-
-https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
-https://www.floydhub.com/pricing | Pricing | FloydHub
--->
-
-
-Google Machine Learning Learning Resources
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
-
-Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-
-<!--
-http://a16z.com/2017/05/12/ai-playbook
-https://vimeo.com/215926017
--->
-
-Learning Paths
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
-
-<!--
-https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
-https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
-
-https://github.com/ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
-
-http://www.datasciguide.com/difficulty/early-beginner
-http://www.datasciguide.com/recommended-resources-for-beginners
--->
-
-Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
-* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
-* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
-
-<!--
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
-
-https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
--->
-
-Mind Maps and Cheat Sheets
-
-<!--
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
--->
-
-Interesting
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
-
-<!--
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-
-https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
-
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
-
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/aymericdamien/TopDeepLearning
-
-https://github.com/zer0n/deepframeworks
-
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-https://github.com/mlreview/machine-learning-surveys
-
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/muupan/deep-reinforcement-learning-papers
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-https://github.com/sbrugman/deep-learning-papers
-https://github.com/dennybritz/deeplearning-papernotes
-
-https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/jivoi/awesome-ml-for-cybersecurity
--->
-
-
-
-<!--
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
-
-http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
-
-http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
-http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
-
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
--->
 
 
 <!--
@@ -3917,6 +3572,98 @@ https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competit
 -->
 
 <!--
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+
+http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
+
+http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
+
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+-->
+
+Front-Runners and Models
+* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
+* [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
+* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
+
+<!--
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+https://discuss.pytorch.org/ | (3) PyTorch Forums
+
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
+https://www.tensorflow.org/tutorials/deep_cnn
+https://www.tensorflow.org/tutorials
+
+https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+
+https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
+
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+
+Awesome
+https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
+
+
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+http://playground.tensorflow.org | A Neural Network Playground
+
+https://github.com/fchollet/keras-resources
+
+https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
+-->
+
+Linear Algebra and Calculus- wikipedia
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
+* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
+<!--
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+-->
+
+<!--
+
+Recommended by Rachel Thomas?
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+
+
+
 https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
 
 Jeremy Howard- Matrix Calculus
@@ -3940,6 +3687,41 @@ https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polym
 https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
 -->
 
+
+
+
+
+Artificial Intelligence- Wikipedia
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
+
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+<!--
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+-->
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Deep Learning and Neural Networks- Wikipedia
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
+
+<!--
+https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
+-->
+
+
+
+
+
+Jupyter
+
 <!--
 https://ipython.org/notebook.html
 http://jupyter.org
@@ -3947,6 +3729,261 @@ https://github.com/jupyterlab
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
 -->
+
+Python- Statistics Stack- iPython
+* [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
+
+Python- Statistics Stack- iPython Reference
+* [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
+* [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
+* [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
+* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
+
+<!--
+http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
+-->
+
+
+
+
+
+<!--
+https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
+https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
+
+https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
+https://www.floydhub.com/pricing | Pricing | FloydHub
+-->
+
+<!--
+SOTA
+
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+
+https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+
+https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
+https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
+-->
+
+<!--
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
+
+
+
+
+Data Scientists
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
+* [Clare Corthell GitHub](https://github.com/clarecorthell)  
+* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
+* [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
+* [Hilary Mason](http://www.hilarymason.com) 
+* [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan) 
+* [Jason Brownlee Twitter](https://twitter.com/TeachTheMachine) and [Jason Brownlee GitHub](https://github.com/jbrownlee)
+* [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
+* [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
+* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
+* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+* [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
+* [Peter Warden](https://petewarden.com)
+* [Rachel Thomas Twitter](https://twitter.com/math_rachel)
+* [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
+* [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+<!--
+http://norvig.com/ | Peter Norvig
+
+https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
+http://karpathy.github.io/ | Andrej Karpathy blog
+https://medium.com/@karpathy | Andrej Karpathy – Medium
+https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
+https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
+
+https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
+https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
+https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
+
+https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
+https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
+https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
+-->
+
+
+
+Google Machine Learning Learning Resources
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+
+<!--
+http://a16z.com/2017/05/12/ai-playbook
+https://vimeo.com/215926017
+-->
+
+Learning Paths
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+
+<!--
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
+
+https://github.com/ossu/data-science
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
+
+http://www.datasciguide.com/difficulty/early-beginner
+http://www.datasciguide.com/recommended-resources-for-beginners
+-->
+
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
+<!--
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
+https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
+
+https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+-->
+
+Mind Maps and Cheat Sheets
+
+<!--
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+-->
+
+Interesting
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
+
+<!--
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+https://github.com/aymericdamien/TopDeepLearning
+
+https://github.com/zer0n/deepframeworks
+
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+-->
+
+
+
+
+
+Data Science- Forums
+* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
+* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
+* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
+* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
+* [Stack Exchange AI](https://ai.stackexchange.com)
+* [Stack Exchange Data Science](https://datascience.stackexchange.com)
+
+<!--
+https://math.stackexchange.com
+
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+-->
+
+Arxiv
+* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
+* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+
+
+Data Science Websites
+* [AnalyticBridge](http://www.analyticbridge.com)
+* [Data Science Central](http://www.datasciencecentral.com) and [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests)
+* [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
+
+<!--
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+
+http://machinelearningmastery.com
+https://machinelearningmastery.com/about/ | About - Machine Learning Mastery
+http://www.datasciguide.com
+http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
+https://machinelearnings.co
+https://www.producthunt.com/posts/machine-learnings-newsletter
+http://subscribe.machinelearnings.co/
+https://machinelearnings.co/@samdebrule
+https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
+http://www.partiallyderivative.com
+
+https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
+http://martin.zinkevich.org/
+http://www.vincentgranville.com
+-->
+
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
@@ -4186,19 +4223,6 @@ Resources
 http://matplotlib.org/resources/index.html 
 External Resources 
 http://matplotlib.org/faq/index.html  
--->
-
-Python- Statistics Stack- iPython
-* [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
-
-Python- Statistics Stack- iPython Reference
-* [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
-* [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
-* [iPython Notebook Docs](http://ipython.org/ipython-doc/2/notebook/index.html)  
-* [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
-
-<!--
-http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
 
 Python- Statistics Stack- Pandas
