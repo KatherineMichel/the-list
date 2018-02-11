@@ -3894,9 +3894,6 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 
-
-
-
 Data Scientists
 * [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
