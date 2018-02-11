@@ -2651,6 +2651,14 @@ Python Tutors- YouTube
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
+https://twitter.com/aaronchall/status/961250524753551360 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "High level #python #tutorial thread: Python is a high level language that runs bytecode in its virtual machine. Everything is an object. It supports OOP up to multiple inheritance and functional programming. Typing is polymorphic - duck typing is preferred https://t.co/fhNtFWU5zy"
+
+https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
+
+http://alsweigart.com
+https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
+
 http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
@@ -2677,6 +2685,7 @@ https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idi
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon | Not Found: Safari
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
 
@@ -3190,6 +3199,7 @@ Kaggle
 * [Kaggle Progression](https://www.kaggle.com/progression) 
 * [Kaggle Rankings](https://www.kaggle.com/rankings) 
 * [Kaggle Learn](https://www.kaggle.com/learn)
+* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
 * [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
 * [Kaggle Kernels](https://www.kaggle.com/kernels) 
@@ -3457,6 +3467,34 @@ https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job
 
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
+
+Recommended by Rachel Thomas?
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+
+https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
+https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
+https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
 -->
 
 Data Scientists
@@ -3758,6 +3796,8 @@ Deep Learning AI
 https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
 
 https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions | Activation functions - deeplearning.ai | Coursera
+
 https://www.coursera.org/learn/deep-neural-network/home/welcome
 https://www.coursera.org/learn/machine-learning-projects/home/welcome
 https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
@@ -3785,6 +3825,18 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
+http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
+http://course.fast.ai/start.html | Deep Learning For Coders—36 hours of lessons for free
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+http://course.fast.ai/lessons/lesson2.html | Deep Learning For Coders—36 hours of lessons for free
+http://forums.fast.ai/t/wiki-lesson-1/9398 | Wiki: Lesson 1 - Part 1 - Deep Learning Course Forums
+http://forums.fast.ai/t/wiki-lesson-2/9399 | Wiki: Lesson 2 - Part 1 - Deep Learning Course Forums
+https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1-rxt50.ipynb | fastai/lesson1-rxt50.ipynb at master · fastai/fastai
+https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
+http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
+http://wiki.fast.ai/images/2/29/Things_we_want_to_improve.png | Things_we_want_to_improve.png (1518×1092)
+
+
 http://pytorch.org/ | PyTorch
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
