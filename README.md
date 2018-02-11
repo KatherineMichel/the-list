@@ -184,55 +184,39 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-https://status.bitbucket.org/ | Atlassian Bitbucket Status
-
-
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
 
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-http://principlesofchaos.org/ | Principles of Chaos Engineering
-
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://about.gitlab.com/handbook/ | Team Handbook | GitLab
-
-
 https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
-
-
-https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
-http://norvig.com/ | Peter Norvig
-https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a
-http://scaledml.org/ | Scaled Machine Learning
-
-https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
-
-https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
 
 https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
 https://blog.deming.org
 
 
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
-http://blakemasters.com/peter-thiels-cs183-startup | Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
-http://blakemasters.com/ | Blake Masters
+https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a
+http://norvig.com/ | Peter Norvig
+http://scaledml.org/ | Scaled Machine Learning
 
-Andy Grove's 100 point guide to being a better manager
-Calendar
+https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
 
-http://humanetech.com/ | Center for Humane Technology
-https://www.wired.com/story/phone-addiction-formula/ | WIRED
-http://captology.stanford.edu/ | Persuasive Tech
-http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
-https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+http://principlesofchaos.org/ | Principles of Chaos Engineering
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://about.gitlab.com/handbook/ | Team Handbook | GitLab
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Businesses
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+http://distributionhacks.com/post-startup-launch-checklist | Post Launch Checklist: 10 Tasks You Should Complete
+https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from Reality | Edelman Digital
 -->
 
 
@@ -372,12 +356,6 @@ Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 * [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
 
-<!--
-https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
-
-https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
--->
-
 Neuorplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
 
@@ -393,9 +371,30 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
 https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+Andy Grove's 100 point guide to being a better manager
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+http://blakemasters.com/peter-thiels-cs183-startup | Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
+http://blakemasters.com/ | Blake Masters
+
+https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
+
+https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/ | On The Shortness of Life: An Introduction to Seneca | The Blog of Author Tim Ferriss
+
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+
+http://humanetech.com/ | Center for Humane Technology
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://captology.stanford.edu/ | Persuasive Tech
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
 
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
@@ -3085,10 +3084,25 @@ Unified Modeling Language
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
 
 <!--
+https://sourcemaking.com/uml/introduction | Introduction
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+
 https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
+
+https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
+
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+django uml - Google Search
 -->
 
 ## Python- Programming Paradigms
@@ -3132,23 +3146,6 @@ https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice 
 Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
-<!--
-UML
-
-https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
-
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
-
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
-
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
-
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-django uml - Google Search
--->
-
 
 ## Coding Competitions
 
