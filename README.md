@@ -3432,20 +3432,6 @@ https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at
 
 
 
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
-https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
-
-http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
-https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
-https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
-
-https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
-https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
@@ -3468,38 +3454,6 @@ https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
 https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
 https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
 -->
-
-Andrew Ng
-* [Landing AI](https://www.landing.ai)
-
-<!--
-https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
--->
-
-Machine Learning (Andrew Ng, Stanford)
-* [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
-* [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
-* [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
-
-Deep Learning AI
-* [Deep Learning AI](https://www.deeplearning.ai)
-* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-
-<!--
-https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
-
-https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions | Activation functions - deeplearning.ai | Coursera
-
-https://www.coursera.org/learn/deep-neural-network/home/welcome
-https://www.coursera.org/learn/machine-learning-projects/home/welcome
-https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
-https://www.coursera.org/learn/nlp-sequence-models
-Geoffrey Hinton
-https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
--->
-
-
 
 Fast AI
 * [fast.ai](http://www.fast.ai)
@@ -3571,13 +3525,38 @@ https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fa
 https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 -->
 
-<!--
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+Andrew Ng
+* [Landing AI](https://www.landing.ai)
 
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+<!--
+https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
+-->
+
+Machine Learning (Andrew Ng, Stanford)
+* [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
+* [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
+* [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
+
+Deep Learning AI
+* [Deep Learning AI](https://www.deeplearning.ai)
+* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+<!--
+https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
+
+https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions | Activation functions - deeplearning.ai | Coursera
+
+https://www.coursera.org/learn/deep-neural-network/home/welcome
+https://www.coursera.org/learn/machine-learning-projects/home/welcome
+https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+https://www.coursera.org/learn/nlp-sequence-models
+Geoffrey Hinton
+https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
+-->
+
+<!--
+Stanford and Karpathy
 
 Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
@@ -3586,10 +3565,27 @@ http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 
 http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
+-->
+
+<!--
+https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
 https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+
+http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
+https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
+
+https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
+https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 -->
 
 Front-Runners and Models
@@ -3633,6 +3629,7 @@ https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: N
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
 
+
 Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
@@ -3653,17 +3650,6 @@ https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 -->
 
 <!--
-
-Recommended by Rachel Thomas?
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
-https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
-https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
-
-
-
 https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
 
 Jeremy Howard- Matrix Calculus
@@ -3685,39 +3671,15 @@ https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mat
 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
 https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
+
+
+Recommended by Rachel Thomas?
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
 -->
-
-
-
-
-
-Artificial Intelligence- Wikipedia
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-<!--
-* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
--->
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Deep Learning and Neural Networks- Wikipedia
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-<!--
-https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
--->
-
-
-
 
 
 Jupyter
@@ -3745,6 +3707,13 @@ http://ipython.org/videos.html http://ipython.org/documentation.html +Resources 
 
 
 <!--
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
+
 https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
@@ -3793,6 +3762,31 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 
 
 
+
+Artificial Intelligence- Wikipedia
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
+
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+<!--
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+-->
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Deep Learning and Neural Networks- Wikipedia
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
+
+<!--
+https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
+-->
 
 Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
