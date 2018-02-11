@@ -3527,10 +3527,7 @@ https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competit
 
 Andrew Ng
 * [Landing AI](https://www.landing.ai)
-
-<!--
-https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814 | Revitalizing manufacturing through AI – Andrew Ng – Medium
--->
+* ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
 
 Machine Learning (Andrew Ng, Stanford)
 * [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
@@ -3586,6 +3583,16 @@ https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job
 
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
+
+https://stanfordmlgroup.github.io
+http://cslibrary.stanford.edu
+https://web.stanford.edu/class/cs106s/ | CS106S
+https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
+https://nlp.stanford.edu
+http://vision.stanford.edu/
+http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
+http://web.mit.edu
+https://github.com/oxford-cs-deepnlp-2017/lectures
 -->
 
 Front-Runners and Models
@@ -3918,8 +3925,6 @@ Data Scientists
 http://norvig.com/ | Peter Norvig
 
 https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
-http://karpathy.github.io/ | Andrej Karpathy blog
-https://medium.com/@karpathy | Andrej Karpathy – Medium
 https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
 https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
 
