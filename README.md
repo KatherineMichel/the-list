@@ -195,15 +195,6 @@ https://www.drucker.institute/ | Drucker Institute | Strengthening organizations
 https://blog.deming.org
 
 
-https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
-https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a
-http://norvig.com/ | Peter Norvig
-http://scaledml.org/ | Scaled Machine Learning
-
-https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
-
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
@@ -3327,6 +3318,33 @@ https://github.com/blakeembrey/code-problems
 ## Data Science
 
 <!--
+https://developer.apple.com/reference/accelerate/1912851-bnns
+
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
+
+https://research.google.com/teams/brain/residency/ | Research at Google
+
+
+https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+
+https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
+
+https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
+https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
+
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+http://scaledml.org/ | Scaled Machine Learning
+
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+
+
+https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
+
+https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
+
+
+
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
@@ -3402,27 +3420,6 @@ https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, 
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
-
-
-https://developer.apple.com/reference/accelerate/1912851-bnns
-
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
-
-https://research.google.com/teams/brain/residency/ | Research at Google
-
-
-https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
-
-https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
-
-https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
-https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
-
-
-https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
-
-
-https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 
 
 https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
@@ -3520,6 +3517,8 @@ Data Scientists
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 <!--
+http://norvig.com/ | Peter Norvig
+
 https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
 http://karpathy.github.io/ | Andrej Karpathy blog
 https://medium.com/@karpathy | Andrej Karpathy – Medium
@@ -3855,6 +3854,7 @@ http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-
 https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
 https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
 
+https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
 https://www.usfca.edu/data-institute/certificates
 
 Fast AI Blog
