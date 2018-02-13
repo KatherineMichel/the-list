@@ -208,6 +208,7 @@ https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Busi
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
 http://distributionhacks.com/post-startup-launch-checklist | Post Launch Checklist: 10 Tasks You Should Complete
 https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from Reality | Edelman Digital
+http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 -->
 
 
@@ -3321,6 +3322,7 @@ https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-in
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
+--->
 
 
 ## Data Science
