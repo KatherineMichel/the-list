@@ -3431,6 +3431,12 @@ https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
 
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
 
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
@@ -3447,11 +3453,10 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 
 
 
+MIT 6.S191: Introduction to Deep Learning
+* [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
 
 <!--
-http://introtodeeplearning.com/ | MIT 6.S191: Introduction to Deep Learning
-https://www.youtube.com/user/Zan560/videos | alexanderamini - YouTube - YouTube
-https://github.com/aamini/introtodeeplearning_labs/tree/master/lab1 | introtodeeplearning_labs/lab1 at master · aamini/introtodeeplearning_labs
 https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
 -->
 
@@ -3564,26 +3569,25 @@ http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Network
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
 -->
 
-<!--
-https://machinelearningmastery.com/blog/ | Blog - Machine Learning Mastery
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+Learning Resources
+* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+<!--
+* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
+
+http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
+
 
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
 https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
 
-http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
-https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
-https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
-
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
+Data Science Groups
 https://stanfordmlgroup.github.io
 http://cslibrary.stanford.edu
 https://web.stanford.edu/class/cs106s/ | CS106S
@@ -3600,10 +3604,13 @@ Front-Runners and Models
 * [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+* [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://github.com/fchollet/keras-resources
+
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
@@ -3611,6 +3618,7 @@ https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
 https://www.tensorflow.org/tutorials
 
+XGBoost
 https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
 http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
@@ -3628,9 +3636,6 @@ https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow
 
 
 https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-http://playground.tensorflow.org | A Neural Network Playground
-
-https://github.com/fchollet/keras-resources
 
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
@@ -3966,7 +3971,6 @@ Arxiv
 Data Science- Forums
 * [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
-* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
 * [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
 * [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
@@ -4151,12 +4155,6 @@ https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
 -->
 
-Conda
-* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
-* [Anaconda](https://www.continuum.io/downloads)  
-* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
-* [Miniconda](http://conda.pydata.org/miniconda.html)
-
 Python- Statistics Stack- Documents and Galleries
 * [SciPy Stack](http://www.scipy.org/docs.html)  
 * [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
@@ -4252,6 +4250,11 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 * [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
 * [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
+Conda
+* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
+* [Anaconda](https://www.continuum.io/downloads)  
+* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
+* [Miniconda](http://conda.pydata.org/miniconda.html)
 
 AIaaS/BDaaS: Natural Language
 * [Google Natural Language API](https://cloud.google.com/natural-language/)
