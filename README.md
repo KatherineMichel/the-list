@@ -3727,7 +3727,6 @@ https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
 https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
 
 https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
-https://www.floydhub.com/pricing | Pricing | FloydHub
 -->
 
 <!--
@@ -3901,6 +3900,25 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 
+<!--
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+
+http://machinelearningmastery.com
+https://machinelearningmastery.com/about/ | About - Machine Learning Mastery
+http://www.datasciguide.com
+http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
+https://machinelearnings.co
+https://www.producthunt.com/posts/machine-learnings-newsletter
+http://subscribe.machinelearnings.co/
+https://machinelearnings.co/@samdebrule
+https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
+http://www.partiallyderivative.com
+-->
+
 Data Scientists
 * [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
@@ -3922,9 +3940,13 @@ Data Scientists
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 <!--
+https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
 http://norvig.com/ | Peter Norvig
-
 https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
+
+http://martin.zinkevich.org/
+
+http://www.vincentgranville.com
 https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
 https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
 
@@ -3953,36 +3975,12 @@ Data Science- Forums
 
 <!--
 https://math.stackexchange.com
-
-https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
-https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 -->
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
 * [Data Science Central](http://www.datasciencecentral.com) and [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests)
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
-
-<!--
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
-
-http://machinelearningmastery.com
-https://machinelearningmastery.com/about/ | About - Machine Learning Mastery
-http://www.datasciguide.com
-http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
-https://machinelearnings.co
-https://www.producthunt.com/posts/machine-learnings-newsletter
-http://subscribe.machinelearnings.co/
-https://machinelearnings.co/@samdebrule
-https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
-http://www.partiallyderivative.com
-
-https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
-http://martin.zinkevich.org/
-http://www.vincentgranville.com
--->
-
 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
@@ -4000,14 +3998,6 @@ Labs
  
 Code Labs and Summer Schools
 * [Google Codelab](https://codelabs.developers.google.com)
-
-<!--
-Machine Learning Summer School
-http://videolectures.net/site/search/?q=MLSS
-2016 Deep Learning Summer School
-http://videolectures.net/deeplearning2016_montreal/
--->
-
 
 Baidu Research
 * [Baidu Research](http://research.baidu.com)
