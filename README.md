@@ -1973,7 +1973,7 @@ https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-te
 #### Google Cloud
 
 Google Cloud, App Engine
- * [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
+* [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
 * [Google Cloud Pricing](https://cloud.google.com/appengine/pricing) 
 * [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
@@ -2553,6 +2553,71 @@ https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-releas
 https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
 https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
 https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
+-->
+
+<!--
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+Kenneth Reitz
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://docs.python.org/3.6/tutorial/datastructures.html
+https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
+
+https://docs.python.org/3/ | 3.6.4rc1 Documentation
+https://docs.python.org/3/contents.html
+https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/py-modindex.html
+https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
+
+https://docs.python.org/3/ | 3.6.2 Documentation
+https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
+Django Sites
+
+https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
+
+https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
+https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
+https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/string.html | 6.1. string — Common string operations — Python 3.6.4 documentation
+
+https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
+https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
+https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes — Python 3.6.3 documentation
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
+
+https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/string.html
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/howto/argparse.html
+https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/howto/regex.html
+https://docs.python.org/3/library/logging.config.html
+
+https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
 -->
 
 ## Python and Django Books and Tutorials
