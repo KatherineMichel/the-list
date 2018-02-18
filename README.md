@@ -3761,12 +3761,30 @@ Front-Runners and Models
 * [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
 * [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 * [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+
+Models
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
+https://en.wikipedia.org/wiki/Activation_function
+
+https://www.tensorflow.org/performance/benchmarks
+https://www.tensorflow.org/performance/performance_models
+https://github.com/tensorflow/models/tree/master/official
+https://github.com/tensorflow/models/tree/master/research
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
+
+http://pytorch.org/docs/master/torchvision/models.html
+http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
+https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
+https://www.kaggle.com/pvlima/pretrained-pytorch-models
+
+
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
@@ -3802,7 +3820,18 @@ Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
 
+
 <!--
+Jeremy Howard- Matrix Calculus
+https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
+http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
+
+https://en.wikipedia.org/wiki/Vector_calculus
+https://en.wikipedia.org/wiki/Multivariable_calculus
+https://en.wikipedia.org/wiki/Differential_calculus
+https://en.wikipedia.org/wiki/Dot_product
+
+
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
 
@@ -3815,15 +3844,11 @@ https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
 https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
 https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
 -->
 
 <!--
-https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
-
-Jeremy Howard- Matrix Calculus
-https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
-http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
-
 Computational Linear Algebra
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
