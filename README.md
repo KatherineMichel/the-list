@@ -3769,10 +3769,6 @@ Models
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
-https://services.google.com/fb/forms/cloud-tpu-beta-request/
-
-https://en.wikipedia.org/wiki/Activation_function
-
 https://www.tensorflow.org/performance/benchmarks
 https://www.tensorflow.org/performance/performance_models
 https://github.com/tensorflow/models/tree/master/official
@@ -3814,6 +3810,46 @@ https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
+
+
+
+<!--
+SOTA
+https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
+https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
+
+https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
+-->
+
+<!--
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
+
 
 
 Linear Algebra and Calculus- wikipedia
@@ -3917,43 +3953,6 @@ https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | 
 https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
 
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
--->
-
-<!--
-SOTA
-
-http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
-
-https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
-
-https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia
-https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
-https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
-https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
-https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
-
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
--->
-
-<!--
-Some Wow Research Results
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
-
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
-
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 -->
 
 
