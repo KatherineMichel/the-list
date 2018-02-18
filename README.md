@@ -3279,11 +3279,19 @@ Algorithms
 <!--
 https://www.khanacademy.org/computing/computer-science/algorithms
 
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
+
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
 https://github.com/stacygohyunsi/algorithms-primer
 
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions"
+
+http://blog.interviewing.io
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
@@ -3643,6 +3651,7 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
 http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
 -->
@@ -3896,10 +3905,8 @@ Learning Paths
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
-https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
-https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
-
 https://github.com/ossu/data-science
+https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
@@ -3919,6 +3926,7 @@ Rules and Advice
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
 http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
 
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
 https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
 http://jakevdp.github.io/ | Home | Pythonic Perambulations
