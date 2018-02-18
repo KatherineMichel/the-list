@@ -2586,8 +2586,10 @@ https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — P
 https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
+https://docs.python.org/3.7/tutorial/datastructures.html | 5. Data Structures — Python 3.7.0b1 documentation
 https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
+
 https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
@@ -2645,7 +2647,8 @@ https://learnpythonthehardway.org/python3
 https://learnpythonthehardway.org/book/nopython3.html
 
 https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 
 http://campus.codeschool.com/courses/try-django/contents
 
@@ -3454,13 +3457,6 @@ https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
-Books
-
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
-
 
 Interesting Presentations
 
@@ -3480,7 +3476,6 @@ https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
-
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
@@ -3498,7 +3493,6 @@ https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorith
 https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 -->
-
 
 
 Data Camp
@@ -3535,6 +3529,20 @@ https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Exce
 https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
 
 https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
+-->
+
+Books
+* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
+* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
+* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
+* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
+
+<!--
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
 -->
 
 MIT 6.S191: Introduction to Deep Learning
@@ -3842,6 +3850,12 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
+
+
+http://www.image-net.org/challenges/LSVRC/ | ImageNet Large Scale Visual Recognition Competition (ILSVRC)
+http://yann.lecun.com/exdb/mnist/ | MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
+http://places.csail.mit.edu/ | MIT Places Database for Scene Recognition
+https://www.cs.toronto.edu/~kriz/cifar.html | CIFAR-10 and CIFAR-100 datasets
 -->
 
 <!--
