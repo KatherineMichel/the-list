@@ -3207,6 +3207,44 @@ Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
+## Algorithms and Design Patterns
+
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
+* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
+<!--
+https://www.khanacademy.org/computing/computer-science/algorithms
+
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
+https://github.com/stacygohyunsi/algorithms-primer
+
+
+http://blog.interviewing.io
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+--->
+
+
+
 ## Crowdsourced, Curated Programming Learning Resources
 
 Stellar Programming Learning Resources
@@ -3264,41 +3302,6 @@ https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-s
 https://github.com/cs50/
 -->
 
-## Algorithms and Design Patterns
-
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
-* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
-
-<!--
-https://www.khanacademy.org/computing/computer-science/algorithms
-
-https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
-https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
-https://github.com/stacygohyunsi/algorithms-primer
-
-
-http://blog.interviewing.io
-https://github.com/yangshun/tech-interview-handbook
-https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
---->
 
 
 ## Coding Competitions
@@ -3491,6 +3494,56 @@ https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorith
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
 https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
+-->
+
+
+
+
+Mind Maps and Cheat Sheets
+
+<!--
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+-->
+
+Interesting
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
+
+<!--
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+
+https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
+
+https://github.com/hindupuravinash/the-gan-zoo
+https://github.com/nightrome/really-awesome-gan
+https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+https://github.com/aymericdamien/TopDeepLearning
+
+https://github.com/zer0n/deepframeworks
+
+https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
+https://github.com/mlreview/machine-learning-surveys
+
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+https://github.com/muupan/deep-reinforcement-learning-papers
+https://github.com/terryum/awesome-deep-learning-papers
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/sbrugman/deep-learning-papers
+https://github.com/dennybritz/deeplearning-papernotes
+
+https://github.com/gokceneraslan/awesome-deepbio
+https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
 
@@ -3956,52 +4009,6 @@ https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
 -->
 
-Mind Maps and Cheat Sheets
-
-<!--
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
--->
-
-Interesting
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
-
-<!--
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-
-https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
-
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
-
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-https://github.com/aymericdamien/TopDeepLearning
-
-https://github.com/zer0n/deepframeworks
-
-https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
-https://github.com/mlreview/machine-learning-surveys
-
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/muupan/deep-reinforcement-learning-papers
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-https://github.com/sbrugman/deep-learning-papers
-https://github.com/dennybritz/deeplearning-papernotes
-
-https://github.com/gokceneraslan/awesome-deepbio
-https://github.com/jivoi/awesome-ml-for-cybersecurity
--->
 
 
 
