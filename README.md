@@ -3718,10 +3718,19 @@ http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Network
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
 -->
 
+
 Learning Resources
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
+* [Machine Learnings](https://machinelearnings.co)
+* [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 
 <!--
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+
+http://www.partiallyderivative.com
+
+
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
 
 http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
@@ -3758,8 +3767,6 @@ Front-Runners and Models
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
-https://github.com/fchollet/keras-resources
-
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
@@ -3783,9 +3790,9 @@ https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..6
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
 
-
 https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 
+https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
@@ -3867,23 +3874,24 @@ http://ipython.org/videos.html http://ipython.org/documentation.html +Resources 
 -->
 
 
+Hosting
+* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
+* [Crestle](https://www.crestle.com)
+* [FloydHub](https://www.floydhub.com)
+* [Google Datalab](https://cloud.google.com/datalab)
+
 <!--
 https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html | Google Cloud Platform Blog: Cloud TPU machine learning accelerators now available in beta
 https://services.google.com/fb/forms/cloud-tpu-beta-request/ | Cloud TPU Beta Quota Request – Google
 
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
 https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
 https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
 https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
-https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool  |  Google Cloud Platform
 
-https://www.paperspace.com/pricing | Paperspace Pricing: Virtual desktops, storage, and linux terminals
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
-https://twitter.com/HelloPaperspace | Paperspace (@HelloPaperspace) | Twitter
-https://www.crestle.com/ | Crestle | Effortless Infrastructure for Deep Learning
-
-https://www.floydhub.com/ | FloydHub - Deep Learning Platform - Cloud GPU
 -->
 
 <!--
@@ -3936,32 +3944,22 @@ Artificial Intelligence- Wikipedia
 Machine Learning- Wikipedia
 * [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
 * [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-<!--
-* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
--->
 * [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
 Deep Learning and Neural Networks- Wikipedia
 * [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
 * [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-<!--
-https://en.wikipedia.org/wiki/Convolutional_neural_network | Convolutional neural network - Wikipedia
--->
 
 Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
 
 Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-
-<!--
-http://a16z.com/2017/05/12/ai-playbook
-https://vimeo.com/215926017
--->
+* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
 
 Learning Paths
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
@@ -4011,28 +4009,11 @@ http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-
 
 
 
-
-<!--
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
-
-http://machinelearningmastery.com
-https://machinelearningmastery.com/about/ | About - Machine Learning Mastery
-http://www.datasciguide.com
-http://www.unofficialgoogledatascience.com/ | The Unofficial Google Data Science Blog
-https://machinelearnings.co
-https://www.producthunt.com/posts/machine-learnings-newsletter
-http://subscribe.machinelearnings.co/
-https://machinelearnings.co/@samdebrule
-https://twitter.com/SamDeBrule | Sam DeBrule (@SamDeBrule) | Twitter
-http://www.partiallyderivative.com
--->
-
 Data Scientists
 * [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
 * [Clare Corthell GitHub](https://github.com/clarecorthell)  
-* [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
+* [Daphne Koller](http://ai.stanford.edu/~koller), [Daphne Koller Twitter](https://twitter.com/DaphneKoller), and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
 * [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
 * [Hilary Mason](http://www.hilarymason.com) 
 * [Geoffrey Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
@@ -4041,18 +4022,17 @@ Data Scientists
 * [Jeff Dean Google Research](https://research.google.com/pubs/jeff.html), [Jeff Dean Twitter](https://twitter.com/JeffDean), and [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
 * [Jeremy Howard Twitter](https://twitter.com/jeremyphoward), [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
 * [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
-* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+* [Peter Norvig](http://norvig.com) and [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 * [Peter Warden](https://petewarden.com)
 * [Rachel Thomas Twitter](https://twitter.com/math_rachel)
 * [Reza Zadeh Twitter](https://twitter.com/Reza_Zadeh)
+* [Sam DeBrule Medium](https://machinelearnings.co/@samdebrule) and [Sam DeBrule Twitter](https://twitter.com/SamDeBrule )
+* [Sebastian Thrun Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Thrun)
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 <!--
 http://cs.stanford.edu/people/karpathy
-https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
-http://norvig.com/ | Peter Norvig
-https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
 
 http://martin.zinkevich.org/
 
@@ -4060,6 +4040,7 @@ http://www.vincentgranville.com
 https://twitter.com/granvilleDSC | Vincent Granville (@granvilleDSC) | Twitter
 https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
 
+https://twitter.com/fchollet/following | People followed by François Chollet (@fchollet) | Twitter
 https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
 https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
 https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
