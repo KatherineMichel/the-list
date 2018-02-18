@@ -3204,106 +3204,6 @@ Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
-## Coding Competitions
-
-<!--
-https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
-
-https://devpost.com/hackathons | New & upcoming hackthons · Devpost
-
-http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
-https://web.stanford.edu/class/cs9/#information
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
-
-Hackathons
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
-
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-https://github.com/tuvttran/project-based-learning
-https://github.com/karan/Projects
-
-Product Hunt
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
--->
-
-
-
-## Kaggle
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions) 
-* [Kaggle Progression](https://www.kaggle.com/progression) 
-* [Kaggle Rankings](https://www.kaggle.com/rankings) 
-* [Kaggle Learn](https://www.kaggle.com/learn)
-* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
-* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Kernels](https://www.kaggle.com/kernels) 
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
-Kaggle Submission
-
-<!--
-Kaggle and Data Camp
-https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
-https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
--->
-
-<!--
-https://www.kaggle.com/wiki/Home | Home | Kaggle
-
-https://github.com/Kaggle | Kaggle
-https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
-https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
-
-https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
-
-http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
-
-http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
-
-https://github.com/floydwch/kaggle-cli
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
-
-https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
-
-https://github.com/EliotAndres/kaggle-past-solutions
-http://ndres.me/kaggle-past-solutions
-
-Kaggle National Data Science Bowl
--->
-
 ## Crowdsourced, Curated Programming Learning Resources
 
 Stellar Programming Learning Resources
@@ -3390,6 +3290,107 @@ https://github.com/blakeembrey/code-problems
 --->
 
 
+## Coding Competitions
+
+<!--
+https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
+
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
+http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
+https://web.stanford.edu/class/cs9/#information
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
+
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
+
+Product Hunt
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+-->
+
+
+
+## Kaggle
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions) 
+* [Kaggle Progression](https://www.kaggle.com/progression) 
+* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle Learn](https://www.kaggle.com/learn)
+* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
+* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Kernels](https://www.kaggle.com/kernels) 
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+https://www.kaggle.com/titericz | Giba | Kaggle
+https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
+https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
+https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
+
+
+
+https://www.kaggle.com/wiki/Home | Home | Kaggle
+https://github.com/Kaggle | Kaggle
+http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
+http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
+
+https://www.kaggle.com/getting-started | Kaggle: Your Home for Data Science
+https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
+http://blog.kaggle.com/2013/09/25/the-playground/ | The Playground | No Free Hunch
+
+https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
+https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
+
+https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
+
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
+
+Kaggle National Data Science Bowl
+https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
+-->
+
 ## Data Science
 
 <!--
@@ -3414,11 +3415,6 @@ http://scaledml.org/ | Scaled Machine Learning
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
 
 
-https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
-
-https://www.datacamp.com/projects/111 | Exploring the evolution of Linux - Online Project
-
-
 
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
@@ -3426,23 +3422,6 @@ https://app.pluralsight.com/library/courses/python-data-science/table-of-content
 
 https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
-https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1 | Hello Python! | Python
-
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
-https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
-https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
-http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
-https://github.com/datacamp | DataCamp
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
-https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
@@ -3499,10 +3478,7 @@ https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at
 
 https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://github.com/rupskygill/ML-mastery | rupskygill/ML-mastery: Code from Jason Brownlee's course on mastering machine learning
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-https://www.jobsfornewdatascientists.com/ | Jobs for New Data Scientists – Job site for people looking to transition into data science careers
 
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
@@ -3519,10 +3495,48 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 
 
 
+Data Camp
+
+<!--
+Cheat Sheets
+http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
+http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
+
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intermediate-python-for-data-science
+
+https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
+
+https://github.com/datacamp | DataCamp
+https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+https://www.datacamp.com/community/ | News | DataCamp
+https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
+https://www.datacamp.com/projects | Projects
+
+https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
+https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
+
+https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
+
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
+-->
+
 MIT 6.S191: Introduction to Deep Learning
 * [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
 
 <!--
+https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
+
 https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
 -->
 
@@ -3972,9 +3986,6 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 <!--
-https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
-https://github.com/collections/machine-learning | Collection: Getting started with machine learning
-
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 
@@ -4024,10 +4035,6 @@ https://twitter.com/KirkDBorne | Kirk Borne (@KirkDBorne) | Twitter
 https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rctatman) | Twitter
 https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
 https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
-
-https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
-https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
-https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
 -->
 
 Arxiv
@@ -4044,6 +4051,10 @@ Data Science- Forums
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 
 <!--
+https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+
 https://math.stackexchange.com
 -->
 
@@ -4051,6 +4062,12 @@ Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
 * [Data Science Central](http://www.datasciencecentral.com) and [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests)
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
+
+<!--
+https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
+https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
+https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
+-->
 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
