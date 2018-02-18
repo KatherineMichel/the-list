@@ -3371,8 +3371,8 @@ https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt 
 https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
 
 
+https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20
 
-https://www.kaggle.com/wiki/Home | Home | Kaggle
 https://github.com/Kaggle | Kaggle
 http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
 http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
@@ -3745,16 +3745,18 @@ https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
-Data Science Groups
-https://stanfordmlgroup.github.io
 http://cslibrary.stanford.edu
-https://web.stanford.edu/class/cs106s/ | CS106S
+http://web.mit.edu
+
+Data Science Groups
 https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
+https://stanfordmlgroup.github.io
+https://web.stanford.edu/class/cs106s/ | CS106S
+
+https://github.com/oxford-cs-deepnlp-2017/lectures
 https://nlp.stanford.edu
 http://vision.stanford.edu/
 http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
-http://web.mit.edu
-https://github.com/oxford-cs-deepnlp-2017/lectures
 -->
 
 Front-Runners and Models
@@ -3792,9 +3794,15 @@ https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
 https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
 
-Awesome
-https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
+https://github.com/topics/pytorch-tutorials
+
+https://github.com/bharathgs/Awesome-pytorch-list
+https://github.com/rickiepark/awesome-pytorch
+https://github.com/spro/pytorch-list
+https://github.com/ritchieng/the-incredible-pytorch
+https://github.com/carpedm20/awesome-torch
 https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
 
 XGBoost
@@ -3817,7 +3825,6 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Pytho
 
 <!--
 SOTA
-https://services.google.com/fb/forms/cloud-tpu-beta-request/
 
 https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
@@ -3833,6 +3840,49 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
+
+https://services.google.com/fb/forms/cloud-tpu-beta-request/
+ResNet-50 (image classification)
+Other ResNet models (image classification)
+MobileNet (low-resource image classification)
+SqueezeNet (low-resource image classification)
+NASNet-Mobile (low-resource image classification)
+NASNet-Large (image classification)
+AmoebaNet (image classification)
+Inception v2 (image classification)
+Inception v3 (image classification)
+Inception v4 (image classification)
+Inception-ResNet-v1 (image classification)
+Inception-ResNet-v2 (image classification)
+VGG (image classification)
+RevNets (image classification)
+DenseNet (image classification)
+Shake-Shake (CIFAR image classification)
+
+Mask R-CNN (image segmentation)
+DeepLab (image segmentation)
+
+LSTM-based models (recurrent neural networks)
+Other RNNs (recurrent neural networks)
+
+Faster R-CNN (object detection) 
+Single Shot MultiBox Detector (object detection)
+R-FCN (object detection) 
+RetinaNet (object detection)
+
+Transformer (machine translation)
+Transformer (language modeling)
+Transformer (sentiment analysis)
+Transformer (speech recognition) 
+DeepSpeech 2 (speech recognition)
+Other speech recognition models
+
+DeepVariant (genomic variant-calling) 
+Generative adversarial networks (GANs)
+Other convolutional neural networks on image-like data
+Fully-connected neural networks with embeddings
+Fully-connected neural networks without embeddings
+None of the above
 -->
 
 <!--
