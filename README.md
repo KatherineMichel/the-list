@@ -3768,7 +3768,17 @@ Models
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
+Awesome
+
 <!--
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+https://discuss.pytorch.org/ | (3) PyTorch Forums
+
+https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
+https://www.tensorflow.org/tutorials
+https://www.tensorflow.org/tutorials/deep_cnn
+
+https://www.tensorflow.org/performance/performance_guide
 https://www.tensorflow.org/performance/benchmarks
 https://www.tensorflow.org/performance/performance_models
 https://github.com/tensorflow/models/tree/master/official
@@ -3780,13 +3790,12 @@ http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
 https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
 https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
+https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
 
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://discuss.pytorch.org/ | (3) PyTorch Forums
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
-https://www.tensorflow.org/tutorials/deep_cnn
-https://www.tensorflow.org/tutorials
+Awesome
+https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
 
 XGBoost
 https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
@@ -3795,14 +3804,7 @@ http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Tre
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
-https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
-
 https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-
-Awesome
-https://www.google.com/search?q=awesome+pytorch&oq=awesome+pytorch&aqs=chrome..69i57j69i60l3j69i61j69i60.2356j0j7&sourceid=chrome&ie=UTF-8 | awesome pytorch - Google Search
-https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
-https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
 
 https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 
