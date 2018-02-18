@@ -3405,22 +3405,12 @@ https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-
 
 https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
 
-https://en.wikipedia.org/wiki/Data_wrangling | Data wrangling - Wikipedia
-https://blog.udacity.com/2014/06/what-is-data-wrangling.html | What is Data Wrangling? | Udacity
-
 https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
 https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
 http://scaledml.org/ | Scaled Machine Learning
 
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
 
-
-
-https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
-
-https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
-
-https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
 
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
@@ -3456,12 +3446,13 @@ https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
 
-
+Books
 
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
+
 
 Interesting Presentations
 
@@ -3475,11 +3466,18 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
-
+https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
+
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
+
+https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
+
+https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
@@ -3799,6 +3797,9 @@ http://ipython.org/videos.html http://ipython.org/documentation.html +Resources 
 
 
 <!--
+https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html | Google Cloud Platform Blog: Cloud TPU machine learning accelerators now available in beta
+https://services.google.com/fb/forms/cloud-tpu-beta-request/ | Cloud TPU Beta Quota Request – Google
+
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
 https://research.google.com/colaboratory/faq.html | Colaboratory – Google
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
@@ -3928,10 +3929,12 @@ https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Dat
 -->
 
 Analyst Group Resources
-* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
 <!--
+https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
+
 https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
 -->
