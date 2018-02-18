@@ -3400,6 +3400,7 @@ http://ndres.me/kaggle-past-solutions
 
 Kaggle National Data Science Bowl
 https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
 -->
 
 ## Data Science
@@ -3414,10 +3415,8 @@ https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 
-https://twitter.com/benhamner/status/938123380074610688 | Ben Hamner on Twitter: "Three most used datasets in #NIPS2017: 1. MNIST (110 papers) 2. CIFAR (79 papers) 3. ImageNet (60 papers) https://t.co/uD96x3z6jN https://t.co/cNixNlhIZw"
-
 https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+
 http://scaledml.org/ | Scaled Machine Learning
 
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
@@ -3586,6 +3585,8 @@ Fast AI Blog
 
 Jeremy Howard YouTube
 https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
+
+https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ | Rachel Thomas - YouTube
 
 Practical Deep Learning (Lessons 1-7)
 http://course.fast.ai/
@@ -3850,12 +3851,6 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
-
-
-http://www.image-net.org/challenges/LSVRC/ | ImageNet Large Scale Visual Recognition Competition (ILSVRC)
-http://yann.lecun.com/exdb/mnist/ | MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
-http://places.csail.mit.edu/ | MIT Places Database for Scene Recognition
-https://www.cs.toronto.edu/~kriz/cifar.html | CIFAR-10 and CIFAR-100 datasets
 -->
 
 <!--
@@ -4047,6 +4042,7 @@ Data Scientists
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 <!--
+http://cs.stanford.edu/people/karpathy
 https://twitter.com/DaphneKoller | Daphne Koller (@DaphneKoller) | Twitter
 http://norvig.com/ | Peter Norvig
 https://en.wikipedia.org/wiki/Sebastian_Thrun | Sebastian Thrun - Wikipedia
