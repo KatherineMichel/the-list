@@ -3510,8 +3510,8 @@ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-de
 -->
 
 Interesting
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 <!--
@@ -3583,19 +3583,7 @@ https://www.datacamp.com/community/blog/data-science-software-engineering | Data
 https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
 -->
 
-Books
-* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
-* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
-* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
-* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
-* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
-<!--
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
--->
 
 MIT 6.S191: Introduction to Deep Learning
 * [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
@@ -3718,8 +3706,21 @@ http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Network
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
 -->
 
+Books
+* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
+* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
+* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
+* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
-Learning Resources
+<!--
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
+-->
+
+More Learning Resources
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 * [Machine Learnings](https://machinelearnings.co)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
@@ -3895,24 +3896,6 @@ Fully-connected neural networks without embeddings
 None of the above
 -->
 
-<!--
-Some Wow Research Results
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
-
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
-
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
--->
-
-
 
 Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
@@ -3973,6 +3956,13 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essen
 -->
 
 
+
+Conda
+* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
+* [Anaconda](https://www.continuum.io/downloads)  
+* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
+* [Miniconda](http://conda.pydata.org/miniconda.html)
+
 Jupyter
 
 <!--
@@ -3996,6 +3986,100 @@ Python- Statistics Stack- iPython Reference
 http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
 
+Python- Statistics Stack- Scikit-Learn
+* [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
+
+<!--
+https://scikits.appspot.com/scikits  
+-->
+
+Python- Statistics Stack- Scikit-Learn Reference
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
+* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+
+Python- Image Processing- Scikit-Image (See also Python Imaging Library)
+* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
+* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
+
+Python- Statistics Stack- Documents and Galleries
+* [SciPy Stack](http://www.scipy.org/docs.html)  
+* [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
+* [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
+* [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
+
+Python- Statistics Stack- NumPy 
+* [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
+* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
+* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
+* [SciPy Central](http://scipy-central.org)  
+* [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
+* [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
+* [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
+
+<!--
+http://www.scipy.org/getting-started.html 
+http://www.scipy.org/topical-software.html List of Software  
+-->
+
+Python- Statistics Stack- MatPlotLib
+* [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
+
+Python- Statistics Stack- MatPlotLib Reference
+* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
+* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
+* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
+* [MatPlotLib API](http://matplotlib.org/api/index.html )  
+* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
+* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
+* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
+* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
+* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
+
+<!--
+Resources 
+http://matplotlib.org/resources/index.html 
+External Resources 
+http://matplotlib.org/faq/index.html  
+-->
+
+Python- Statistics Stack- Pandas
+* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
+* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
+
+<!--
+https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
+https://github.com/pandas-dev/pandas
+-->
+
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
+* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
+* [SymPy Features](http://www.sympy.org/en/features.html)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
+* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
+* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
+* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
+* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
 
 Hosting
 * [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
@@ -4016,6 +4100,9 @@ https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’
 
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 -->
+
+
+
 
 
 
@@ -4167,6 +4254,23 @@ https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | 
 Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
+
+<!--
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
 
 Partnerships, Exchanges, Ethics
 * [Artificial Intelligence Index](http://aiindex.org)
@@ -4333,106 +4437,6 @@ https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
 -->
 
-Python- Statistics Stack- Documents and Galleries
-* [SciPy Stack](http://www.scipy.org/docs.html)  
-* [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
-* [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
-* [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
-
-Python- Statistics Stack- NumPy 
-* [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
-* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
-* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
-
-Python- Statistics Stack- SciPy 
-* [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
-* [SciPy Central](http://scipy-central.org)  
-* [SciPy Tutorial and Reference Docs](http://docs.scipy.org/doc/scipy/reference)  
-* [SciPy Reference PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)  
-* [SciPy Lectures GitHub](http://scipy-lectures.github.io)  
-
-<!--
-http://www.scipy.org/getting-started.html 
-http://www.scipy.org/topical-software.html List of Software  
--->
-
-Python- Statistics Stack- MatPlotLib
-* [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
-
-Python- Statistics Stack- MatPlotLib Reference
-* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
-* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
-* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
-* [MatPlotLib API](http://matplotlib.org/api/index.html )  
-* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
-* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
-* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
-* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
-* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
-* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
-* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
-* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
-* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
-
-<!--
-Resources 
-http://matplotlib.org/resources/index.html 
-External Resources 
-http://matplotlib.org/faq/index.html  
--->
-
-Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
-* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
-
-<!--
-https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
-https://github.com/pandas-dev/pandas
--->
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics)
-* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
-* [SymPy Features](http://www.sympy.org/en/features.html)  
-
-Python- Statistics Stack- StatsModel
-* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
-* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
-* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
-* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
-* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
-
-Python- Statistics Stack- GGPlot
-* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
-
-Python- Statistics Stack- Scikit-Learn
-* [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
-
-<!--
-https://scikits.appspot.com/scikits  
--->
-
-Python- Statistics Stack- Scikit-Learn Reference
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
-* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
-* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
-
-Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
-* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
-
-Conda
-* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
-* [Anaconda](https://www.continuum.io/downloads)  
-* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
-* [Miniconda](http://conda.pydata.org/miniconda.html)
 
 AIaaS/BDaaS: Natural Language
 * [Google Natural Language API](https://cloud.google.com/natural-language/)
