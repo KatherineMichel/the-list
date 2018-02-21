@@ -3829,18 +3829,28 @@ SOTA
 https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
 https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
-
 https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+Threshold Function
 https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+http://reference.wolfram.com/language/ref/Tanh.html
+http://mathworld.wolfram.com/HyperbolicTangent.html
 https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function
 
+Loss/Cost Function
+https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
+
+https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 
 ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
 
+Models
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
 ResNet-50 (image classification)
 Other ResNet models (image classification)
