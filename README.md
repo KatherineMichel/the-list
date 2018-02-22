@@ -2614,6 +2614,7 @@ https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
 
+https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
 https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/string.html
@@ -2642,24 +2643,6 @@ MOOCs
 * [EdX](https://www.edx.org)  
 -->
 
-<!--
-http://exercism.io/languages/python/about | Python - exercism.io
-
-https://learncodethehardway.org/more-python/
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
-
-http://campus.codeschool.com/courses/try-django/contents
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
--->
-
 Official Python Tutorial
 * [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
 
@@ -2675,6 +2658,15 @@ Learning Platforms (See also others)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
+
+<!--
+http://exercism.io/languages/python/about | Python - exercism.io
+
+http://campus.codeschool.com/courses/try-django/contents
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+-->
 
 Pluralsight and DataCamp
 * [DataCamp](https://www.datacamp.com)
@@ -2699,20 +2691,44 @@ Python Tutors- Regular
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
-Structuring Your Project
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
-
 <!--
-https://github.com/kennethreitz/setup.py | kennethreitz/setup.py: 📦 A Human's Ultimate Guide to setup.py.
-https://github.com/kennethreitz/samplemod/tree/master/docs | samplemod/docs at master · kennethreitz/samplemod
-https://www.kennethreitz.org/essays/repository-structure-and-python | Repository Structure and Python — Kenneth Reitz
+https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
+https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
+
+https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
+
+http://alsweigart.com
+https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
+
+Eric Matthes
+http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
+
+Mahesh Venkitachalam
+https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
 Python Tutors- YouTube
@@ -2724,32 +2740,11 @@ Python Tutors- YouTube
 <!--
 https://twitter.com/aaronchall/status/961250524753551360 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "High level #python #tutorial thread: Python is a high level language that runs bytecode in its virtual machine. Everything is an object. It supports OOP up to multiple inheritance and functional programming. Typing is polymorphic - duck typing is preferred https://t.co/fhNtFWU5zy"
 
-https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
 
-http://alsweigart.com
-https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
-
-http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
-http://inventwithpython.com/cracking/ | Cracking Codes with Python
-https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 https://talkpython.fm/ | Talk Python To Me Podcast
-
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
-https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
-
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
-
-https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
-
-Books
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
 https://jeffknupp.com/writing-idiomatic-python-ebook/ | Writing Idiomatic Python Book
 https://github.com/jeffknupp/blog/blob/master/content/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md | blog/2013-01-24-the-writing-idiomatic-python-ebook-is-finally-available.md at master · jeffknupp/blog
@@ -2822,6 +2817,33 @@ https://github.com/RafeKettler
 http://www.tutorialspoint.com/python/ | Python Tutorial
 -->
 
+Python IDLE
+* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+* [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
+* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python)) 
+
+<!--
+https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
+https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
+https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+See other article also
+http://nvie.com/posts/pin-your-packages/
+pip-tools https://github.com/nvie/pip-tools
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+
+https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
+-->
+
+## Python Books
+
 Wiki Books
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
@@ -2852,34 +2874,10 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywo
 https://github.com/fluentpython | Fluent Python
 -->
 
-Python IDLE
-* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
-* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
-
-<!--
-https://cito.github.io/blog/f-strings/ | The new f-strings in Python 3.6 | Seasoned & Agile
-https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb
-
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-https://www.slideshare.net/MariattaWijaya/pycon-canada-2017-closing-keynote-presentation | PyCon Canada 2017 Closing Keynote Presentation
-https://www.slideshare.net/MariattaWijaya/f-strings-76440081 | F strings
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-
-See other article also
-http://nvie.com/posts/pin-your-packages/
-pip-tools https://github.com/nvie/pip-tools
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-
-https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
--->
 
 ## Python Internals
 
@@ -2929,6 +2927,89 @@ Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
 * [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+## Structuring Your Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+<!--
+https://github.com/kennethreitz/setup.py/blob/master/setup.py | setup.py/setup.py at master · kennethreitz/setup.py
+-->
+
+## Python Packaging
+
+Python- Packages/Libraries
+* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
+* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+Python- Official Packaging Info
+* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+* [Python Packaging User Guide](https://packaging.python.org) 
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
+* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
+
+<!--
+https://github.com/pypa/python-packaging-user-guide/issues
+-->
+
+Package Helpers
+* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
+
+Package Stats
+* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
+
+<!--
+https://media.readthedocs.org/pdf/python-packaging-user-guide/latest/python-packaging-user-guide.pdf | Python Packaging User Guide
+
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/library/distutils.html | 28.1. distutils — Building and installing Python modules — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+
+Python- Additional Packaging Tutorials
+* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
+
+https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
+https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+
+Sample module for Python-Guide.org.
+http://docs.python-guide.org
+
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+
+https://pythonhosted.org/setuptools/formats.html
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://pip.pypa.io/en/stable/reference/pip_wheel
+-->
+
+Python- Cookiecutter Creating Packages
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+Python- Wheel (versus Egg!)
+* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
+* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Python Wheels](http://pythonwheels.com)
 
 ## Django Learning Resources
 
