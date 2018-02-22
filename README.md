@@ -2480,7 +2480,6 @@ https://learnpythonthehardway.org/book/ex1.html
 https://learnpythonthehardway.org/book/appendixa.html
 
 
-
 https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
 https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
 
@@ -2510,8 +2509,14 @@ https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package 
 https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
+https://docs.python.org/3/library/pdb.html | 27.3. pdb — The Python Debugger — Python 3.6.4 documentation
+https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger | Working with pdb to Debug Python Code | DigitalOcean
+https://docs.python.org/3/tutorial/errors.html | 8. Errors and Exceptions — Python 3.6.4 documentation
+https://docs.python.org/3/library/unittest.html | 26.4. unittest — Unit testing framework — Python 3.6.4 documentation
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
 
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+https://docs.djangoproject.com/en/2.0/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
 
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
@@ -2586,7 +2591,6 @@ https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — P
 https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
-https://docs.python.org/3.7/tutorial/datastructures.html | 5. Data Structures — Python 3.7.0b1 documentation
 https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
 
@@ -2697,11 +2701,19 @@ Python Tutors- Regular
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+Structuring Your Project
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
+
+<!--
+https://github.com/kennethreitz/setup.py | kennethreitz/setup.py: 📦 A Human's Ultimate Guide to setup.py.
+https://github.com/kennethreitz/samplemod/tree/master/docs | samplemod/docs at master · kennethreitz/samplemod
+https://www.kennethreitz.org/essays/repository-structure-and-python | Repository Structure and Python — Kenneth Reitz
+-->
 
 Python Tutors- YouTube
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
