@@ -3881,8 +3881,12 @@ https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
 https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
 
-http://pytorch.org/docs/master/torchvision/models.html
+https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
+https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
+http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
+http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
 http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
+
 https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
 https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
