@@ -231,6 +231,10 @@ Product Hunt Golden Kitty Awards and Top 500
 * [Top 500 Hunters](http://500hunters.com)
 
 <!--
+https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
+https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 -->
 
@@ -502,6 +506,7 @@ Pieter Levels
 <!--
 https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
 https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
 https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
 https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
 https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
@@ -2513,6 +2518,9 @@ https://docs.python.org/3/library/pdb.html | 27.3. pdb — The Python Debugger �
 https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger | Working with pdb to Debug Python Code | DigitalOcean
 https://docs.python.org/3/tutorial/errors.html | 8. Errors and Exceptions — Python 3.6.4 documentation
 https://docs.python.org/3/library/unittest.html | 26.4. unittest — Unit testing framework — Python 3.6.4 documentation
+https://docs.python.org/3.7/library/unittest.mock.html | 27.5. unittest.mock — mock object library — Python 3.7.0b1 documentation
+https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
+
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
 https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
 
@@ -2531,6 +2539,7 @@ https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressi
 http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
 
 
+http://pyvideo.org/pycon-us-2017/the-python-visualization-landscape.html | PyVideo.org · The Python Visualization Landscape
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
 https://github.com/python/performance
@@ -2624,7 +2633,7 @@ https://docs.python.org/3/library/pathlib.html
 https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/logging.config.html
 
-https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
+https://docs.python.org/3.7/tutorial/floatingpoint.html | 15. Floating Point Arithmetic: Issues and Limitations — Python 3.7.0b1 documentation
 -->
 
 ## Python and Django Books and Tutorials
@@ -2660,12 +2669,17 @@ Learning Platforms (See also others)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
+http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+https://nostarch.com/search/node/python | Search | No Starch Press
+
 http://exercism.io/languages/python/about | Python - exercism.io
 
 http://campus.codeschool.com/courses/try-django/contents
 
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
+https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-coding-challenges: freeCodeCamp's stand-alone Python coding challenges
+https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
 -->
 
 Pluralsight and DataCamp
@@ -3565,12 +3579,6 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
-https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
@@ -3637,6 +3645,10 @@ https://github.com/dennybritz/deeplearning-papernotes
 
 https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
+
+
+https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
 
 
@@ -3676,6 +3688,14 @@ https://www.datacamp.com/community/blog/data-science-software-engineering | Data
 https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
 -->
 
+
+<!--
+https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
+https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
+https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
+https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+-->
 
 
 MIT 6.S191: Introduction to Deep Learning
@@ -3824,18 +3844,34 @@ https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d
 
 http://www.partiallyderivative.com
 
-
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
+
+https://github.com/kjaisingh/high-school-guide-to-machine-learning | kjaisingh/high-school-guide-to-machine-learning: Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
+https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
 
 http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
 https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
 
-
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
-
+https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
+https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
+https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Renee on Twitter: "I guess this is how I got to 25,000 followers without explicitly trying to gain a large following: -Providing links to resources for learning data science -Having a podcast for learners; mention my Twitter account on the podcast and vice versa -Cheering people on ..."
+https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
@@ -3867,6 +3903,31 @@ Models
 Awesome
 
 <!--
+http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
+http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
+http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
+http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
+http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://www.tensorflow.org/tutorials/ | Tutorials  |  TensorFlow
+https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
+
+http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
+
+
+
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
@@ -4054,20 +4115,37 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essen
 
 
 
+<!--
+https://github.com/spyder-ide/spyder
+https://github.com/spyder-ide/spyder/issues/3275 | Print all keyboard shortcuts to cheatset · Issue #3275 · spyder-ide/spyder
+-->
+
 Conda
 * [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
 * [Anaconda](https://www.continuum.io/downloads)  
 * [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
 * [Miniconda](http://conda.pydata.org/miniconda.html)
 
+<!--
+https://conda.io/docs/_downloads/conda-cheatsheet.pdf | conda-cheatsheet.pdf
+https://conda.io/docs/user-guide/getting-started.html | Getting started with conda — Conda documentation
+https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
+https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
+https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — Conda documentation
+-->
+
 Jupyter
 
 <!--
-https://ipython.org/notebook.html
+https://github.com/jupyterlab/jupyterlab | jupyterlab/jupyterlab: JupyterLab computational environment.
+https://github.com/jupyterhub/jupyterhub | jupyterhub/jupyterhub: Multi-user server for Jupyter notebooks
+https://github.com/jupyterhub/binderhub | jupyterhub/binderhub: Deterministically build docker images from a git repository + commit
+
 http://jupyter.org
-https://github.com/jupyterlab
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
+
+https://ipython.org/notebook.html
 -->
 
 Python- Statistics Stack- iPython
@@ -4353,6 +4431,9 @@ Thought Pieces
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
 
 <!--
+https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
+https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
+
 Some Wow Research Results
 https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
 
