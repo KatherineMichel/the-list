@@ -2281,7 +2281,6 @@ See Git Workflow, DevOps, Dotfiles, Code Review
 -->
 
 
-
 ## Some Favorite Awesome
 
 Awesome Tools
@@ -2298,19 +2297,6 @@ Awesome Django
 * [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
 * [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
-* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
-* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
-* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-* [Awesome NLP](https://github.com/keon/awesome-nlp)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Python and Django Conference Videos and Slides
 
@@ -2526,6 +2512,8 @@ https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar
 
 https://docs.djangoproject.com/en/2.0/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
 
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
@@ -2670,6 +2658,8 @@ Learning Platforms (See also others)
 
 <!--
 http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
 https://nostarch.com/search/node/python | Search | No Starch Press
 
@@ -3632,6 +3622,8 @@ Probability
 Mind Maps and Cheat Sheets
 
 <!--
+https://www.google.com/imgres?imgurl=http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png&imgrefurl=http://www.datacamp.com/community/tutorials/data-structures-python&h=366&w=700&tbnid=bXHxkmDnkblsvM:&tbnh=109&tbnw=210&usg=__uIzeAqEQwOJ48dIkq2vj7umAHwQ%3D&vet=10ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA..i&docid=eFGW_XYMvbckFM&sa=X&ved=0ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA | Google Image Result for http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+
 https://github.com/dformoso/machine-learning-mindmap
 https://github.com/dformoso/deeplearning-mindmap
 https://github.com/soulmachine/machine-learning-cheat-sheet
@@ -3932,6 +3924,19 @@ Models
 Awesome
 
 <!--
+Awesome Data Science
+* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
+* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
+* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
 http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
 http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
 http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
@@ -4225,6 +4230,11 @@ Python- Statistics Stack- NumPy
 * [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
 * [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
 * [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
+
+<!--
+numpy built in functions
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
+-->
 
 Python- Statistics Stack- SciPy 
 * [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
