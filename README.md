@@ -2885,6 +2885,8 @@ Python- Books
 Amazon Python Book Search
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
 https://github.com/fluentpython | Fluent Python
 -->
 
@@ -4009,6 +4011,10 @@ ImageNet
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
 
+http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
+https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
+https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
+
 Models
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
 ResNet-50 (image classification)
@@ -4263,6 +4269,12 @@ Hosting
 * [Google Datalab](https://cloud.google.com/datalab)
 
 <!--
+https://cloud.google.com/ml-engine/docs/machine-learning-resources | Machine Learning Resources  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
+
+https://cloud.google.com/tpu/ | Cloud TPUs - ML accelerators for TensorFlow  |  Google Cloud Platform
+https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu | An in-depth look at Google’s first Tensor Processing Unit (TPU) | Google Cloud Big Data and Machine Learning Blog  |  Google Cloud Platform
+https://en.wikipedia.org/wiki/Tensor_processing_unit | Tensor processing unit - Wikipedia
+
 https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html | Google Cloud Platform Blog: Cloud TPU machine learning accelerators now available in beta
 https://services.google.com/fb/forms/cloud-tpu-beta-request/ | Cloud TPU Beta Quota Request – Google
 
@@ -4276,8 +4288,29 @@ https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 -->
 
+AIaaS/BDaaS: Natural Language
+* [Google Natural Language API](https://cloud.google.com/natural-language/)
 
+AIaaS/BDaaS: Speech Recognition / Speech Synthesis
+* [Amazon Lex](https://aws.amazon.com/lex/) / [Google Cloud Speech API](https://cloud.google.com/speech/)
+* [Amazon Polly](https://aws.amazon.com/polly/)
+* Translation - [Google Cloud Translation API](https://cloud.google.com/translate/)
 
+AIaaS/BDaaS: Computer Vision
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
+* [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
+
+<!--
+https://cloud.google.com/compute/docs/gpus/
+
+https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
+https://cloud.google.com/ml/
+https://cloud.google.com/ml/docs
+
+https://cloud.google.com/ml-engine/ | Predictive Analytics - Cloud Machine Learning Engine  |  Google Cloud Platform
+https://cloud.google.com/training/data-ml | Data and Machine Learning Training  |  Google Cloud Platform
+https://cloud.google.com/ml-engine/docs/ | Cloud Machine Learning Engine Documentation  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
+-->
 
 
 
@@ -4613,31 +4646,6 @@ https://research.yahoo.com/research-areas/machine-learning-and-data-science | Re
 https://yahooeng.tumblr.com/post
 https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
--->
-
-
-AIaaS/BDaaS: Natural Language
-* [Google Natural Language API](https://cloud.google.com/natural-language/)
-
-AIaaS/BDaaS: Speech Recognition / Speech Synthesis
-* [Amazon Lex](https://aws.amazon.com/lex/) / [Google Cloud Speech API](https://cloud.google.com/speech/)
-* [Amazon Polly](https://aws.amazon.com/polly/)
-* Translation - [Google Cloud Translation API](https://cloud.google.com/translate/)
-
-AIaaS/BDaaS: Computer Vision
-* [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
-* [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
-
-<!--
-https://cloud.google.com/compute/docs/gpus/
-
-https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
-https://cloud.google.com/ml/
-https://cloud.google.com/ml/docs
-
-https://cloud.google.com/ml-engine/ | Predictive Analytics - Cloud Machine Learning Engine  |  Google Cloud Platform
-https://cloud.google.com/training/data-ml | Data and Machine Learning Training  |  Google Cloud Platform
-https://cloud.google.com/ml-engine/docs/ | Cloud Machine Learning Engine Documentation  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
 -->
 
 
