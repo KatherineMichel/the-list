@@ -3920,7 +3920,7 @@ Books
 * [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
 * [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
 * [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
-* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com)
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
@@ -3963,7 +3963,6 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 
 http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/ | Neural networks and deep learning
 https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
 
 http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
