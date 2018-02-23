@@ -3601,6 +3601,33 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 
 
 
+Data, Data Science, Big Data
+* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+
+Data Monetization
+* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
+
+Linear/Regression (Supervised Learning)
+* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
+* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
+* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
+* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
+* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
+
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
+
+
+
 
 Mind Maps and Cheat Sheets
 
@@ -4647,29 +4674,3 @@ https://yahooeng.tumblr.com/post
 https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
 -->
-
-
-Data, Data Science, Big Data
-* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
-* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
-* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
-* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-
-Data Monetization
-* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
-* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
-
-Linear/Regression (Supervised Learning)
-* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
-* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
-* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
-* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
-* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
-
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
