@@ -3663,6 +3663,35 @@ https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | 
 -->
 
 
+Google Machine Learning Learning Resources
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
+
+Learning Paths
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+
+<!--
+https://github.com/kjaisingh/high-school-guide-to-machine-learning | kjaisingh/high-school-guide-to-machine-learning: Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
+
+https://github.com/ossu/data-science
+https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
+http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
+http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
+
+http://www.datasciguide.com/difficulty/early-beginner
+http://www.datasciguide.com/recommended-resources-for-beginners
+
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+-->
+
+
 
 
 Mind Maps and Cheat Sheets
@@ -3712,10 +3741,6 @@ https://github.com/dennybritz/deeplearning-papernotes
 
 https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
-
-
-https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
-https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
 
 
@@ -3762,6 +3787,9 @@ https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Art
 https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
 https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
 https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+
+https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
 
 
@@ -3783,6 +3811,8 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
+https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0 | Building a Deep Neural Net In Google Sheets – Towards Data Science
+
 http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
 http://course.fast.ai/start.html | Deep Learning For Coders—36 hours of lessons for free
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
@@ -3905,15 +3935,20 @@ More Learning Resources
 * [Machine Learnings](https://machinelearnings.co)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 
+
 <!--
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+https://towardsdatascience.com
 
 http://www.partiallyderivative.com
 
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
 
-https://github.com/kjaisingh/high-school-guide-to-machine-learning | kjaisingh/high-school-guide-to-machine-learning: Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
+https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
 https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
@@ -3957,30 +3992,6 @@ http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
 
 
-
-Google Machine Learning Learning Resources
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
-
-Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
-
-Learning Paths
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
-
-<!--
-https://github.com/ossu/data-science
-https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
-
-http://www.datasciguide.com/difficulty/early-beginner
-http://www.datasciguide.com/recommended-resources-for-beginners
--->
-
 Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
@@ -3988,14 +3999,6 @@ Rules and Advice
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
 <!--
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
 https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
 
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
@@ -4415,6 +4418,17 @@ Hosting
 * [Google Datalab](https://cloud.google.com/datalab)
 
 <!--
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+-->
+
+<!--
 https://cloud.google.com/ml-engine/docs/machine-learning-resources | Machine Learning Resources  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
 
 https://cloud.google.com/tpu/ | Cloud TPUs - ML accelerators for TensorFlow  |  Google Cloud Platform
@@ -4424,14 +4438,15 @@ https://en.wikipedia.org/wiki/Tensor_processing_unit | Tensor processing unit - 
 https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html | Google Cloud Platform Blog: Cloud TPU machine learning accelerators now available in beta
 https://services.google.com/fb/forms/cloud-tpu-beta-request/ | Cloud TPU Beta Quota Request – Google
 
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+https://cloud.google.com/compute/docs/gpus/
 
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
+https://cloud.google.com/ml/
+https://cloud.google.com/ml/docs
 
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+https://cloud.google.com/ml-engine/ | Predictive Analytics - Cloud Machine Learning Engine  |  Google Cloud Platform
+https://cloud.google.com/training/data-ml | Data and Machine Learning Training  |  Google Cloud Platform
+https://cloud.google.com/ml-engine/docs/ | Cloud Machine Learning Engine Documentation  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
 -->
 
 AIaaS/BDaaS: Natural Language
@@ -4445,18 +4460,6 @@ AIaaS/BDaaS: Speech Recognition / Speech Synthesis
 AIaaS/BDaaS: Computer Vision
 * [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
 * [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
-
-<!--
-https://cloud.google.com/compute/docs/gpus/
-
-https://cloud.google.com/products/machine-learning/ | Google Cloud Machine Learning at Scale  |  Google Cloud Platform
-https://cloud.google.com/ml/
-https://cloud.google.com/ml/docs
-
-https://cloud.google.com/ml-engine/ | Predictive Analytics - Cloud Machine Learning Engine  |  Google Cloud Platform
-https://cloud.google.com/training/data-ml | Data and Machine Learning Training  |  Google Cloud Platform
-https://cloud.google.com/ml-engine/docs/ | Cloud Machine Learning Engine Documentation  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
--->
 
 
 Data Scientists
