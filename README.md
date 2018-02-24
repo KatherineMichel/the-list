@@ -4140,7 +4140,7 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 -->
 
 
-Normalizing Inputs
+Normalizing Inputs/Feature Scaling
 
 Weight Initialization
 
@@ -4186,12 +4186,23 @@ Regularization
 <!--
 https://en.wikipedia.org/wiki/Regularization_(mathematics)
 L2 Regularization
+L1 Regularization
+Dropout
 -->
+
+Hyperparameters
+
+Learning Rates/Learning Rate Decay Methods 
+
+Grad Check
+
 
 SOTA Models
 
 <!--
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
+Image Classification
 ResNet-50 (image classification)
 Other ResNet models (image classification)
 MobileNet (low-resource image classification)
@@ -4209,21 +4220,27 @@ RevNets (image classification)
 DenseNet (image classification)
 Shake-Shake (CIFAR image classification)
 
+Image Segmentation
 Mask R-CNN (image segmentation)
 DeepLab (image segmentation)
 
+Recurrent Neural Networks (RNNs)
 LSTM-based models (recurrent neural networks)
 Other RNNs (recurrent neural networks)
 
+Object Detection
 Faster R-CNN (object detection) 
 Single Shot MultiBox Detector (object detection)
 R-FCN (object detection) 
 RetinaNet (object detection)
 
+Transformer
 Transformer (machine translation)
 Transformer (language modeling)
 Transformer (sentiment analysis)
 Transformer (speech recognition) 
+
+Speech Recognition
 DeepSpeech 2 (speech recognition)
 Other speech recognition models
 
@@ -4252,11 +4269,6 @@ https://en.wikipedia.org/wiki/Hyperbolic_function
 
 Gradient descent with momentum
 Exponentially weighted averages
-
-Hyperparameters
-
-Learning rates
-Learning rate decay methods 
 
 grad check doesn't work with dropout
 only use grad check when debugging 
