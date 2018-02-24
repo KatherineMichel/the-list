@@ -3815,6 +3815,10 @@ Fast AI
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
 <!--
+http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
+https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
+https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
+
 https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0 | Building a Deep Neural Net In Google Sheets – Towards Data Science
 
 http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
@@ -4173,12 +4177,14 @@ https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_log
 Optimizing Gradient Descent
 
 <!--
+https://en.wikipedia.org/wiki/Backpropagation
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 Batch and mini batch gradient descent
 RMSProp
 Adam Optimization
+AdaGrad
 -->
 
 Regularization
@@ -4277,10 +4283,6 @@ ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 * [ImageNet Explore](http://image-net.org/explore)
 * [ImageNet Challenges](http://image-net.org/challenges)
-
-http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
-https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
-https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
 -->
 
 
