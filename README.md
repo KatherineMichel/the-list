@@ -3907,25 +3907,33 @@ Geoffrey Hinton
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
 -->
 
+Karpathy (Stanford)
+* ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 <!--
-Stanford and Karpathy
-
 Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
-
-http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 
 http://cs231n.stanford.edu/reports
-http://cs231n.github.io
 http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
-
-http://cs231n.github.io/neural-networks-2/ | CS231n Convolutional Neural Networks for Visual Recognition
-http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
 
 http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
 https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy on Twitter: "Gradient checking neural nets is hard, with many amusing subtleties. Updated my cs231n section on it; Now quite long http://t.co/JlEv0QB9FO"
+
+http://cslibrary.stanford.edu
+http://web.mit.edu
+
+Data Science Groups
+https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
+https://stanfordmlgroup.github.io
+https://web.stanford.edu/class/cs106s/ | CS106S
+
+https://github.com/oxford-cs-deepnlp-2017/lectures
+https://nlp.stanford.edu
+http://vision.stanford.edu/
+http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
+
 
 Books
 * [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
@@ -3942,17 +3950,18 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962
 -->
 
 More Learning Resources
+* [Toward Data Science](https://towardsdatascience.com)
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 * [Machine Learnings](https://machinelearnings.co)
+* [Partial Derivative](http://www.partiallyderivative.com)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 
 
 <!--
-https://towardsdatascience.com
-
-http://www.partiallyderivative.com
-
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning) 
+
+More Machine Learning Resources
+https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
 
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
 http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
@@ -3986,19 +3995,6 @@ https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Ren
 https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
-
-http://cslibrary.stanford.edu
-http://web.mit.edu
-
-Data Science Groups
-https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
-https://stanfordmlgroup.github.io
-https://web.stanford.edu/class/cs106s/ | CS106S
-
-https://github.com/oxford-cs-deepnlp-2017/lectures
-https://nlp.stanford.edu
-http://vision.stanford.edu/
-http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
 
 
@@ -4026,24 +4022,6 @@ http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-
 -->
 
 
-
-
-
-
-Front-Runners and Models
-* [PyTorch (Facebook)](http://pytorch.org) and [PyTorch GitHub](https://github.com/pytorch/pytorch)
-* [PyTorch Docs](http://pytorch.org/docs) and [PyTorch Examples](https://github.com/pytorch/examples)
-* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
-* [TensorFlow Playground](http://playground.tensorflow.org)
-* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
-
-Models
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
-
-Awesome
-
-<!--
 Awesome Data Science
 * [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
 * [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
@@ -4053,35 +4031,27 @@ Awesome Data Science
 * [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
 * [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
+* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
+* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
 * [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
+* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
-http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
-http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
-http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
-http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
-http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
+Front-Runners
+* [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
+* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
+* [TensorFlow Playground](http://playground.tensorflow.org)
+* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://www.tensorflow.org/tutorials/ | Tutorials  |  TensorFlow
-https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
+Models and Examples
+* [PyTorch Examples](https://github.com/pytorch/examples)
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+* [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
-http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
-
-https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
-
-
-
+<!--
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
@@ -4096,27 +4066,71 @@ https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
 https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
 
+http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
 https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
 https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
 http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
 http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
 http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
 
+http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
+http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
+http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
+
 https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
 https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
-https://github.com/MrGemy95/Tensorflow-Project-Template | MrGemy95/Tensorflow-Project-Template: A best practice for tensorflow project template architecture.
+https://github.com/fchollet/keras-resources
+https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 
+
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://www.tensorflow.org/tutorials/ | Tutorials  |  TensorFlow
+https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
+-->
+
+<!--
+Python- Statistics Stack- Scikit-Learn Reference
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
+* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
+* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
+
+Python- Image Processing- Scikit-Image (See also Python Imaging Library)
+* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
+* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
+
+http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
+-->
+
+<!--
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
 https://github.com/topics/pytorch-tutorials
 
-https://github.com/bharathgs/Awesome-pytorch-list
-https://github.com/rickiepark/awesome-pytorch
-https://github.com/spro/pytorch-list
-https://github.com/ritchieng/the-incredible-pytorch
-https://github.com/carpedm20/awesome-torch
-https://github.com/jtoy/awesome-tensorflow | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+
+https://www.tensorflow.org/mobile/
+https://www.tensorflow.org/mobile/tflite/
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 
 XGBoost
 https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
@@ -4124,14 +4138,6 @@ http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgb
 http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
-
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-
-https://github.com/fchollet/keras-resources
-https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 -->
 
 
@@ -4349,20 +4355,6 @@ Python- Statistics Stack- Scikit-Learn
 <!--
 https://scikits.appspot.com/scikits  
 -->
-
-Python- Statistics Stack- Scikit-Learn Reference
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
-* [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
-* [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
-
-Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
-* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
 Python- Statistics Stack- Documents and Galleries
 * [SciPy Stack](http://www.scipy.org/docs.html)  
