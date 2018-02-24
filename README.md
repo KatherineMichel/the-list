@@ -4182,6 +4182,8 @@ http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent o
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 Batch and mini batch gradient descent
+Gradient descent with momentum
+Exponentially weighted averages
 RMSProp
 Adam Optimization
 AdaGrad
@@ -4202,6 +4204,10 @@ Learning Rates/Learning Rate Decay Methods
 
 Grad Check
 
+<!--
+grad check doesn't work with dropout
+only use grad check when debugging 
+-->
 
 SOTA Models
 
@@ -4258,32 +4264,6 @@ Fully-connected neural networks without embeddings
 None of the above
 -->
 
-
-
-
-<!--
-neural network architecture 
-dot product bias non-linearity 
-
-vector
-lambd
-
-Activation Functions
-Threshold Function
-
-https://en.wikipedia.org/wiki/Hyperbolic_function
-
-Gradient descent with momentum
-Exponentially weighted averages
-
-grad check doesn't work with dropout
-only use grad check when debugging 
-
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
--->
 
 
 Linear Algebra and Calculus- wikipedia
