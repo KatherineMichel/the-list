@@ -4128,6 +4128,9 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Pytho
 <!--
 SOTA
 
+Normalizing inputs
+Weight initialization
+
 https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
 https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
@@ -4144,8 +4147,18 @@ https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
 https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
 
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
-http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+Gradient descent with momentum
+Batch and mini batch gradient descent
+Exponentially weighted averages
+RMSProp
+Adam Optimization
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+
+Learning Rates
+
+https://en.wikipedia.org/wiki/Regularization_(mathematics)
+L1 Regularization
 
 ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
