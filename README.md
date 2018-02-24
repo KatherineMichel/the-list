@@ -4161,6 +4161,9 @@ http://mathworld.wolfram.com/HyperbolicTangent.html
 Loss/Cost Function
 
 <!--
+Loss/Cost Function
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
+
 https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
 https://en.wikipedia.org/wiki/Mean_squared_error (a.k.a. Quadratic Cost Function
 Cross-Entropy Cost Function
@@ -4171,6 +4174,11 @@ Optimizing Gradient Descent
 
 <!--
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+Batch and mini batch gradient descent
+RMSProp
+Adam Optimization
 -->
 
 Regularization
@@ -4180,49 +4188,9 @@ https://en.wikipedia.org/wiki/Regularization_(mathematics)
 L2 Regularization
 -->
 
+SOTA Models
 
 <!--
-SOTA
-
-neural network architecture 
-dot product bias non-linearity 
-
-vector
-lambd
-
-Activation Functions
-Threshold Function
-
-https://en.wikipedia.org/wiki/Hyperbolic_function
-
-Loss/Cost Function
-https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
-
-https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
-https://en.wikipedia.org/wiki/Stochastic_gradient_descent
-Gradient descent with momentum
-Batch and mini batch gradient descent
-Exponentially weighted averages
-RMSProp
-Adam Optimization
-
-Learning rates
-Learning rate decay methods 
-
-grad check doesn't work with dropout
-only use grad check when debugging 
-
-ImageNet
-* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
-* [ImageNet Explore](http://image-net.org/explore)
-* [ImageNet Challenges](http://image-net.org/challenges)
-
-http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
-https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
-https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
-
-
-Models
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
 ResNet-50 (image classification)
 Other ResNet models (image classification)
@@ -4265,6 +4233,42 @@ Other convolutional neural networks on image-like data
 Fully-connected neural networks with embeddings
 Fully-connected neural networks without embeddings
 None of the above
+-->
+
+
+
+
+<!--
+neural network architecture 
+dot product bias non-linearity 
+
+vector
+lambd
+
+Activation Functions
+Threshold Function
+
+https://en.wikipedia.org/wiki/Hyperbolic_function
+
+Gradient descent with momentum
+Exponentially weighted averages
+
+Hyperparameters
+
+Learning rates
+Learning rate decay methods 
+
+grad check doesn't work with dropout
+only use grad check when debugging 
+
+ImageNet
+* [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+* [ImageNet Explore](http://image-net.org/explore)
+* [ImageNet Challenges](http://image-net.org/challenges)
+
+http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
+https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
+https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
 -->
 
 
