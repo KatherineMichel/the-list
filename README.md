@@ -3649,6 +3649,10 @@ https://medium.com/tag/machine-learning | The most insightful stories about Mach
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 
 https://math.stackexchange.com
+https://cs.stackexchange.com
+https://algorithmsdatascience.quora.com
+https://stats.stackexchange.com
+http://statweb.stanford.edu
 -->
 
 Data Science Websites
@@ -3911,9 +3915,16 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 http://karpathy.github.io/neuralnets/ | Hacker's guide to Neural Networks
 
+http://cs231n.stanford.edu/reports
+http://cs231n.github.io
 http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/convolutional-networks/ | CS231n Convolutional Neural Networks for Visual Recognition
+
+http://cs231n.github.io/neural-networks-2/ | CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/neural-networks-3/ | CS231n Convolutional Neural Networks for Visual Recognition
+
+http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
+https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy on Twitter: "Gradient checking neural nets is hard, with many amusing subtleties. Updated my cs231n section on it; Now quite long http://t.co/JlEv0QB9FO"
 -->
 
 Books
