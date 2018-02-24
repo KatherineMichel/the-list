@@ -4128,6 +4128,12 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Pytho
 <!--
 SOTA
 
+neural network architecture 
+dot product bias non-linearity 
+
+vector
+lambd
+
 Normalizing inputs
 Weight initialization
 
@@ -4155,10 +4161,13 @@ RMSProp
 Adam Optimization
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 
-Learning Rates
+Learning rates
+Learning rate decay methods 
 
 https://en.wikipedia.org/wiki/Regularization_(mathematics)
-L1 Regularization
+L2 Regularization
+grad check doesn't work with dropout
+only use grad check when debugging 
 
 ImageNet
 * [ImageNet](http://image-net.org) and [ImageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
@@ -4221,6 +4230,8 @@ Linear Algebra and Calculus- wikipedia
 
 
 <!--
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+
 Jeremy Howard- Matrix Calculus
 https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
 http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
