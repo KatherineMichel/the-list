@@ -4057,6 +4057,7 @@ https://discuss.pytorch.org/ | (3) PyTorch Forums
 
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials
+https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
 
 https://www.tensorflow.org/performance/performance_guide
@@ -4065,6 +4066,14 @@ https://www.tensorflow.org/performance/performance_models
 https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
 https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
 
 http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
 https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
@@ -4083,18 +4092,6 @@ https://www.kaggle.com/pvlima/pretrained-pytorch-models
 https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
-
-
-
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://www.tensorflow.org/tutorials/ | Tutorials  |  TensorFlow
-https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
-
-https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
 -->
 
 <!--
@@ -4141,6 +4138,17 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 -->
 
 
+Normalizing Inputs
+
+Weight Initialization
+
+Activation Functions
+
+Loss/Cost Function
+
+Optimizing Gradient Descent
+
+Regularization
 
 <!--
 SOTA
@@ -4150,9 +4158,6 @@ dot product bias non-linearity
 
 vector
 lambd
-
-Normalizing inputs
-Weight initialization
 
 https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
@@ -4194,6 +4199,7 @@ ImageNet
 http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
 https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
 https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
+
 
 Models
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
