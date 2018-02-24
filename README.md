@@ -4109,6 +4109,8 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 * [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
 * [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
 
+https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
+
 http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
 http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
 http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
@@ -4144,11 +4146,40 @@ Weight Initialization
 
 Activation Functions
 
+<!--
+https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
+
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
+https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
+https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+http://reference.wolfram.com/language/ref/Tanh.html
+http://mathworld.wolfram.com/HyperbolicTangent.html
+-->
+
 Loss/Cost Function
+
+<!--
+https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
+https://en.wikipedia.org/wiki/Mean_squared_error (a.k.a. Quadratic Cost Function
+Cross-Entropy Cost Function
+https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression
+-->
 
 Optimizing Gradient Descent
 
+<!--
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+-->
+
 Regularization
+
+<!--
+https://en.wikipedia.org/wiki/Regularization_(mathematics)
+L2 Regularization
+-->
+
 
 <!--
 SOTA
@@ -4159,19 +4190,12 @@ dot product bias non-linearity
 vector
 lambd
 
-https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | Artificial Neural Networks/Activation Functions - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
-https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
-https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
+Activation Functions
 Threshold Function
-https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
-http://reference.wolfram.com/language/ref/Tanh.html
-http://mathworld.wolfram.com/HyperbolicTangent.html
-https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
+
 https://en.wikipedia.org/wiki/Hyperbolic_function
 
 Loss/Cost Function
-https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
 https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
 
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
@@ -4181,13 +4205,10 @@ Batch and mini batch gradient descent
 Exponentially weighted averages
 RMSProp
 Adam Optimization
-http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 
 Learning rates
 Learning rate decay methods 
 
-https://en.wikipedia.org/wiki/Regularization_(mathematics)
-L2 Regularization
 grad check doesn't work with dropout
 only use grad check when debugging 
 
@@ -4420,7 +4441,6 @@ Python- Statistics Stack- Pandas
 * [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
 
 <!--
-https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
 https://github.com/pandas-dev/pandas
 -->
 
