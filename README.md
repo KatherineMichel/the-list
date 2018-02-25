@@ -4146,6 +4146,10 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 
 Normalizing Inputs/Feature Scaling
 
+<!--
+https://en.wikipedia.org/wiki/Feature_scaling | Feature scaling - Wikipedia
+-->
+
 Weight Initialization
 
 Activation Functions
@@ -4177,7 +4181,9 @@ https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_log
 Optimizing Gradient Descent
 
 <!--
+https://en.wikipedia.org/wiki/Derivative | Derivative - Wikipedia
 https://en.wikipedia.org/wiki/Backpropagation
+https://en.wikipedia.org/wiki/Chain_rule | Chain rule - Wikipedia
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
