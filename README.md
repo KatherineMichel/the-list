@@ -4255,6 +4255,13 @@ only use grad check when debugging
 SOTA Models
 
 <!--
+Supervised Learning slide- 
+Real Estate, Online Ads- NN
+Photo Tagging- CNN
+Speech Recognition, Machine Translation- RNN
+Autonomous Driving- Custom/Hybrid
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
+
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
 
 Image Classification
