@@ -4093,6 +4093,9 @@ http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.mo
 https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
 https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
+https://keras.io/initializers/ | Initializers - Keras Documentation
+https://keras.io/optimizers/ | Optimizers - Keras Documentation
+
 https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
@@ -4144,6 +4147,14 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 -->
 
 
+<!--
+Improving Deep Neural Networks
+https://www.coursera.org/learn/deep-neural-network/home/welcome
+
+Improving the way neural networks learn
+http://neuralnetworksanddeeplearning.com/chap3.html
+-->
+
 Normalizing Inputs/Feature Scaling
 
 <!--
@@ -4164,6 +4175,12 @@ https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
 https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
 http://reference.wolfram.com/language/ref/Tanh.html
 http://mathworld.wolfram.com/HyperbolicTangent.html
+-->
+
+Bias-Variance Tradeoff
+
+<!--
+https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff | Bias–variance tradeoff - Wikipedia
 -->
 
 Loss/Cost Function
