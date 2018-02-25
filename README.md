@@ -4224,6 +4224,7 @@ https://en.wikipedia.org/wiki/Regularization_(mathematics)
 L2 Regularization
 L1 Regularization
 Dropout
+Early Stopping
 -->
 
 Hyperparameters
