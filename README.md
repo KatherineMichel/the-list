@@ -4059,6 +4059,8 @@ Models and Examples
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
+https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials
 https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
@@ -4170,6 +4172,7 @@ https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions | 
 https://en.wikipedia.org/wiki/Activation_function | Activation function - Wikipedia
 
 https://en.wikipedia.org/wiki/Rectifier_(neural_networks) | Rectifier (neural networks) - Wikipedia
+Softmax Regression- Multi-Class Classification
 https://en.wikipedia.org/wiki/Softmax_function | Softmax function - Wikipedia
 https://en.wikipedia.org/wiki/Sigmoid_function | Sigmoid function - Wikipedia
 https://en.wikipedia.org/wiki/Hyperbolic_function#Hyperbolic_tangent | Hyperbolic function - Wikipedia
@@ -4212,6 +4215,8 @@ Adam Optimization
 AdaGrad
 -->
 
+Batch Norm (Usually Mini-Batches)
+
 Regularization
 
 <!--
@@ -4222,6 +4227,21 @@ Dropout
 -->
 
 Hyperparameters
+
+<!--
+General Importance
+
+1- Learning rate alpha
+
+2- Momentum term beta
+3- Mini-batch size
+4- # of hidden units
+
+5- # of layers
+6- Learning rate decay
+
+Adam- Beta 1, Beta 2, Epison
+-->
 
 Learning Rates/Learning Rate Decay Methods 
 
