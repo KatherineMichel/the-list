@@ -3582,6 +3582,7 @@ https://www.wolframalpha.com/examples/science-and-technology/computational-scien
 https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
 
 https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
+
 https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
