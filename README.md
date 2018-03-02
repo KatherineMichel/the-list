@@ -3668,10 +3668,6 @@ https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | 
 -->
 
 
-Google Machine Learning Learning Resources
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
-
 Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
 * [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
@@ -3797,6 +3793,32 @@ https://www.class-central.com/course/kadenze-creative-applications-of-deep-learn
 https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
 
+
+Google Machine Learning Learning Resources
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
+
+<!--
+https://developers.google.com/machine-learning/crash-course
+
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
+
+Google Open Online Education
+https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
+
+https://www.tensorflow.org/api_docs/
+https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
+
+https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
+-->
 
 MIT 6.S191: Introduction to Deep Learning
 * [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
@@ -4212,6 +4234,7 @@ Loss/Cost Function
 https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications/154880 | machine learning - A list of cost functions used in neural networks, alongside applications - Cross Validated
 
 https://en.wikipedia.org/wiki/Loss_function | Loss function - Wikipedia
+Squared Error
 https://en.wikipedia.org/wiki/Mean_squared_error (a.k.a. Quadratic Cost Function
 Cross-Entropy Cost Function
 https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression
@@ -4239,9 +4262,11 @@ Batch Norm (Usually Mini-Batches)
 Regularization
 
 <!--
+Regularization Rate
 https://en.wikipedia.org/wiki/Regularization_(mathematics)
+L0 Regularization
 L2 Regularization
-L1 Regularization
+L1 Regularization/L1 Weight Decay
 Dropout
 Early Stopping
 -->
