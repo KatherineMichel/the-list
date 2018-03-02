@@ -4151,6 +4151,24 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 
 
 <!--
+y = mx + b
+y = wx + b
+
+https://en.wikipedia.org/wiki/Data_processing
+Data Normalization
+
+https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+https://en.wikipedia.org/wiki/Precision_and_recall
+
+https://en.wikipedia.org/wiki/Feature_vector
+https://en.wikipedia.org/wiki/Feature_scaling
+https://en.wikipedia.org/wiki/Feature_engineering
+
+Classification vs. Regression
+Linear Regression vs. Logistic Regression
+Linear Regression Loss Function = Squared Loss
+Logistic Regression Loss Function = Log Loss
+
 Improving Deep Neural Networks
 https://www.coursera.org/learn/deep-neural-network/home/welcome
 
@@ -4334,7 +4352,7 @@ https://en.wikipedia.org/wiki/Vector_calculus
 https://en.wikipedia.org/wiki/Multivariable_calculus
 https://en.wikipedia.org/wiki/Differential_calculus
 https://en.wikipedia.org/wiki/Dot_product
-
+https://en.wikipedia.org/wiki/Cross_product
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
