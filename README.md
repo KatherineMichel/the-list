@@ -2996,6 +2996,7 @@ Python- Official Packaging Info
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
+https://github.com/pypa/python-packaging-user-guide | pypa/python-packaging-user-guide: Python Packaging User Guide
 https://github.com/pypa/python-packaging-user-guide/issues
 -->
 
@@ -3512,6 +3513,11 @@ https://www.kaggle.com/getting-started | Kaggle: Your Home for Data Science
 https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
 http://blog.kaggle.com/2013/09/25/the-playground/ | The Playground | No Free Hunch
 
+https://www.kaggle.com/wiki/Tutorials | Tutorials | Kaggle
+https://www.datacamp.com/community/tags/kaggle | kaggle
+https://www.kaggle.com/about/inclass/faqs | Kaggle: Your Home for Data Science
+https://www.kaggle.com/learn/sql | Learn | Kaggle
+
 https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
 https://www.twitch.tv/rctatman | rctatman - Twitch
 https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
@@ -3535,6 +3541,9 @@ http://ndres.me/kaggle-past-solutions
 Kaggle National Data Science Bowl
 https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
 https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+
+https://www.kaggle.com/careers/ | Careers | Kaggle
+https://www.kaggle.com/careercon/2018 | Kaggle CareerCon 2018
 -->
 
 ## Data Science
@@ -3708,6 +3717,8 @@ Learning Paths
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 <!--
+https://twitter.com/math_rachel/status/967689690328350720 | Rachel Thomas on Twitter: "Question: what are your favorite "intro to data science" courses/blogs/websites?"
+
 https://github.com/kjaisingh/high-school-guide-to-machine-learning | kjaisingh/high-school-guide-to-machine-learning: Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
 
 https://github.com/ossu/data-science
