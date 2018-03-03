@@ -2595,6 +2595,8 @@ https://docs.python.org/3/tutorial/classes.html
 https://docs.python.org/3/tutorial/datastructures.html
 https://docs.python.org/3/tutorial/controlflow.html
 
+https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
+
 https://docs.python.org/3/library/__main__.html
 https://docs.python.org/3/library/builtins.html
 https://docs.python.org/3.7/library/array.html
@@ -2610,17 +2612,22 @@ https://docs.python.org/3/library/http.html
 https://docs.python.org/3/library/html.html
 https://docs.python.org/3/library/json.html
 
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3/library/stdtypes.html
+https://docs.python.org/3/library/exceptions.html
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/os.path.html
+https://docs.python.org/3/library/time.html
+https://docs.python.org/3/library/math.html
+https://docs.python.org/3/library/statistics.html
+https://docs.python.org/3/library/text.html
 
 
-https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
 
-https://docs.python.org/3.6/library/functions.html | 2. Built-in Functions — Python 3.6.3 documentation
-https://docs.python.org/3/library/functions.html | 2. Built-in Functions — Python 3.6.4 documentation
+
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
 https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
-https://docs.python.org/3/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html | 4. Built-in Types — Python 3.6.3 documentation
-
+h
 https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
@@ -2639,8 +2646,6 @@ https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itert
 https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
 
 https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
-https://docs.python.org/3.6/library/os.html | 16.1. os — Miscellaneous operating system interfaces — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/sys.html | 29.1. sys — System-specific parameters and functions — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/string.html
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html
