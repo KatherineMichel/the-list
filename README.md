@@ -2569,18 +2569,48 @@ https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level co
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
 
-https://docs.python.org/3/ | 3.6.4rc1 Documentation
-https://docs.python.org/3/contents.html
-https://docs.python.org/3.6/glossary.html | Glossary — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/ | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3/library/index.html | The Python Standard Library — Python 3.6.3 documentation
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/py-modindex.html
-https://docs.python.org/3.6/howto/ | Python HOWTOs — Python 3.6.3 documentation
 
-https://docs.python.org/3/ | 3.6.2 Documentation
+
+https://docs.python.org/3/ | 3.6.4rc1 Documentation
 https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
 Django Sites
+https://docs.python.org/3/contents.html
+https://docs.python.org/3/genindex.html
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/py-modindex.html
+https://docs.python.org/3/howto/index.html
+https://docs.python.org/3/glossary.html
+https://docs.python.org/3/tutorial/whatnow.html
+
+https://docs.python.org/3/distributing/index.html
+https://docs.python.org/3/tutorial/modules.html
+https://docs.python.org/3/installing/index.html
+https://docs.python.org/3/tutorial/venv.html
+https://docs.python.org/3/tutorial/errors.html
+
+https://docs.python.org/3/tutorial/stdlib.html
+https://docs.python.org/3/tutorial/classes.html
+https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/3/tutorial/controlflow.html
+
+https://docs.python.org/3/library/__main__.html
+https://docs.python.org/3/library/builtins.html
+https://docs.python.org/3.7/library/array.html
+https://docs.python.org/3.7/library/collections.html
+https://docs.python.org/3/library/development.html
+https://docs.python.org/3/library/debug.html
+https://docs.python.org/3/library/traceback.html
+https://docs.python.org/3/library/distribution.html
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/http.html
+https://docs.python.org/3/library/html.html
+https://docs.python.org/3/library/json.html
+
+
 
 https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
 
@@ -2601,14 +2631,11 @@ https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model —
 https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/collections.html | 8.3. collections — Container datatypes — Python 3.6.4rc1 documentation
 
 https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
 https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
 
 https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
-https://docs.python.org/3/library/abc.html | 29.7. abc — Abstract Base Classes — Python 3.6.3 documentation
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
 
 https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
