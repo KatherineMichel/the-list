@@ -2483,6 +2483,7 @@ https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
+
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
@@ -2541,22 +2542,6 @@ https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 ## What's New
 
 <!--
-https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
--->
-
-<!--
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
-https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
-
-
-https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/builtins.html#module-builtins
-https://docs.python.org/3.6/library/constants.html#built-in-consts
-
-
 https://docs.python.org/3/ | 3.6.4rc1 Documentation
 https://docs.python.org/3/contents.html
 https://docs.python.org/3/genindex.html
@@ -2575,6 +2560,9 @@ https://docs.python.org/3/tutorial/modules.html
 https://docs.python.org/3/installing/index.html
 https://docs.python.org/3/tutorial/venv.html
 
+https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/builtins.html#module-builtins
+https://docs.python.org/3.6/library/constants.html#built-in-consts
 
 
 https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
