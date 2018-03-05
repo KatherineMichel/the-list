@@ -2482,10 +2482,6 @@ https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't
 
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
-https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
-
-https://github.com/google/yapf | google/yapf: A formatter for Python files
-https://github.com/fcurella/yapf-django | fcurella/yapf-django: Yapf style config for django code.
 
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
@@ -2553,13 +2549,12 @@ Kenneth Reitz Advice to Me
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
-Kenneth Reitz
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://docs.python.org/3.6/tutorial/datastructures.html
-https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
-https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More Control Flow Tools — Python 3.6.4 documentation
 
+
+https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
+https://docs.python.org/3.6/library/builtins.html#module-builtins
+https://docs.python.org/3.6/library/constants.html#built-in-consts
 
 
 https://docs.python.org/3/ | 3.6.4rc1 Documentation
@@ -3199,8 +3194,6 @@ Concepts
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
 
 <!--
 https://sourcemaking.com/uml/introduction | Introduction
@@ -3208,12 +3201,7 @@ https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
 
 https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
 
-https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
-https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
-
 https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
-
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 
 http://staruml.io/ | StarUML
 https://www.draw.io/ | draw.io
@@ -3261,10 +3249,6 @@ Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 -->
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
 ## Algorithms and Design Patterns
 
