@@ -2545,16 +2545,7 @@ https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 ## What's New
 
 <!--
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.6.4 documentation
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
-
-https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/ | Django 2.0 released | Weblog | Django
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
-https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-https://media.readthedocs.org/pdf/django/2.0.x/django.pdf | django.pdf
-https://docs.djangoproject.com/en/2.0/ | Django documentation | Django documentation | Django
 -->
 
 <!--
@@ -2572,8 +2563,6 @@ https://docs.python.org/3/tutorial/controlflow.html#defining-functions | 4. More
 
 
 https://docs.python.org/3/ | 3.6.4rc1 Documentation
-https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
-Django Sites
 https://docs.python.org/3/contents.html
 https://docs.python.org/3/genindex.html
 https://docs.python.org/3/tutorial/introduction.html
@@ -2585,46 +2574,40 @@ https://docs.python.org/3/glossary.html
 https://docs.python.org/3/tutorial/whatnow.html
 
 https://docs.python.org/3/distributing/index.html
+https://docs.python.org/3/library/distribution.html
 https://docs.python.org/3/tutorial/modules.html
 
 https://docs.python.org/3/installing/index.html
 https://docs.python.org/3/tutorial/venv.html
 
-https://docs.python.org/3/library/development.html
-https://docs.python.org/3/library/debug.html
-https://docs.python.org/3/library/traceback.html
-https://docs.python.org/3/library/distribution.html
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/http.html
-https://docs.python.org/3/library/html.html
-https://docs.python.org/3/library/json.html
 
-
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/library/os.path.html
-https://docs.python.org/3/library/time.html
-https://docs.python.org/3/library/math.html
-https://docs.python.org/3/library/statistics.html
-https://docs.python.org/3/library/text.html
-
-
-https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
-https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
 
 https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
 https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
 
-https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
-https://docs.python.org/3.6/library/string.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/howto/argparse.html
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/logging.config.html
 
 https://docs.python.org/3.7/tutorial/floatingpoint.html | 15. Floating Point Arithmetic: Issues and Limitations — Python 3.7.0b1 documentation
+
+
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+
+https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/os.path.html
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/howto/argparse.html
+https://docs.python.org/3/library/pathlib.html
+
+https://docs.python.org/3/library/http.html
+https://docs.python.org/3/library/html.html
+https://docs.python.org/3/library/json.html
+https://docs.python.org/3/library/text.html
+https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
+https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3/howto/regex.html
 -->
 
 ## Python and Django Books and Tutorials
