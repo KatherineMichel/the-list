@@ -2586,21 +2586,10 @@ https://docs.python.org/3/tutorial/whatnow.html
 
 https://docs.python.org/3/distributing/index.html
 https://docs.python.org/3/tutorial/modules.html
+
 https://docs.python.org/3/installing/index.html
 https://docs.python.org/3/tutorial/venv.html
-https://docs.python.org/3/tutorial/errors.html
 
-https://docs.python.org/3/tutorial/stdlib.html
-https://docs.python.org/3/tutorial/classes.html
-https://docs.python.org/3/tutorial/datastructures.html
-https://docs.python.org/3/tutorial/controlflow.html
-
-https://docs.python.org/3.6/howto/functional.html | Functional Programming HOWTO — Python 3.6.3 documentation
-
-https://docs.python.org/3/library/__main__.html
-https://docs.python.org/3/library/builtins.html
-https://docs.python.org/3.7/library/array.html
-https://docs.python.org/3.7/library/collections.html
 https://docs.python.org/3/library/development.html
 https://docs.python.org/3/library/debug.html
 https://docs.python.org/3/library/traceback.html
@@ -2612,9 +2601,7 @@ https://docs.python.org/3/library/http.html
 https://docs.python.org/3/library/html.html
 https://docs.python.org/3/library/json.html
 
-https://docs.python.org/3/library/functions.html
-https://docs.python.org/3/library/stdtypes.html
-https://docs.python.org/3/library/exceptions.html
+
 https://docs.python.org/3/library/os.html
 https://docs.python.org/3/library/os.path.html
 https://docs.python.org/3/library/time.html
@@ -2622,22 +2609,6 @@ https://docs.python.org/3/library/math.html
 https://docs.python.org/3/library/statistics.html
 https://docs.python.org/3/library/text.html
 
-
-
-
-https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
-https://docs.python.org/3/library/datatypes.html | 8. Data Types — Python 3.6.3 documentation
-h
-https://docs.python.org/3.6/library/stdtypes.html#dict | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq-common | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/stdtypes.html#typesseq-mutable | 4. Built-in Types — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/string.html | 6.1. string — Common string operations — Python 3.6.4 documentation
-
-https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/compound_stmts.html#class | 8. Compound statements — Python 3.6.3 documentation
-https://docs.python.org/3.6/reference/compound_stmts.html#function | 8. Compound statements — Python 3.6.3 documentation
 
 https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
 https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
