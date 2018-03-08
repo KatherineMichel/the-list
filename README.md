@@ -850,6 +850,8 @@ Keyboard Shortcuts
 #### Command Line and Shell
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
 
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
 https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
@@ -2457,24 +2459,11 @@ https://docs.google.com/spreadsheets/d/17i6PGTMHd9JHG1CKw0mKckUQehTXFPvabVuC8vfT
 
 
 
+
+
 <!--
-Extra
-https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
-
-https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
-
 https://app.pluralsight.com/player?course=advanced-python&author=robert-smallshire&name=advanced-python-m0&clip=0&mode=live | Advanced Python
 https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents | Getting Started with the Python Standard Library | Pluralsight
-
-https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
@@ -2483,46 +2472,7 @@ https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/pallets/click
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/flake8
-https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
-https://docs.python.org/3.5/library/unittest.html
-
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
-https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-
-https://docs.python.org/3/library/pdb.html | 27.3. pdb — The Python Debugger — Python 3.6.4 documentation
-https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger | Working with pdb to Debug Python Code | DigitalOcean
-https://docs.python.org/3/tutorial/errors.html | 8. Errors and Exceptions — Python 3.6.4 documentation
-https://docs.python.org/3/library/unittest.html | 26.4. unittest — Unit testing framework — Python 3.6.4 documentation
-https://docs.python.org/3.7/library/unittest.mock.html | 27.5. unittest.mock — mock object library — Python 3.7.0b1 documentation
-https://docs.python.org/3/library/traceback.html | 29.9. traceback — Print or retrieve a stack traceback — Python 3.6.4 documentation
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
-
-https://docs.djangoproject.com/en/2.0/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
-
-
-
 https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressions-cef70ccb49db | Python List Comprehensions VS Generator Expressions
-
-
-http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
-
 
 http://pyvideo.org/pycon-us-2017/the-python-visualization-landscape.html | PyVideo.org · The Python Visualization Landscape
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
@@ -2626,6 +2576,10 @@ Learning Platforms (See also others)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
+https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be | Google Python Class Day 1 Part 1 - YouTube
+
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+
 http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
 
 http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
@@ -2639,6 +2593,8 @@ http://campus.codeschool.com/courses/try-django/contents
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-coding-challenges: freeCodeCamp's stand-alone Python coding challenges
 https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
+
+http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
 -->
 
 Pluralsight and DataCamp
@@ -2702,6 +2658,18 @@ https://learnpythonthehardway.org/book/nopython3.html
 https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
+
+Extra
+https://automatetheboringstuff.com/chapter6/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+https://ehmatthes.github.io/pcc/chapter_01/osx_setup.html | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
 -->
 
 Python Tutors- YouTube
@@ -3187,6 +3155,8 @@ https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
 https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
 https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
 
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+
 https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
 https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
 
@@ -3589,13 +3559,6 @@ Data Monetization
 * [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
 * [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
 
-Linear/Regression (Supervised Learning)
-* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
-* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
-* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
-* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
-* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
-
 Statistics- General
 * [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
 * [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
@@ -3807,6 +3770,17 @@ https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
 https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
 https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
 https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
+
+https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
+
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
+https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
+https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA | Google Open Online Education - YouTube - YouTube
+https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
+https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
+https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
+http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
 -->
 
 MIT 6.S191: Introduction to Deep Learning
@@ -4162,6 +4136,13 @@ https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-lea
 
 
 <!--
+Linear/Regression (Supervised Learning)
+* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
+* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
+* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
+* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
+* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
+
 y = mx + b
 y = wx + b
 
@@ -4179,6 +4160,10 @@ Classification vs. Regression
 Linear Regression vs. Logistic Regression
 Linear Regression Loss Function = Squared Loss
 Logistic Regression Loss Function = Log Loss
+
+https://en.wikipedia.org/wiki/Regression_analysis | Regression analysis - Wikipedia
+https://en.wikipedia.org/wiki/Linear_regression | Linear regression - Wikipedia
+https://en.wikipedia.org/wiki/Logistic_regression | Logistic regression - Wikipedia
 
 Improving Deep Neural Networks
 https://www.coursera.org/learn/deep-neural-network/home/welcome
