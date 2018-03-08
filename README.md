@@ -3158,10 +3158,52 @@ Programming Paradigms
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 
 <!--
+https://en.wikipedia.org/wiki/Software_development | Software development - Wikipedia
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
+
+https://en.wikipedia.org/wiki/Relational_database | Relational database - Wikipedia
+
 https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
 
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
+
+https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
+https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
+
+https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
+
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
+
+https://en.wikipedia.org/wiki/Use_case | Use case - Wikipedia
+https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
+https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
+https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792/ref=sr_1_8?s=books&ie=UTF8&qid=1520204455&sr=1-8 | Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development: Craig Larman: 9788177589795: Amazon.com: Books
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Development/dp/9332553947/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Applying UML Patterns : An Introduction to Object -Oriented Analysis, Design and Iterative Development: Craig Larman: 9789332553941: Amazon.com: Books
+
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
+
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
+
+https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
 -->
 
 Object Oriented Programming
@@ -3179,6 +3221,8 @@ Concepts
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+
+
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
@@ -3199,6 +3243,9 @@ https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association e
 https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
 django uml - Google Search
 -->
+
+
+
 
 ## Python- Programming Paradigms
 
