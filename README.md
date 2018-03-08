@@ -2477,14 +2477,7 @@ https://medium.freecodecamp.org/python-list-comprehensions-vs-generator-expressi
 http://pyvideo.org/pycon-us-2017/the-python-visualization-landscape.html | PyVideo.org · The Python Visualization Landscape
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
-https://github.com/python/performance
-
-https://wiki.python.org/moin/PythonSpeed/PerformanceTips | PythonSpeed/PerformanceTips - Python Wiki
-
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
-
-
-https://en.wikipedia.org/wiki/Mixin | Mixin - Wikipedia
 -->
 
 
@@ -2594,7 +2587,7 @@ https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-coding-challenges: freeCodeCamp's stand-alone Python coding challenges
 https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
 
-http://news.codecademy.com/why-learn-python/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-12-18&utm_content=why-learn-python | Why I'm Learning Python in 2018
+http://news.codecademy.com/why-learn-python | Why I'm Learning Python in 2018
 -->
 
 Pluralsight and DataCamp
@@ -2959,7 +2952,7 @@ Mozilla Development Network
 
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
 
 
 Python- Django- Dedicated Websites
@@ -4146,6 +4139,13 @@ Linear/Regression (Supervised Learning)
 y = mx + b
 y = wx + b
 
+https://en.wikipedia.org/wiki/Linearity | Linearity - Wikipedia
+https://en.wikipedia.org/wiki/Nonlinear_system | Nonlinear system - Wikipedia
+https://en.wikipedia.org/wiki/Supervised_learning | Supervised learning - Wikipedia
+https://en.wikipedia.org/wiki/Unsupervised_learning | Unsupervised learning - Wikipedia
+https://en.wikipedia.org/wiki/Reinforcement_learning | Reinforcement learning - Wikipedia
+
+https://en.wikipedia.org/wiki/Unstructured_data | Unstructured data - Wikipedia
 https://en.wikipedia.org/wiki/Data_processing
 Data Normalization
 
@@ -4220,6 +4220,7 @@ Optimizing Gradient Descent
 https://en.wikipedia.org/wiki/Derivative | Derivative - Wikipedia
 https://en.wikipedia.org/wiki/Backpropagation
 https://en.wikipedia.org/wiki/Chain_rule | Chain rule - Wikipedia
+https://en.wikipedia.org/wiki/Gradient | Gradient - Wikipedia
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 https://en.wikipedia.org/wiki/Gradient_descent | Gradient descent - Wikipedia
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
@@ -4242,7 +4243,7 @@ L0 Regularization
 L2 Regularization
 L1 Regularization/L1 Weight Decay
 Dropout
-Early Stopping
+https://en.wikipedia.org/wiki/Early_stopping | Early stopping - Wikipedia
 -->
 
 Hyperparameters
