@@ -1024,10 +1024,16 @@ Wolfram
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Khan Academy Math](https://www.khanacademy.org/math)
+* [Math Dot Com](http://www.math.com)
 * [Math Overflow](http://mathoverflow.net)
 * [Stack Exchange Math](https://math.stackexchange.com)
 * [Stack Exchange Stats](https://stats.stackexchange.com)
-* [Math is Fun](http://www.mathsisfun.com)
+* [Maths is Fun](http://www.mathsisfun.com)
+
+<!--
+http://community.wolfram.com
+http://www.wolframalpha.com/calculators
+-->
 
 ## Books
 
@@ -3598,11 +3604,15 @@ https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeC
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 
-https://math.stackexchange.com
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+
 https://cs.stackexchange.com
-https://algorithmsdatascience.quora.com
-https://stats.stackexchange.com
 http://statweb.stanford.edu
+https://datascience.stackexchange.com
+https://algorithmsdatascience.quora.com
 -->
 
 Data Science Websites
