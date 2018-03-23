@@ -2810,6 +2810,8 @@ Python- Books
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 
 <!--
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
+
 Amazon Python Book Search
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 
@@ -3709,6 +3711,8 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 Data Camp
 
 <!--
+https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
+
 Cheat Sheets
 http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
 http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
