@@ -1036,6 +1036,8 @@ Books
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [No Starch Press](https://www.nostarch.com)
+* [Humble Bundle](https://www.humblebundle.com)
+* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
 
 <!--
 https://pragprog.com/ | The Pragmatic Bookshelf
