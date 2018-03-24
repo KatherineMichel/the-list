@@ -96,6 +96,7 @@ https://code.facebook.com/applied-machine-learning/ | Applied Machine Learning |
 
 * [AddThis GitHub](https://github.com/addthis)
 * [Airbnb Engineering](https://medium.com/airbnb-engineering) and [Airbnb GitHub](https://github.com/airbnb)
+* [EdX GitHub](https://github.com/edx)
 * [Etsy Code as Craft Engineering Blog](https://codeascraft.com)
 * [Dropbox Machine Learning](https://blogs.dropbox.com/tech/tag/machine-learning)
 * [Eventbrite Engineering](https://www.eventbrite.com/engineering)
