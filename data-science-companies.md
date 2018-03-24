@@ -1,6 +1,7 @@
 # Data Science Companies
 
-Companies that Create Leading Data Science Frameworks/Infrastructure
+## Companies that Create Leading Data Science Frameworks/Infrastructure
+
 * [Amazon GitHub](https://github.com/amzn)
 * [Amazon Labs GitHub](https://github.com/awslabs)
 * [Apache GitHub](https://github.com/apache)
@@ -28,7 +29,6 @@ Companies that Create Leading Data Science Frameworks/Infrastructure
 
 ## NVIDIA
 
-NVIDIA
 * [NVIDIA Developer](https://developer.nvidia.com)
 * [NVIDIA Dev Blog](http://devblogs.nvidia.com)
 * [NVIDIA Blogs](https://blogs.nvidia.com)
