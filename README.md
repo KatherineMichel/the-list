@@ -4579,10 +4579,6 @@ Data Science- Forums
 * [Stack Exchange AI](https://ai.stackexchange.com)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 
-Thought Pieces
-* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
-
 <!--
 https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
 https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
