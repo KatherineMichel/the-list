@@ -3042,11 +3042,8 @@ Stellar Programming Learning Resources
 
 
 <!--
-Google Technical Plan???
-
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
 
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
@@ -3064,11 +3061,22 @@ https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-boo
 https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
 
 
 <!--
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+Object-Oriented
+
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
 
 
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
@@ -3077,13 +3085,7 @@ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Intro
 
 https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
 
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
@@ -3147,13 +3149,16 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
+
+https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
+
 https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
 
 https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
 
 https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 -->
-
 
 ## Object-Oriented Design Patterns
 
@@ -3183,79 +3188,10 @@ https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (o
 https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
-
-
-
-
-## Programming Paradigms and Design Conventions
-
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
-<!--
-https://en.wikipedia.org/wiki/Coding_conventions
-
-https://en.wikipedia.org/wiki/Programming_style
-
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
--->
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
--->
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-
-<!--
-https://en.wikipedia.org/wiki/Software_development | Software development - Wikipedia
-
-https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
-
-https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
--->
-
-
-## Python- Programming Paradigms and Design Patterns
-
-Python Syntax and Semantics
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+## Object-Oriented Design Patterns- Python
 
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
 
 <!--
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
@@ -3279,11 +3215,70 @@ https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-b
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+-->
+
+## Programming Syntax and Conventions
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
+
+
+<!--
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+Python Syntax and Semantics
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
 
 Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
+
+General
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+* [Software Development](https://en.wikipedia.org/wiki/Software_development)
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
 -->
+
+<!--
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+-->
+
 
 
 ## Website Project Management
