@@ -946,9 +946,6 @@ https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree 
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 -->
 
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
 
@@ -3035,12 +3032,18 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 ## Crowdsourced, Curated Programming Learning Resources
 
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
 Stellar Programming Learning Resources
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
+
 <!--
+Google Technical Plan???
+
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
@@ -3093,6 +3096,7 @@ https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-s
 
 https://github.com/cs50/
 
+
 http://blog.interviewing.io
 https://github.com/yangshun/tech-interview-handbook
 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
@@ -3103,18 +3107,55 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
 -->
 
-## Design Patterns and Conventions
+
+## Programming Languages- General Concepts
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Programming Languages- Usage in Popular Websites
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+
+Scripting and MVCs
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+Object Oriented Programming
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+SOLID
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+Concepts
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 <!--
-https://en.wikipedia.org/wiki/Coding_conventions
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
 
-https://en.wikipedia.org/wiki/Programming_style
+https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
 
-Programming and Paradigm
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 -->
+
+
+## Object-Oriented Design Patterns
 
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -3142,25 +3183,29 @@ https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (o
 https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
 
+
+
+
+
+## Programming Paradigms and Design Conventions
+
+
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
+<!--
+https://en.wikipedia.org/wiki/Coding_conventions
 
-Programming Languages- Usage in Popular Websites
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+https://en.wikipedia.org/wiki/Programming_style
 
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+Programming and Paradigm
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
+-->
 
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
@@ -3185,13 +3230,6 @@ Comparison of multi-paradigm programming languages
 Comparison of type systems
 -->
 
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
 Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
@@ -3201,94 +3239,11 @@ Programming Paradigms
 
 <!--
 https://en.wikipedia.org/wiki/Software_development | Software development - Wikipedia
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
-https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
-https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
-
-https://en.wikipedia.org/wiki/Relational_database | Relational database - Wikipedia
 
 https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
 
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
-
-https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
-https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
-
-https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
-
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
-
-https://en.wikipedia.org/wiki/Use_case | Use case - Wikipedia
-https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
-https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
-https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
-
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792/ref=sr_1_8?s=books&ie=UTF8&qid=1520204455&sr=1-8 | Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development: Craig Larman: 9788177589795: Amazon.com: Books
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Development/dp/9332553947/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Applying UML Patterns : An Introduction to Object -Oriented Analysis, Design and Iterative Development: Craig Larman: 9789332553941: Amazon.com: Books
-
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
-
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
-
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
-
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
 -->
-
-Object Oriented Programming
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-SOLID
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-Concepts
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-
-
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-<!--
-https://sourcemaking.com/uml/introduction | Introduction
-https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
-
-https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
-
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
-
-https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
-
-https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
-django uml - Google Search
--->
-
-
 
 
 ## Python- Programming Paradigms and Design Patterns
@@ -3298,6 +3253,7 @@ Python Syntax and Semantics
 
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 * ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
 
@@ -3328,6 +3284,69 @@ Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 -->
+
+
+## Website Project Management
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+<!--
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
+
+https://en.wikipedia.org/wiki/Relational_database | Relational database - Wikipedia
+
+https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
+https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
+
+https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
+
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/Use_case | Use case - Wikipedia
+https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
+https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
+https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792/ref=sr_1_8?s=books&ie=UTF8&qid=1520204455&sr=1-8 | Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development: Craig Larman: 9788177589795: Amazon.com: Books
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Development/dp/9332553947/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Applying UML Patterns : An Introduction to Object -Oriented Analysis, Design and Iterative Development: Craig Larman: 9789332553941: Amazon.com: Books
+
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
+
+https://sourcemaking.com/uml/introduction | Introduction
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
+
+https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+
+https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association end multiplicity (Entity Data Model)
+
+https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
+django uml - Google Search
+-->
+
+
 
 
 ## Algorithms and Data Structures
