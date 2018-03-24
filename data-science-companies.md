@@ -6,7 +6,7 @@ Companies that Create Leading Data Science Frameworks/Infrastructure
 * [Apache GitHub](https://github.com/apache)
 * [Apple Machine Learning](https://machinelearning.apple.com) and [Apple GitHub](https://github.com/apple)
 * [Baidu GitHub](https://github.com/baidu)
-* [Baidu Research GitHub](https://github.com/baidu-research)
+* [Baidu Research](http://research.baidu.com) and [Baidu Research GitHub](https://github.com/baidu-research)
 * [Cisco GitHub](https://github.com/CiscoSystems)
 * [Cloudera GitHub](https://github.com/cloudera)
 * [DeepMind (Google) GitHub](https://github.com/deepmind)
@@ -26,7 +26,74 @@ Companies that Create Leading Data Science Frameworks/Infrastructure
 * [Yahoo! GitHub](https://github.com/yahoo)
 * [Yandex GitHub](https://github.com/yandex)
 
-Companies that Use Data Science
+## NVIDIA
+
+NVIDIA
+* [NVIDIA Developer](https://developer.nvidia.com)
+* [NVIDIA Dev Blog](http://devblogs.nvidia.com)
+* [NVIDIA Blogs](https://blogs.nvidia.com)
+* [NVIDIA AI Podcast](https://blogs.nvidia.com/ai-podcast)
+* [NVIDIA AI Slideshare](https://www.slideshare.net/NVIDIA)
+
+<!--
+NVIDIA Architecture
+
+https://developer.nvidia.com/about-cuda | About CUDA | NVIDIA Developer
+https://en.wikipedia.org/wiki/CUDA | CUDA - Wikipedia
+-->
+
+## Google
+
+Google Research
+* [Google Blog](https://www.blog.google), [Google Blog Topics](https://www.blog.google/topics), and [Google Blog Products](https://www.blog.google/products)
+* [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](https://research.googleblog.com)
+* [Google Developers Machine Learning](https://developers.google.com/machine-learning)
+* [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
+* [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
+
+Labs
+* [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
+* [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
+ 
+Code Labs and Summer Schools
+* [Google Codelab](https://codelabs.developers.google.com)
+
+<!--
+https://cloud.withgoogle.com/build/data-analytics
+
+https://www.blog.google/topics/machine-learning/ | Machine Learning | Google Blog
+
+https://en.wikipedia.org/wiki/Google_Brain | Google Brain - Wikipedia
+https://research.google.com/teams/brain/ | Research at Google
+https://research.google.com/pubs/BrainTeam.html | Google Brain Team - Research at Google
+https://research.google.com/teams/brain/about.html | Research at Google
+https://research.google.com/teams/brain/machine-learning/ | Research at Google
+https://research.google.com/teams/ | Research at Google
+-->
+
+## Facebook
+
+Facebook Research
+* [Facebook Engineering Facebook Page](https://www.facebook.com/Engineering)
+* [Facebook Research](https://research.fb.com) and [Facebook Research GitHub](https://github.com/facebookresearch)
+* [Facebook Open Compute](http://www.opencompute.org)  
+* [Facebook Code](https://code.facebook.com)
+* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+
+<!--
+https://research.fb.com/category/applied-machine-learning/ | Applied Machine Learning – Facebook Research
+https://code.facebook.com/applied-machine-learning/ | Applied Machine Learning | Facebook Code
+-->
+
+## Uber
+
+* [Uber GitHub](https://github.com/uber)
+* [Uber Common GitHub](https://github.com/uber-common)
+* [Uber Engineering](https://eng.uber.com)
+* [Uber gh-pages](http://uber.github.io)
+
+## Companies that Do Large-Scale Data Science
+
 * [AddThis GitHub](https://github.com/addthis)
 * [Airbnb Engineering](https://medium.com/airbnb-engineering) and [Airbnb GitHub](https://github.com/airbnb)
 * [Etsy Code as Craft Engineering Blog](https://codeascraft.com)
@@ -55,10 +122,6 @@ Companies that Use Data Science
 * [Sony GitHub](https://github.com/sony)
 * [Spotify Labs](https://labs.spotify.com) and [Spotify GitHub](https://github.com/spotify)
 * [Twitter Engineering](https://blog.twitter.com/engineering) and [Twitter GitHub](https://github.com/twitter)
-* [Uber GitHub](https://github.com/uber)
-* [Uber Common GitHub](https://github.com/uber-common)
-* [Uber Engineering](https://eng.uber.com)
-* [Uber gh-pages](http://uber.github.io)
 * [Yammer Medium](https://medium.com/we-are-yammer)
 * [Yelp Engineering](https://engineeringblog.yelp.com) and [Yelp GitHub](https://github.com/Yelp)
 * [Zillo Data Science](https://www.zillow.com/data-science)
