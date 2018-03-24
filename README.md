@@ -3066,37 +3066,15 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 
 <!--
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
 Object-Oriented
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
 
 https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
 
 https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-
-
-https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
-
-https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
-
-https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
-https://github.com/udacity/deep-learning
-
-https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
-
-https://github.com/cs50/
 
 
 http://blog.interviewing.io
@@ -3384,6 +3362,9 @@ https://github.com/stacygohyunsi/algorithms-primer
 Mind Maps and Cheat Sheets
 
 <!--
+https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+https://minireference.com/static/tutorials/conceptmap.pdf
+
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 
@@ -3396,6 +3377,30 @@ https://github.com/kailashahirwar/cheatsheets-ai
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 -->
 
+
+
+<!--
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
+
+https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
+https://github.com/udacity/deep-learning
+
+https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+
+https://github.com/cs50/
+-->
 
 ## Data Science
 
