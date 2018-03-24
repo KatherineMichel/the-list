@@ -3032,6 +3032,77 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 
 
+
+## Crowdsourced, Curated Programming Learning Resources
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
+https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+
+https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+
+<!--
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+
+https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+
+https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
+
+https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
+
+https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
+https://github.com/udacity/deep-learning
+
+https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+
+https://github.com/cs50/
+
+http://blog.interviewing.io
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+-->
+
 ## Design Patterns and Conventions
 
 <!--
@@ -3220,7 +3291,7 @@ django uml - Google Search
 
 
 
-## Python- Programming Paradigms
+## Python- Programming Paradigms and Design Patterns
 
 Python Syntax and Semantics
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
@@ -3258,12 +3329,19 @@ https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Co
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 -->
 
-## Algorithms and Design Patterns
 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+## Algorithms and Data Structures
+
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+
+https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
+-->
 
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
@@ -3273,100 +3351,41 @@ Algorithms
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 * [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
 
+Algorithm Dictionaries and Libraries
+* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
+ 
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
 <!--
 https://www.khanacademy.org/computing/computer-science/algorithms
 
-https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
-https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures | Dictionary of Algorithms and Data Structures - Wikipedia
-
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/opengenus/cosmos | OpenGenus/cosmos: [Show love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter
 https://github.com/stacygohyunsi/algorithms-primer
-
-
-http://blog.interviewing.io
-https://github.com/yangshun/tech-interview-handbook
-https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
 --->
 
-
-
-## Crowdsourced, Curated Programming Learning Resources
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-<!--
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
-https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-
-https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-
-<!--
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-
-https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-
-https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriented-programming-1 | Object-oriented Programming - 1 - Rice University | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-
-https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
-
-https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
-
-https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
-
-https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
-https://github.com/udacity/deep-learning
-
-https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
-
-https://github.com/cs50/
--->
-
-
-
-
-
-## Data Science
+Mind Maps and Cheat Sheets
 
 <!--
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 
+https://www.google.com/imgres?imgurl=http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png&imgrefurl=http://www.datacamp.com/community/tutorials/data-structures-python&h=366&w=700&tbnid=bXHxkmDnkblsvM:&tbnh=109&tbnw=210&usg=__uIzeAqEQwOJ48dIkq2vj7umAHwQ%3D&vet=10ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA..i&docid=eFGW_XYMvbckFM&sa=X&ved=0ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA | Google Image Result for http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+
+https://github.com/dformoso/machine-learning-mindmap
+https://github.com/dformoso/deeplearning-mindmap
+https://github.com/soulmachine/machine-learning-cheat-sheet
+https://github.com/kailashahirwar/cheatsheets-ai
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+-->
+
+
+## Data Science
+
+<!--
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
@@ -3537,6 +3556,7 @@ Deep Learning and Neural Networks- Wikipedia
 * [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
 * [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
+
 
 Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
@@ -4192,18 +4212,6 @@ Awesome Data Science
 * [PyTorch List GitHub](https://github.com/spro/pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
-Mind Maps and Cheat Sheets
-
-<!--
-https://www.google.com/imgres?imgurl=http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png&imgrefurl=http://www.datacamp.com/community/tutorials/data-structures-python&h=366&w=700&tbnid=bXHxkmDnkblsvM:&tbnh=109&tbnw=210&usg=__uIzeAqEQwOJ48dIkq2vj7umAHwQ%3D&vet=10ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA..i&docid=eFGW_XYMvbckFM&sa=X&ved=0ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA | Google Image Result for http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
-
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
-https://github.com/soulmachine/machine-learning-cheat-sheet
-https://github.com/kailashahirwar/cheatsheets-ai
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
--->
 
 Interesting
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
