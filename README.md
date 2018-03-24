@@ -3556,44 +3556,6 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 
 
 
-Data, Data Science, Big Data
-* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
-* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
-* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
-* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-
-Data Monetization
-* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
-* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
-
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
-
-Artificial Intelligence- Wikipedia
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Deep Learning and Neural Networks- Wikipedia
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
@@ -3633,6 +3595,130 @@ Data Science- Forums
 * [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
 * [Stack Exchange AI](https://ai.stackexchange.com)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
+
+
+
+
+
+Data, Data Science, Big Data
+* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+
+Data Monetization
+* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
+
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
+
+Artificial Intelligence- Wikipedia
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
+
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Deep Learning and Neural Networks- Wikipedia
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
+
+Linear Algebra and Calculus- wikipedia
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
+* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+
+
+<!--
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+
+Jeremy Howard- Matrix Calculus
+https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
+http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
+
+https://en.wikipedia.org/wiki/Vector_calculus
+https://en.wikipedia.org/wiki/Multivariable_calculus
+https://en.wikipedia.org/wiki/Differential_calculus
+https://en.wikipedia.org/wiki/Dot_product
+https://en.wikipedia.org/wiki/Cross_product
+
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
+-->
+
+<!--
+Computational Linear Algebra
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
+https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
+https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
+https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
+
+https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
+https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
+
+https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
+https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
+
+
+Recommended by Rachel Thomas?
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+-->
+
+
+
+ 
+
+
+
+Hosting
+* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
+* [Crestle](https://www.crestle.com)
+* [FloydHub](https://www.floydhub.com)
+* [Google Datalab](https://cloud.google.com/datalab)
+
+<!--
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+-->
 
 
 
@@ -4033,6 +4119,9 @@ http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-
 -->
 
 
+
+
+
 Awesome Data Science
 * [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
 * [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
@@ -4154,132 +4243,6 @@ http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Tre
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 -->
-
-
-SOTA Models
-
-<!--
-Supervised Learning slide- 
-Real Estate, Online Ads- NN
-Photo Tagging- CNN
-Speech Recognition, Machine Translation- RNN
-Autonomous Driving- Custom/Hybrid
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
-
-https://services.google.com/fb/forms/cloud-tpu-beta-request/
-
-Image Classification
-ResNet-50 (image classification)
-Other ResNet models (image classification)
-MobileNet (low-resource image classification)
-SqueezeNet (low-resource image classification)
-NASNet-Mobile (low-resource image classification)
-NASNet-Large (image classification)
-AmoebaNet (image classification)
-Inception v2 (image classification)
-Inception v3 (image classification)
-Inception v4 (image classification)
-Inception-ResNet-v1 (image classification)
-Inception-ResNet-v2 (image classification)
-VGG (image classification)
-RevNets (image classification)
-DenseNet (image classification)
-Shake-Shake (CIFAR image classification)
-
-Image Segmentation
-Mask R-CNN (image segmentation)
-DeepLab (image segmentation)
-
-Recurrent Neural Networks (RNNs)
-LSTM-based models (recurrent neural networks)
-Other RNNs (recurrent neural networks)
-
-Object Detection
-Faster R-CNN (object detection) 
-Single Shot MultiBox Detector (object detection)
-R-FCN (object detection) 
-RetinaNet (object detection)
-
-Transformer
-Transformer (machine translation)
-Transformer (language modeling)
-Transformer (sentiment analysis)
-Transformer (speech recognition) 
-
-Speech Recognition
-DeepSpeech 2 (speech recognition)
-Other speech recognition models
-
-DeepVariant (genomic variant-calling) 
-Generative adversarial networks (GANs)
-Other convolutional neural networks on image-like data
-Fully-connected neural networks with embeddings
-Fully-connected neural networks without embeddings
-None of the above
--->
-
-
-
-Linear Algebra and Calculus- wikipedia
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-
-
-<!--
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-
-Jeremy Howard- Matrix Calculus
-https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
-http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
-
-https://en.wikipedia.org/wiki/Vector_calculus
-https://en.wikipedia.org/wiki/Multivariable_calculus
-https://en.wikipedia.org/wiki/Differential_calculus
-https://en.wikipedia.org/wiki/Dot_product
-https://en.wikipedia.org/wiki/Cross_product
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
--->
-
-<!--
-Computational Linear Algebra
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
-https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
-https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
-https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
-https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
-
-https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
-https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
-
-https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
-
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
-https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
-
-
-Recommended by Rachel Thomas?
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
-https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
--->
-
 
 
 <!--
@@ -4411,27 +4374,7 @@ Python- Statistics Stack- StatsModel
 
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html)  
-
-
-
-Hosting
-* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
-* [Crestle](https://www.crestle.com)
-* [FloydHub](https://www.floydhub.com)
-* [Google Datalab](https://cloud.google.com/datalab)
-
-<!--
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
-
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
--->
-
+* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html) 
 
 <!--
 https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
