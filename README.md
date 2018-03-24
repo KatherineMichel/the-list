@@ -3472,25 +3472,9 @@ https://www.kaggle.com/careercon/2018 | Kaggle CareerCon 2018
 ## Data Science
 
 <!--
-https://developer.apple.com/reference/accelerate/1912851-bnns
-
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
-
-https://research.google.com/teams/brain/residency/ | Research at Google
-
-
-https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
-
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-
-http://scaledml.org/ | Scaled Machine Learning
-
-https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
-
-
-
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
+
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
@@ -3521,6 +3505,12 @@ https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-scien
 https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
 
+https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Renee on Twitter: "I guess this is how I got to 25,000 followers without explicitly trying to gain a large following: -Providing links to resources for learning data science -Having a podcast for learners; mention my Twitter account on the podcast and vice versa -Cheering people on ..."
+https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
+https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
+https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
+
+
 
 
 Interesting Presentations
@@ -3537,6 +3527,21 @@ https://app.pluralsight.com/library/courses/python-data-science/table-of-content
 https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
+
+https://developer.apple.com/reference/accelerate/1912851-bnns
+
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
+
+https://research.google.com/teams/brain/residency/ | Research at Google
+
+
+https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+
+http://scaledml.org/ | Scaled Machine Learning
+
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
 -->
 
 
@@ -3568,8 +3573,10 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
+http://jakevdp.github.io/ | Home | Pythonic Perambulations
+
 http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+http://www.becomingadatascientist.com
 https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
 
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
@@ -3800,6 +3807,8 @@ Deep Learning AI
 * [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <!--
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
+
 https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
 
 https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
@@ -3943,9 +3952,6 @@ http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 
 
 
-
-
-
 <!--
 More Machine Learning Resources
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
@@ -3955,7 +3961,6 @@ http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter
 https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
 https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
 https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
@@ -3971,12 +3976,10 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+
 https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
 https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
-https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Renee on Twitter: "I guess this is how I got to 25,000 followers without explicitly trying to gain a large following: -Providing links to resources for learning data science -Having a podcast for learners; mention my Twitter account on the podcast and vice versa -Cheering people on ..."
-https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
-https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
-https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 -->
 
 Learning Paths
@@ -4012,15 +4015,6 @@ Rules and Advice
 https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
 
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
--->
-
-
-
-
-<!--
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
-
-https://services.google.com/fb/forms/cloud-tpu-beta-request/
 -->
 
 
@@ -4334,6 +4328,8 @@ Interesting
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 <!--
+https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
