@@ -3525,11 +3525,6 @@ https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-dee
 
 Interesting Presentations
 
-https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
-https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-
-https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
-
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
@@ -3541,16 +3536,6 @@ https://app.pluralsight.com/library/courses/python-data-science/table-of-content
 
 https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
-https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
-
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 -->
 
@@ -3583,6 +3568,10 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
+http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
+http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
+https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
+
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
@@ -3596,6 +3585,17 @@ https://cs.stackexchange.com
 http://statweb.stanford.edu
 http://cslibrary.stanford.edu
 http://web.mit.edu
+
+https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
+
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 -->
 
 
@@ -3874,6 +3874,14 @@ Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
 <!--
+Google
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
+
+Google Brain Presentation
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
+
 https://developers.google.com/machine-learning/crash-course
 
 https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
@@ -3962,11 +3970,6 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 
 http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
-
-http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
-https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
 
 https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
 https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
@@ -4031,6 +4034,8 @@ Books
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
+https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
+
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
