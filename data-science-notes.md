@@ -1,5 +1,67 @@
 # Data Science Notes
 
+SOTA Models
+
+<!--
+Supervised Learning slide- 
+Real Estate, Online Ads- NN
+Photo Tagging- CNN
+Speech Recognition, Machine Translation- RNN
+Autonomous Driving- Custom/Hybrid
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
+
+https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
+Image Classification
+ResNet-50 (image classification)
+Other ResNet models (image classification)
+MobileNet (low-resource image classification)
+SqueezeNet (low-resource image classification)
+NASNet-Mobile (low-resource image classification)
+NASNet-Large (image classification)
+AmoebaNet (image classification)
+Inception v2 (image classification)
+Inception v3 (image classification)
+Inception v4 (image classification)
+Inception-ResNet-v1 (image classification)
+Inception-ResNet-v2 (image classification)
+VGG (image classification)
+RevNets (image classification)
+DenseNet (image classification)
+Shake-Shake (CIFAR image classification)
+
+Image Segmentation
+Mask R-CNN (image segmentation)
+DeepLab (image segmentation)
+
+Recurrent Neural Networks (RNNs)
+LSTM-based models (recurrent neural networks)
+Other RNNs (recurrent neural networks)
+
+Object Detection
+Faster R-CNN (object detection) 
+Single Shot MultiBox Detector (object detection)
+R-FCN (object detection) 
+RetinaNet (object detection)
+
+Transformer
+Transformer (machine translation)
+Transformer (language modeling)
+Transformer (sentiment analysis)
+Transformer (speech recognition) 
+
+Speech Recognition
+DeepSpeech 2 (speech recognition)
+Other speech recognition models
+
+DeepVariant (genomic variant-calling) 
+Generative adversarial networks (GANs)
+Other convolutional neural networks on image-like data
+Fully-connected neural networks with embeddings
+Fully-connected neural networks without embeddings
+None of the above
+-->
+
 <!--
 Linear/Regression (Supervised Learning)
 * [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
