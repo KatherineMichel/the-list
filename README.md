@@ -3574,9 +3574,6 @@ Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
-
-
-
 Artificial Intelligence- Wikipedia
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
 * [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
@@ -3627,6 +3624,17 @@ https://twitter.com/kdnuggets | KDnuggets (@kdnuggets) | Twitter
 https://twitter.com/analyticbridge | Data Science Central (@analyticbridge) | Twitter
 https://twitter.com/DataScienceCtrl | Data Science Central (@DataScienceCtrl) | Twitter
 -->
+
+Data Science- Forums
+* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
+* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
+* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
+* [Stack Exchange AI](https://ai.stackexchange.com)
+* [Stack Exchange Data Science](https://datascience.stackexchange.com)
+
+
 
 
 Playbooks
@@ -4424,16 +4432,6 @@ https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 -->
 
-
-
-Data Science- Forums
-* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
-* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
-* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
-* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
-* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
-* [Stack Exchange AI](https://ai.stackexchange.com)
-* [Stack Exchange Data Science](https://datascience.stackexchange.com)
 
 <!--
 https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
