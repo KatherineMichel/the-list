@@ -3359,115 +3359,7 @@ https://github.com/cs50/
 
 
 
-## Coding Competitions
 
-<!--
-https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
-
-https://devpost.com/hackathons | New & upcoming hackthons · Devpost
-
-http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
-https://web.stanford.edu/class/cs9/#information
-
-Competitive Programmers Handbook
-https://cses.fi/book.html
-http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
-
-Hackathons
-https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
-
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/AhmadElsagheer/Competitive-programming-library
-https://github.com/haseebr/competitive-programming
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-https://github.com/tuvttran/project-based-learning
-https://github.com/karan/Projects
-
-Product Hunt
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
--->
-
-
-
-## Kaggle
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions) 
-* [Kaggle Progression](https://www.kaggle.com/progression) 
-* [Kaggle Rankings](https://www.kaggle.com/rankings) 
-* [Kaggle Learn](https://www.kaggle.com/learn)
-* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
-* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Kernels](https://www.kaggle.com/kernels) 
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
-Kaggle Submission
-
-<!--
-https://www.kaggle.com/titericz | Giba | Kaggle
-https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
-https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
-https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
-
-
-https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20
-
-https://github.com/Kaggle | Kaggle
-http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
-http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
-
-https://www.kaggle.com/getting-started | Kaggle: Your Home for Data Science
-https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
-http://blog.kaggle.com/2013/09/25/the-playground/ | The Playground | No Free Hunch
-
-https://www.kaggle.com/wiki/Tutorials | Tutorials | Kaggle
-https://www.datacamp.com/community/tags/kaggle | kaggle
-https://www.kaggle.com/about/inclass/faqs | Kaggle: Your Home for Data Science
-https://www.kaggle.com/learn/sql | Learn | Kaggle
-
-https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
-https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
-
-https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
-https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
-https://github.com/floydwch/kaggle-cli
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
-
-https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
-https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
-
-https://github.com/EliotAndres/kaggle-past-solutions
-http://ndres.me/kaggle-past-solutions
-
-Kaggle National Data Science Bowl
-https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
-https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
-
-https://www.kaggle.com/careers/ | Careers | Kaggle
-https://www.kaggle.com/careercon/2018 | Kaggle CareerCon 2018
--->
 
 ## Data Science
 
@@ -3509,6 +3401,16 @@ https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Ren
 https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
+
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+
+http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 
 
 
@@ -3703,6 +3605,16 @@ https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rul
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+
+
+https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
+https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
 -->
 
 
@@ -3951,46 +3863,21 @@ http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 
 
 
+Learning Paths
+* [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+* [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
-More Machine Learning Resources
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
-
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
-https://jakevdp.github.io/PythonDataScienceHandbook/ | Python Data Science Handbook | Python Data Science Handbook
-https://github.com/jakevdp/PythonDataScienceHandbook | jakevdp/PythonDataScienceHandbook: Jupyter Notebooks for the Python Data Science Handbook
-
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
-https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
-
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
 
 https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
 https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
--->
 
-Learning Paths
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
-
-<!--
 https://twitter.com/math_rachel/status/967689690328350720 | Rachel Thomas on Twitter: "Question: what are your favorite "intro to data science" courses/blogs/websites?"
 
-https://github.com/kjaisingh/high-school-guide-to-machine-learning | kjaisingh/high-school-guide-to-machine-learning: Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
-
-https://github.com/ossu/data-science
 https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
@@ -4004,10 +3891,6 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
 
-Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
-* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
@@ -4018,18 +3901,18 @@ https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Dat
 -->
 
 
-
+Tutorials (Books)
+* [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Jake VanderPlas Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp)
 
 Books
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com) and [Neural Networks and Deep Learning (Michael Nielsen) GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
 * [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
 * [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
 * [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
-* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com)
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
-https://github.com/mnielsen/neural-networks-and-deep-learning | mnielsen/neural-networks-and-deep-learning: Code samples for my book "Neural Networks and Deep Learning"
-
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
@@ -4361,6 +4244,11 @@ https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
+
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+
 Google History of Machine Learning
 * [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
 
@@ -4397,4 +4285,112 @@ https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twit
 https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
 https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
 https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
+
+## Kaggle
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions) 
+* [Kaggle Progression](https://www.kaggle.com/progression) 
+* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle Learn](https://www.kaggle.com/learn)
+* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
+* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Kernels](https://www.kaggle.com/kernels) 
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+Kaggle Submission
+
+<!--
+https://www.kaggle.com/titericz | Giba | Kaggle
+https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
+https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
+https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
+
+
+https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20
+
+https://github.com/Kaggle | Kaggle
+http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
+http://blog.kaggle.com/2018/01/22/reviewing-2017-and-previewing-2018/ | Reviewing 2017 and Previewing 2018 | No Free Hunch
+
+https://www.kaggle.com/getting-started | Kaggle: Your Home for Data Science
+https://www.kaggle.com/getting-started/47096#post271139 | Kaggle: Your Home for Data Science
+http://blog.kaggle.com/2013/09/25/the-playground/ | The Playground | No Free Hunch
+
+https://www.kaggle.com/wiki/Tutorials | Tutorials | Kaggle
+https://www.datacamp.com/community/tags/kaggle | kaggle
+https://www.kaggle.com/about/inclass/faqs | Kaggle: Your Home for Data Science
+https://www.kaggle.com/learn/sql | Learn | Kaggle
+
+https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
+https://www.twitch.tv/rctatman | rctatman - Twitch
+https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
+https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
+
+https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
+https://github.com/floydwch/kaggle-cli
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
+https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
+https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
+
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
+
+Kaggle National Data Science Bowl
+https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+
+https://www.kaggle.com/careers/ | Careers | Kaggle
+https://www.kaggle.com/careercon/2018 | Kaggle CareerCon 2018
+-->
+
+## Coding Competitions
+
+<!--
+https://en.wikipedia.org/wiki/Competitive_programming | Competitive programming - Wikipedia
+
+https://devpost.com/hackathons | New & upcoming hackthons · Devpost
+
+http://web.stanford.edu/class/cs97si/ | CS 97SI: Introduction to Programming Contests
+https://web.stanford.edu/class/cs9/#information
+
+Competitive Programmers Handbook
+https://cses.fi/book.html
+http://courses.csail.mit.edu/iap/interview/index.php | Hacking a Google Interview
+
+Hackathons
+https://dev.to/samjarman/finding-ideas-for-programming-side-projects | Finding Ideas for Programming Side Projects
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/AhmadElsagheer/Competitive-programming-library
+https://github.com/haseebr/competitive-programming
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://github.com/tuvttran/project-based-learning
+https://github.com/karan/Projects
+
+Product Hunt
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
 -->
