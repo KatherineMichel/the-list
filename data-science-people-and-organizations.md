@@ -23,6 +23,10 @@
 * [Sebastian Thrun Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Thrun)
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
+Thought Pieces
+* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
+
 <!--
 http://cs.stanford.edu/people/karpathy
 
