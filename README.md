@@ -2547,8 +2547,6 @@ https://docs.python.org/3/howto/regex.html
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
-
 MOOCs
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
 * [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
@@ -2577,10 +2575,6 @@ Learning Platforms (See also others)
 https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be | Google Python Class Day 1 Part 1 - YouTube
 
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
-
-http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-
-http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
 https://nostarch.com/search/node/python | Search | No Starch Press
 
@@ -2626,9 +2620,21 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
-https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
-https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+
+https://github.com/joaoventura/full-speed-python | joaoventura/full-speed-python: Getting up to speed with Python: a book for self-learners
+
+https://www.youtube.com/watch?v=WIFCd1m7VuA | Intro to Python with Grishma Jena - YouTube
+https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p | Intro to Python - Google Slides
+https://tlk.io/pyladiesremote | tlk.io / pyladiesremote
+https://github.com/GJena | GJena (Grishma Jena) / Repositories
+
+http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
+http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 
@@ -2641,6 +2647,15 @@ http://introtopython.org/ | Introduction to Python: An open resource for student
 
 Mahesh Venkitachalam
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+
+https://talkpython.fm/ | Talk Python To Me Podcast
+
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+
+https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
+http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
+https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -2680,8 +2695,6 @@ Python Tutors- YouTube
 https://twitter.com/aaronchall/status/961250524753551360 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "High level #python #tutorial thread: Python is a high level language that runs bytecode in its virtual machine. Everything is an object. It supports OOP up to multiple inheritance and functional programming. Typing is polymorphic - duck typing is preferred https://t.co/fhNtFWU5zy"
 
 
-https://talkpython.fm/ | Talk Python To Me Podcast
-
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 https://www.youtube.com/watch?v=g0gNWGg2JxM | Writing Idiomatic Python Video One - YouTube
@@ -2693,11 +2706,6 @@ https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon | Not Found: Safari
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3485/ | Lesson: 17 Python’s Approach to Object-Oriented Programming - Introduction to Python
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-
-http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
 https://stephensugden.com/crash_into_python/ | Crash into Python
 https://stephensugden.com/crash_into_python/ObjectOrientation.html | Object Oriented Features
@@ -2923,6 +2931,16 @@ Python- Cookiecutter Creating Packages
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
+<!--
+http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
+
+https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
+https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
+
+https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
+https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
+-->
+
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
@@ -3067,6 +3085,8 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 <!--
 Object-Oriented
+
+https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/ | Object-Oriented Programming | Unit 1: Software Engineering | Introduction to Electrical Engineering and Computer Science I | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
@@ -3218,6 +3238,10 @@ Programming Language Leveling Up and Comparisons
 
 
 <!--
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 Python Syntax and Semantics
@@ -3381,6 +3405,8 @@ https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-de
 
 <!--
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
 
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
@@ -3401,6 +3427,7 @@ https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-s
 
 https://github.com/cs50/
 -->
+
 
 ## Data Science
 
@@ -3450,6 +3477,8 @@ https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ 
 http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
 
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
+
 
 
 
@@ -3465,8 +3494,6 @@ https://app.pluralsight.com/player?course=python-data-science&author=abhishek-ku
 https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
 
 https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
-
-https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
@@ -3531,6 +3558,7 @@ https://www.khanacademy.org/math/ap-calculus-ab
 https://cs.stackexchange.com
 http://statweb.stanford.edu
 http://cslibrary.stanford.edu
+https://engineering.stanford.edu
 http://web.mit.edu
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
