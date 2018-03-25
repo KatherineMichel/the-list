@@ -2589,6 +2589,8 @@ https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-c
 https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
 
 http://news.codecademy.com/why-learn-python | Why I'm Learning Python in 2018
+
+* [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 -->
 
 Pluralsight and DataCamp
@@ -2600,7 +2602,6 @@ Python Trending, Topics, Forums
 * [GitHub Trending: python](https://github.com/trending/python )
 * [GitHub Topic: python](https://github.com/topics/python)
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
 
@@ -2614,20 +2615,24 @@ Tutorials- Looking At
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
+* [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 * [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+* [Interactive Python](http://www.interactivepython.org)
+
+How to Think Like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/index.html
+
 http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
 https://python.swaroopch.com
-
-http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
 
 http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
@@ -2644,6 +2649,7 @@ Python Tutors- Regular
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
@@ -2652,6 +2658,11 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://github.com/RafeKettler
+
+https://www.tutorialspoint.com/python/python_basic_syntax.htm
+http://www.tutorialspoint.com/python/ | Python Tutorial
+
 https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 
@@ -2661,8 +2672,6 @@ https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100d
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
 
 https://github.com/kennethreitz?tab=repositories | kennethreitz (Kenneth Reitz) / Repositories
-http://howtopython.org/en/latest/ | Welcome to How to Python! — howtopython 0.0.0 documentation
-https://github.com/kennethreitz/howtopython.org | kennethreitz/howtopython.org: A (book, website) that decribes how to Python, from scratch.
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -2757,7 +2766,6 @@ https://www.youtube.com/watch?v=N4mEzFDjqtA | Derek Banas Python Programming - Y
 -->
 
 Python Websites and Newsletters
-* [Interactive Python](http://www.interactivepython.org)
 * [Iron Python in Action](http://www.ironpythoninaction.com)
 * [Learn Python](http://www.learnpython.org)
 * [Python Central](http://www.pythoncentral.io)
@@ -2765,11 +2773,6 @@ Python Websites and Newsletters
 * [Python Tutor](http://pythontutor.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
-
-<!--
-https://github.com/RafeKettler
-http://www.tutorialspoint.com/python/ | Python Tutorial
--->
 
 Python IDLE
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
@@ -3384,6 +3387,7 @@ https://github.com/stacygohyunsi/algorithms-primer
 --->
 
 Mind Maps and Cheat Sheets
+* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
 https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
@@ -3394,8 +3398,6 @@ https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-alg
 
 https://www.google.com/imgres?imgurl=http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png&imgrefurl=http://www.datacamp.com/community/tutorials/data-structures-python&h=366&w=700&tbnid=bXHxkmDnkblsvM:&tbnh=109&tbnw=210&usg=__uIzeAqEQwOJ48dIkq2vj7umAHwQ%3D&vet=10ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA..i&docid=eFGW_XYMvbckFM&sa=X&ved=0ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA | Google Image Result for http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
-https://github.com/dformoso/machine-learning-mindmap
-https://github.com/dformoso/deeplearning-mindmap
 https://github.com/soulmachine/machine-learning-cheat-sheet
 https://github.com/kailashahirwar/cheatsheets-ai
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
@@ -3532,6 +3534,9 @@ Data Science- Forums
 * [Quora Data Science Algorithms](https://algorithmsdatascience.quora.com)
 
 More Learning Resources
+* [Jake VanderPlas](http://jakevdp.github.io)
+* [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
+* [DataSciGuide](http://www.datasciguide.com)
 * [Toward Data Science](https://towardsdatascience.com)
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 * [Machine Learnings](https://machinelearnings.co)
@@ -3540,12 +3545,6 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
-http://jakevdp.github.io/ | Home | Pythonic Perambulations
-
-http://www.datasciguide.com/ | DataSciGuide | The Data Science Learning Directory
-http://www.becomingadatascientist.com
-https://twitter.com/BecomingDataSci | Data Science Renee (@BecomingDataSci) | Twitter
-
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
