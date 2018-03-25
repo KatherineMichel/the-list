@@ -2575,6 +2575,9 @@ Learning Platforms (See also others)
 <!--
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 
+https://www.coursera.org/courses?languages=en&query=python
+https://www.edx.org/course/subject/computer-science/python
+
 https://nostarch.com/search/node/python | Search | No Starch Press
 
 http://exercism.io/languages/python/about | Python - exercism.io
@@ -2609,45 +2612,35 @@ Wiki Books
 
 Tutorials- Looking At
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
+* [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Google's Python Class](https://developers.google.com/edu/python)
+* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
+* [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
+* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
+* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
-https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be | Google Python Class Day 1 Part 1 - YouTube
-
 http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
-https://github.com/joaoventura/full-speed-python | joaoventura/full-speed-python: Getting up to speed with Python: a book for self-learners
-
 https://python.swaroopch.com
-
-https://www.youtube.com/watch?v=WIFCd1m7VuA | Intro to Python with Grishma Jena - YouTube
-https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p | Intro to Python - Google Slides
-https://tlk.io/pyladiesremote | tlk.io / pyladiesremote
-https://github.com/GJena | GJena (Grishma Jena) / Repositories
 
 http://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
 
 http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
-
-Eric Matthes
-http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
-
-Mahesh Venkitachalam
-https://nostarch.com/pythonplayground | Python Playground | No Starch Press
 -->
 
 Python Tutors- Regular
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart: Invent with Python](http://inventwithpython.com)
+* [Al Sweigart](http://alsweigart.com) and [Al Sweigart: Invent with Python](http://inventwithpython.com)
 * [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [Grishma Jena GitHub](https://github.com/GJena)
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
@@ -2659,7 +2652,6 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
-http://alsweigart.com
 https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 
@@ -2958,8 +2950,11 @@ Python- Wheel (versus Egg!)
 
 ## Django Learning Resources
 
-Django- Official Tutorial
+Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
+* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+
 
 Forums
 * [Reddit Django](https://www.reddit.com/r/django)
@@ -2982,13 +2977,8 @@ Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
-Mozilla Development Network 
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
-
 
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
