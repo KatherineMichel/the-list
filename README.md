@@ -2661,6 +2661,10 @@ Tutorials- Looking At
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
+
 https://www.fullstackpython.com/best-python-resources.html
 
 https://www.tutorialspoint.com/python/python_basic_syntax.htm
@@ -2712,6 +2716,9 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+http://letspy.tech/ | Home
+https://dbader.org/blog | Python Tutorials – dbader.org
+
 https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 
@@ -3031,6 +3038,8 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://medium.com/@limedaring/why-im-selling-weddinglovely-my-eight-year-old-company-with-62-000-revenue-in-2017-69fb56c8929f | Why I’m selling WeddingLovely, my eight year old company (with $62,000 revenue in 2017)
+
 https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
 
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
