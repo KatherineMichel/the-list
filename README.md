@@ -944,6 +944,8 @@ Courses
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
+https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
 -->
 
 Khan Academy
@@ -2566,14 +2568,11 @@ MOOCs
 Learning Platforms (See also others)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Google's Python Class](https://developers.google.com/edu/python)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
-https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be | Google Python Class Day 1 Part 1 - YouTube
-
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 
 https://nostarch.com/search/node/python | Search | No Starch Press
@@ -2601,31 +2600,29 @@ Python Trending, Topics, Forums
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
-Python Tutors- Regular
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+
+
+Wiki Books
+* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
+* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+
+Tutorials- Looking At
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
-* [Al Sweigart: Invent with Python](http://inventwithpython.com)
-* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
-* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
-* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+* [Google's Python Class](https://developers.google.com/edu/python)
 
 <!--
+https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be | Google Python Class Day 1 Part 1 - YouTube
+
 http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
 https://github.com/joaoventura/full-speed-python | joaoventura/full-speed-python: Getting up to speed with Python: a book for self-learners
+
+https://python.swaroopch.com
 
 https://www.youtube.com/watch?v=WIFCd1m7VuA | Intro to Python with Grishma Jena - YouTube
 https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p | Intro to Python - Google Slides
@@ -2638,15 +2635,33 @@ http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Cou
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 
-http://alsweigart.com
-https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
-http://inventwithpython.com/cracking/ | Cracking Codes with Python
-
 Eric Matthes
 http://introtopython.org/ | Introduction to Python: An open resource for students and teachers
 
 Mahesh Venkitachalam
 https://nostarch.com/pythonplayground | Python Playground | No Starch Press
+-->
+
+Python Tutors- Regular
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+* [Al Sweigart: Invent with Python](http://inventwithpython.com)
+* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [Jeff Knupp](https://jeffknupp.com)
+* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
+* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+<!--
+http://alsweigart.com
+https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
 
 https://talkpython.fm/ | Talk Python To Me Podcast
 
@@ -2790,11 +2805,6 @@ https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harm
 -->
 
 ## Python Books
-
-Wiki Books
-* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
-* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 
