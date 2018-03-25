@@ -2605,11 +2605,48 @@ Python Trending, Topics, Forums
 * [Reddit Python](https://www.reddit.com/r/Python)
 
 
+Python- Books
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
+* [Allen Downey: O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+* [Allen Downey: O'Reilly Think Python 2 GitHub](https://github.com/AllenDowney/ThinkPython2) 
+* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+
+<!--
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
+
+Amazon Python Book Search
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
+https://github.com/fluentpython | Fluent Python
+-->
+
+
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+
+
+
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+
 
 Wiki Books
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+
+<!--
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+
+https://wiki.python.org/moin/Python2orPython3
+https://www.djangopackages.com/python3/
+-->
 
 Tutorials- Looking At
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
@@ -2622,6 +2659,15 @@ Tutorials- Looking At
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+https://www.tutorialspoint.com/python/python_basic_syntax.htm
+http://www.tutorialspoint.com/python/ | Python Tutorial
+
+https://www.digitalocean.com/community/tutorials?q=python
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorial_series/django-development
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+
 * [Interactive Python](http://www.interactivepython.org)
 
 How to Think Like a Computer Scientist: Interactive Edition
@@ -2639,12 +2685,12 @@ http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Cou
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
 -->
 
+
+
 Python Tutors- Regular
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
 * [Al Sweigart](http://alsweigart.com) and [Al Sweigart: Invent with Python](http://inventwithpython.com)
 * [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
 * [Grishma Jena GitHub](https://github.com/GJena)
 * [Jeff Knupp](https://jeffknupp.com)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
@@ -2659,9 +2705,6 @@ Python Tutors- Regular
 
 <!--
 https://github.com/RafeKettler
-
-https://www.tutorialspoint.com/python/python_basic_syntax.htm
-http://www.tutorialspoint.com/python/ | Python Tutorial
 
 https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
@@ -2744,6 +2787,7 @@ https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-pyth
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
+
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
 https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
@@ -2798,43 +2842,6 @@ http://www.kennethreitz.org/essays/a-better-pip-workflow
 
 https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harmful/ | Learning Python via Django Considered Harmful
 -->
-
-## Python Books
-
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-
-<!--
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-
-https://wiki.python.org/moin/Python2orPython3
-https://www.djangopackages.com/python3/
--->
-
-
-Python- Books
-* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
-* [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [O'Reilly Think Python 2 GitHub](https://github.com/AllenDowney/ThinkPython2) 
-* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
-
-<!--
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
-
-Amazon Python Book Search
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
-
-https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
-
-https://github.com/fluentpython | Fluent Python
--->
-
-
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
-
 
 ## Python Internals
 
@@ -2950,6 +2957,7 @@ Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
+
 
 ## Django Learning Resources
 
@@ -3239,7 +3247,6 @@ Programming Language Leveling Up and Comparisons
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
 
-
 <!--
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
 https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
@@ -3356,6 +3363,10 @@ django uml - Google Search
 * [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
 <!--
+https://docs.python.org/3/tutorial/datastructures.html
+
+https://en.wikipedia.org/wiki/Abstract_data_type
+
 https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 
