@@ -2578,6 +2578,8 @@ https://courseroot.com/courses/?search=python&sortby=popularity | Best online Py
 https://www.coursera.org/courses?languages=en&query=python
 https://www.edx.org/course/subject/computer-science/python
 
+https://www.youtube.com/user/khanacademy/search?query=python
+
 https://nostarch.com/search/node/python | Search | No Starch Press
 
 http://exercism.io/languages/python/about | Python - exercism.io
@@ -2659,8 +2661,12 @@ Tutorials- Looking At
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+https://www.fullstackpython.com/best-python-resources.html
+
 https://www.tutorialspoint.com/python/python_basic_syntax.htm
 http://www.tutorialspoint.com/python/ | Python Tutorial
+
+https://www.w3resource.com/python/python-tutorial.php
 
 https://www.digitalocean.com/community/tutorials?q=python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
@@ -2677,6 +2683,8 @@ http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solv
 http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+
+https://github.com/RafeKettler
 
 https://python.swaroopch.com
 
@@ -2704,8 +2712,6 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
-https://github.com/RafeKettler
-
 https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
 http://inventwithpython.com/cracking/ | Cracking Codes with Python
 
