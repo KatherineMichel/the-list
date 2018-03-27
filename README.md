@@ -3420,6 +3420,8 @@ Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
+http://www.datasciguide.com/contenttype/cheat-sheets/?post_types=content | Cheat Sheets | Content Types | Data Sci Guide
+
 https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
 https://minireference.com/static/tutorials/conceptmap.pdf
 
@@ -4009,6 +4011,12 @@ Books
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
+https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
+
+http://shop.oreilly.com/product/0636920030515.do | Introduction to Machine Learning with Python - O'Reilly Media
+
+https://github.com/rasbt/python-machine-learning-book | rasbt/python-machine-learning-book: The "Python Machine Learning (1st edition)" book code repository and info resource
+
 https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
 https://github.com/nfmcclure/tensorflow_cookbook
 
