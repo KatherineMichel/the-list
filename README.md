@@ -2663,6 +2663,9 @@ Tutorials- Looking At
 <!--
 https://en.wikipedia.org/wiki/Python_(programming_language)
 
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers		
+https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
+
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
 https://www.fullstackpython.com/best-python-resources.html
@@ -2691,6 +2694,7 @@ http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingE
 https://github.com/RafeKettler
 
 https://python.swaroopch.com
+http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 
 http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
@@ -4005,6 +4009,17 @@ Books
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
+https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
+https://github.com/nfmcclure/tensorflow_cookbook
+
+https://github.com/fchollet/deep-learning-with-python-notebooks.
+
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+https://github.com/ageron/handson-ml
+https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
+
+https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
+
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
