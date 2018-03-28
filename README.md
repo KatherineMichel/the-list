@@ -2485,8 +2485,45 @@ http://pyvideo.org/pycon-us-2017/the-python-visualization-landscape.html | PyVid
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
--->
 
+
+
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
+http://mypy.readthedocs.io/
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+https://github.com/dropbox/pyannotate
+http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
+https://github.com/python/typeshed | python/typeshed: Collection of library stubs for Python, with static types
+
+http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
+https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
+Classy Django REST Framework
+https://github.com/vintasoftware/classy-django-rest-framework 
+Django Class-Based-View Inspector -- Classy CBV
+
+http://cdrf.co
+http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
+
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
+
+https://github.com/direnv
+http://docs.python-requests.org/en/master
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
+https://github.com/kennethreitz/python-guide
+https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
+
+Setup.py Kenneth Reitz
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+-->
 
 
 ## What's New
@@ -3206,6 +3243,8 @@ Design Patterns- General
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 classification creational structural behavioral patterns - Google Search
+
+https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
 
 https://en.wikipedia.org/wiki/Observer_pattern
 https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
