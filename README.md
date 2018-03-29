@@ -2680,6 +2680,8 @@ Wiki Books
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 <!--
+https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
+
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 
@@ -2705,10 +2707,17 @@ https://developers.google.com/edu/python/strings | Python Strings  |  Python Edu
 
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
-https://www.fullstackpython.com/best-python-resources.html
+https://github.com/fullstackpython | Full Stack Python
+https://github.com/fullstackpython/book-code-examples | fullstackpython/book-code-examples: Code from Full Stack Python books, such as Deploying Flask Web Applications.
 
-https://www.tutorialspoint.com/python/python_basic_syntax.htm
+https://www.fullstackpython.com/best-python-resources.html
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
 http://www.tutorialspoint.com/python/ | Python Tutorial
+https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+http://www.tutorialspoint.com/python/python_classes_objects.htm
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 
 https://www.w3resource.com/python/python-tutorial.php
 
@@ -2728,7 +2737,10 @@ http://interactivepython.org/runestone/default/user/login?_next=/runestone/defau
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
+http://www.ironpythoninaction.com
 https://github.com/RafeKettler
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
@@ -2736,6 +2748,9 @@ http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
 
 https://www.youtube.com/watch?v=D6esTdOLXh4&app=desktop | Python Django Crash Course - YouTube
+
+http://www.openbookproject.net/books/bpp4awd/index.html
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360
 -->
 
 
