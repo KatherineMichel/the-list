@@ -2492,8 +2492,6 @@ https://github.com/django/django-localflavor
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
 http://mypy.readthedocs.io/
@@ -2512,13 +2510,8 @@ Django Class-Based-View Inspector -- Classy CBV
 http://cdrf.co
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-
-
 https://github.com/direnv
 http://docs.python-requests.org/en/master
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
-https://github.com/kennethreitz/python-guide
 https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
 
 Setup.py Kenneth Reitz
@@ -2527,58 +2520,6 @@ https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth 
 
 
 ## What's New
-
-<!--
-https://docs.python.org/3/ | 3.6.4rc1 Documentation
-https://docs.python.org/3/contents.html
-https://docs.python.org/3/genindex.html
-https://docs.python.org/3/tutorial/introduction.html
-https://docs.python.org/3/library/index.html
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/py-modindex.html
-https://docs.python.org/3/howto/index.html
-https://docs.python.org/3/glossary.html
-https://docs.python.org/3/tutorial/whatnow.html
-
-https://docs.python.org/3/distributing/index.html
-https://docs.python.org/3/library/distribution.html
-https://docs.python.org/3/tutorial/modules.html
-
-https://docs.python.org/3/installing/index.html
-https://docs.python.org/3/tutorial/venv.html
-
-https://docs.python.org/3.6/reference/toplevel_components.html | 9. Top-level components — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/builtins.html#module-builtins
-https://docs.python.org/3.6/library/constants.html#built-in-consts
-
-
-https://docs.python.org/3/library/itertools.html#itertools-recipes | 10.1. itertools — Functions creating iterators for efficient looping — Python 3.6.3 documentation
-https://docs.python.org/3.6/library/functions.html#id | 2. Built-in Functions — Python 3.6.3 documentation
-
-https://docs.python.org/3/library/logging.config.html
-
-https://docs.python.org/3.7/tutorial/floatingpoint.html | 15. Floating Point Arithmetic: Issues and Limitations — Python 3.7.0b1 documentation
-
-
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-
-https://docs.python.org/3/library/io.html | 16.2. io — Core tools for working with streams — Python 3.6.4 documentation
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/library/os.path.html
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/howto/argparse.html
-https://docs.python.org/3/library/pathlib.html
-
-https://docs.python.org/3/library/http.html
-https://docs.python.org/3/library/html.html
-https://docs.python.org/3/library/json.html
-https://docs.python.org/3/library/text.html
-https://docs.python.org/3/library/csv.html | 14.1. csv — CSV File Reading and Writing — Python 3.6.4rc1 documentation
-https://docs.python.org/3/library/fileformats.html | 14. File Formats — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3/howto/regex.html
--->
 
 ## Python and Django Books and Tutorials
 
@@ -2954,6 +2895,10 @@ Python- Packages/Libraries
 Python Docs- Packaging
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 
+<!--
+https://docs.python.org/3/library/distribution.html
+-->
+
 Python- Official Packaging Info
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
@@ -2974,6 +2919,8 @@ Package Stats
 * ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
 
 <!--
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
 https://media.readthedocs.org/pdf/python-packaging-user-guide/latest/python-packaging-user-guide.pdf | Python Packaging User Guide
 
 https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
@@ -2993,9 +2940,6 @@ Python- Additional Packaging Tutorials
 
 https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
 https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
-
-Sample module for Python-Guide.org.
-http://docs.python-guide.org
 
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
