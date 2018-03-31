@@ -3312,9 +3312,6 @@ Comparison of type systems
 
 ## Website Project Management
 
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
 <!--
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
@@ -3337,9 +3334,7 @@ https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Model
 
 https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
 
-https://en.wikipedia.org/wiki/Use_case | Use case - Wikipedia
 https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
-https://en.wikipedia.org/wiki/Class_diagram | Class diagram - Wikipedia
 https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
 
 https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
@@ -3384,6 +3379,10 @@ https://docs.python.org/3/tutorial/datastructures.html
 
 https://en.wikipedia.org/wiki/Abstract_data_type
 
+https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
+https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
+Contiguous Data Structures
+
 https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 
@@ -3393,6 +3392,18 @@ https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wi
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/Computational_mathematics
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+-->
+
+
+Machine Learning and Statistical Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
 * [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
@@ -3418,6 +3429,23 @@ Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
+https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
+
+https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
+
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
+
+https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
+
+http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
+https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science | [Cheat Sheet] Python Basics For Data Science - Data Science Central
+
+
 http://www.datasciguide.com/contenttype/cheat-sheets/?post_types=content | Cheat Sheets | Content Types | Data Sci Guide
 
 https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
@@ -3464,29 +3492,16 @@ https://github.com/cs50/
 ## Data Science
 
 <!--
-http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
-https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
-
 http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
 
-https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
 https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html | Top 10 Machine Learning Videos on YouTube
 https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html | Top 10 Videos on Deep Learning in Python
 http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html
 
-https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
-
-https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers | Most cited deep learning papers - Data Science Central
-https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/practical-data-science-building-minimum-viable-models | Practical data science: Building Minimum Viable Models - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/book-evaluating-machine-learning-models | Book: Evaluating Machine Learning Models - Data Science Central
 https://www.datasciencecentral.com/profiles/blogs/j-p-morgan-s-comprehensive-guide-on-machine-learning | J.P. Morgan's Comprehensive Guide on Machine Learning - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science | [Cheat Sheet] Python Basics For Data Science - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free | Deep Learning for Everyone – and (Almost) Free - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/the-data-science-toolkit-my-boot-camp-ciriculum | The Data Science Toolkit - My Boot Camp Ciriculum - Data Science Central
 http://www.datasciencecentral.com/profiles/blogs/learn-python-in-3-days-step-by-step-guide | Learn Python in 3 days : Step by Step Guide - Data Science Central
