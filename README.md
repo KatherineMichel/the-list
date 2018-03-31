@@ -3284,6 +3284,10 @@ General
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 * [Software Development](https://en.wikipedia.org/wiki/Software_development)
 
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Computer_science
+https://en.wikipedia.org/wiki/Software_engineering
+
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
@@ -3372,9 +3376,10 @@ django uml - Google Search
 
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
 <!--
+https://en.wikipedia.org/wiki/Persistent_data_structure
+
 https://docs.python.org/3/tutorial/datastructures.html
 
 https://en.wikipedia.org/wiki/Abstract_data_type
@@ -3394,25 +3399,39 @@ Algorithms
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
 <!--
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
 https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
 https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+https://en.wikipedia.org/wiki/Selection_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Sorting_algorithm
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Theory_of_computation
+https://en.wikipedia.org/wiki/Programming_language_theory
+https://en.wikipedia.org/wiki/Computational_statistics
+https://en.wikipedia.org/wiki/Computational_physics
+https://en.wikipedia.org/wiki/Computational_linguistics
+https://en.wikipedia.org/wiki/Natural-language_processing
 -->
 
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
+Algorithm Dictionaries and Libraries
+* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
+ 
 Machine Learning and Statistical Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
 * [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 * [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
 
-Algorithm Dictionaries and Libraries
-* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
- 
 James Damore Coding Competition Books
 * [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
 * [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
@@ -3429,6 +3448,11 @@ Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
+https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
+https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
+https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
+
+
 https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
 
 https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
@@ -3454,7 +3478,7 @@ https://minireference.com/static/tutorials/conceptmap.pdf
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 
-https://www.google.com/imgres?imgurl=http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png&imgrefurl=http://www.datacamp.com/community/tutorials/data-structures-python&h=366&w=700&tbnid=bXHxkmDnkblsvM:&tbnh=109&tbnw=210&usg=__uIzeAqEQwOJ48dIkq2vj7umAHwQ%3D&vet=10ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA..i&docid=eFGW_XYMvbckFM&sa=X&ved=0ahUKEwjNw5em8qbZAhUQVa0KHQvyAHwQ9QEILTAA | Google Image Result for http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
 https://github.com/soulmachine/machine-learning-cheat-sheet
 https://github.com/kailashahirwar/cheatsheets-ai
@@ -4077,19 +4101,30 @@ Models and Examples
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+Benchmarking
+https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
+https://www.tensorflow.org/performance/ | Performance  |  TensorFlow
+https://www.tensorflow.org/performance/performance_guide
+https://www.tensorflow.org/performance/benchmarks
+https://www.tensorflow.org/performance/performance_models
+https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
+
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
 https://discuss.pytorch.org/ | (3) PyTorch Forums
 
+
+
 https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials
 https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
 
-https://www.tensorflow.org/performance/performance_guide
-https://www.tensorflow.org/performance/benchmarks
-https://www.tensorflow.org/performance/performance_models
 https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
 https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
