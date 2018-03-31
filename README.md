@@ -3446,7 +3446,10 @@ James Damore Coding Competition Books
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
-https://www.khanacademy.org/computing/computer-science/algorithms
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/stacygohyunsi/algorithms-primer
@@ -3512,11 +3515,20 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 
 
 <!--
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
 
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+
 https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
 https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
 https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
@@ -3525,6 +3537,10 @@ https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 
 
+https://en.wikipedia.org/wiki/Selection_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Sorting_algorithm
+
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
@@ -3532,9 +3548,6 @@ https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
 https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-https://en.wikipedia.org/wiki/Selection_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Sorting_algorithm
 https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Theory_of_computation
@@ -3544,11 +3557,6 @@ https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
 
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-
 https://cs.stackexchange.com
 http://statweb.stanford.edu
 http://cslibrary.stanford.edu
@@ -3557,14 +3565,7 @@ http://web.mit.edu
 
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
 https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
-
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 -->
 
 
