@@ -3460,7 +3460,11 @@ https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
 
+Python Cheat Sheets
+
 https://www.datacamp.com/community/data-science-cheatsheets
+http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
+http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
@@ -3506,8 +3510,21 @@ https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algori
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 -->
 
+
 <!--
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
@@ -3566,17 +3583,6 @@ https://en.wikipedia.org/wiki/Dot_product
 https://en.wikipedia.org/wiki/Cross_product
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 
 https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
 -->
@@ -3893,11 +3899,9 @@ Data Camp
 <!--
 https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
 
-Cheat Sheets
-http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
-http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png | Template_2_oxrskq.png (700×366)
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
@@ -3907,9 +3911,7 @@ https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machin
 
 https://github.com/datacamp | DataCamp
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 https://www.datacamp.com/community/ | News | DataCamp
 https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
 https://www.datacamp.com/projects | Projects
