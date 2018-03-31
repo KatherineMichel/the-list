@@ -3378,6 +3378,8 @@ django uml - Google Search
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 <!--
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+
 https://en.wikipedia.org/wiki/Persistent_data_structure
 
 https://docs.python.org/3/tutorial/datastructures.html
@@ -3452,37 +3454,50 @@ https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
 
-
-https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas | 140 Machine Learning Formulas - Data Science Central
-
-https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
-
-https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
-
-https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
-
-http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
-https://www.datasciencecentral.com/profiles/blogs/python-for-big-data-in-one-picture | Python for Big Data in One Picture - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture | Machine Learning Summarized in One Picture - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
-https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/cheat-sheet-python-basics-for-data-science | [Cheat Sheet] Python Basics For Data Science - Data Science Central
-
-
-http://www.datasciguide.com/contenttype/cheat-sheets/?post_types=content | Cheat Sheets | Content Types | Data Sci Guide
-
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
+https://www.datacamp.com/community/data-science-cheatsheets
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+https://minireference.com/static/tutorials/conceptmap.pdf
+
+https://github.com/RubensZimbres/Repo-2018
+https://github.com/RubensZimbres/Repo-2017
+https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.16.OK.pdf
+https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.15.OK.pdf
+https://github.com/RubensZimbres/Repo-2016
 
 https://github.com/soulmachine/machine-learning-cheat-sheet
+
+Python for Big Data
+https://www.xmind.net/m/WvfC
+
+Mathworks- Machine Learning Summarized in One Picture
+https://www.mathworks.com/help/stats/machine-learning-in-matlab.html
+
+http://www.asimovinstitute.org/neural-network-zoo/
+
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+
+
+https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
+https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
+
+http://www.datasciguide.com/contenttype/cheat-sheets/?post_types=content | Cheat Sheets | Content Types | Data Sci Guide
+
 https://github.com/kailashahirwar/cheatsheets-ai
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+
+Machine Learning Algos
+https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
+https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
+https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
+http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 -->
 
 
