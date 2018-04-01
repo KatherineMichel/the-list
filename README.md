@@ -3459,6 +3459,8 @@ Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
+https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
+
 https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
