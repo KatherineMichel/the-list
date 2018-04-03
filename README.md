@@ -3520,6 +3520,8 @@ https://minireference.com/static/tutorials/conceptmap.pdf
 http://bigocheatsheet.com/#poster
 https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
 
+https://docs.python.org/3/tutorial/datastructures.html
+
 https://en.wikipedia.org/wiki/Data_structure
 
 Common Data Structure Operations
