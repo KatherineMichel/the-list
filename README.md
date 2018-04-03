@@ -3518,6 +3518,7 @@ https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
 https://minireference.com/static/tutorials/conceptmap.pdf
 
 http://bigocheatsheet.com/#poster
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
 
 https://en.wikipedia.org/wiki/Data_structure
 
@@ -3538,8 +3539,9 @@ https://en.wikipedia.org/wiki/AVL_tree
 https://en.wikipedia.org/wiki/K-d_tree
 
 https://en.wikipedia.org/wiki/Sorting_algorithm
-https://en.wikipedia.org/wiki/Selection_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/List_(abstract_data_type)
+https://en.wikipedia.org/wiki/Sequence#Analysis
+https://en.wikipedia.org/wiki/Lexicographical_order
 
 Array Sorting Algorithms
 http://en.wikipedia.org/wiki/Quicksort
@@ -3555,6 +3557,11 @@ http://en.wikipedia.org/wiki/Bucket_sort
 http://en.wikipedia.org/wiki/Radix_sort
 https://en.wikipedia.org/wiki/Counting_sort
 https://en.wikipedia.org/wiki/Cubesort
+
+https://en.wikipedia.org/wiki/Selection_algorithm
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
 
 
@@ -3579,10 +3586,10 @@ https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
 https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 
+https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
 https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
