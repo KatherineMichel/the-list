@@ -3475,9 +3475,6 @@ https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_She
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
 
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
-
 https://github.com/RubensZimbres/Repo-2018
 https://github.com/RubensZimbres/Repo-2017
 https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.16.OK.pdf
@@ -3517,6 +3514,50 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 
 
 <!--
+https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+https://minireference.com/static/tutorials/conceptmap.pdf
+
+http://bigocheatsheet.com/#poster
+
+https://en.wikipedia.org/wiki/Data_structure
+
+Common Data Structure Operations
+https://en.wikipedia.org/wiki/Array_data_structure
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists
+https://en.wikipedia.org/wiki/Doubly_linked_list
+https://en.wikipedia.org/wiki/Skip_list
+https://en.wikipedia.org/wiki/Hash_table
+https://en.wikipedia.org/wiki/Binary_search_tree
+https://en.wikipedia.org/wiki/Cartesian_tree
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+https://en.wikipedia.org/wiki/Splay_tree
+https://en.wikipedia.org/wiki/AVL_tree
+https://en.wikipedia.org/wiki/K-d_tree
+
+https://en.wikipedia.org/wiki/Sorting_algorithm
+https://en.wikipedia.org/wiki/Selection_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm
+
+Array Sorting Algorithms
+http://en.wikipedia.org/wiki/Quicksort
+http://en.wikipedia.org/wiki/Merge_sort
+http://en.wikipedia.org/wiki/Timsort
+http://en.wikipedia.org/wiki/Heapsort
+http://en.wikipedia.org/wiki/Bubble_sort
+http://en.wikipedia.org/wiki/Insertion_sort
+http://en.wikipedia.org/wiki/Selection_sort
+https://en.wikipedia.org/wiki/Tree_sort
+http://en.wikipedia.org/wiki/Shellsort
+http://en.wikipedia.org/wiki/Bucket_sort
+http://en.wikipedia.org/wiki/Radix_sort
+https://en.wikipedia.org/wiki/Counting_sort
+https://en.wikipedia.org/wiki/Cubesort
+
+
+
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
 
@@ -3537,11 +3578,6 @@ https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
 https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
 https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-
-https://en.wikipedia.org/wiki/Selection_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Sorting_algorithm
 
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
