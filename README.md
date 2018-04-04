@@ -3757,7 +3757,7 @@ https://developer.apple.com/reference/accelerate/1912851-bnns
 https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
 
 https://research.google.com/teams/brain/residency/ | Research at Google
-
+https://blog.openai.com/openai-scholars/ | OpenAI Scholars
 
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 
