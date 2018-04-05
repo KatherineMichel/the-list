@@ -3101,6 +3101,7 @@ Stellar Programming Learning Resources
 
 
 <!--
+Python
 https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
 
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
@@ -3819,6 +3820,13 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
+https://www.analyticsvidhya.com
+https://github.com/adeshpande3
+https://jamesmccaffrey.wordpress.com
+http://colah.github.io
+http://ruder.io
+https://www.slideshare.net/SebastianRuder
+
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
@@ -3966,11 +3974,10 @@ https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks fo
 Data Camp
 
 <!--
-https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
-
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
+https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
+https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
@@ -3978,12 +3985,14 @@ https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
 
+
 https://github.com/datacamp | DataCamp
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 https://www.datacamp.com/community/ | News | DataCamp
 https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
 https://www.datacamp.com/projects | Projects
+https://www.facebook.com/DataCamp-726282547396228/
 
 https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
 https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
