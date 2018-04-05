@@ -3820,6 +3820,8 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
+https://chrisalbon.com
+http://www.datasciguide.com
 https://www.analyticsvidhya.com
 https://github.com/adeshpande3
 https://jamesmccaffrey.wordpress.com
@@ -4124,6 +4126,7 @@ http://www.datasciguide.com/recommended-resources-for-beginners
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
+
 
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
