@@ -4191,6 +4191,20 @@ Models and Examples
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+XGBoost
+https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+
+https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
+https://medium.com/tensorflow/livestream-the-tensorflow-developer-summit-2018-2cb445660c7f | Livestream the TensorFlow Developer Summit, 2018 – TensorFlow – Medium
+https://www.youtube.com/watch?v=gplTc2F5Wvk | TensorFlow Dev Summit 2018 - Livestream - YouTube
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
+
 Benchmarking
 https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
 https://www.tensorflow.org/performance/ | Performance  |  TensorFlow
@@ -4201,14 +4215,23 @@ https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Per
 https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
 https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
 
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://discuss.pytorch.org/ | (3) PyTorch Forums
+https://github.com/pytorch/benchmark | pytorch/benchmark
 
 
+https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
+https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
 
 https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
 
 https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+https://medium.com/tensorflow/ | TensorFlow – Medium
+https://www.tensorflow.org/community/ | Community  |  TensorFlow
+
+https://deeplearnjs.org/ | deeplearn.js
+https://js.tensorflow.org/ | TensorFlow.js
+
+https://www.tensorflow.org/serving/ | Introduction  |  TensorFlow
 
 https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials
@@ -4226,6 +4249,16 @@ https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | t
 https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
 https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
 https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
+
+https://magenta.tensorflow.org/ | Magenta
+https://www.tensorflow.org/mobile/
+https://www.tensorflow.org/mobile/tflite/
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+https://discuss.pytorch.org/ | (3) PyTorch Forums
 
 http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
 https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
@@ -4247,6 +4280,13 @@ https://keras.io/optimizers/ | Optimizers - Keras Documentation
 https://github.com/fchollet/keras-resources
 https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
+
+http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
+
+https://github.com/topics/pytorch-tutorials
+
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
 -->
 
 <!--
@@ -4273,27 +4313,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.h
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
 http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
 -->
-
-<!--
-https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
-https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
-https://github.com/topics/pytorch-tutorials
-
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-
-https://www.tensorflow.org/mobile/
-https://www.tensorflow.org/mobile/tflite/
-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-
-XGBoost
-https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
--->
-
 
 <!--
 https://github.com/spyder-ide/spyder
