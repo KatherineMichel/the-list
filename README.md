@@ -2519,6 +2519,7 @@ https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth 
 -->
 
 
+
 ## What's New
 
 ## Python and Django Books and Tutorials
@@ -2643,6 +2644,12 @@ Tutorials- Looking At
 <!--
 https://en.wikipedia.org/wiki/Python_(programming_language)
 
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://www.fullstackpython.com/best-python-resources.html | Best Python Resources - Full Stack Python
+
 https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers		
 https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
 
@@ -2669,6 +2676,8 @@ https://www.digitalocean.com/community/tutorial_series/object-oriented-programmi
 https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
 
 * [Interactive Python](http://www.interactivepython.org)
+
+http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
 
 How to Think Like a Computer Scientist: Interactive Edition
 https://runestone.academy/runestone/static/thinkcspy/index.html
@@ -2846,6 +2855,7 @@ https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-f
 https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 
 See other article also
+https://github.com/nvie/homebrew-tap | nvie/homebrew-tap: Personal taps for Homebrew
 http://nvie.com/posts/pin-your-packages/
 pip-tools https://github.com/nvie/pip-tools
 http://www.kennethreitz.org/essays/a-better-pip-workflow
@@ -2952,11 +2962,15 @@ https://pip.pypa.io/en/stable/reference/pip_wheel
 Python- Cookiecutter Creating Packages
 * [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
+https://semver.org/ | Semantic Versioning 2.0.0 | Semantic Versioning
+https://pyup.io/ | Manage your Python dependencies with pyup.io
+https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
+
 http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
 
 https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
@@ -2970,6 +2984,7 @@ Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
+
 
 
 ## Django Learning Resources
@@ -3086,6 +3101,8 @@ Stellar Programming Learning Resources
 
 
 <!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
@@ -3220,6 +3237,7 @@ Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
 <!--
+https://twitter.com/brandon_rhodes?lang=en | Brandon Rhodes (@brandon_rhodes) | Twitter
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 http://python-patterns.guide/ | Python Patterns
 http://python-patterns.guide/gang-of-four/decorator-pattern/ | The Decorator Pattern
@@ -3927,6 +3945,8 @@ Deep Learning AI
 * [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <!--
+https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
+
 https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
 
 https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
@@ -4296,6 +4316,8 @@ https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — 
 Jupyter
 
 <!--
+https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks | A gallery of interesting Jupyter Notebooks · jupyter/jupyter Wiki
+
 https://github.com/jupyterlab/jupyterlab | jupyterlab/jupyterlab: JupyterLab computational environment.
 https://github.com/jupyterhub/jupyterhub | jupyterhub/jupyterhub: Multi-user server for Jupyter notebooks
 https://github.com/jupyterhub/binderhub | jupyterhub/binderhub: Deterministically build docker images from a git repository + commit
