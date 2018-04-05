@@ -4191,6 +4191,30 @@ Models and Examples
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
+https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
+
+http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html | Importance of Feature Scaling — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html | sklearn.linear_model.LogisticRegression — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html | Plot Ridge coefficients as a function of the L2 regularization — scikit-learn 0.19.1 documentation
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
+https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
+
+http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
+https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
+https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
+https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
+
+
 XGBoost
 https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
