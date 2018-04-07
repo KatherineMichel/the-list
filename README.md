@@ -3540,6 +3540,12 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 <!--
 https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
 https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
+
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
 
 
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
@@ -3673,7 +3679,6 @@ https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Int
 https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
 
 
-
 Mathematics of Deep Learning
 https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
 https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
@@ -3689,40 +3694,16 @@ https://www.khanacademy.org/math/ap-calculus-ab
 -->
 
 
-
-
-
 <!--
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
-
 https://cs.stackexchange.com
 http://statweb.stanford.edu
 http://cslibrary.stanford.edu
 https://engineering.stanford.edu
 http://web.mit.edu
 
-https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
-
-https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
-
-https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
-
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
 https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
-
-https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
-
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
-
-https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
-
-https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
 
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
@@ -3731,9 +3712,25 @@ https://www.coursera.org/specializations/aml | Advanced Machine Learning | Cours
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 https://github.com/udacity/deep-learning
 
-https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
+
+https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
+
+https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
 https://github.com/cs50/
+https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11 | Introduction to Computer Science and Programming Using Python | edX
+
+https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
+
+https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
 -->
 
 
@@ -3786,15 +3783,16 @@ https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | c
 
 https://blog.keras.io
 
-https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
-https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
-
 https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
 
 https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
 
 https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
 
+
+
+https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
@@ -3806,8 +3804,11 @@ https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
-https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
 
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
 
 Benchmarking
 https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) 
