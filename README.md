@@ -2710,6 +2710,8 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://stackoverflow.com/users/541136/aaron-hall?tab=topactivity | User Aaron Hall - Stack Overflow
+
 http://letspy.tech/ | Home
 https://dbader.org/blog | Python Tutorials – dbader.org
 
@@ -3747,20 +3749,6 @@ https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Ren
 https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
 https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
 
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
-
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-
-https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
-
-
-
 
 Interesting Presentations
 
@@ -3768,6 +3756,9 @@ https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, 
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
+
+
+
 
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
@@ -3779,16 +3770,25 @@ https://developer.apple.com/reference/accelerate/1912851-bnns
 
 https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
 
-https://research.google.com/teams/brain/residency/ | Research at Google
-https://blog.openai.com/openai-scholars/ | OpenAI Scholars
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
 
-https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+https://blog.keras.io
 
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
+
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
 http://scaledml.org/ | Scaled Machine Learning
+https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
+https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
 
-https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
+http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
+
+
+
 
 Benchmarking
 https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) 
@@ -3806,27 +3806,40 @@ https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine 
 https://datapractices.org/manifesto/ | Manifesto for Data Practices
 https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
 https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
 
 https://openai.com/requests-for-research/
 http://ruder.io/requests-for-research/ | Requests for Research
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 
-https://www.analyticsvidhya.com/blog
-https://github.com/adeshpande3
-https://adeshpande3.github.io
-https://chrisalbon.com
-https://jamesmccaffrey.wordpress.com
+https://research.google.com/teams/brain/residency/ | Research at Google
+https://blog.openai.com/openai-scholars/ | OpenAI Scholars
 
-https://machinelearnings.co
-https://machinelearningmastery.com
 
-http://www.datasciguide.com
+https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
+https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
 
-https://blog.keras.io
+https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
+https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=877257579&utm_adgroupid=43744250843&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=d&utm_adpostion=none&utm_creative=226811648637&utm_targetid=aud-299068418609&utm_loc_interest_ms=&utm_loc_physical_ms=9023858&gclid=EAIaIQobChMIxqvnz43e2QIVAhg_Ch1GtgEqEAEYASAAEgLvAvD_BwE | Python: Network Analysis | DataCamp
 
-https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
+https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
+https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
 
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+
+http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
+
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
+
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html | Building a simple Keras + deep learning REST API
 
 https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/ | Softmax Classifiers Explained - PyImageSearch
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/ | Image classification with Keras and deep learning - PyImageSearch
@@ -3846,20 +3859,6 @@ https://developers.googleblog.com/2018/03/tensorrt-integration-with-tensorflow.h
 https://developers.googleblog.com/2017/12/announcing-core-ml-support.html | Google Developers Blog: Announcing Core ML support in TensorFlow Lite
 https://research.googleblog.com/2018/03/using-machine-learning-to-discover.html | Research Blog: Using Machine Learning to Discover Neural Network Optimizers
 
-
-https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
-https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
-https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
-
-https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
-https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=877257579&utm_adgroupid=43744250843&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=d&utm_adpostion=none&utm_creative=226811648637&utm_targetid=aud-299068418609&utm_loc_interest_ms=&utm_loc_physical_ms=9023858&gclid=EAIaIQobChMIxqvnz43e2QIVAhg_Ch1GtgEqEAEYASAAEgLvAvD_BwE | Python: Network Analysis | DataCamp
-
-https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
-https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
-https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
-
-https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html | Building a simple Keras + deep learning REST API
-
 https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/ | Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data
 https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/ | Which algorithm takes the crown: Light GBM vs XGBOOST?
 https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/ | 7 Types of Regression Techniques you should know
@@ -3867,6 +3866,9 @@ https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-pytho
 
 https://github.com/adeshpande3/Generative-Adversarial-Networks
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/ | A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA ('19)
+
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 
 https://machinelearningmastery.com/start-with-gradient-boosting/ | Start With Gradient Boosting, Results from Comparing 13 Algorithms on 165 Datasets - Machine Learning Mastery
 https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
@@ -3949,10 +3951,11 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 <!--
+https://www.analyticsvidhya.com/blog
+https://github.com/adeshpande3
+https://adeshpande3.github.io
 https://chrisalbon.com
 http://www.datasciguide.com
-https://www.analyticsvidhya.com
-https://github.com/adeshpande3
 https://jamesmccaffrey.wordpress.com
 http://colah.github.io
 http://ruder.io
@@ -4044,7 +4047,6 @@ http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - 
 http://wiki.fast.ai/index.php/Special:RecentChanges
 http://wiki.fast.ai/index.php/Kaggle_CLI
 http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks
-http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning
 http://wiki.fast.ai/index.php/Lesson_1
 http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
 http://wiki.fast.ai/index.php/Lesson_3
