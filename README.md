@@ -3691,6 +3691,50 @@ https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
 
 https://www.khanacademy.org/math/calculus-home
 https://www.khanacademy.org/math/ap-calculus-ab
+
+
+SQL
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+Calculus and Derivatives
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
+
+https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
+https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
+
+Derivatives
+https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
+https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
+
+Derivatives
+http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
+
+https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
+https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
+https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
+https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
+https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
+https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
+https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
+https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
+https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
+
+Derivatives
+http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
+http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
+
+http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
+http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
+http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
+http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
+http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
+http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
+http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
+http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
 -->
 
 
@@ -3788,6 +3832,8 @@ https://medium.com/machine-learning-for-humans | Machine Learning for Humans –
 https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
 
 https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+
+http://community.wolfram.com
 
 
 
@@ -3920,43 +3966,6 @@ https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trad
 https://machinelearningmastery.com/logistic-regression-for-machine-learning/ | Logistic Regression for Machine Learning - Machine Learning Mastery
 
 https://machinelearningmastery.com/vector-norms-machine-learning/ | Gentle Introduction to Vector Norms in Machine Learning - Machine Learning Mastery
-
-https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
-https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
-https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
-https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
-
-http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
-
-https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
-https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
-https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
-https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
-https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
-https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
-https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
-https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
-https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
-
-https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
-
-http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
-http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
-http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
-http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
-http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
-http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
-http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
-http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
-http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
-http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
 
 
 http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
