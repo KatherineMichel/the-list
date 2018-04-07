@@ -3518,7 +3518,6 @@ http://www.asimovinstitute.org/neural-network-zoo/
 http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 
-
 https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
 https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
 
@@ -3537,9 +3536,23 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 -->
 
 
+
 <!--
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
+https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+
+
+Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
+https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
+https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
 
 http://bigocheatsheet.com/#poster
 https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
@@ -3590,29 +3603,7 @@ https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
-
-
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
+https://en.wikipedia.org/wiki/List_of_algorithms
 https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
 https://en.wikipedia.org/wiki/Computational_mathematics
@@ -3629,21 +3620,9 @@ https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
 
-https://cs.stackexchange.com
-http://statweb.stanford.edu
-http://cslibrary.stanford.edu
-https://engineering.stanford.edu
-http://web.mit.edu
 
-https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
-
-https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
--->
-
-
-
-<!--
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
 
 Jeremy Howard- Matrix Calculus
 https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
@@ -3655,12 +3634,6 @@ https://en.wikipedia.org/wiki/Differential_calculus
 https://en.wikipedia.org/wiki/Dot_product
 https://en.wikipedia.org/wiki/Cross_product
 
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-
-https://arxiv.org/abs/1712.04741 | [1712.04741] Mathematics of Deep Learning
--->
-
-<!--
 Computational Linear Algebra
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
@@ -3677,13 +3650,17 @@ https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mat
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
 https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
 
-
 Recommended by Rachel Thomas?
 https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
 https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+
+https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
+https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
+https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+https://minireference.com/static/tutorials/conceptmap.pdf
 
 
 https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
@@ -3694,11 +3671,47 @@ https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Yo
 https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
+
+
+
+Mathematics of Deep Learning
+https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
+https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
+
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
 -->
 
 
 
+
+
 <!--
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+
+https://cs.stackexchange.com
+http://statweb.stanford.edu
+http://cslibrary.stanford.edu
+https://engineering.stanford.edu
+http://web.mit.edu
+
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
+
+https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
+
+https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
+
+https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
+
+https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
@@ -3757,14 +3770,13 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://github.com/lorenanicole/djangocon/blob/master/model/views.py
 https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
 
+https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
+https://www.youtube.com/watch?v=-BIGzKmxMGY | Introduction to Machine Learning in Python with Alyssa Batula - YouTube
+https://github.com/abatula/MachineLearningIntro | abatula/MachineLearningIntro: Files used for an Introduction to Machine Learning course
 
 
 
-https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
-https://app.pluralsight.com/library/courses/python-data-science/table-of-contents | Doing Data Science with Python | Pluralsight
-
-https://app.pluralsight.com/library/search?q=datacamp | Search | Pluralsight
 
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
@@ -3777,29 +3789,37 @@ https://blog.keras.io
 https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
 https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
 
+https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
+
+https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
+
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+
+
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
-http://scaledml.org/ | Scaled Machine Learning
-https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
-https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
 
-https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
-http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
-http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
+https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanssens/data-science-at-the-command-line: Data Science at the Command Line
+https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
+https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
+https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
 
 
 Benchmarking
 https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) 
+http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
 http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
 http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
 https://svail.github.io/DeepBench/
 https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
 
-Mathematics of Deep Learning
-https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
-https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
+https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
+https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
+https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
 
 https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
 
@@ -3815,11 +3835,30 @@ https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optim
 
 https://research.google.com/teams/brain/residency/ | Research at Google
 https://blog.openai.com/openai-scholars/ | OpenAI Scholars
-
+https://aigrant.org/
+https://jobs.lever.co/openai/2153959a-77bf-443e-bc07-e36da36c98ce/apply | OpenAI - Scholar
+https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
+https://blog.openai.com
+https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
+https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
+https://www.aifund.ai/ | AI Fund
 
 https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
 https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
+
+http://scaledml.org/ | Scaled Machine Learning
+https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
+https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
+
+People
+https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA | Rachael Tatman - YouTube - YouTube
+https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
+https://aaroncourville.wordpress.com/ | Aaron Courville
+
+https://www.thisismetis.com/ | Metis
+https://twitter.com/thisismetis | Metis (@thisismetis) | Twitter
+https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
 
 https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
 https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=877257579&utm_adgroupid=43744250843&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=d&utm_adpostion=none&utm_creative=226811648637&utm_targetid=aud-299068418609&utm_loc_interest_ms=&utm_loc_physical_ms=9023858&gclid=EAIaIQobChMIxqvnz43e2QIVAhg_Ch1GtgEqEAEYASAAEgLvAvD_BwE | Python: Network Analysis | DataCamp
@@ -3917,6 +3956,18 @@ http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWo
 http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
 http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
 http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
+
+
+http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
+
+https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
+https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
+
+http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
+http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
+
+http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
+http://shop.oreilly.com/product/0636920023784.do | Python for Data Analysis - O'Reilly Media
 -->
 
 
@@ -4153,11 +4204,6 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 
 
 
-
-
-
-
-
 Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
@@ -4352,12 +4398,6 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.h
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
 https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
 
-http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
-https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
-https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
-https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
-
-
 XGBoost
 https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
@@ -4371,6 +4411,9 @@ https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
 https://medium.com/tensorflow/livestream-the-tensorflow-developer-summit-2018-2cb445660c7f | Livestream the TensorFlow Developer Summit, 2018 – TensorFlow – Medium
 https://www.youtube.com/watch?v=gplTc2F5Wvk | TensorFlow Dev Summit 2018 - Livestream - YouTube
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
+
+https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
+https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
 
 Benchmarking
 https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
@@ -4394,9 +4437,12 @@ https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 https://medium.com/tensorflow/ | TensorFlow – Medium
 https://www.tensorflow.org/community/ | Community  |  TensorFlow
+https://www.tensorflow.org/hub/ | TensorFlow Hub  |  TensorFlow
 
 https://deeplearnjs.org/ | deeplearn.js
 https://js.tensorflow.org/ | TensorFlow.js
+https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
+https://github.com/tensorflow/tfjs-examples | tensorflow/tfjs-examples: Examples built with TensorFlow.js
 
 https://www.tensorflow.org/serving/ | Introduction  |  TensorFlow
 
@@ -4404,6 +4450,8 @@ https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
 https://www.tensorflow.org/tutorials
 https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
 https://www.tensorflow.org/tutorials/deep_cnn
+
+https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
 
 https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
