@@ -3789,6 +3789,132 @@ https://developers.google.com/machine-learning/fairness-overview/ | Machine Lear
 http://scaledml.org/ | Scaled Machine Learning
 
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+
+Benchmarking
+https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) 
+http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
+http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
+https://svail.github.io/DeepBench/
+https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
+
+Mathematics of Deep Learning
+https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
+https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
+
+https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
+
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+
+https://openai.com/requests-for-research/
+http://ruder.io/requests-for-research/ | Requests for Research
+https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
+
+https://www.analyticsvidhya.com/blog
+https://github.com/adeshpande3
+https://adeshpande3.github.io
+https://chrisalbon.com
+https://jamesmccaffrey.wordpress.com
+
+https://machinelearnings.co
+https://machinelearningmastery.com
+
+http://www.datasciguide.com
+
+https://blog.keras.io
+
+https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+
+https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/ | Softmax Classifiers Explained - PyImageSearch
+https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/ | Image classification with Keras and deep learning - PyImageSearch
+https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/ | Deep Learning for Computer Vision with Python: Master Deep Learning Using My New Book
+https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/ | How to create a deep learning dataset using Google Images - PyImageSearch
+
+https://matplotlib.org/tutorials/introductory/pyplot.html | Pyplot tutorial — Matplotlib 2.1.1 documentation
+https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html | Array creation — NumPy v1.13 Manual
+https://pandas.pydata.org/pandas-docs/stable/10min.html | 10 Minutes to pandas — pandas 0.22.0 documentation
+https://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html | Comparison with R / R libraries — pandas 0.22.0 documentation
+http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html | 1. What is the Jupyter Notebook? — Jupyter/IPython Notebook Quick Start Guide 0.1 documentation
+
+https://cloud.google.com/automl | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud Platform
+https://cloud.google.com/blog/big-data/2018/03/automl-vision-in-action-from-ramen-to-branded-goods | AutoML Vision in action: from ramen to branded goods | Google Cloud Big Data and Machine Learning Blog  |  Google Cloud
+https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/ | Cloud AutoML: Making AI accessible to every business
+https://developers.googleblog.com/2018/03/tensorrt-integration-with-tensorflow.html | Google Developers Blog: Announcing TensorRT integration with TensorFlow 1.7
+https://developers.googleblog.com/2017/12/announcing-core-ml-support.html | Google Developers Blog: Announcing Core ML support in TensorFlow Lite
+https://research.googleblog.com/2018/03/using-machine-learning-to-discover.html | Research Blog: Using Machine Learning to Discover Neural Network Optimizers
+
+
+https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
+https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
+
+https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
+https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=877257579&utm_adgroupid=43744250843&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=d&utm_adpostion=none&utm_creative=226811648637&utm_targetid=aud-299068418609&utm_loc_interest_ms=&utm_loc_physical_ms=9023858&gclid=EAIaIQobChMIxqvnz43e2QIVAhg_Ch1GtgEqEAEYASAAEgLvAvD_BwE | Python: Network Analysis | DataCamp
+
+https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
+https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
+https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
+
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html | Building a simple Keras + deep learning REST API
+
+https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/ | Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data
+https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/ | Which algorithm takes the crown: Light GBM vs XGBOOST?
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/ | 7 Types of Regression Techniques you should know
+https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/ | Infographic - Quick Guide to learn Python for Data Science
+
+https://github.com/adeshpande3/Generative-Adversarial-Networks
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/ | A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA ('19)
+
+https://machinelearningmastery.com/start-with-gradient-boosting/ | Start With Gradient Boosting, Results from Comparing 13 Algorithms on 165 Datasets - Machine Learning Mastery
+https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/ | A Gentle Introduction to Mini-Batch Gradient Descent and How to Configure Batch Size - Machine Learning Mastery
+https://machinelearningmastery.com/what-is-deep-learning/ | What is Deep Learning? - Machine Learning Mastery
+https://machinelearningmastery.com/an-introduction-to-feature-selection/ | An Introduction to Feature Selection - Machine Learning Mastery
+https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/ | Using Learning Rate Schedules for Deep Learning Models in Python with Keras - Machine Learning Mastery
+https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/ | Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/logistic-regression-for-machine-learning/ | Logistic Regression for Machine Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/vector-norms-machine-learning/ | Gentle Introduction to Vector Norms in Machine Learning - Machine Learning Mastery
+
+https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
+https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
+https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
+
+http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
+
+https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
+https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
+https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
+https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
+https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
+https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
+https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
+https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
+https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
+
+https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
+
+http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
+http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
+http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
+http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
+http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
+http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
+http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
+http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
+http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
+http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
 -->
 
 
