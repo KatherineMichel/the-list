@@ -2488,9 +2488,6 @@ https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Dj
 
 
 
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
 
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
@@ -2500,15 +2497,6 @@ https://github.com/python/mypy | python/mypy: Optional static typing for Python 
 https://github.com/dropbox/pyannotate
 http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
 https://github.com/python/typeshed | python/typeshed: Collection of library stubs for Python, with static types
-
-http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
-https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
-Classy Django REST Framework
-https://github.com/vintasoftware/classy-django-rest-framework 
-Django Class-Based-View Inspector -- Classy CBV
-
-http://cdrf.co
-http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 
 https://github.com/direnv
 http://docs.python-requests.org/en/master
@@ -2988,6 +2976,21 @@ Python- Wheel (versus Egg!)
 
 
 ## Django Learning Resources
+
+<!--
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+
+http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
+https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
+Classy Django REST Framework
+https://github.com/vintasoftware/classy-django-rest-framework 
+Django Class-Based-View Inspector -- Classy CBV
+
+http://cdrf.co
+http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
+-->
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
