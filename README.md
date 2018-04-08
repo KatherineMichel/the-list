@@ -4138,17 +4138,17 @@ https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks fo
 DataCamp
 * [DataCamp Community](https://www.datacamp.com/community), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), [DataCamp Projects](https://www.datacamp.com/projects)
 * [DataCamp GitHub](https://github.com/datacamp)
+* [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
 <!--
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
 
-https://www.facebook.com/DataCamp-726282547396228/
-https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
 https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
 https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
 https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
+
 
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
