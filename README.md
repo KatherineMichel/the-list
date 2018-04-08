@@ -3817,103 +3817,14 @@ https://www.youtube.com/watch?v=-BIGzKmxMGY | Introduction to Machine Learning i
 https://github.com/abatula/MachineLearningIntro | abatula/MachineLearningIntro: Files used for an Introduction to Machine Learning course
 
 
-
-
-
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
 https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
 
 https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
 
-https://blog.keras.io
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
-https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
-
-https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
-
-https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
-
-http://community.wolfram.com
-
-
-
-https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
-https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
-
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
-https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
-
-https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanssens/data-science-at-the-command-line: Data Science at the Command Line
-https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
-
-https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
-
-
-https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-Benchmarking
-https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) 
-http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
-http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
-http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
-https://svail.github.io/DeepBench/
-https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
-
-https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
-https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
-https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
-
-https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
-
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-
-https://openai.com/requests-for-research/
-http://ruder.io/requests-for-research/ | Requests for Research
-https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
-
-https://research.google.com/teams/brain/residency/ | Research at Google
-https://blog.openai.com/openai-scholars/ | OpenAI Scholars
-https://aigrant.org/
-https://jobs.lever.co/openai/2153959a-77bf-443e-bc07-e36da36c98ce/apply | OpenAI - Scholar
-https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
-https://blog.openai.com
-https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
-https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
-https://www.aifund.ai/ | AI Fund
-
-https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
-https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
-https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
-
-http://scaledml.org/ | Scaled Machine Learning
-https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
-https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
-
-People
-https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA | Rachael Tatman - YouTube - YouTube
-https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
-https://aaroncourville.wordpress.com/ | Aaron Courville
-
-https://www.thisismetis.com/ | Metis
-https://twitter.com/thisismetis | Metis (@thisismetis) | Twitter
-https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
-
-https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
-https://www.datacamp.com/courses/network-analysis-in-python-part-1?utm_source=adwords_ppc&utm_campaignid=877257579&utm_adgroupid=43744250843&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=d&utm_adpostion=none&utm_creative=226811648637&utm_targetid=aud-299068418609&utm_loc_interest_ms=&utm_loc_physical_ms=9023858&gclid=EAIaIQobChMIxqvnz43e2QIVAhg_Ch1GtgEqEAEYASAAEgLvAvD_BwE | Python: Network Analysis | DataCamp
-
-https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
-https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
-https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
 
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 
@@ -3923,8 +3834,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-
 
 http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-
-https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
 https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html | Building a simple Keras + deep learning REST API
 
@@ -3967,6 +3876,73 @@ https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trad
 https://machinelearningmastery.com/logistic-regression-for-machine-learning/ | Logistic Regression for Machine Learning - Machine Learning Mastery
 
 https://machinelearningmastery.com/vector-norms-machine-learning/ | Gentle Introduction to Vector Norms in Machine Learning - Machine Learning Mastery
+
+
+
+https://blog.keras.io
+
+https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
+
+https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
+
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+
+http://community.wolfram.com
+
+
+
+https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
+
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
+
+https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanssens/data-science-at-the-command-line: Data Science at the Command Line
+https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
+
+https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+
+
+
+
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
+https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
+https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
+
+https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
+
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+
+https://openai.com/requests-for-research/
+http://ruder.io/requests-for-research/ | Requests for Research
+https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
+
+https://research.google.com/teams/brain/residency/ | Research at Google
+https://blog.openai.com/openai-scholars/ | OpenAI Scholars
+https://aigrant.org/
+https://jobs.lever.co/openai/2153959a-77bf-443e-bc07-e36da36c98ce/apply | OpenAI - Scholar
+https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
+https://blog.openai.com
+https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
+https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
+https://www.aifund.ai/ | AI Fund
+
+http://scaledml.org/ | Scaled Machine Learning
+https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
+https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
+
+https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
 -->
 
 
@@ -3990,22 +3966,26 @@ Data Science- Forums
 * [Quora Data Science Algorithms](https://algorithmsdatascience.quora.com)
 
 More Learning Resources
-* [Jake VanderPlas](http://jakevdp.github.io)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
 * [DataSciGuide](http://www.datasciguide.com)
 * [Toward Data Science](https://towardsdatascience.com)
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 * [Machine Learnings](https://machinelearnings.co)
+* [Metis Blog](https://www.thisismetis.com/blog) and [Metis Twitter](https://twitter.com/thisismetis)
 * [Partial Derivative](http://www.partiallyderivative.com)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
+Teachers
+* [Chris Albon](https://chrisalbon.com)
+* [Jake VanderPlas](http://jakevdp.github.io)
+* [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
+
 <!--
+https://aaroncourville.wordpress.com/ | Aaron Courville
 https://www.analyticsvidhya.com/blog
 https://github.com/adeshpande3
 https://adeshpande3.github.io
-https://chrisalbon.com
-http://www.datasciguide.com
 https://jamesmccaffrey.wordpress.com
 http://colah.github.io
 http://ruder.io
@@ -4014,6 +3994,10 @@ https://www.slideshare.net/SebastianRuder
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
 https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+
+https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
+https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
 -->
 
 Data, Data Science, Big Data
@@ -4032,9 +4016,6 @@ Artificial Intelligence- Wikipedia
 * [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 * [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-
-
 
 
 Fast AI
@@ -4157,6 +4138,16 @@ https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks fo
 Data Camp
 
 <!--
+New
+https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
+https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
+
+
+https://github.com/datacamp | DataCamp
+https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
+
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
 https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
@@ -4168,17 +4159,15 @@ https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
 
-
-https://github.com/datacamp | DataCamp
-https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 https://www.datacamp.com/community/ | News | DataCamp
 https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
 https://www.datacamp.com/projects | Projects
 https://www.facebook.com/DataCamp-726282547396228/
 
+https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
 https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
 https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
+https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
 
 https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
 https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
@@ -4380,19 +4369,106 @@ https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 -->
 
+
+Benchmarking
+* [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
+* [Baidu Research DeepBench](https://svail.github.io/DeepBench)
+
+<!--
+http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
+http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
+
+http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
+https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
+
+https://www.tensorflow.org/performance/ | Performance  |  TensorFlow
+https://www.tensorflow.org/performance/performance_guide
+https://www.tensorflow.org/performance/benchmarks
+https://www.tensorflow.org/performance/performance_models
+https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
+
+https://github.com/pytorch/benchmark | pytorch/benchmark
+-->
+
 Front-Runners
 * [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
+* [TensorFlow JS](https://js.tensorflow.org)
 * [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
 Models and Examples
 * [PyTorch Examples](https://github.com/pytorch/examples)
 * [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-* [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
+* [TensorFlow JS Examples GitHub](https://github.com/tensorflow/tfjs-examples)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
+TensorFlow Resources
+* [TensorFlow Community](https://www.tensorflow.org/community) and [TensorFlow Medium](https://medium.com/tensorflow)
+* [TensorFlow Hub](https://www.tensorflow.org/hub) 
+* [TensorFlow Serving](https://www.tensorflow.org/serving) 
+* [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
+
+Templates
+* [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
+
 <!--
+https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2
+https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
+https://medium.com/tensorflow/livestream-the-tensorflow-developer-summit-2018-2cb445660c7f | Livestream the TensorFlow Developer Summit, 2018 – TensorFlow – Medium
+https://www.youtube.com/watch?v=gplTc2F5Wvk | TensorFlow Dev Summit 2018 - Livestream - YouTube
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
+
+https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
+https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
+
+https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
+
+https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
+https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
+
+https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+
+https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
+
+https://github.com/tensorflow/models/tree/master/official
+https://github.com/tensorflow/models/tree/master/research
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
+
+https://magenta.tensorflow.org/ | Magenta
+https://www.tensorflow.org/mobile/
+https://www.tensorflow.org/mobile/tflite/
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+https://discuss.pytorch.org/ | (3) PyTorch Forums
+
+http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
+https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
+https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
+http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
+http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
+
+https://github.com/fchollet/keras-resources
+https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
+
+
+
+
+https://deeplearnjs.org/ | deeplearn.js
+
+https://www.tensorflow.org/tutorials/deep_cnn
+
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
 https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
 https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
@@ -4400,6 +4476,13 @@ https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Lear
 https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
 https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
 https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
+
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
 
 http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
 http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
@@ -4418,81 +4501,6 @@ http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Tre
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
-https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
-https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
-https://medium.com/tensorflow/livestream-the-tensorflow-developer-summit-2018-2cb445660c7f | Livestream the TensorFlow Developer Summit, 2018 – TensorFlow – Medium
-https://www.youtube.com/watch?v=gplTc2F5Wvk | TensorFlow Dev Summit 2018 - Livestream - YouTube
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
-
-https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
-https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
-
-Benchmarking
-https://dawn.cs.stanford.edu/benchmark/ | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
-https://www.tensorflow.org/performance/ | Performance  |  TensorFlow
-https://www.tensorflow.org/performance/performance_guide
-https://www.tensorflow.org/performance/benchmarks
-https://www.tensorflow.org/performance/performance_models
-https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
-
-https://github.com/pytorch/benchmark | pytorch/benchmark
-
-
-https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
-https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
-
-https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
-
-https://github.com/chiphuyen/stanford-tensorflow-tutorials
-
-https://medium.com/tensorflow/ | TensorFlow – Medium
-https://www.tensorflow.org/community/ | Community  |  TensorFlow
-https://www.tensorflow.org/hub/ | TensorFlow Hub  |  TensorFlow
-
-https://deeplearnjs.org/ | deeplearn.js
-https://js.tensorflow.org/ | TensorFlow.js
-https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
-https://github.com/tensorflow/tfjs-examples | tensorflow/tfjs-examples: Examples built with TensorFlow.js
-
-https://www.tensorflow.org/serving/ | Introduction  |  TensorFlow
-
-https://www.tensorflow.org/get_started/ | Getting Started  |  TensorFlow
-https://www.tensorflow.org/tutorials
-https://www.tensorflow.org/programmers_guide/ | Programmer's Guide  |  TensorFlow
-https://www.tensorflow.org/tutorials/deep_cnn
-
-https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
-
-https://github.com/tensorflow/models/tree/master/official
-https://github.com/tensorflow/models/tree/master/research
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
-
-https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
-
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
-
-https://magenta.tensorflow.org/ | Magenta
-https://www.tensorflow.org/mobile/
-https://www.tensorflow.org/mobile/tflite/
-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-
-
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://discuss.pytorch.org/ | (3) PyTorch Forums
-
-http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
-https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
-https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
-http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
-http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
 http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
 
 http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
@@ -4504,10 +4512,6 @@ https://www.kaggle.com/pvlima/pretrained-pytorch-models
 
 https://keras.io/initializers/ | Initializers - Keras Documentation
 https://keras.io/optimizers/ | Optimizers - Keras Documentation
-
-https://github.com/fchollet/keras-resources
-https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
 
 http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
 
@@ -4815,11 +4819,6 @@ https://www.kaggle.com/wiki/Tutorials | Tutorials | Kaggle
 https://www.datacamp.com/community/tags/kaggle | kaggle
 https://www.kaggle.com/about/inclass/faqs | Kaggle: Your Home for Data Science
 https://www.kaggle.com/learn/sql | Learn | Kaggle
-
-https://www.kaggle.com/rtatman | Rachael Tatman | Kaggle
-https://www.twitch.tv/rctatman | rctatman - Twitch
-https://twitter.com/rctatman | Rachael Tatman (@rctatman) | Twitter
-https://github.com/rctatman | rctatman (Rachael Tatman ) / Repositories
 
 https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
 https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
