@@ -4135,18 +4135,20 @@ Geoffrey Hinton
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
 -->
 
-Data Camp
+DataCamp
+* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), [DataCamp Projects](https://www.datacamp.com/projects)
+* [DataCamp GitHub](https://github.com/datacamp)
 
 <!--
-New
-https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
-https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
-
-
-https://github.com/datacamp | DataCamp
 https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
+
+https://www.facebook.com/DataCamp-726282547396228/
+https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
+https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
+https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
+https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
 
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
@@ -4159,19 +4161,12 @@ https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
 
-https://www.datacamp.com/community/ | News | DataCamp
-https://www.datacamp.com/community/tutorials | Tutorials - Online Data Analysis & Interpretation | DataCamp
-https://www.datacamp.com/projects | Projects
-https://www.facebook.com/DataCamp-726282547396228/
-
-https://github.com/datacamp/datacamp_facebook_live_dataframed/blob/master/fb_live_dataframed_soln.ipynb | datacamp_facebook_live_dataframed/fb_live_dataframed_soln.ipynb at master · datacamp/datacamp_facebook_live_dataframed
-https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
-https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
-https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
-
 https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
 https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
 https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
+
+https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
+https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
 
 https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
 
@@ -4191,52 +4186,10 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 -->
 
 
-
-Google Machine Learning Learning Resources
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-
-<!--
-Google
-https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58 | Jason's Machine Learning 101 - Google Slides
-https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-
-Google Brain Presentation
-https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
-
-
-https://developers.google.com/machine-learning/crash-course
-
-https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
-
-Google Open Online Education
-https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
-
-https://www.tensorflow.org/api_docs/
-https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
-
-https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
-
-https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
-
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
-https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
-https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA | Google Open Online Education - YouTube - YouTube
-https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
-https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
-https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
-http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
--->
-
-
+Stanford Groups
+* [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
+* [Stanford Natural Language Processing Group](https://nlp.stanford.edu)
+* [Stanford Vision Lab](http://vision.stanford.edu)
 
 Karpathy (Stanford)
 * ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
@@ -4253,12 +4206,9 @@ https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy
 
 Data Science Groups
 https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
-https://stanfordmlgroup.github.io
 https://web.stanford.edu/class/cs106s/ | CS106S
 
 https://github.com/oxford-cs-deepnlp-2017/lectures
-https://nlp.stanford.edu
-http://vision.stanford.edu/
 http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
 
@@ -4339,17 +4289,14 @@ https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/178646216
 https://github.com/nfmcclure/tensorflow_cookbook
 
 https://github.com/fchollet/deep-learning-with-python-notebooks.
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow
 https://github.com/ageron/handson-ml
 https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
 
 https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
-
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems: Aurélien Géron: 9781491962299: Amazon.com: Books
 -->
 
 Hosting
@@ -4408,6 +4355,8 @@ Models and Examples
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
+https://www.tensorflow.org/api_docs/
+
 https://github.com/tensorflow/models/tree/master/official
 https://github.com/tensorflow/models/tree/master/research
 
@@ -4420,6 +4369,35 @@ https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Mod
 https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
 http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
 http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
+
+https://www.tensorflow.org/tutorials/deep_cnn
+
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
+https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
+
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
+
+http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
+
+http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
+http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
+http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
+
+https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
+https://www.kaggle.com/pvlima/pretrained-pytorch-models
+
+https://keras.io/initializers/ | Initializers - Keras Documentation
+https://keras.io/optimizers/ | Optimizers - Keras Documentation
 -->
 
 TensorFlow Resources
@@ -4430,6 +4408,37 @@ TensorFlow Resources
 * [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
 * [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
 * [Keras Resources](https://github.com/fchollet/keras-resources) and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
+
+Tensorflow/Google Machine Learning Learning Resources
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+* [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+* [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
+
+<!--
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
+
+https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
+
+https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
+
+https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
+
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
+https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
+
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
+https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
+-->
+
 
 Templates
 * [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
@@ -4457,22 +4466,6 @@ https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  Tenso
 
 https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
 
-https://www.tensorflow.org/tutorials/deep_cnn
-
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
-https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
-
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
-
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
 
 http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
 http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
@@ -4491,23 +4484,22 @@ http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Tre
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
-http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
-
-http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
-http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
-http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
-
-https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
-https://www.kaggle.com/pvlima/pretrained-pytorch-models
-
-https://keras.io/initializers/ | Initializers - Keras Documentation
-https://keras.io/optimizers/ | Optimizers - Keras Documentation
-
 
 https://github.com/topics/pytorch-tutorials
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
+
+
+Google Brain Presentation
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
+Google Open Online Education
+https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
+
+https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
+https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
+http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
 
 
 http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
