@@ -3092,6 +3092,328 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 
 
+## Digital Agencies and Code Philosophies
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+
+## DevOps
+
+DevOps, Ops School and DevOps Bootcamp
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+Phabricator
+* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
+
+X Driven Development
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+12 Factor App and Beyond
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+
+A Reactive Manifesto
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+
+
+<!--
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
+
+https://about.gitlab.com
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+
+https://github.com/thoughtbot/guides/tree/master/protocol
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/hypenotic/hypelabs
+
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+
+
+## Open Companies
+
+https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
+http://blog.triplebyte.com/how-to-interview-engineers
+https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+https://github.com/Paperwell?tab=repositories
+https://github.com/danluu/post-mortems
+
+https://github.com/nmsanchez?tab=repositories
+
+https://afonsopacifer.github.io/open-source-checklist/
+https://github.com/18F/bpa-identity-management
+https://github.com/bocoup/opendesignkit
+
+https://github.com/zincmade/employee-handbook
+https://github.com/rosarior/Code-of-Merit
+https://github.com/FormidableLabs/formidable-playbook
+https://github.com/goinvo/InvoPlaybook
+https://github.com/18F/partnership-playbook
+https://github.com/sprintly/sprint.ly-culture
+https://github.com/bonusly/un-handbook
+https://corner.squareup.com/2016/02/womeng-handbook-launch.html
+https://github.com/digitalocean/engineering-code-of-conduct
+
+https://github.com/Prismatic/eng-practices
+
+https://code.gov/#/policy-guide/docs/compliance/measuring-code
+https://github.com/isobar-idev/code-standards
+http://isobar-idev.github.io/code-standards
+
+https://github.com/asciimoo/ListOfGithubLists
+https://github.com/VarCI/inspiring-github-templates
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+
+https://github.com/todogroup/opencodeofconduct
+https://github.com/spotify/code-of-conduct
+https://github.com/opengovfoundation/hr-manual
+
+https://github.com/babel/babel.github.io/issues
+
+https://github.com/DockYard/styleguides
+http://kafka.apache.org/coding-guide.html
+
+http://accessibility.voxmedia.com/
+https://github.com/voxmedia/accessibility
+https://www.w3.org/TR/WCAG/
+https://github.com/ascott1/accessibility-policy
+https://github.com/ascott1/ethical-web-dev
+https://ethicalweb.org/
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+https://github.com/blog/2415-introducing-embedded-code-snippets
+https://github.com/blog/2392-introducing-code-owners
+
+GitHub General
+
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/blog/2471-introducing-team-discussions | Introducing Team discussions
+
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+New
+https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
+https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
+
+https://landing.google.com/sre/ | Google - Site Reliability Engineering
+https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliability Engineering
+https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://decentsecurity.com/holiday-tasks/ | Windows computer repair and maintenance — Decent Security
+https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection-issues | Fix network connection issues in Windows 10 - Windows Help
+
+
+
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+document driven development - Google Search
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://en.wikibooks.org/wiki/Control_Systems/Feedback_Loops | Control Systems/Feedback Loops - Wikibooks, open books for an open world
+http://jtleek.com/modules/01_DataScientistToolbox
+
+
+
+* Startup Engineering MOOC
+
+* [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+https://www.atlassian.com/agile/code-reviews
+
+* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+chaos engineering - Google Search
+
+* [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
+
+
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+http://principlesofchaos.org
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
+[What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
+Trello
+https://upcase.com/design-for-developers-resources/principles
+https://en.wikipedia.org/wiki/Red_team
+
+https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
+
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap
+https://www.debian.org/social_contract
+http://hood.ie/contribute
+
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+
+https://github.com/awslabs/git-secrets | awslabs/git-secrets: Prevents you from committing secrets and credentials into git repositories
+https://devcenter.heroku.com/changelog-items/1332?utm_source=dlvr.it&utm_medium=twitter | heroku.yml build manifest is now available (developer preview) | Heroku Dev Center
+
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
+https://github.com/blog/2463-github-welcomes-all-ci-tools | GitHub welcomes all CI tools
+
+
+https://jekyllrb.com/docs/deployment-methods/
+
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
+
+https://github.com/openshift
+
+Value
+https://en.wikipedia.org/wiki/Supply_chain_optimization
+
+https://about.gitlab.com/2017/07/27/docker-my-precious/ | Continuous Integration: From Jenkins to GitLab Using Docker
+
+https://docs.gitlab.com/ee/workflow/
+
+https://cloud.google.com/source-repositories/pricing
+
+https://github.com/mdo/config
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration | Capability Maturity Model Integration - Wikipedia
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+
+https://github.com/aws
+https://aws.amazon.com/blogs
+https://medium.com/aws-activate-startup-blog
+https://github.com/awslabs
+https://www.slideshare.net/AmazonWebServices
+https://github.com/GoogleCloudPlatform
+https://medium.com/google-cloud
+https://cloud.google.com
+https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
+http://googleappengine.blogspot.com
+https://cloudplatform.googleblog.com
+https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg
+
+https://en.wikipedia.org/wiki/Webhook
+-->
+
+
+
+
+
 ## Programming Languages- General Concepts
 
 Programming Languages
