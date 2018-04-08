@@ -4396,6 +4396,8 @@ Front-Runners
 * [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow JS](https://js.tensorflow.org)
+* [TensorFlow Mobile](https://www.tensorflow.org/mobile), [](https://www.tensorflow.org/mobile/tflite), [TensorFlow Lite], and [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite)
+* [TensorFlow Magenta](https://magenta.tensorflow.org)
 * [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
@@ -4405,21 +4407,43 @@ Models and Examples
 * [TensorFlow JS Examples GitHub](https://github.com/tensorflow/tfjs-examples)
 * [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
+<!--
+https://github.com/tensorflow/models/tree/master/official
+https://github.com/tensorflow/models/tree/master/research
+
+https://github.com/tensorflow/tpu/blob/master/README.md
+https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
+
+https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
+
+https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
+https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
+http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
+http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
+-->
+
 TensorFlow Resources
+* [PyTorch General Index](http://pytorch.org/docs/0.3.1/genindex.html) and [PyTorch Discuss](https://discuss.pytorch.org)
 * [TensorFlow Community](https://www.tensorflow.org/community) and [TensorFlow Medium](https://medium.com/tensorflow)
 * [TensorFlow Hub](https://www.tensorflow.org/hub) 
 * [TensorFlow Serving](https://www.tensorflow.org/serving) 
 * [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
+* [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
+* [Keras Resources](https://github.com/fchollet/keras-resources) and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 
 Templates
 * [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 <!--
-https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2
-https://www.tensorflow.org/dev-summit/ | Dev Summit  |  TensorFlow
+https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
+
+https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+
 https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
-https://medium.com/tensorflow/livestream-the-tensorflow-developer-summit-2018-2cb445660c7f | Livestream the TensorFlow Developer Summit, 2018 – TensorFlow – Medium
-https://www.youtube.com/watch?v=gplTc2F5Wvk | TensorFlow Dev Summit 2018 - Livestream - YouTube
+
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
 
 https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
@@ -4428,44 +4452,10 @@ https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_conti
 https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
 
 https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
-https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
-
-https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
-
-https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 
-https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
-
-https://github.com/tensorflow/models/tree/master/official
-https://github.com/tensorflow/models/tree/master/research
 
 https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
-
-https://magenta.tensorflow.org/ | Magenta
-https://www.tensorflow.org/mobile/
-https://www.tensorflow.org/mobile/tflite/
-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
-
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-https://discuss.pytorch.org/ | (3) PyTorch Forums
-
-http://pytorch.org/docs/0.3.1/genindex.html | Index — PyTorch master documentation
-https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
-https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
-http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
-http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
-
-https://github.com/fchollet/keras-resources
-https://www.datacamp.com/community/blog/keras-cheat-sheet | Keras Cheat Sheet: Neural Networks in Python (article) - DataCamp
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf | Keras_Cheat_Sheet_Python.pdf
-
-
-
-
-https://deeplearnjs.org/ | deeplearn.js
 
 https://www.tensorflow.org/tutorials/deep_cnn
 
@@ -4513,12 +4503,19 @@ https://www.kaggle.com/pvlima/pretrained-pytorch-models
 https://keras.io/initializers/ | Initializers - Keras Documentation
 https://keras.io/optimizers/ | Optimizers - Keras Documentation
 
-http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
 
 https://github.com/topics/pytorch-tutorials
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
+
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+
+http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
+
+https://deeplearnjs.org/ | deeplearn.js
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 -->
 
 <!--
