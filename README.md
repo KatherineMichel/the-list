@@ -3877,6 +3877,21 @@ https://machinelearningmastery.com/logistic-regression-for-machine-learning/ | L
 
 https://machinelearningmastery.com/vector-norms-machine-learning/ | Gentle Introduction to Vector Norms in Machine Learning - Machine Learning Mastery
 
+https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
+https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
+https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
+
+https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
+
+https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
+https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
+
+https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
+
+https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
+
 
 
 https://blog.keras.io
@@ -3890,10 +3905,6 @@ https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - Yo
 http://community.wolfram.com
 
 
-
-https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
-https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
-
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
@@ -3903,8 +3914,6 @@ https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanss
 https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
-
-
 
 
 https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
@@ -4145,11 +4154,6 @@ https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Sear
 https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
 https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
 
-https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
-https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
-https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
-
-
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
 https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
@@ -4160,17 +4164,6 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python
 https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
-
-https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
-https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
-https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
-
-https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
-https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
-
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
 -->
 
 
@@ -4224,6 +4217,8 @@ https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
 
+https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
+https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
 https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
 https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
 
@@ -4303,25 +4298,23 @@ Hosting
 * [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
 * [Crestle](https://www.crestle.com)
 * [FloydHub](https://www.floydhub.com)
-* [Google Datalab](https://cloud.google.com/datalab)
 
 <!--
-https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb&recent=true | Hello, Colaboratory - Colaboratory
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
-
 https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
 -->
-
 
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
 * [Baidu Research DeepBench](https://svail.github.io/DeepBench)
 
 <!--
+XGBoost
+https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+
 http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
 http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
 
@@ -4409,6 +4402,18 @@ TensorFlow Resources
 * [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
 * [Keras Resources](https://github.com/fchollet/keras-resources) and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 
+Colab and Datalab
+* [Google Colab](https://colab.research.google.com)
+* [Google Datalab](https://cloud.google.com/datalab)
+
+<!--
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+-->
+
 Tensorflow/Google Machine Learning Learning Resources
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 * [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -4476,13 +4481,6 @@ http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
 https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
-
-XGBoost
-https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 
 
 https://github.com/topics/pytorch-tutorials
