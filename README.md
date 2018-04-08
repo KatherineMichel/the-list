@@ -1607,6 +1607,11 @@ https://www.chromium.org/Home/chromium-security
 https://aws.amazon.com/security
 
 https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
+
+https://decentsecurity.com/holiday-tasks/ | Windows computer repair and maintenance — Decent Security
+https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection-issues | Fix network connection issues in Windows 10 - Windows Help
+
+https://en.wikipedia.org/wiki/Red_team
 -->
 
 
@@ -3091,77 +3096,7 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 
 
 
-
-## Digital Agencies and Code Philosophies
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
-
-## DevOps
-
-DevOps, Ops School and DevOps Bootcamp
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-X Driven Development
-* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
-* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
-
-Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-12 Factor App and Beyond
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-A Reactive Manifesto
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-
-
 <!--
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
-
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
-https://about.gitlab.com
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-
-https://github.com/thoughtbot/guides/tree/master/protocol
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-https://github.com/hypenotic/hypelabs
-
-
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
-
-
 ## Open Companies
 
 https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
@@ -3242,29 +3177,104 @@ https://www.w3.org/TR/WCAG/
 https://github.com/ascott1/accessibility-policy
 https://github.com/ascott1/ethical-web-dev
 https://ethicalweb.org/
+-->
 
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-https://github.com/blog/2415-introducing-embedded-code-snippets
+## Digital Agencies and Code Philosophies
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+
+<!--
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
+
+https://about.gitlab.com
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+
+https://github.com/thoughtbot/guides/tree/master/protocol
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/hypenotic/hypelabs
+
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
+-->
+
+## DevOps
+
+DevOps, Ops School and DevOps Bootcamp
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+<!--
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+12 Factor App and Beyond
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+
+A Reactive Manifesto
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+
+## X Driven Development
+
+X Driven Development
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+
+
+
+<!--
 https://github.com/blog/2392-introducing-code-owners
-
-GitHub General
-
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/blog/2471-introducing-team-discussions | Introducing Team discussions
 
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
 https://docs.gitlab.com/ee/workflow/
 
-https://cloud.google.com/source-repositories/pricing
+https://www.atlassian.com/agile/code-reviews
+
+https://www.atlassian.com/agile
+
+* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
 
 New
 https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
@@ -3275,23 +3285,11 @@ https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliab
 https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 
-https://www.atlassian.com/agile/code-reviews
-
-https://www.atlassian.com/agile
-
-* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-
-https://docs.python.org/devguide/gitbootcamp.html
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
-https://decentsecurity.com/holiday-tasks/ | Windows computer repair and maintenance — Decent Security
-https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection-issues | Fix network connection issues in Windows 10 - Windows Help
 
-https://www.thoughtworks.com/
-https://robots.thoughtbot.com/running-acceptance-with-review-apps
-
-
+https://martinfowler.com/bliki/MaturityModel.html
 https://martinfowler.com/bliki/C3.html | C3
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
@@ -3337,50 +3335,27 @@ https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-suppor
 Trello
 https://upcase.com/design-for-developers-resources/principles
 
-https://en.wikipedia.org/wiki/Red_team
-
-
-https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap
-https://www.debian.org/social_contract
-http://hood.ie/contribute
-
-
 https://github.com/18F/development-guide
 https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
 
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
-https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
-
-
-
 https://jekyllrb.com/docs/deployment-methods/
-
-https://github.com/openshift
 
 https://github.com/mdo/config
 
-
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration | Capability Maturity Model Integration - Wikipedia
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
-https://github.com/aws
-https://aws.amazon.com/blogs
+https://cloud.google.com/source-repositories/pricing
 https://medium.com/aws-activate-startup-blog
-https://github.com/awslabs
-https://www.slideshare.net/AmazonWebServices
-https://github.com/GoogleCloudPlatform
+https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 https://medium.com/google-cloud
 https://cloud.google.com
-https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 http://googleappengine.blogspot.com
 https://cloudplatform.googleblog.com
-https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg
 -->
 
 
@@ -4207,8 +4182,6 @@ https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Ty
 
 
 
-http://community.wolfram.com
-
 https://developer.apple.com/reference/accelerate/1912851-bnns
 
 https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
@@ -4265,6 +4238,8 @@ https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introdu
 https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
 
 https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
+
+https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
 -->
 
 
