@@ -3817,15 +3817,6 @@ https://www.youtube.com/watch?v=-BIGzKmxMGY | Introduction to Machine Learning i
 https://github.com/abatula/MachineLearningIntro | abatula/MachineLearningIntro: Files used for an Introduction to Machine Learning course
 
 
-https://developer.apple.com/reference/accelerate/1912851-bnns
-
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
-
-https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
-
-https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
-
-
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 
 https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
@@ -3894,15 +3885,16 @@ https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Ty
 
 
 
-https://blog.keras.io
-
-https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
-
-https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w | Deeplearning.ai - YouTube - YouTube
-
-https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
 
 http://community.wolfram.com
+
+https://developer.apple.com/reference/accelerate/1912851-bnns
+
+https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
+
+https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
+
+https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
@@ -3999,6 +3991,8 @@ https://jamesmccaffrey.wordpress.com
 http://colah.github.io
 http://ruder.io
 https://www.slideshare.net/SebastianRuder
+
+https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
 
 https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
 https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
@@ -4123,7 +4117,7 @@ Machine Learning (Andrew Ng, Stanford)
 * [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
 
 Deep Learning AI
-* [Deep Learning AI](https://www.deeplearning.ai)
+* [Deep Learning AI](https://www.deeplearning.ai) and [Deep Learning AI YouTube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 * [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <!--
@@ -4401,6 +4395,12 @@ TensorFlow Resources
 * [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
 * [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
 * [Keras Resources](https://github.com/fchollet/keras-resources) and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
+
+<!--
+https://blog.keras.io
+
+https://medium.com/google-cloud/a-tensorflow-glossary-cheat-sheet-382583b22932 | A TensorFlow Glossary/Cheat Sheet – Google Cloud Platform — Community – Medium
+-->
 
 Colab and Datalab
 * [Google Colab](https://colab.research.google.com)
@@ -4786,6 +4786,9 @@ Kaggle
 Kaggle Submission
 
 <!--
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+
+
 https://www.kaggle.com/titericz | Giba | Kaggle
 https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
 https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
