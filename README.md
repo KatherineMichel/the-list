@@ -3159,11 +3159,8 @@ https://github.com/isobar-idev/code-standards
 http://isobar-idev.github.io/code-standards
 
 https://github.com/asciimoo/ListOfGithubLists
-https://github.com/VarCI/inspiring-github-templates
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
 
-https://github.com/todogroup/opencodeofconduct
-https://github.com/spotify/code-of-conduct
 https://github.com/opengovfoundation/hr-manual
 
 https://github.com/babel/babel.github.io/issues
@@ -3189,6 +3186,7 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
 
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
@@ -3230,10 +3228,6 @@ http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
-Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
 12 Factor App and Beyond
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 * [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
@@ -3244,38 +3238,46 @@ The Distributed Developer Stack Field Guide
 A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
+## Release Management
+
+Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
 ## X Driven Development
 
 X Driven Development
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
 * [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
 
-
-
-
 <!--
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+https://en.wikipedia.org/wiki/Test-driven_development
+https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
 
-https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+https://en.wikipedia.org/wiki/Progressive_enhancement
+https://en.wikipedia.org/wiki/Service-oriented_architecture
 
-https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
-
-
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://docs.gitlab.com/ee/workflow/
-
-https://www.atlassian.com/agile/code-reviews
+https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
 https://www.atlassian.com/agile
+https://www.atlassian.com/agile/code-reviews
 
 * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
 New
 https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
 https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
@@ -3284,6 +3286,31 @@ https://landing.google.com/sre/ | Google - Site Reliability Engineering
 https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliability Engineering
 https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
+
+https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+http://www.agilemodeling.com/ | Agile Modeling (AM) Home Page: Effective Practices for Modeling and Documentation
+https://en.wikipedia.org/wiki/Agile_modeling | Agile modeling - Wikipedia
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+
+
 
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
@@ -3312,10 +3339,8 @@ http://jtleek.com/modules/01_DataScientistToolbox
 
 
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-chaos engineering - Google Search
 
 * [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-
 
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 http://principlesofchaos.org
@@ -3324,14 +3349,6 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
 
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
-[What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  
 Trello
 https://upcase.com/design-for-developers-resources/principles
 
@@ -3345,9 +3362,6 @@ https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub 
 https://jekyllrb.com/docs/deployment-methods/
 
 https://github.com/mdo/config
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
 https://cloud.google.com/source-repositories/pricing
 https://medium.com/aws-activate-startup-blog
@@ -3383,6 +3397,7 @@ Scripting and MVCs
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 Object Oriented Programming
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 * [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
 * [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
@@ -3399,8 +3414,6 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 <!--
-https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages | List of object-oriented programming languages - Wikipedia
-
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 
 https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
@@ -3549,8 +3562,6 @@ https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Ori
 https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
 https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
 
-https://en.wikipedia.org/wiki/Relational_database | Relational database - Wikipedia
-
 https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
 https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
 
@@ -3590,13 +3601,12 @@ Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
+Relational
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+
 <!--
-https://en.wikipedia.org/wiki/Relational_model | Relational model - Wikipedia
-
 https://github.com/sibtc/django-beginners-guide/blob/master/boards/models.py#L57 | django-beginners-guide/models.py at master · sibtc/django-beginners-guide
-
-
-https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
 
