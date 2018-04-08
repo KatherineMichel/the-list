@@ -3114,14 +3114,6 @@ DevOps, Ops School and DevOps Bootcamp
 * [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
 * [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
 
-Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-Phabricator
-* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
-
 X Driven Development
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
@@ -3266,6 +3258,14 @@ https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your 
 
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
+https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://docs.gitlab.com/ee/workflow/
+
+https://cloud.google.com/source-repositories/pricing
+
 New
 https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
 https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
@@ -3275,10 +3275,21 @@ https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliab
 https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 
+https://www.atlassian.com/agile/code-reviews
+
+https://www.atlassian.com/agile
+
+* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+https://docs.python.org/devguide/gitbootcamp.html
+
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
 https://decentsecurity.com/holiday-tasks/ | Windows computer repair and maintenance — Decent Security
 https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection-issues | Fix network connection issues in Windows 10 - Windows Help
 
-
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
 
 
 https://martinfowler.com/bliki/C3.html | C3
@@ -3299,28 +3310,13 @@ https://en.wikibooks.org/wiki/Control_Systems/Feedback_Loops | Control Systems/F
 http://jtleek.com/modules/01_DataScientistToolbox
 
 
-
-* Startup Engineering MOOC
-
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-https://www.atlassian.com/agile/code-reviews
-
-* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-
-https://docs.python.org/devguide/gitbootcamp.html
-
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 chaos engineering - Google Search
 
 * [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-
 
 
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
@@ -3340,9 +3336,9 @@ https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-suppor
   
 Trello
 https://upcase.com/design-for-developers-resources/principles
+
 https://en.wikipedia.org/wiki/Red_team
 
-https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
@@ -3356,38 +3352,17 @@ https://github.com/18F/development-guide/tree/master/example_workflows | develop
 
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-
-https://github.com/awslabs/git-secrets | awslabs/git-secrets: Prevents you from committing secrets and credentials into git repositories
-https://devcenter.heroku.com/changelog-items/1332?utm_source=dlvr.it&utm_medium=twitter | heroku.yml build manifest is now available (developer preview) | Heroku Dev Center
-
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
 https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
-https://github.com/blog/2463-github-welcomes-all-ci-tools | GitHub welcomes all CI tools
+
 
 
 https://jekyllrb.com/docs/deployment-methods/
 
-https://www.thoughtworks.com/
-https://robots.thoughtbot.com/running-acceptance-with-review-apps
-
 https://github.com/openshift
 
-Value
-https://en.wikipedia.org/wiki/Supply_chain_optimization
-
-https://about.gitlab.com/2017/07/27/docker-my-precious/ | Continuous Integration: From Jenkins to GitLab Using Docker
-
-https://docs.gitlab.com/ee/workflow/
-
-https://cloud.google.com/source-repositories/pricing
-
 https://github.com/mdo/config
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
@@ -3406,11 +3381,7 @@ https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 http://googleappengine.blogspot.com
 https://cloudplatform.googleblog.com
 https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg
-
-https://en.wikipedia.org/wiki/Webhook
 -->
-
-
 
 
 
