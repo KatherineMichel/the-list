@@ -3275,6 +3275,7 @@ Comparison of type systems
 
 ## Website Project Management
 
+
 <!--
 https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
 https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
@@ -3304,6 +3305,34 @@ https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-re
 
 https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
 https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+-->
+
+
+## UML
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+
+UML- Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+
+Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
+<!--
+https://en.wikipedia.org/wiki/Relational_model | Relational model - Wikipedia
+
+https://github.com/sibtc/django-beginners-guide/blob/master/boards/models.py#L57 | django-beginners-guide/models.py at master · sibtc/django-beginners-guide
+
+
+https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
+
+https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
+
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 
 http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
 
@@ -3327,7 +3356,6 @@ https://msdn.microsoft.com/en-us/library/ee382826(v=vs.100).aspx | association e
 https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collections - defining and using multiplicity and collections in UML - lower and upper bounds, cardinality, order, unique.
 django uml - Google Search
 -->
-
 
 
 
