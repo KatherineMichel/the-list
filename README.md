@@ -4210,9 +4210,6 @@ https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
-https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanssens/data-science-at-the-command-line: Data Science at the Command Line
-https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
-
 
 https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
@@ -4455,6 +4452,7 @@ https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitt
 https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
 
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+
 https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
 https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
@@ -4550,21 +4548,21 @@ https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Dat
 -->
 
 
-Python for Data Science
+Python for Data Science Books- General
 * [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Jake VanderPlas Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp)
-* [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
+* [Jacqueline Kazil and Katharine Jarmul Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817)
+* [Jeroen Janssens Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853) and [Jeroen Janssens Data Science at the Command Line GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 * [Joel Grus Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
-* [Ryan Mitchell Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
+Python for Data Science Books- Specialized
+* [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
+* [Ryan Mitchell Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
+* [Toby Segaran Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
+
 <!--
-Data Wrangling with Python
-Jacqueline Kazil and Katharine Jarmul
-https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/
-Collective Intelligence
-Toby Segaran
-https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325
+https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
