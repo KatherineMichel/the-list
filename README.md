@@ -3254,6 +3254,14 @@ X Driven Development
 * [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
 
 <!--
+https://opensource.google.com/docs/releasing
+https://opensource.google.com/docs/releasing/hosting/ | Hosting Options – opensource.google.com
+
+https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
+https://opensource.google.com/docs/why/ | Why Open Source? – opensource.google.com
+https://opensource.google.com/docs/creating/ | Creating – opensource.google.com
+https://opensource.google.com/docs/using/license/ | What is a License? – opensource.google.com
+
 https://en.wikipedia.org/wiki/Test-driven_development
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
 
@@ -3606,6 +3614,10 @@ Relational
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
 
 <!--
+https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg
+
+http://www.uml.org/ | Welcome To UML Web Site!
+
 https://github.com/sibtc/django-beginners-guide/blob/master/boards/models.py#L57 | django-beginners-guide/models.py at master · sibtc/django-beginners-guide
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
