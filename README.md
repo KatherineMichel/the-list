@@ -4208,16 +4208,10 @@ https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | c
 
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
-
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
-https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
 
 https://github.com/jeroenjanssens/data-science-at-the-command-line | jeroenjanssens/data-science-at-the-command-line: Data Science at the Command Line
 https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
-
-https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
 
 https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
@@ -4230,16 +4224,6 @@ https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
 https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
 
 https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
-
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
-
-https://openai.com/requests-for-research/
-http://ruder.io/requests-for-research/ | Requests for Research
-https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 
 https://research.google.com/teams/brain/residency/ | Research at Google
 https://blog.openai.com/openai-scholars/ | OpenAI Scholars
@@ -4258,12 +4242,18 @@ https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides 
 https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
 
 https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
+
+https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 -->
 
 
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+Requests for Research
+* [OpenAI Requests for Research](https://openai.com/requests-for-research)
+* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
@@ -4343,38 +4333,17 @@ Fast AI
 * [Practical Deep Learning For Coders GitHub](https://github.com/fastai/courses)
 * [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
 
+Jeremy and Rachel
+* [Jeremy Howard YouTube](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
+* [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
+
 <!--
-http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
-https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
-https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
-
-https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0 | Building a Deep Neural Net In Google Sheets – Towards Data Science
-
-http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
-http://course.fast.ai/start.html | Deep Learning For Coders—36 hours of lessons for free
-http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
-http://course.fast.ai/lessons/lesson2.html | Deep Learning For Coders—36 hours of lessons for free
-http://forums.fast.ai/t/wiki-lesson-1/9398 | Wiki: Lesson 1 - Part 1 - Deep Learning Course Forums
-http://forums.fast.ai/t/wiki-lesson-2/9399 | Wiki: Lesson 2 - Part 1 - Deep Learning Course Forums
-https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1-rxt50.ipynb | fastai/lesson1-rxt50.ipynb at master · fastai/fastai
-https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
-http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
-http://wiki.fast.ai/images/2/29/Things_we_want_to_improve.png | Things_we_want_to_improve.png (1518×1092)
-
-
-http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285&source_topic_id=9594 | Another treat! Early access to Intro To Machine Learning videos - Part 1 - Deep Learning Course Forums
-https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
-https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
-
-https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
-https://www.usfca.edu/data-institute/certificates
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
 
 Fast AI Blog
 
-Jeremy Howard YouTube
-https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
-
-https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ | Rachel Thomas - YouTube
+http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
 
 Practical Deep Learning (Lessons 1-7)
 http://course.fast.ai/
@@ -4383,11 +4352,19 @@ http://course.fast.ai/start.html
 Cutting edge Deep Learning (Lessons 8-14)
 http://course.fast.ai/part2.html
 
-Old
-https://github.com/fastai/courses/blob/master/setup/aws-alias.sh
-https://github.com/fastai/courses/blob/master/deeplearning1/nbs/utils.py
-https://github.com/fastai/courses/blob/master/deeplearning1/nbs/lesson1.ipynb
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+http://course.fast.ai/lessons/lesson2.html | Deep Learning For Coders—36 hours of lessons for free
+http://forums.fast.ai/t/wiki-lesson-1/9398 | Wiki: Lesson 1 - Part 1 - Deep Learning Course Forums
+http://forums.fast.ai/t/wiki-lesson-2/9399 | Wiki: Lesson 2 - Part 1 - Deep Learning Course Forums
+https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1-rxt50.ipynb | fastai/lesson1-rxt50.ipynb at master · fastai/fastai
 
+https://github.com/fastai/fastai/tree/master/courses/ml1 | fastai/courses/ml1 at master · fastai/fastai
+https://www.youtube.com/watch?v=CzdWqFTmn0Y&feature=youtu.be | Machine Learning 1: Lesson 1 - YouTube
+
+http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285&source_topic_id=9594 | Another treat! Early access to Intro To Machine Learning videos - Part 1 - Deep Learning Course Forums
+
+
+Wiki
 http://wiki.fast.ai/index.php/Main_Page | Deep Learning Course Wiki
 http://wiki.fast.ai/index.php/Main_Page#How_to_ask_for_Help
 http://wiki.fast.ai/index.php/Main_Page#Tools
@@ -4399,6 +4376,25 @@ http://wiki.fast.ai/index.php/Lesson_1
 http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
 http://wiki.fast.ai/index.php/Lesson_3
 http://wiki.fast.ai/index.php/Image_Datasets
+http://wiki.fast.ai/images/2/29/Things_we_want_to_improve.png | Things_we_want_to_improve.png (1518×1092)
+
+http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf | ICCV + COCO
+https://github.com/musyoku/chainer-sequential | musyoku/chainer-sequential: Keras like network builder for Chainer
+https://github.com/kmaehashi/chainer-colab | kmaehashi/chainer-colab: Chainer on Google Colaboratory
+
+https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0 | Building a Deep Neural Net In Google Sheets – Towards Data Science
+
+http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
+https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
+https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
+
+https://www.usfca.edu/data-institute | The Data Institute | University of San Francisco
+https://www.usfca.edu/data-institute/certificates
+
+Old
+https://github.com/fastai/courses/blob/master/setup/aws-alias.sh
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/utils.py
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/lesson1.ipynb
 
 Cutting edge Deep Learning, Early Release
 http://www.fast.ai/2017/01/17/curriculum2/
@@ -4406,10 +4402,6 @@ https://github.com/jph00/part2
 http://forums.fast.ai/t/part-2-early-release-videos-now-available/2621
 http://forums.fast.ai/t/lesson-8-wiki/1639
 http://forums.fast.ai/t/lesson-8-discussion/1522
-
-http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/ | Introducing Pytorch for fast.ai · fast.ai
-https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb | fastai/linalg_pytorch.ipynb at master · fastai/fastai
-https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions/answer/Fran%C3%A7ois-Chollet
 -->
 
 MIT 6.S191: Introduction to Deep Learning
@@ -4463,7 +4455,6 @@ https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitt
 https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
 
 https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
 https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
 https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
@@ -4546,40 +4537,52 @@ https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d
 -->
 
 
+Coding Guides and Workshops
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
 <!--
+* [Smithsonian Workshops Coding in Python](https://github.com/SmithsonianWorkshops/CodingInPython)
+
 https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
 
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
 -->
 
 
-Tutorials (Books)
+Python for Data Science
 * [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Jake VanderPlas Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp)
-
-Books
-* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com) and [Neural Networks and Deep Learning (Michael Nielsen) GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
-* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
-* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
-* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
-* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
+* [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
+* [Joel Grus Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+* [Ryan Mitchell Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
+* [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
-New, possibly repeat
-http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
-
-https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
-https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
+Data Wrangling with Python
+Jacqueline Kazil and Katharine Jarmul
+https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/
+Collective Intelligence
+Toby Segaran
+https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325
 
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
 
 http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
-http://shop.oreilly.com/product/0636920023784.do | Python for Data Analysis - O'Reilly Media
+-->
 
+Deep Learning Books
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com) and [Neural Networks and Deep Learning (Michael Nielsen) GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
+* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
+* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
+* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
+
+AI Books
+* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
+
+<!--
+https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
 
 https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
@@ -4591,6 +4594,8 @@ https://github.com/rasbt/python-machine-learning-book | rasbt/python-machine-lea
 https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
 https://github.com/nfmcclure/tensorflow_cookbook
 
+https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
+
 https://github.com/fchollet/deep-learning-with-python-notebooks.
 https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
@@ -4599,7 +4604,11 @@ https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962
 https://github.com/ageron/handson-ml
 https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
 
-https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
+New, possibly repeat
+http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
+
+https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
+https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
 -->
 
 Hosting
@@ -4892,7 +4901,9 @@ Python- Statistics Stack- iPython Reference
 * [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
 
 <!--
-http://ipython.org/videos.html http://ipython.org/documentation.html +Resources http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
+http://ipython.org/videos.html 
+http://ipython.org/documentation.html 
+http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
 
 Python- Statistics Stack- Scikit-Learn
@@ -4956,12 +4967,8 @@ http://matplotlib.org/faq/index.html
 -->
 
 Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pydata/pandas)  
+* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pandas-dev/pandas)  
 * [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
-
-<!--
-https://github.com/pandas-dev/pandas
--->
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 * [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
@@ -5039,6 +5046,12 @@ https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
+<!--
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
 
 Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
