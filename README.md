@@ -3255,12 +3255,8 @@ X Driven Development
 
 <!--
 https://opensource.google.com/docs/releasing
-https://opensource.google.com/docs/releasing/hosting/ | Hosting Options – opensource.google.com
 
 https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
-https://opensource.google.com/docs/why/ | Why Open Source? – opensource.google.com
-https://opensource.google.com/docs/creating/ | Creating – opensource.google.com
-https://opensource.google.com/docs/using/license/ | What is a License? – opensource.google.com
 
 https://en.wikipedia.org/wiki/Test-driven_development
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
