@@ -4510,6 +4510,9 @@ Learning Paths
 * [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
+https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
@@ -4520,9 +4523,6 @@ https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Pos
 https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
 
 https://twitter.com/math_rachel/status/967689690328350720 | Rachel Thomas on Twitter: "Question: what are your favorite "intro to data science" courses/blogs/websites?"
-
-https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
@@ -4551,8 +4551,8 @@ https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Dat
 Python for Data Science Books- General
 * [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Jake VanderPlas Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp)
-* [Jacqueline Kazil and Katharine Jarmul Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817)
 * [Jeroen Janssens Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853) and [Jeroen Janssens Data Science at the Command Line GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line)
+* [Jacqueline Kazil and Katharine Jarmul Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817)
 * [Joel Grus Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
