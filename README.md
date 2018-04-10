@@ -4280,18 +4280,19 @@ More Learning Resources
 
 Teachers
 * [Chris Albon](https://chrisalbon.com)
+* [Christopher Olah](http://colah.github.io)
 * [Jake VanderPlas](http://jakevdp.github.io)
 * [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
+* [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
+Hardmaru
+
 https://aaroncourville.wordpress.com/ | Aaron Courville
 https://www.analyticsvidhya.com/blog
 https://github.com/adeshpande3
 https://adeshpande3.github.io
 https://jamesmccaffrey.wordpress.com
-http://colah.github.io
-http://ruder.io
-https://www.slideshare.net/SebastianRuder
 
 https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
 
@@ -4343,7 +4344,6 @@ Fast AI Blog
 http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
 
 Practical Deep Learning (Lessons 1-7)
-http://course.fast.ai/
 http://course.fast.ai/about.html
 http://course.fast.ai/start.html
 Cutting edge Deep Learning (Lessons 8-14)
