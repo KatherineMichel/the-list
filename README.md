@@ -4545,6 +4545,8 @@ Coding Guides and Workshops
 https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
 
 https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+https://github.com/georgetown-analytics/machine-learning | georgetown-analytics/machine-learning: Code & Data for Introduction to Machine Learning with Scikit-Learn
+https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning | georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning: Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
 -->
 
 
@@ -4555,6 +4557,11 @@ Python for Data Science Books- General
 * [Jacqueline Kazil and Katharine Jarmul Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817)
 * [Joel Grus Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
+
+<!--
+https://github.com/joelgrus/data-science-from-scratch | joelgrus/data-science-from-scratch: code for Data Science From Scratch book
+https://github.com/jackiekazil/data-wrangling | jackiekazil/data-wrangling
+-->
 
 Python for Data Science Books- Specialized
 * [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
@@ -4601,8 +4608,6 @@ https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | De
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow
 https://github.com/ageron/handson-ml
 https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
-
-New, possibly repeat
 http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
 
 https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
