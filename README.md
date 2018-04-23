@@ -258,45 +258,17 @@ Best Books
 * [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
 * [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
 
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 
-Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
-* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
-* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
-* [Top 10 TED Talks of 2017 (curated)](https://www.ted.com/playlists/607/curator_s_picks_top_10_ted_talks_of_2017)
-* [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
 * [Charlie Rose](http://www.charlierose.com)
-* [PBS](http://www.pbs.org)
 * [This American Life](http://www.thisamericanlife.org)
 
 Curated Blogs and Podcasts
-* [Farnham Street Blog](https://www.farnamstreetblog.com) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
-* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), [Farnam Street "What I'm Reading in 2017"](https://www.farnamstreetblog.com/reading-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
-* [Nir Eyal](http://www.nirandfar.com)
-* [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Slate Star Codex](http://slatestarcodex.com)
 * [Stratechery: The 2017 Stratechery Year in Review](https://stratechery.com/2017/the-2017-stratechery-year-in-review)
-* [Wait But Why](http://waitbutwhy.com) 
-
+ 
 Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
-* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
-
-Finance Blogs
-* [Michael Mauboussin](http://michaelmauboussin.com) and [Michael Mauboussin Writing](http://michaelmauboussin.com/writing.html)
-* [Michael Mauboussin Hurricane Capital Index](https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin)
-* [Michael Mauboussin Value Walk Resource Page](http://www.valuewalk.com/michael-mauboussin) and [Michael Mauboussin Value Walk Tumblr Index](http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full)
-* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-* [25iq Books](https://www.25iqbooks.com)
-
-Airtable
-* [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
@@ -459,11 +431,6 @@ https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.
 
 ## Skills and Employment
 
-Personal MBA
-* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
-* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-
 Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
 * [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
 
@@ -478,30 +445,9 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 
 ## Scientific Method
 
-Scientific Method and Minimum Viable Product
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-
-Agency
-* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
-* [Strategyzer Blog](http://blog.strategyzer.com)
-* [XPLANE Blog](http://xblog.xplane.com) and [XPLANE Medium](https://medium.com/the-xplane-collection)
-
-Tim Ferris Blueprints
-* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
-* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
-* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
-* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
-
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
 -->
-
-Pieter Levels
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
 
 <!--
 https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
@@ -558,10 +504,6 @@ http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 |
 -->
 
 ## Engineering Blogs, Stack, Building Tools
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
@@ -653,19 +595,12 @@ Linux and Darwin Code
 * [Linux Kernel GitHub](https://github.com/torvalds/linux)
 * [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
 
-Languages and Frameworks
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-* [React Docs](https://reactjs.org/docs)
-* [Foundation](https://foundation.zurb.com)
-* [Sass Basics](http://sass-lang.com/guide)
+
 
 Containers- Kubernetes
-* [Kubernetes](http://kubernetes.io) and [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
-* [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 
 Containers- Docker
-* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 * [Docker GitHub](https://github.com/docker/docker)  
 * [Docker Hub](https://hub.docker.com)
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
@@ -675,7 +610,6 @@ Terraform
 * [Terraform Module Registry](https://registry.terraform.io)
 
 Jekyll
-* [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
 * [Jekyll Templates](https://jekyllrb.com/docs/templates)
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
@@ -910,35 +844,8 @@ https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehous
 http://exercism.io
 -->
 
-Wikipedia Tech Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-Tech Terminology
-* [Techopedia](https://www.techopedia.com)
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), [Udacity Medium](https://medium.com/udacity), and [Udacity GitHub](https://github.com/udacity)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
   
-Courses
-* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
-* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
-* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
-* [Learn to Code the Hard Way](http://learncodethehardway.org) 
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
-* [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 <!--
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
@@ -2178,22 +2085,11 @@ https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various 
 -->
 
 AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda)  
-* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
-Google Cloud Functions (See also Amazon Web Services- Lambda)
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-
-Firebase Functions
-* [Firebase Functions](https://firebase.google.com/features/functions)
 
 Azure Functions
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
 * [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
 
@@ -2297,21 +2193,7 @@ See Git Workflow, DevOps, Dotfiles, Code Review
 
 ## Some Favorite Awesome
 
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-
-Awesome Django
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
+ 
 #### Python and Django Conference Videos and Slides
 
 <!--
@@ -2320,26 +2202,6 @@ https://2017.pygotham.org/ | PyGotham 2017
 http://www.nextdayvideo.com/ | Next Day Video : Welcome
 https://www.youtube.com/watch?v=2lM5PWvkKao | Capacity and Stability Patterns - YouTube
 -->
-
-PyVideo
-* [PyVideo](http://pyvideo.org)
-* [PyVideo Events](http://pyvideo.org/events.html)
-
-Confreaks
-* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
-
-PyCon
-* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
-* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
-* [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos)
-* [PyCon 2014](https://www.youtube.com/user/PyCon2014/videos)
-
-PyCon Canada
-* [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
-
-PyData
-* [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
-* [PyData Events](https://pydata.org/events.html)
 
 <!--
 http://videolectures.net/ | VideoLectures.NET - VideoLectures.NET
@@ -2361,20 +2223,6 @@ https://nips.cc/Conferences/2012/Videos
 https://nips.cc/Conferences/2011/Videos
 https://nips.cc/Conferences/2010/Videos
 -->
-
-EuroPython
-* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
-
-DjangoCon US
-* [DjangoCon US Videos](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos)
-* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
-DjangoCon Europe
-* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
 
 <!--
 https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
@@ -2529,21 +2377,6 @@ MOOCs
 * [EdX](https://www.edx.org)  
 -->
 
-Official Python Tutorial
-* [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
-
-MOOCs
-* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
-
-Learning Platforms (See also others)
-* [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
-
 <!--
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 
@@ -2568,24 +2401,10 @@ http://news.codecademy.com/why-learn-python | Why I'm Learning Python in 2018
 -->
 
 Pluralsight and DataCamp
-* [DataCamp](https://www.datacamp.com)
-* [Pluralsight Python](https://app.pluralsight.com/library/search?q=python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Pluralsight Guides](https://www.pluralsight.com/guides)
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
 
-Python Trending, Topics, Forums
-* [GitHub Trending: python](https://github.com/trending/python )
-* [GitHub Topic: python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
 
-
-Python- Books
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
-* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
-* [Allen Downey: O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [Allen Downey: O'Reilly Think Python 2 GitHub](https://github.com/AllenDowney/ThinkPython2) 
-* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 
 <!--
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
@@ -2608,12 +2427,6 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 
 
-
-Wiki Books
-* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
-* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-
 <!--
 https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
 
@@ -2623,16 +2436,6 @@ https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
 -->
-
-Tutorials- Looking At
-* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
-* [Eric Matthes: Introduction to Python](http://introtopython.org)
-* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
-* [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
-* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
-* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
 https://en.wikipedia.org/wiki/Python_(programming_language)
@@ -2697,22 +2500,6 @@ https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-wit
 -->
 
 
-
-Python Tutors- Regular
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart](http://alsweigart.com) and [Al Sweigart: Invent with Python](http://inventwithpython.com)
-* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Grishma Jena GitHub](https://github.com/GJena)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
-* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-* [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
-* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
 https://stackoverflow.com/users/541136/aaron-hall?tab=topactivity | User Aaron Hall - Stack Overflow
@@ -2999,43 +2786,11 @@ http://cdrf.co
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 -->
 
-Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
-* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
-
 
 Forums
 * [Reddit Django](https://www.reddit.com/r/django)
 
-Django Consulting Firms, Blogs, Repos
-* [Changeset Consulting](https://changeset.nyc)
-* [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
-* [Pinax Blog](http://blog.pinaxproject.com)
-* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
-* [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
-* [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
-Teachers
-* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
-* [Frank Wiles](http://www.frankwiles.com)
-* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-Simple is Better than Complex
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-
-Python- Django- Dedicated Websites
-* [GoDjango](https://godjango.com)
-
-Python- Django- Tutorial and Book Lists
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
-* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
-* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
 
 Python- Django- Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
@@ -3079,21 +2834,6 @@ https://hellowebbooks.com/news/fulfillment-updates/ | Shipping and Fulfillment f
 
 https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
-
-Two Scoops Books
-* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
-
-Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
-* [High Performance Django](https://highperformancedjango.com)
-* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
-* [Getting Started with Django](http://gettingstartedwithdjango.com)
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)
-* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
-* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-* [Ultimate Django](https://ultimatedjango.com)
-
 
 
 <!--
@@ -3178,15 +2918,6 @@ https://ethicalweb.org/
 
 ## Digital Agencies and Code Philosophies
 
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
 
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
@@ -3212,13 +2943,6 @@ https://robots.thoughtbot.com/running-acceptance-with-review-apps
 
 ## DevOps
 
-DevOps, Ops School and DevOps Bootcamp
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
 <!--
 https://devopsbootcamp.osuosl.org/daycamp.html
 http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
@@ -3228,30 +2952,9 @@ http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
-12 Factor App and Beyond
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-A Reactive Manifesto
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-
 ## Release Management
 
-Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
 ## X Driven Development
-
-X Driven Development
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
-* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
 
 <!--
 https://opensource.google.com/docs/releasing
@@ -3393,29 +3096,10 @@ Programming Languages
 Programming Languages- Usage in Popular Websites
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-Object Oriented Programming
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 SOLID
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 * [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 * [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-Concepts
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 <!--
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
@@ -3429,17 +3113,6 @@ https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 
 
 ## Object-Oriented Design Patterns
 
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-Design Patterns- General
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
@@ -3459,8 +3132,6 @@ https://en.wikipedia.org/wiki/Flyweight_pattern
 
 ## Object-Oriented Design Patterns- Python
 
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
 <!--
 https://twitter.com/brandon_rhodes?lang=en | Brandon Rhodes (@brandon_rhodes) | Twitter
@@ -3593,22 +3264,6 @@ https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wi
 
 ## UML
 
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-
-UML- Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
-Relational
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
-
 <!--
 https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg
 
@@ -3655,9 +3310,6 @@ Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
-Data Structures
-* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 <!--
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
@@ -3678,45 +3330,6 @@ https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
 -->
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
-
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-
-Linear Algebra and Calculus- wikipedia
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)   
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-
- Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Machine Learning and Statistical Algorithms
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
-* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
-
-Deep Learning and Neural Networks- Wikipedia
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-
-Algorithm Dictionaries and Libraries
-* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
- 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
 https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
@@ -3728,8 +3341,6 @@ https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/stacygohyunsi/algorithms-primer
 --->
 
-Mind Maps and Cheat Sheets
-* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
 https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
@@ -3990,14 +3601,6 @@ http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram
 
 ## Crowdsourced, Curated Programming Learning Resources
 
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
 
 <!--
 Python
@@ -4244,19 +3847,6 @@ https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optim
 -->
 
 
-Arxiv
-* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
-* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
-
-Requests for Research
-* [OpenAI Requests for Research](https://openai.com/requests-for-research)
-* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
-
-Data Science Websites
-* [AnalyticBridge](http://www.analyticbridge.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
-* [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
-* [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
-
 Data Science- Forums
 * [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
@@ -4266,24 +3856,6 @@ Data Science- Forums
 * [Stack Exchange AI](https://ai.stackexchange.com)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 * [Quora Data Science Algorithms](https://algorithmsdatascience.quora.com)
-
-More Learning Resources
-* [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
-* [DataSciGuide](http://www.datasciguide.com)
-* [Toward Data Science](https://towardsdatascience.com)
-* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
-* [Machine Learnings](https://machinelearnings.co)
-* [Metis Blog](https://www.thisismetis.com/blog) and [Metis Twitter](https://twitter.com/thisismetis)
-* [Partial Derivative](http://www.partiallyderivative.com)
-* [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
-* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
-
-Teachers
-* [Chris Albon](https://chrisalbon.com)
-* [Christopher Olah](http://colah.github.io)
-* [Jake VanderPlas](http://jakevdp.github.io)
-* [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
-* [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
 Hardmaru
@@ -4323,17 +3895,6 @@ Artificial Intelligence- Wikipedia
 * [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
 
 
-Fast AI
-* [fast.ai](http://www.fast.ai)
-* [The fast.ai deep learning library, lessons, and tutorials GitHub](https://github.com/fastai/fastai)
-* [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
-* [Practical Deep Learning For Coders Wiki](http://wiki.fast.ai)
-* [Practical Deep Learning For Coders GitHub](https://github.com/fastai/courses)
-* [Practical Deep Learning For Coders Forum](http://forums.fast.ai)
-
-Jeremy and Rachel
-* [Jeremy Howard YouTube](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
-* [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
@@ -4401,8 +3962,6 @@ http://forums.fast.ai/t/lesson-8-wiki/1639
 http://forums.fast.ai/t/lesson-8-discussion/1522
 -->
 
-MIT 6.S191: Introduction to Deep Learning
-* [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
 
 <!--
 https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
@@ -4413,15 +3972,6 @@ https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZP
 Andrew Ng
 * [Landing AI](https://www.landing.ai)
 * ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
-
-Machine Learning (Andrew Ng, Stanford)
-* [Coursera Machine Learning (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)  
-* [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/syllabus.html)  
-* [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
-
-Deep Learning AI
-* [Deep Learning AI](https://www.deeplearning.ai) and [Deep Learning AI YouTube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
-* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <!--
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
@@ -4442,7 +3992,7 @@ https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks fo
 -->
 
 DataCamp
-* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), [DataCamp Projects](https://www.datacamp.com/projects)
+* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Projects](https://www.datacamp.com/projects)
 * [DataCamp GitHub](https://github.com/datacamp)
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
@@ -4476,15 +4026,6 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 -->
 
 
-Stanford Groups
-* [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
-* [Stanford Natural Language Processing Group](https://nlp.stanford.edu)
-* [Stanford Vision Lab](http://vision.stanford.edu)
-
-Karpathy (Stanford)
-* ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
-* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
 <!--
 Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
 
@@ -4501,13 +4042,6 @@ https://web.stanford.edu/class/cs106s/ | CS106S
 https://github.com/oxford-cs-deepnlp-2017/lectures
 http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
-
-
-
-Learning Paths
-* [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
-* [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
 https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
@@ -4550,23 +4084,11 @@ https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Lea
 -->
 
 
-Python for Data Science Books- General
-* [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [Jake VanderPlas Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp)
-* [Jeroen Janssens Data Science at the Command Line](https://www.amazon.com/Data-Science-Command-Line-Time-Tested/dp/1491947853) and [Jeroen Janssens Data Science at the Command Line GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line)
-* [Jacqueline Kazil and Katharine Jarmul Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817)
-* [Joel Grus Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
-* [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
 https://github.com/joelgrus/data-science-from-scratch | joelgrus/data-science-from-scratch: code for Data Science From Scratch book
 https://github.com/jackiekazil/data-wrangling | jackiekazil/data-wrangling
 -->
-
-Python for Data Science Books- Specialized
-* [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
-* [Ryan Mitchell Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
-* [Toby Segaran Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 
 <!--
 https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
@@ -4577,14 +4099,6 @@ http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green
 http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
 -->
 
-Deep Learning Books
-* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com) and [Neural Networks and Deep Learning (Michael Nielsen) GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
-* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
-* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
-* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
-
-AI Books
-* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
 
 <!--
 https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
@@ -4614,26 +4128,12 @@ https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learnin
 https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
 -->
 
-Hosting
-* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
-* [Crestle](https://www.crestle.com)
-* [FloydHub](https://www.floydhub.com)
-
-<!--
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
--->
-
-Benchmarking
-* [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
-* [Baidu Research DeepBench](https://svail.github.io/DeepBench)
 
 <!--
 XGBoost
-https://github.com/dmlc/xgboost | dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
-http://xgboost.readthedocs.io/en/latest/python/ | XGBoost Python Package — xgboost 0.6 documentation
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+* [XGBoost GitHub](https://github.com/dmlc/xgboost) and [XGBoost Docs](http://xgboost.readthedocs.io)
+* [XGBoost Docs Python](http://xgboost.readthedocs.io/en/latest/python)
+
 
 http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
 http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
@@ -4651,21 +4151,6 @@ https://www.tensorflow.org/versions/master/performance/datasets_performance#map_
 
 https://github.com/pytorch/benchmark | pytorch/benchmark
 -->
-
-Front-Runners
-* [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
-* [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
-* [TensorFlow JS](https://js.tensorflow.org)
-* [TensorFlow Mobile](https://www.tensorflow.org/mobile), [](https://www.tensorflow.org/mobile/tflite), [TensorFlow Lite], and [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite)
-* [TensorFlow Magenta](https://magenta.tensorflow.org)
-* [TensorFlow Playground](http://playground.tensorflow.org)
-* [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
-
-Models and Examples
-* [PyTorch Examples](https://github.com/pytorch/examples)
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-* [TensorFlow JS Examples GitHub](https://github.com/tensorflow/tfjs-examples)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
 https://www.tensorflow.org/api_docs/
@@ -4685,153 +4170,8 @@ http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — 
 
 https://www.tensorflow.org/tutorials/deep_cnn
 
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
-https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
-
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
-
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
-
-http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
-
-http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
-http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
-http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
-
-https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
-https://www.kaggle.com/pvlima/pretrained-pytorch-models
-
-https://keras.io/initializers/ | Initializers - Keras Documentation
-https://keras.io/optimizers/ | Optimizers - Keras Documentation
--->
-
-TensorFlow Resources
-* [PyTorch General Index](http://pytorch.org/docs/0.3.1/genindex.html) and [PyTorch Discuss](https://discuss.pytorch.org)
-* [TensorFlow Community](https://www.tensorflow.org/community) and [TensorFlow Medium](https://medium.com/tensorflow)
-* [TensorFlow Hub](https://www.tensorflow.org/hub) 
-* [TensorFlow Serving](https://www.tensorflow.org/serving) 
-* [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
-* [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
-* [Keras Resources](https://github.com/fchollet/keras-resources) and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
-
-<!--
-https://blog.keras.io
-
-https://medium.com/google-cloud/a-tensorflow-glossary-cheat-sheet-382583b22932 | A TensorFlow Glossary/Cheat Sheet – Google Cloud Platform — Community – Medium
--->
-
-Colab and Datalab
-* [Google Colab](https://colab.research.google.com)
-* [Google Datalab](https://cloud.google.com/datalab)
-
-<!--
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
--->
-
-Tensorflow/Google Machine Learning Learning Resources
-* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-* [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-* [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
-
-<!--
-https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
-
-https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
-
-https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
-
-https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
-
-https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
-
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
--->
-
-
-Templates
-* [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
-
-<!--
-https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
-
-https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
-
-https://github.com/chiphuyen/stanford-tensorflow-tutorials
-
-
-https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
-
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
-
-https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
-https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
-
-https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
-
-https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
-
-
-
-https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-
-
-http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html | Importance of Feature Scaling — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html | sklearn.linear_model.LogisticRegression — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html | Plot Ridge coefficients as a function of the L2 regularization — scikit-learn 0.19.1 documentation
-
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
-https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
-https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
-
-
-https://github.com/topics/pytorch-tutorials
-
-https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
-https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
-
-
-Google Brain Presentation
-https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
-
-Google Open Online Education
-https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
-
-https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
-https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
-http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
-
-
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-
-http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
-
-https://deeplearnjs.org/ | deeplearn.js
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 -->
 
 <!--
@@ -4852,11 +4192,6 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
 
 http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
 -->
 
 <!--
@@ -4992,29 +4327,6 @@ Python- Statistics Stack- GGPlot
 
 
 
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
-* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
-* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
-* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
-* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
-* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
-* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
-* [Awesome NLP](https://github.com/keon/awesome-nlp)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
-Interesting
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
-
 <!--
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
 
@@ -5038,6 +4350,7 @@ https://github.com/zer0n/deepframeworks
 https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 https://github.com/mlreview/machine-learning-surveys
 
+
 https://github.com/junhyukoh/deep-reinforcement-learning-papers
 https://github.com/muupan/deep-reinforcement-learning-papers
 https://github.com/terryum/awesome-deep-learning-papers
@@ -5049,23 +4362,86 @@ https://github.com/gokceneraslan/awesome-deepbio
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 -->
 
+
 <!--
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
+
+https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
+
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
+https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
+
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
+
+https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
+https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
+https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
+https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
+
+http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
+
+http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
+http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
+http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
+
+https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
+https://www.kaggle.com/pvlima/pretrained-pytorch-models
+
+https://keras.io/initializers/ | Initializers - Keras Documentation
+https://keras.io/optimizers/ | Optimizers - Keras Documentation
+
+http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
+
+http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html | Importance of Feature Scaling — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html | sklearn.linear_model.LogisticRegression — scikit-learn 0.19.1 documentation
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html | Plot Ridge coefficients as a function of the L2 regularization — scikit-learn 0.19.1 documentation
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
+https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
+
+XGBoost
+http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
+https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+-->
+
+<!--
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
+
+https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
+
+https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
+https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
+
+https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
+
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
+https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
+-->
 
 Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
-Google History of Machine Learning
-* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
-
-Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
@@ -5076,26 +4452,6 @@ https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-
 
 https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
--->
-
-<!--
-https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
-https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
-
-Some Wow Research Results
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
-
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
-
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 -->
 
 ## Kaggle
@@ -5118,13 +4474,6 @@ Kaggle Submission
 <!--
 https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
 
-
-https://www.kaggle.com/titericz | Giba | Kaggle
-https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
-https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
-https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
-
-
 https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20
 
 https://github.com/Kaggle | Kaggle
@@ -5142,18 +4491,28 @@ https://www.kaggle.com/learn/sql | Learn | Kaggle
 
 https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
 https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
-https://github.com/floydwch/kaggle-cli
 
 https://www.kaggle.com/wiki/CompetitionLaunchChecklist
 https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
 https://www.kaggle.com/wiki/ModelSubmissionBestPractices
 
+https://www.kaggle.com/benhamner
+https://www.kaggle.com/pytorch
+https://www.kaggle.com/tensorflow
+
+
+https://www.kaggle.com/titericz | Giba | Kaggle
+https://www.meetup.com/San-Francisco-Big-Data-Science/events/247757748/ | Kaggle Grandmaster Panel | San Francisco Big Data Science (San Francisco, CA) | Meetup
+https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook | SQL Scavenger Hunt Handbook | Kaggle
+https://www.kaggle.com/pvlima/pretrained-pytorch-models | Pretrained PyTorch models | Kaggle
+
 https://www.kaggle.com/nimashahbazi | Nima Shahbazi | Kaggle
 https://www.kaggle.com/benhamner/popular-datasets-over-time | Popular Datasets Over Time | Kaggle
-https://www.kaggle.com/pytorch/resnet152 | ResNet-152 | Kaggle
 
 https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
+
+https://github.com/floydwch/kaggle-cli
 
 Kaggle National Data Science Bowl
 https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
@@ -5191,7 +4550,107 @@ https://github.com/haseebr/competitive-programming
 https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 https://github.com/tuvttran/project-based-learning
 https://github.com/karan/Projects
+-->
 
+
+
+
+Templates
+* [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
+
+<!--
+https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
+
+https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
+https://www.tensorflow.org/dev-summit/schedule/ | Dev Summit  |  TensorFlow
+
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/dev_summit_2018_demo.ipynb | tensorflow/dev_summit_2018_demo.ipynb at master · tensorflow/tensorflow
+
+https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
+https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+
+https://github.com/topics/pytorch-tutorials
+
+https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
+https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
+
+Google Brain Presentation
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
+
+Google Open Online Education
+https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
+
+https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
+https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
+http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+
+http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
+
+https://deeplearnjs.org/ | deeplearn.js
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+-->
+
+
+Hosting
+* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
+* [Crestle](https://www.crestle.com)
+* [FloydHub](https://www.floydhub.com)
+
+<!--
+https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
+-->
+
+<!--
+https://research.google.com/colaboratory/faq.html | Colaboratory – Google
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
+https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
+https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
+-->
+
+<!--
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+-->
+
+Google History of Machine Learning
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
+
+<!--
+https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
+https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
+
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
+
+<!--
 Product Hunt
 https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
