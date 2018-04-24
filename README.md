@@ -1133,35 +1133,23 @@ http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
 https://www.udacity.com/course/website-performance-optimization--ud884
 -->
 
-## Live Coding
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
 <!--
-https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
-
-https://www.twitchtools.com/followers | Followers - TwitchTools
-https://www.twitch.tv/directory/creative | Creative - Twitch
-
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
+
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+
+https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 -->
 
-## Favorite Authors and Blogs
+<!--
+https://www.twitchtools.com/followers | Followers - TwitchTools
+-->
 
-Fave Pluralsight Authors
-* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
-* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
+
+
+
 
 <!--
 Joni Trythall
@@ -2607,19 +2595,9 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 
 ## Python Packaging
 
-Package Helpers
-* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
-
 Python- Additional Packaging Tutorials
 * [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 * [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
 https://docs.python.org/3/library/distribution.html
@@ -3407,148 +3385,6 @@ https://www.udacity.com/course/programming-foundations-with-python--ud036 | Pyth
 ## Data Science
 
 <!--
-http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
-
-https://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html | Top 10 Machine Learning Videos on YouTube
-https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html | Top 10 Videos on Deep Learning in Python
-http://www.kdnuggets.com/2017/06/top-quora-machine-learning-writers.html
-
-https://www.datasciencecentral.com/profiles/blogs/most-cited-deep-learning-papers | Most cited deep learning papers - Data Science Central
-http://www.datasciencecentral.com/profiles/blogs/practical-data-science-building-minimum-viable-models | Practical data science: Building Minimum Viable Models - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/book-evaluating-machine-learning-models | Book: Evaluating Machine Learning Models - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/j-p-morgan-s-comprehensive-guide-on-machine-learning | J.P. Morgan's Comprehensive Guide on Machine Learning - Data Science Central
-http://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free | Deep Learning for Everyone – and (Almost) Free - Data Science Central
-http://www.datasciencecentral.com/profiles/blogs/the-data-science-toolkit-my-boot-camp-ciriculum | The Data Science Toolkit - My Boot Camp Ciriculum - Data Science Central
-http://www.datasciencecentral.com/profiles/blogs/learn-python-in-3-days-step-by-step-guide | Learn Python in 3 days : Step by Step Guide - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science | Learning Python For Data Science - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/ranking-popular-deep-learning-libraries-for-data-science | Ranking Popular Deep Learning Libraries for Data Science - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/nuts-and-bolts-of-building-deep-learning-applications-ng-nips2016 | Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016 - Data Science Central
-
-https://twitter.com/BecomingDataSci/status/957326436028878849 | Data Science Renee on Twitter: "I guess this is how I got to 25,000 followers without explicitly trying to gain a large following: -Providing links to resources for learning data science -Having a podcast for learners; mention my Twitter account on the podcast and vice versa -Cheering people on ..."
-https://twitter.com/BecomingDataSci/status/957343117027442689 | Data Science Renee on Twitter: "I guess now's as good a time as ever to go back through and share my most-referenced resources 😊 Here's the slide I get the most head-nods and positive feedback on. #1 skill for any data analyst or data scientist (and "business" can be any domain)… https://t.co/lOq929RF8U"
-https://twitter.com/BecomingDataSci/status/959864802028945408 | Data Science Renee on Twitter: "I sometimes get asked to share my top Twitter follows for data science. I have a really hard time picking favorites of anything, but I'll share some w/a focus on people who help others learn. I'm sure this list will grow over time as I think of more. Not in any particular order."
-https://twitter.com/BecomingDataSci/status/957345968088862725 | Data Science Renee on Twitter: "Each ep also has a learning activity, which can be found in the @DataSciLearning Club forums. I clearly have a spam problem there &haven't updated it in a while (will get back in there eventually), but activities are pinned at the top of each forum topic. https://t.co/fZ8Q5hO0lC"
-
-
-Interesting Presentations
-
-https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
-https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
-https://github.com/lorenanicole/djangocon/blob/master/model/views.py
-https://github.com/lorenanicole/djangocon/tree/master/model | djangocon/model at master · lorenanicole/djangocon
-
-https://twitter.com/ambatula | Alyssa Batula (@ambatula) | Twitter
-https://www.youtube.com/watch?v=-BIGzKmxMGY | Introduction to Machine Learning in Python with Alyssa Batula - YouTube
-https://github.com/abatula/MachineLearningIntro | abatula/MachineLearningIntro: Files used for an Introduction to Machine Learning course
-
-
-https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
-
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
-
-http://neuralnetworksanddeeplearning.com/chap2.html | Neural networks and deep learning
-http://neuralnetworksanddeeplearning.com/chap4.html | Neural networks and deep learning
-
-https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html | Building a simple Keras + deep learning REST API
-
-https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/ | Softmax Classifiers Explained - PyImageSearch
-https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/ | Image classification with Keras and deep learning - PyImageSearch
-https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/ | Deep Learning for Computer Vision with Python: Master Deep Learning Using My New Book
-https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/ | How to create a deep learning dataset using Google Images - PyImageSearch
-
-https://matplotlib.org/tutorials/introductory/pyplot.html | Pyplot tutorial — Matplotlib 2.1.1 documentation
-https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html | Array creation — NumPy v1.13 Manual
-https://pandas.pydata.org/pandas-docs/stable/10min.html | 10 Minutes to pandas — pandas 0.22.0 documentation
-https://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html | Comparison with R / R libraries — pandas 0.22.0 documentation
-http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html | 1. What is the Jupyter Notebook? — Jupyter/IPython Notebook Quick Start Guide 0.1 documentation
-
-https://cloud.google.com/automl | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud Platform
-https://cloud.google.com/blog/big-data/2018/03/automl-vision-in-action-from-ramen-to-branded-goods | AutoML Vision in action: from ramen to branded goods | Google Cloud Big Data and Machine Learning Blog  |  Google Cloud
-https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/ | Cloud AutoML: Making AI accessible to every business
-https://developers.googleblog.com/2018/03/tensorrt-integration-with-tensorflow.html | Google Developers Blog: Announcing TensorRT integration with TensorFlow 1.7
-https://developers.googleblog.com/2017/12/announcing-core-ml-support.html | Google Developers Blog: Announcing Core ML support in TensorFlow Lite
-https://research.googleblog.com/2018/03/using-machine-learning-to-discover.html | Research Blog: Using Machine Learning to Discover Neural Network Optimizers
-
-https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/ | Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data
-https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/ | Which algorithm takes the crown: Light GBM vs XGBOOST?
-https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/ | 7 Types of Regression Techniques you should know
-https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/ | Infographic - Quick Guide to learn Python for Data Science
-
-https://github.com/adeshpande3/Generative-Adversarial-Networks
-https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/ | A Beginner's Guide To Understanding Convolutional Neural Networks – Adit Deshpande – CS Undergrad at UCLA ('19)
-
-https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ | Gentle Introduction to the Adam Optimization Algorithm for Deep Learning - Machine Learning Mastery
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
-
-https://machinelearningmastery.com/start-with-gradient-boosting/ | Start With Gradient Boosting, Results from Comparing 13 Algorithms on 165 Datasets - Machine Learning Mastery
-https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/ | A Gentle Introduction to Mini-Batch Gradient Descent and How to Configure Batch Size - Machine Learning Mastery
-https://machinelearningmastery.com/what-is-deep-learning/ | What is Deep Learning? - Machine Learning Mastery
-https://machinelearningmastery.com/an-introduction-to-feature-selection/ | An Introduction to Feature Selection - Machine Learning Mastery
-https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/ | Using Learning Rate Schedules for Deep Learning Models in Python with Keras - Machine Learning Mastery
-https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/ | Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/logistic-regression-for-machine-learning/ | Logistic Regression for Machine Learning - Machine Learning Mastery
-
-https://machinelearningmastery.com/vector-norms-machine-learning/ | Gentle Introduction to Vector Norms in Machine Learning - Machine Learning Mastery
-
-https://github.com/datacamp/datacamp_facebook_live_dataframed | datacamp/datacamp_facebook_live_dataframed: DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favourite. Enjoy!
-https://www.facebook.com/events/198952580839536/ | Live Coding: The Favorite Techniques of the Experts
-https://www.facebook.com/726282547396228/videos/1963687776989026/ | DataCamp - DataCamp is live now.
-
-https://www.datacamp.com/community/tutorials/data-structures-python | Data Structures: Python Tutorial (article) - DataCamp
-https://www.datacamp.com/community/tutorials/loops-python-tutorial | Python Loops Tutorial (article) - DataCamp
-https://www.datacamp.com/community/tutorials/python-excel-tutorial | Python Excel Tutorial: The Definitive Guide (article) - DataCamp
-
-https://www.datacamp.com/community/blog/version-control-data-science | Version Control For Data Science (article) - DataCamp
-https://www.datacamp.com/courses/network-analysis-in-python-part-1 | Python: Network Analysis | DataCamp
-
-https://www.datacamp.com/community/blog/data-science-software-engineering | Data Science meets Software Engineering (article) - DataCamp
-
-https://www.datacamp.com/community/blog/exercise-types-programming | Exercise Types to Teach Programming (article) - DataCamp
-
-
-
-
-https://developer.apple.com/reference/accelerate/1912851-bnns
-
-https://www.salesforce.com/blog/2016/09/introducing-salesforce-einstein.html | Introducing Salesforce Einstein–AI for Everyone - Salesforce Blog
-
-https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | chart-doctor/visual-vocabulary at master · ft-interactive/chart-doctor
-
-https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
-
-
-https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
-https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
-https://software.intel.com/en-us/mkl | Intel® Math Kernel Library (Intel® MKL) | Intel® Software
-
-https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
-
-https://research.google.com/teams/brain/residency/ | Research at Google
-https://blog.openai.com/openai-scholars/ | OpenAI Scholars
-https://aigrant.org/
-https://jobs.lever.co/openai/2153959a-77bf-443e-bc07-e36da36c98ce/apply | OpenAI - Scholar
-https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
-https://blog.openai.com
-https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
-https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
-https://www.aifund.ai/ | AI Fund
-
-http://scaledml.org/ | Scaled Machine Learning
-https://www.youtube.com/watch?v=hxOHrnSGj6A | Reza Zadeh - ScaledML 2018 Introduction - YouTube
-https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018 | Slides and Videos from ScaledML 2018 | Matroid
-
-https://thisismetis.com/demystifying-data-science | Demystifying Data Science | A FREE online conference by Metis
-
-https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
-
-https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
--->
-
-
-<!--
 https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
 https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
@@ -3792,164 +3628,6 @@ https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy
 <!--
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
--->
-
-<!--
-numpy built in functions
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
-
-https://www.tensorflow.org/tutorials/deep_cnn
-
-https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
-
-https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
-
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py | tensorflow/rmsprop.py at master · tensorflow/tensorflow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/contrib.layers/initializers | Initializers  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/test/gradient_checking | Gradient checking  |  TensorFlow
-https://www.tensorflow.org/tutorials/wide_and_deep | TensorFlow Wide & Deep Learning Tutorial  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/train/AdamOptimizer | tf.train.AdamOptimizer  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/nn/softmax_cross_entropy_with_logits | tf.nn.softmax_cross_entropy_with_logits  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/train/decaying_the_learning_rate | Decaying the learning rate  |  TensorFlow
-
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/activation_functions_
-
-https://www.tensorflow.org/api_docs/python/tf/train/GradientDescentOptimizer | tf.train.GradientDescentOptimizer  |  TensorFlow
-https://www.tensorflow.org/versions/r0.12/api_docs/python/nn/losses | Losses  |  TensorFlow
-https://www.tensorflow.org/api_docs/python/tf/losses | Module: tf.losses  |  TensorFlow
-https://github.com/tensorflow/tensor2tensor/blob/80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf/tensor2tensor/utils/optimize.py#L351-L577 | tensor2tensor/optimize.py at 80b2f7300ce2021b9ca0a7877b2670bbdea2b2bf · tensorflow/tensor2tensor
-
-http://pytorch.org/docs/0.3.1/nn.html#non-linear-activations
-
-http://pytorch.org/docs/master/optim.html | torch.optim — PyTorch master documentation
-http://pytorch.org/docs/master/nn.html#loss-functions | torch.nn — PyTorch master documentation
-http://pytorch.org/docs/master/_modules/torch/nn/modules/loss.html | torch.nn.modules.loss — PyTorch master documentation
-
-https://www.kaggle.com/pvlima/use-pretrained-pytorch-models
-https://www.kaggle.com/pvlima/pretrained-pytorch-models
-
-https://keras.io/initializers/ | Initializers - Keras Documentation
-https://keras.io/optimizers/ | Optimizers - Keras Documentation
-
-http://scikit-learn.org/stable/modules/preprocessing.html | 4.3. Preprocessing data — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/0.18/auto_examples/missing_values.html | Imputing missing values before building an estimator — scikit-learn 0.18.2 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html | sklearn.preprocessing.Imputer — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html | sklearn.preprocessing.LabelEncoder — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/linear_model.html | 1.1. Generalized Linear Models — scikit-learn 0.19.1 documentation
-
-http://scikit-learn.org/stable/modules/sgd.html | 1.5. Stochastic Gradient Descent — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html | sklearn.metrics.mean_squared_error — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html | Importance of Feature Scaling — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html | sklearn.linear_model.LogisticRegression — scikit-learn 0.19.1 documentation
-http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html | Plot Ridge coefficients as a function of the L2 regularization — scikit-learn 0.19.1 documentation
-
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
-https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
-https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
-
-https://en.wikipedia.org/wiki/Dot_product
-https://en.wikipedia.org/wiki/Cross_product
-
-Fast AI Computational Linear Algebra
-
-https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
-
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
-https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
-
-Recommended by Rachel Thomas?
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
-https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
-
-https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
-
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
-https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
-
-
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
-https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
-
-https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
-https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
-
-Derivatives
-https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
-https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
-
-Derivatives
-http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
-
-https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
-https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
-https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
-https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
-https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
-https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
-https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
-https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
-https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
-
-Derivatives
-http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
-http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
-
-http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
-http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
-http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
-http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
-http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
-http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
-http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
-http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
--->
-
-<!--
-XGBoost
-http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
-https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
-https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
-
-http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
-http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
-
-http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
-https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
-
-https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
--->
-
-<!--
-https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture
-
-https://www.tensorflow.org/extend/tool_developers/#protocol_buffers
-
-https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/validation.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?hl=en
-https://colab.research.google.com/notebooks/mlcc/sparsity_and_l1_regularization.ipynb?hl=en
-
-https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy | Introduction to Neural Networks: Anatomy  |  Machine Learning Crash Course  |  Google Developers
-https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit | First Steps with TensorFlow: Toolkit  |  Machine Learning Crash Course  |  Google Developers
-
-https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=youtu.be | The 7 Steps of Machine Learning - YouTube
-https://www.youtube.com/watch?time_continue=25&v=DZ_uSRfJjM8 | First Steps with TensorFlow - YouTube
 -->
 
 Rules and Advice
