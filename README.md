@@ -3117,6 +3117,7 @@ https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 
 <!--
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
+
 classification creational structural behavioral patterns - Google Search
 
 https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
@@ -3159,25 +3160,6 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 -->
 
 ## Programming Syntax and Conventions
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
 
 <!--
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
@@ -3696,6 +3678,7 @@ https://www.udacity.com/course/programming-foundations-with-python--ud036 | Pyth
 
 
 
+
 ## Data Science
 
 <!--
@@ -3811,13 +3794,6 @@ https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary | c
 
 https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency | Algorithmic efficiency (video) | Khan Academy
 
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-
-
-https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
 
 https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/ | Artificial Intelligence Architecture | NVIDIA Volta
 https://developer.nvidia.com/cudnn | NVIDIA cuDNN | NVIDIA Developer
@@ -3969,10 +3945,6 @@ https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development 
 https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
 -->
 
-Andrew Ng
-* [Landing AI](https://www.landing.ai)
-* ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
-
 <!--
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
 
@@ -3997,33 +3969,40 @@ DataCamp
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
 <!--
-https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
-https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
-
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
-https://www.datacamp.com/community/tutorials?tag=python | Tutorials - Online Data Analysis & Interpretation | DataCamp
-https://www.datacamp.com/courses/tech:python | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
 https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
+
+https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
+-->
+
+<!--
+https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
 
 
 <!--
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
+
 https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
 https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
 https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
 https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
 https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
-
-https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
-https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
 -->
+
 
 
 <!--
@@ -4129,28 +4108,6 @@ https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 |
 -->
 
 
-<!--
-XGBoost
-* [XGBoost GitHub](https://github.com/dmlc/xgboost) and [XGBoost Docs](http://xgboost.readthedocs.io)
-* [XGBoost Docs Python](http://xgboost.readthedocs.io/en/latest/python)
-
-
-http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
-http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
-
-http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
-https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
-
-https://www.tensorflow.org/performance/ | Performance  |  TensorFlow
-https://www.tensorflow.org/performance/performance_guide
-https://www.tensorflow.org/performance/benchmarks
-https://www.tensorflow.org/performance/performance_models
-https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
-https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
-
-https://github.com/pytorch/benchmark | pytorch/benchmark
--->
 
 <!--
 https://www.tensorflow.org/api_docs/
@@ -4194,19 +4151,12 @@ https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image 
 http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
 -->
 
+
 <!--
-https://github.com/spyder-ide/spyder
 https://github.com/spyder-ide/spyder/issues/3275 | Print all keyboard shortcuts to cheatset · Issue #3275 · spyder-ide/spyder
 -->
 
-Conda
-* [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html)
-* [Anaconda](https://www.continuum.io/downloads)  
-* [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html)  
-* [Miniconda](http://conda.pydata.org/miniconda.html)
-
 <!--
-https://conda.io/docs/_downloads/conda-cheatsheet.pdf | conda-cheatsheet.pdf
 https://conda.io/docs/user-guide/getting-started.html | Getting started with conda — Conda documentation
 https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
 https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
@@ -4244,10 +4194,10 @@ http://ipython.org/documentation.html
 http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
 -->
 
-Python- Statistics Stack- Scikit-Learn
-* [Scikit-Learn](http://scikit-learn.org/stable), [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)  
-
+ 
 <!--
+* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), 
+
 https://scikits.appspot.com/scikits  
 -->
 
@@ -4279,8 +4229,6 @@ http://www.scipy.org/getting-started.html
 http://www.scipy.org/topical-software.html List of Software  
 -->
 
-Python- Statistics Stack- MatPlotLib
-* [MatPlotLib](http://matplotlib.org), [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib), and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib)  
 
 Python- Statistics Stack- MatPlotLib Reference
 * [MatPlotLib Reference](http://matplotlib.org/contents.html)  
@@ -4304,9 +4252,11 @@ External Resources
 http://matplotlib.org/faq/index.html  
 -->
 
-Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software)), and [Pandas GitHub](https://github.com/pandas-dev/pandas)  
-* [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable)  
+ 
+<!--
+[MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
+[Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
+-->
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 * [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
@@ -4410,11 +4360,23 @@ http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
 https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
+-->
 
+<!--
 XGBoost
 http://xgboost.readthedocs.io/en/latest/model.html | Introduction to Boosted Trees — xgboost 0.6 documentation
 https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+
+http://dawn.cs.stanford.edu/ | Stanford DAWN · DAWN
+http://dawn.cs.stanford.edu/benchmark/#imagenet-train-time | Stanford DAWN Deep Learning Benchmark (DAWNBench) ·
+
+http://dawn.cs.stanford.edu/2018/01/11/index-baselines/ | Don't Throw Out Your Algorithms Book Just Yet: Classical Data Structures That Can Outperform Learned Indexes · Stanford DAWN
+https://github.com/EpistasisLab/penn-ml-benchmarks | EpistasisLab/penn-ml-benchmarks: A large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms.
+
+https://www.tensorflow.org/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance | Input Pipeline Performance Guide  |  TensorFlow
+https://www.tensorflow.org/versions/master/performance/datasets_performance#map_and_interleave_prefetch_shuffle | Input Pipeline Performance Guide  |  TensorFlow
 -->
 
 <!--
@@ -4455,19 +4417,6 @@ http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-
 -->
 
 ## Kaggle
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions) 
-* [Kaggle Progression](https://www.kaggle.com/progression) 
-* [Kaggle Rankings](https://www.kaggle.com/rankings) 
-* [Kaggle Learn](https://www.kaggle.com/learn)
-* [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
-* [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Kernels](https://www.kaggle.com/kernels) 
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
 
 Kaggle Submission
 
@@ -4559,9 +4508,7 @@ Templates
 * [TensorFlow Project Template GitHub](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 <!--
-https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
-
-https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+Tensorflow and Tutorials 
 
 https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
@@ -4572,12 +4519,26 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograp
 https://www.youtube.com/watch?v=4oNdaQk0Qv4 | The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018) - YouTube
 https://www.youtube.com/watch?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN&time_continue=2&v=nH6owuKfCbw | Open Source Collaboration (TensorFlow Dev Summit 2018) - YouTube
 
-https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
-
 https://github.com/topics/pytorch-tutorials
 
 https://github.com/search?o=desc&q=pytorch&s=stars&type=Repositories&utf8=%E2%9C%93 | Search · pytorch
 https://github.com/search?o=desc&q=tensorflow&s=stars&type=Repositories&utf8=%E2%9C%93
+
+
+
+https://www.tensorflow.org/versions/r0.12/get_started/os_setup#anaconda_installation | Download and Setup  |  TensorFlow
+
+https://www.coursera.org/learn/deep-neural-network/lecture/zcZlH/tensorflow
+
+http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
+
+http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
+
+https://deeplearnjs.org/ | deeplearn.js
+https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
+
+
+https://colab.research.google.com/notebooks/welcome.ipynb | Hello, Colaboratory - Colaboratory
 
 Google Brain Presentation
 https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
@@ -4588,13 +4549,6 @@ https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
 https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
 https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
 http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
-
-http://pytorch.org/2018/01/19/a-year-in.html | PyTorch, a year in....
-
-http://tflearn.org/ | TFLearn | TensorFlow Deep Learning Library
-
-https://deeplearnjs.org/ | deeplearn.js
-https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html | Google Developers Blog: Announcing TensorFlow Lite
 -->
 
 
@@ -4629,6 +4583,10 @@ Google History of Machine Learning
 Playbooks
 * [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
 * [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
+
+Andrew Ng
+* [Landing AI](https://www.landing.ai)
+* ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
 
 <!--
 https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
