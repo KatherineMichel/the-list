@@ -493,24 +493,7 @@ Product/Service Directories
 DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me) 
 
-Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [JS Bin](https://jsbin.com)
-* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
-* [Codepen](http://codepen.io)
-* [Cloud9](https://c9.io)
-* [Runkit](https://runkit.com)
-
-Makers
-* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
-* [IFTTT Maker](https://platform.ifttt.com/maker)
-* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
-
 <!--
-https://glitch.com/art
-https://glitch.com/slack | Slack
-
 http://thenewstack.io
 
 https://websitedownloader.io/wayback-machine-downloader
@@ -521,11 +504,6 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 Workflow Automation
 * [Zapier](https://zapier.com)
 * [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
-
-https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
-https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
-
-https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
 
 Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
@@ -911,10 +889,6 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
-## Books
-
-
-
 ## Standards and Documentation
 
 Arm, Intel, Linux Kernel
@@ -988,61 +962,6 @@ http://release.mozilla.org/ | Mozilla Releases
 -->
 
 
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-* [Opera Neon](http://www.opera.com/computer/neon)
-
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
-
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
 Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
@@ -1061,16 +980,6 @@ Brave
      
 https://www.mozilla.org/en-US/firefox/channel/desktop/
 https://testpilot.firefox.com
-
-ChakraCore
-  * [Chakra](https://github.com/Microsoft/ChakraCore)
-    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
-    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
-    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
-    * Internal
-      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
-    * Next Generation
-      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
 
 Google Developers- General
 * [Google Chrome Home](https://developers.google.com/chrome)
@@ -1323,13 +1232,6 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
 Comparison of File Systems
 * [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 
@@ -1349,27 +1251,6 @@ Shells
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
 
 
 https://en.wikipedia.org/wiki/File_system_permissions
