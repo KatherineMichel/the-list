@@ -3039,6 +3039,12 @@ https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
 https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
 -->
 
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+
 
 
 
@@ -3048,15 +3054,10 @@ Programming Languages
 * [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 * [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
 * [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
 * [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 Programming Languages- Usage in Popular Websites
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-
 
 SOLID
 * [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
@@ -3065,7 +3066,6 @@ SOLID
 <!--
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
 -->
-
 
 ## Object-Oriented Design Patterns
 
@@ -3182,6 +3182,10 @@ https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | U
 
 http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
 
+https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
+
 https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792/ref=sr_1_8?s=books&ie=UTF8&qid=1520204455&sr=1-8 | Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development: Craig Larman: 9788177589795: Amazon.com: Books
 https://www.amazon.com/Applying-UML-Patterns-Introduction-Development/dp/9332553947/ref=pd_lpo_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Applying UML Patterns : An Introduction to Object -Oriented Analysis, Design and Iterative Development: Craig Larman: 9789332553941: Amazon.com: Books
 
@@ -3189,10 +3193,6 @@ https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | 
 
 https://sourcemaking.com/uml/introduction | Introduction
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062
-
-https://www.safaribooksonline.com/library/view/applying-uml-and/0130925691/0130925691_ch36lev1sec4.html | Adaptive vs. Predictive Planning - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and the Unified Process, Second Edition [Book]
 
 http://staruml.io/ | StarUML
 https://www.draw.io/ | draw.io
@@ -3689,41 +3689,9 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 http://web.stanford.edu/~jurafsky/slp3/ | Speech and Language Processing
 -->
 
-<!--
-https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
-
-https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
-
-http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
-
-https://twitter.com/BecomingDataSci/lists/women-in-data-science/members | List members
-https://twitter.com/i/moments/793530508948930560 | Things I'm building to share
-https://twitter.com/i/moments/957691892476588033 | Data Science Learner Blog Posts
-https://twitter.com/BecomingDataSci/status/962413331863818246 | Data Science Renee on Twitter: "#39 is a TensorFlow Tutorial… "
-
-https://twitter.com/math_rachel/status/967689690328350720 | Rachel Thomas on Twitter: "Question: what are your favorite "intro to data science" courses/blogs/websites?"
-
-http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
-http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
-
-http://www.datasciguide.com/difficulty/early-beginner
-http://www.datasciguide.com/recommended-resources-for-beginners
-
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
-https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
--->
-
-
 
 <!--
-Python- Statistics Stack- Scikit-Learn Reference
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
 * [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
-
- 
-http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
 
 * [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
 * [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
@@ -3781,31 +3749,7 @@ Python- Statistics Stack- SciPy
 <!--
 http://www.scipy.org/getting-started.html 
 http://www.scipy.org/topical-software.html List of Software  
--->
-
-
-Python- Statistics Stack- MatPlotLib Reference
-* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
-* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
-* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
-* [MatPlotLib API](http://matplotlib.org/api/index.html )  
-* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
-* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
-* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
-* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
-* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
-* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
-* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html )  
-* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html)  
-* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
-
-<!--
-Resources 
-http://matplotlib.org/resources/index.html 
-External Resources 
-http://matplotlib.org/faq/index.html  
--->
-
+--> 
 
 
 
@@ -4189,7 +4133,7 @@ https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZP
 -->
 
 DataCamp
-* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Projects](https://www.datacamp.com/projects)
+* [DataCamp Projects](https://www.datacamp.com/projects)
 
 <!--
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
@@ -4213,6 +4157,29 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 * [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)
 * [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
 * [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
+-->
+
+Python- Statistics Stack- MatPlotLib Reference
+* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
+* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
+* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
+* [MatPlotLib API](http://matplotlib.org/api/index.html )  
+* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
+* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
+* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html)  
+* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html) 
+
+* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
+
+<!--
+Resources 
+http://matplotlib.org/resources/index.html 
+External Resources 
+http://matplotlib.org/faq/index.html  
 -->
 
 <!--
