@@ -1142,6 +1142,7 @@ Live Coding
 
 <!--
 https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
+
 https://www.twitchtools.com/followers | Followers - TwitchTools
 https://www.twitch.tv/directory/creative | Creative - Twitch
 
@@ -3583,8 +3584,6 @@ http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Ho
 https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
 https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
 
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
 https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
 https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
 https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
@@ -3659,10 +3658,6 @@ http://forums.fast.ai/t/part-2-early-release-videos-now-available/2621
 http://forums.fast.ai/t/lesson-8-wiki/1639
 http://forums.fast.ai/t/lesson-8-discussion/1522
 -->
-
-
-
-
 
 
 <!--
@@ -4113,6 +4108,19 @@ https://github.com/tuvttran/project-based-learning
 https://github.com/karan/Projects
 -->
 
+Coding Guides and Workshops
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
+<!--
+* [Smithsonian Workshops Coding in Python](https://github.com/SmithsonianWorkshops/CodingInPython)
+
+https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
+
+https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+https://github.com/georgetown-analytics/machine-learning | georgetown-analytics/machine-learning: Code & Data for Introduction to Machine Learning with Scikit-Learn
+https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning | georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning: Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
+-->
 
 
 
@@ -4161,22 +4169,6 @@ https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA
 https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1 | (7) Wesley Chun's answer to As someone interested in learning Python, should I start with 2.x or go straight to 3.x? - Quora
 https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#3226704 | Beginner Python Practice? - Stack Overflow
 http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
--->
-
-
-
-Coding Guides and Workshops
-* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
-* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
-
-<!--
-* [Smithsonian Workshops Coding in Python](https://github.com/SmithsonianWorkshops/CodingInPython)
-
-https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
-
-https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
-https://github.com/georgetown-analytics/machine-learning | georgetown-analytics/machine-learning: Code & Data for Introduction to Machine Learning with Scikit-Learn
-https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning | georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning: Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
 -->
 
 
