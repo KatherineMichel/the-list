@@ -3294,11 +3294,7 @@ Probability
 
 
 <!--
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
-
 https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://docs.python.org/3/tutorial/datastructures.html
 
 https://en.wikipedia.org/wiki/Abstract_data_type
 
@@ -3314,13 +3310,72 @@ https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wi
 
 
 <!--
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+Python Data Structures
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/stacygohyunsi/algorithms-primer
+https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
+
+Mathematics of Deep Learning
+https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
+https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
+
+http://bigocheatsheet.com/#poster
+
+https://docs.python.org/3/tutorial/datastructures.html
+https://en.wikipedia.org/wiki/Data_structure
+
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+
+https://en.wikipedia.org/wiki/Numerical_linear_algebra
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+
+SQL
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+Calculus and Derivatives
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
+
+http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
+
+Jeremy Howard- Matrix Calculus
+https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
+http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
+
+https://en.wikipedia.org/wiki/Vector_calculus
+https://en.wikipedia.org/wiki/Multivariable_calculus
+https://en.wikipedia.org/wiki/Differential_calculus
+
+http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
+https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
+https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
+https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
+https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
+
+https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
+https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
+
+https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
+https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
+https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+https://minireference.com/static/tutorials/conceptmap.pdf
+
+Python
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 --->
 
 
@@ -3355,8 +3410,6 @@ https://www.xmind.net/m/WvfC
 Mathworks- Machine Learning Summarized in One Picture
 https://www.mathworks.com/help/stats/machine-learning-in-matlab.html
 
-http://www.asimovinstitute.org/neural-network-zoo/
-
 http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 
@@ -3380,11 +3433,6 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 
 
 <!--
-https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
-
-
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
@@ -3401,13 +3449,24 @@ https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
 https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 
+https://en.wikipedia.org/wiki/List_of_algorithms
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/Computational_mathematics
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Theory_of_computation
+https://en.wikipedia.org/wiki/Programming_language_theory
+https://en.wikipedia.org/wiki/Computational_statistics
+https://en.wikipedia.org/wiki/Computational_physics
+https://en.wikipedia.org/wiki/Computational_linguistics
+https://en.wikipedia.org/wiki/Natural-language_processing
 
-http://bigocheatsheet.com/#poster
 https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-
-https://docs.python.org/3/tutorial/datastructures.html
-
-https://en.wikipedia.org/wiki/Data_structure
 
 Common Data Structure Operations
 https://en.wikipedia.org/wiki/Array_data_structure
@@ -3451,47 +3510,11 @@ https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
-https://en.wikipedia.org/wiki/List_of_algorithms
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/Computational_mathematics
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Mathematical_optimization
-https://en.wikipedia.org/wiki/Theory_of_computation
-https://en.wikipedia.org/wiki/Programming_language_theory
-https://en.wikipedia.org/wiki/Computational_statistics
-https://en.wikipedia.org/wiki/Computational_physics
-https://en.wikipedia.org/wiki/Computational_linguistics
-https://en.wikipedia.org/wiki/Natural-language_processing
 
-
-http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
-http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
-
-Jeremy Howard- Matrix Calculus
-https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
-http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
-
-https://en.wikipedia.org/wiki/Vector_calculus
-https://en.wikipedia.org/wiki/Multivariable_calculus
-https://en.wikipedia.org/wiki/Differential_calculus
 https://en.wikipedia.org/wiki/Dot_product
 https://en.wikipedia.org/wiki/Cross_product
 
-Computational Linear Algebra
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
-https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
-https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
-https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
-https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
-
-https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
-https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
+Fast AI Computational Linear Algebra
 
 https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
 
@@ -3505,12 +3528,6 @@ https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-py
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
 
-https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
-https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
-
-
 https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
@@ -3521,25 +3538,6 @@ https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Int
 https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
 
 
-Mathematics of Deep Learning
-https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
-https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-
-
-SQL
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-Calculus and Derivatives
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
 https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
 https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
 https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
@@ -3585,12 +3583,6 @@ http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram
 
 
 <!--
-Python
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
@@ -3598,9 +3590,7 @@ https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-inte
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 
 https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+
 https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
 
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
@@ -3608,7 +3598,6 @@ https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
-
 
 
 <!--
@@ -3623,27 +3612,10 @@ https://www.coursera.org/learn/interactive-python-2/lecture/i3Wbh/object-oriente
 https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/ | Python Beyond the Basics - Object-Oriented Programming | Udemy
 
 https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/1300254195 | Python Object Oriented From Scratch | Mahmoud Ahmed | Skillshare
-
-
-http://blog.interviewing.io
-https://github.com/yangshun/tech-interview-handbook
-https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
 -->
 
 
-
 <!--
-https://cs.stackexchange.com
-http://statweb.stanford.edu
-http://cslibrary.stanford.edu
-https://engineering.stanford.edu
-http://web.mit.edu
-
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
 https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
@@ -3674,6 +3646,31 @@ https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/stacygohyunsi/algorithms-primer
+
+
+http://blog.interviewing.io
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+
+https://cs.stackexchange.com
+http://statweb.stanford.edu
+http://cslibrary.stanford.edu
+https://engineering.stanford.edu
+http://web.mit.edu
 -->
 
 
@@ -3853,23 +3850,6 @@ https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v
 https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
 -->
 
-Data, Data Science, Big Data
-* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
-* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
-* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
-* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-
-Data Monetization
-* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
-* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
-
-Artificial Intelligence- Wikipedia
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
 
 
 <!--
@@ -3939,11 +3919,6 @@ http://forums.fast.ai/t/lesson-8-discussion/1522
 -->
 
 
-<!--
-https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
-
-https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
--->
 
 <!--
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
@@ -3963,27 +3938,9 @@ Geoffrey Hinton
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
 -->
 
-DataCamp
-* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Projects](https://www.datacamp.com/projects)
+
 * [DataCamp GitHub](https://github.com/datacamp)
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
-
-<!--
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intermediate-python-for-data-science
-
-https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
-
-https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
-https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
--->
-
-<!--
-https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
-https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
--->
 
 
 <!--
@@ -4152,17 +4109,6 @@ http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — s
 -->
 
 
-<!--
-https://github.com/spyder-ide/spyder/issues/3275 | Print all keyboard shortcuts to cheatset · Issue #3275 · spyder-ide/spyder
--->
-
-<!--
-https://conda.io/docs/user-guide/getting-started.html | Getting started with conda — Conda documentation
-https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
-https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
-https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — Conda documentation
--->
-
 Jupyter
 
 <!--
@@ -4196,8 +4142,6 @@ http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting th
 
  
 <!--
-* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), 
-
 https://scikits.appspot.com/scikits  
 -->
 
@@ -4252,28 +4196,6 @@ External Resources
 http://matplotlib.org/faq/index.html  
 -->
 
- 
-<!--
-[MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
-[Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
--->
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics)
-* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
-* [SymPy Features](http://www.sympy.org/en/features.html)  
-
-Python- Statistics Stack- StatsModel
-* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
-* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
-* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
-* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
-* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
-
-Python- Statistics Stack- GGPlot
-* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html) 
 
 
 
@@ -4284,14 +4206,6 @@ https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
 https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
-
-https://github.com/hindupuravinash/the-gan-zoo
-https://github.com/nightrome/really-awesome-gan
-https://github.com/Faldict/awesome-GAN | Faldict/awesome-GAN: A curated list of awesome Generative Adversarial Nets resources.
-
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
 
 https://github.com/aymericdamien/TopDeepLearning
 
@@ -4551,6 +4465,67 @@ https://stackoverflow.com/questions/3217222/beginner-python-practice/3226704#322
 http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List by Wesley Chun | | InformIT
 -->
 
+
+
+<!--
+https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
+
+https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
+-->
+
+DataCamp
+* [DataCamp Community](https://www.datacamp.com/community), [DataCamp Projects](https://www.datacamp.com/projects)
+
+<!--
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intermediate-python-for-data-science
+
+https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
+
+https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
+https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
+https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
+-->
+
+<!--
+https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
+https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
+-->
+
+<!--
+* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), 
+* [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
+* [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
+-->
+
+<!--
+https://github.com/spyder-ide/spyder/issues/3275 | Print all keyboard shortcuts to cheatset · Issue #3275 · spyder-ide/spyder
+-->
+
+<!--
+https://conda.io/docs/user-guide/getting-started.html | Getting started with conda — Conda documentation
+https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
+https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
+https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — Conda documentation
+-->
+
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
+* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
+* [SymPy Features](http://www.sympy.org/en/features.html)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
+* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
+* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
+* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
+* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html) 
 
 Hosting
 * [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
