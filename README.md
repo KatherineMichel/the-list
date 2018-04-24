@@ -1249,7 +1249,6 @@ Computer Scientists
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
-
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
@@ -1688,40 +1687,6 @@ https://cloud.google.com/source-repositories/docs
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
-<!--
-http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketBilling.html
-https://devcenter.heroku.com/articles/s3
-
-https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
-
-https://devcenter.heroku.com/articles/renaming-apps
-https://devcenter.heroku.com/articles/fork-app
-
-https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
-
-https://help.github.com/articles/error-permission-denied-publickey
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
--->
-
-AWS Deployment/Staging- Virtual Private Networks
-* [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud)  
-
-GitHub, Heroku, AWS SSH and SSH Keys
-* [GitHub SSH](https://github.com/settings/ssh)  
-* [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
-* [Heroku Keys (including fixing problems with keys)](https://devcenter.heroku.com/articles/keys)  
-* [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
-
-<!--
-https://help.github.com/articles/checking-for-existing-ssh-keys/
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
--->
-
-Heroku Secure Key
-* [Secure Key](https://devcenter.heroku.com/articles/securekey)
-* [Fortnightly](https://addons.heroku.com/securekey#fortnightly)
-
 Google Cloud, App Engine and GitHub
 * [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
 
@@ -1729,21 +1694,6 @@ Heroku Git Integration
 * [Deploying with Git](https://devcenter.heroku.com/articles/git)
 * [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
 * [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Git Cloning Existing Heroku Applications
-* [Git Cloning Existing Heroku Applications](https://devcenter.heroku.com/articles/git-clone-heroku-app)
-
-<!--
-https://devcenter.heroku.com/articles/fork-app#git-repository
-http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
-http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
--->
-
-Ubuntu (Debian) Deployment
-* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-* [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
-* [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
-* [Heroku Ubuntu](https://toolbelt.heroku.com/debian) 
 
 #### Deployment and Cloud by Language
 
