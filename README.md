@@ -129,17 +129,6 @@ Open Source, Open Source Documentation
 
 
 
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
-https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
-https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
-https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard | The Pragmatic Bookshelf
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
-
-
 https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
 https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
 
@@ -184,25 +173,11 @@ http://daigofuji.github.io/jekyll-foundation-5-starter
 https://github.com/daigofuji/jekyll-foundation-5-starter
 
 
-Engineering Manager
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-
-
-https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
-
-
 https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
 https://blog.deming.org
 
 
 https://status.bitbucket.org/ | Atlassian Bitbucket Status
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-http://principlesofchaos.org/ | Principles of Chaos Engineering
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://about.gitlab.com/handbook/ | Team Handbook | GitLab
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
 https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Businesses
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
@@ -249,6 +224,8 @@ Stars
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
+
+
 ## Interesting Ideas
 
 Wikipedia
@@ -257,7 +234,6 @@ Wikipedia
 Best Books
 * [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
 * [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
-
 
 * [Charlie Rose](http://www.charlierose.com)
 * [This American Life](http://www.thisamericanlife.org)
@@ -406,6 +382,7 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 
+
 Batching
 https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
 https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
@@ -433,6 +410,8 @@ https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.
 
 Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
 * [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
+
+
 
 <!--
 https://personalmba.com/second-order-effects/ | Second-Order Effects - The Personal MBA
@@ -476,19 +455,13 @@ A16Z Metrics
 hobbies, habits
 -->
 
+
+
 ## Project Management
 
 Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
-
-<!--
-Agile and Lean
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
--->
 
 ## People and Projects
 
@@ -531,12 +504,13 @@ Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 
 Makers
 * [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
-* [Glitch Websites](https://glitch.com/websites)
 * [IFTTT Maker](https://platform.ifttt.com/maker)
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
 
 <!--
+https://glitch.com/art
+https://glitch.com/slack | Slack
+
 http://thenewstack.io
 
 https://websitedownloader.io/wayback-machine-downloader
@@ -547,9 +521,6 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 Workflow Automation
 * [Zapier](https://zapier.com)
 * [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
-
-https://glitch.com/art
-https://glitch.com/slack | Slack
 
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
@@ -595,8 +566,6 @@ Linux and Darwin Code
 * [Linux Kernel GitHub](https://github.com/torvalds/linux)
 * [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
 
-
-
 Containers- Kubernetes
 * [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
 
@@ -611,7 +580,6 @@ Terraform
 
 Jekyll
 * [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
@@ -620,6 +588,7 @@ Markdown
 
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
 
 
 <!--
@@ -806,6 +775,7 @@ Maintenance
 
 
 
+
 ## Developer and Team Success
 
 JavaScript Scene
@@ -856,7 +826,7 @@ https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Inve
 -->
 
 Khan Academy
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science), and [Khan Academy GitHub](https://github.com/Khan)
+* [Khan Academy GitHub](https://github.com/Khan)
 
 <!--
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
@@ -943,20 +913,7 @@ http://www.wolframalpha.com/calculators
 
 ## Books
 
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [No Starch Press](https://www.nostarch.com)
-* [Humble Bundle](https://www.humblebundle.com)
-* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
 
-<!--
-https://pragprog.com/ | The Pragmatic Bookshelf
-
-* [O'Reilly Media](https://github.com/oreillymedia)
-* [Packt Publishing](https://github.com/PacktPublishing)
--->
 
 ## Standards and Documentation
 
@@ -2100,33 +2057,6 @@ https://github.com/serverless/examples | serverless/examples: Serverless Example
 https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
 http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
 https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-
-
-* Microservices
-  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
-    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
-    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
-    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
-    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
-    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
-    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
-  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
-  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-  * API Gateway
-    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
-    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
-    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
-  * Serverless
-    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
-    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
-    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
-      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
-    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
-      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
-      
-* [IronFunctions](https://github.com/iron-io/functions)
     
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
@@ -2158,6 +2088,32 @@ https://github.com/MitocGroup/deep-microservices-todomvc
 
 
 <!--
+* Microservices
+  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
+    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
+    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
+    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
+  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
+  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
+  * API Gateway
+    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
+    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
+    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
+  * Serverless
+    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
+    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
+    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
+      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
+    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
+      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+      
+* [IronFunctions](https://github.com/iron-io/functions)
+
     * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
   * Static
     * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
@@ -2182,13 +2138,6 @@ https://github.com/MitocGroup/deep-microservices-todomvc
 -->
 
 
-
-
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
 
 
 ## Some Favorite Awesome
@@ -2269,18 +2218,6 @@ https://us.pycon.org/2011/schedule
 -->
 
 ## Events, Videos, Experts
-
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
-* [PaperCall](https://www.papercall.io)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
 https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
@@ -2369,12 +2306,6 @@ https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-MOOCs
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
 -->
 
 <!--
@@ -2400,8 +2331,7 @@ http://news.codecademy.com/why-learn-python | Why I'm Learning Python in 2018
 * [Reddit Learn Programming](https://www.reddit.com/r/learnprogramming)
 -->
 
-Pluralsight and DataCamp
-* [Pluralsight Guides](https://www.pluralsight.com/guides)
+
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
 
 
@@ -2545,11 +2475,6 @@ https://learnpythonthehardway.org/book/ex1.html
 https://learnpythonthehardway.org/book/appendixa.html
 -->
 
-Python Tutors- YouTube
-* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
-* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
-* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
-* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
 https://twitter.com/aaronchall/status/961250524753551360 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "High level #python #tutorial thread: Python is a high level language that runs bytecode in its virtual machine. Everything is an object. It supports OOP up to multiple inheritance and functional programming. Typing is polymorphic - duck typing is preferred https://t.co/fhNtFWU5zy"
@@ -2678,37 +2603,31 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
 
 
+
 ## Python Packaging
 
-Python- Packages/Libraries
-* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
-* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+Package Helpers
+* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+Python- Additional Packaging Tutorials
+* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
+
+Python- Cookiecutter Creating Packages
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
 https://docs.python.org/3/library/distribution.html
 -->
 
-Python- Official Packaging Info
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
-
 <!--
 https://github.com/pypa/python-packaging-user-guide | pypa/python-packaging-user-guide: Python Packaging User Guide
 https://github.com/pypa/python-packaging-user-guide/issues
 -->
-
-Package Helpers
-* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
-
-Package Stats
-* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
 
 <!--
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
@@ -2725,11 +2644,6 @@ https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to 
 https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
 https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
 
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
 https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
 https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
 
@@ -2740,13 +2654,6 @@ https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
 https://pip.pypa.io/en/stable/reference/pip_wheel
 -->
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
 https://semver.org/ | Semantic Versioning 2.0.0 | Semantic Versioning
@@ -2761,11 +2668,6 @@ https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python
 https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
 https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
 -->
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
 
 
 
@@ -2834,6 +2736,8 @@ https://hellowebbooks.com/news/fulfillment-updates/ | Shipping and Fulfillment f
 
 https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
 -->
+
+
 
 
 <!--
@@ -2941,6 +2845,7 @@ https://www.thoughtworks.com/
 https://robots.thoughtbot.com/running-acceptance-with-review-apps
 -->
 
+
 ## DevOps
 
 <!--
@@ -2957,6 +2862,18 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 ## X Driven Development
 
 <!--
+Engineering Manager
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+http://principlesofchaos.org/ | Principles of Chaos Engineering
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
+
 https://opensource.google.com/docs/releasing
 
 https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
@@ -2967,6 +2884,7 @@ https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architect
 https://en.wikipedia.org/wiki/Progressive_enhancement
 https://en.wikipedia.org/wiki/Service-oriented_architecture
 
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
 https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
@@ -2975,6 +2893,8 @@ https://www.atlassian.com/agile/code-reviews
 
 * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
+https://about.gitlab.com/handbook/ | Team Handbook | GitLab
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://docs.gitlab.com/ee/workflow/
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
@@ -3049,13 +2969,6 @@ https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 
 * [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
 
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-http://principlesofchaos.org
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
-
 Trello
 https://upcase.com/design-for-developers-resources/principles
 
@@ -3078,6 +2991,53 @@ https://cloud.google.com
 http://googleappengine.blogspot.com
 https://cloudplatform.googleblog.com
 -->
+
+
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
+
+<!--
+Agile and Lean
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+-->
+
+## Git and Workflow
+
+<!--
+See Git Workflow, DevOps, Dotfiles, Code Review
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
+
+https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
+https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
+
+https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
+
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
+https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+-->
+
 
 
 
@@ -3103,21 +3063,12 @@ SOLID
 
 <!--
 https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
-
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0201485672&pd_rd_r=KM7RGJ1Q9GC6GMT9QRYA&pd_rd_w=nyiQ5&pd_rd_wg=45X2v&psc=1&refRID=KM7RGJ1Q9GC6GMT9QRYA | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
-
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
-
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 -->
+
 
 ## Object-Oriented Design Patterns
 
-
 <!--
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-
 classification creational structural behavioral patterns - Google Search
 
 https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
@@ -3130,6 +3081,8 @@ observer pattern uml - Google Search
 https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
 https://en.wikipedia.org/wiki/Flyweight_pattern
 -->
+
+
 
 ## Object-Oriented Design Patterns- Python
 
@@ -3213,37 +3166,6 @@ Comparison of type systems
 
 ## Website Project Management
 
-
-<!--
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
-https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
-https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
-
-https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
-https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
-
-https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
-
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
-https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
--->
-
-
 ## UML
 
 <!--
@@ -3284,101 +3206,6 @@ django uml - Google Search
 
 ## Algorithms and Data Structures
 
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
-
-
-<!--
-https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://en.wikipedia.org/wiki/Abstract_data_type
-
-https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
-https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
-Contiguous Data Structures
-
-https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-
-https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
--->
-
-
-<!--
-Python Data Structures
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
-
-https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
-
-Mathematics of Deep Learning
-https://arxiv.org/pdf/1712.04741.pdf | 1712.04741.pdf
-https://arxiv.org/pdf/1603.07285.pdf | 1603.07285.pdf
-
-http://bigocheatsheet.com/#poster
-
-https://docs.python.org/3/tutorial/datastructures.html
-https://en.wikipedia.org/wiki/Data_structure
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-
-https://en.wikipedia.org/wiki/Numerical_linear_algebra
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-
-SQL
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-Calculus and Derivatives
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
-
-http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning | Linear Algebra for Deep Learning - Deep Learning Course Wiki
-http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning | Calculus for Deep Learning - Deep Learning Course Wiki
-
-Jeremy Howard- Matrix Calculus
-https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
-http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
-
-https://en.wikipedia.org/wiki/Vector_calculus
-https://en.wikipedia.org/wiki/Multivariable_calculus
-https://en.wikipedia.org/wiki/Differential_calculus
-
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
-https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
-https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
-https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
-https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
-
-https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617 | Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 9780898713619: Amazon.com: Books
-https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229 | Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms: Anne Greenbaum, Timothy P. Chartier: 9780691151229: Amazon.com: Books
-
-https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
-https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
-
-Python
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
---->
-
-
 <!--
 https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
 
@@ -3386,32 +3213,11 @@ https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
 https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
 
-Python Cheat Sheets
-
-https://www.datacamp.com/community/data-science-cheatsheets
-http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
-http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
-https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
-
-http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
-https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
-
-https://github.com/RubensZimbres/Repo-2018
-https://github.com/RubensZimbres/Repo-2017
-https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.16.OK.pdf
-https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.15.OK.pdf
-https://github.com/RubensZimbres/Repo-2016
-
-https://github.com/soulmachine/machine-learning-cheat-sheet
-
 Python for Big Data
 https://www.xmind.net/m/WvfC
 
 Mathworks- Machine Learning Summarized in One Picture
 https://www.mathworks.com/help/stats/machine-learning-in-matlab.html
-
-http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
-
 
 https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
 https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
@@ -3433,11 +3239,6 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 
 
 <!--
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
-
-
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
@@ -3509,72 +3310,21 @@ https://en.wikipedia.org/wiki/Selection_algorithm
 https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
+-->
 
+<!--
+https://en.wikipedia.org/wiki/Persistent_data_structure
 
-https://en.wikipedia.org/wiki/Dot_product
-https://en.wikipedia.org/wiki/Cross_product
+https://en.wikipedia.org/wiki/Abstract_data_type
 
-Fast AI Computational Linear Algebra
+https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
+https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
+Contiguous Data Structures
 
-https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
-https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
-
-Recommended by Rachel Thomas?
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
-https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
-
-https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
-
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
-https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
-
-
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
-https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
-
-https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
-https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
-
-Derivatives
-https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
-https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
-
-Derivatives
-http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
-
-https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
-https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
-https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
-https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
-https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
-https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
-https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
-https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
-https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
-
-Derivatives
-http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
-http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
-
-http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
-http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
-http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
-http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
-http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
-http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
-http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
-http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
+https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
 -->
 
 
@@ -3583,6 +3333,10 @@ http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram
 
 
 <!--
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
+
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
@@ -3646,34 +3400,7 @@ https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
-
-
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/stacygohyunsi/algorithms-primer
-
-
-http://blog.interviewing.io
-https://github.com/yangshun/tech-interview-handbook
-https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
-
-https://cs.stackexchange.com
-http://statweb.stanford.edu
-http://cslibrary.stanford.edu
-https://engineering.stanford.edu
-http://web.mit.edu
 -->
-
-
 
 
 ## Data Science
@@ -3820,34 +3547,49 @@ https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optim
 -->
 
 
-Data Science- Forums
-* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
-* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
-* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
-* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
-* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
-* [Stack Exchange AI](https://ai.stackexchange.com)
-* [Stack Exchange Data Science](https://datascience.stackexchange.com)
-* [Quora Data Science Algorithms](https://algorithmsdatascience.quora.com)
+<!--
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms/a/get-started-with-algorithms | Get started with Algorithms! (article) | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/stacygohyunsi/algorithms-primer
+
+
+http://blog.interviewing.io
+https://github.com/yangshun/tech-interview-handbook
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions | arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
+https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-interview-handbook: 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+
+https://cs.stackexchange.com
+http://statweb.stanford.edu
+http://cslibrary.stanford.edu
+https://engineering.stanford.edu
+http://web.mit.edu
+-->
+
+
 
 <!--
-Hardmaru
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
-https://aaroncourville.wordpress.com/ | Aaron Courville
-https://www.analyticsvidhya.com/blog
-https://github.com/adeshpande3
-https://adeshpande3.github.io
-https://jamesmccaffrey.wordpress.com
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
 
-https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
+https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
 
-https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
-https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
-https://github.com/collections/machine-learning | Collection: Getting started with machine learning
-
-https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
-https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
-https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
+https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
+https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
+https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
+https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
 -->
 
 
@@ -3920,57 +3662,30 @@ http://forums.fast.ai/t/lesson-8-discussion/1522
 
 
 
+
+
+
 <!--
-https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
+Hardmaru
 
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
+https://aaroncourville.wordpress.com/ | Aaron Courville
+https://www.analyticsvidhya.com/blog
+https://github.com/adeshpande3
+https://adeshpande3.github.io
+https://jamesmccaffrey.wordpress.com
 
-https://www.coursera.org/learn/machine-learning | Machine Learning | Coursera
+https://medium.com/machine-learning-for-humans | Machine Learning for Humans – Medium
 
-https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions | Activation functions - deeplearning.ai | Coursera
+https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
 
-https://www.coursera.org/learn/deep-neural-network/home/welcome
-https://www.coursera.org/learn/machine-learning-projects/home/welcome
-https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
-https://www.coursera.org/learn/nlp-sequence-models
-Geoffrey Hinton
-https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
+https://www.kdnuggets.com/2018/03/top-tweets-mar21-27.html | Top KDnuggets tweets, Mar 21-27: 30 Essential #DataScience, #MachineLearning & #DeepLearning Cheat Sheets
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4 | Machine Learning Top 10 Articles for the Past Month (v.Feb 2018)
+https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-feb-2018-ec438bd93c49 | Python Top 10 Articles for the Past Month (v.Feb 2018)
 -->
 
-
-* [DataCamp GitHub](https://github.com/datacamp)
-* [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
-
-
 <!--
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-
-https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://www.datacamp.com/community/data-science-cheatsheets | Cheat Sheets
-
-https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
-https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
-https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
-https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
-https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
--->
-
-
-
-<!--
-Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
-
-http://cs231n.stanford.edu/reports
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-
-http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
-https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy on Twitter: "Gradient checking neural nets is hard, with many amusing subtleties. Updated my cs231n section on it; Now quite long http://t.co/JlEv0QB9FO"
-
 Data Science Groups
 https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
 https://web.stanford.edu/class/cs106s/ | CS106S
@@ -4005,107 +3720,18 @@ https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d
 -->
 
 
-Coding Guides and Workshops
-* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
-* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
-
-<!--
-* [Smithsonian Workshops Coding in Python](https://github.com/SmithsonianWorkshops/CodingInPython)
-
-https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
-
-https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
-https://github.com/georgetown-analytics/machine-learning | georgetown-analytics/machine-learning: Code & Data for Introduction to Machine Learning with Scikit-Learn
-https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning | georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning: Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
--->
-
-
-
-<!--
-https://github.com/joelgrus/data-science-from-scratch | joelgrus/data-science-from-scratch: code for Data Science From Scratch book
-https://github.com/jackiekazil/data-wrangling | jackiekazil/data-wrangling
--->
-
-<!--
-https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
-
-http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
-http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
-
-http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
--->
-
-
-<!--
-https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
-
-
-https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
-
-http://shop.oreilly.com/product/0636920030515.do | Introduction to Machine Learning with Python - O'Reilly Media
-
-https://github.com/rasbt/python-machine-learning-book | rasbt/python-machine-learning-book: The "Python Machine Learning (1st edition)" book code repository and info resource
-
-https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
-https://github.com/nfmcclure/tensorflow_cookbook
-
-https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
-
-https://github.com/fchollet/deep-learning-with-python-notebooks.
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow
-https://github.com/ageron/handson-ml
-https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
-http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
-
-https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
-https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
--->
-
-
-
-<!--
-https://www.tensorflow.org/api_docs/
-
-https://github.com/tensorflow/models/tree/master/official
-https://github.com/tensorflow/models/tree/master/research
-
-https://github.com/tensorflow/tpu/blob/master/README.md
-https://github.com/tensorflow/tpu/tree/master/models/official | tpu/models/official at master · tensorflow/tpu
-
-https://github.com/tensorflow/model-analysis | tensorflow/model-analysis: Model analysis tools for TensorFlow
-
-https://github.com/pytorch/vision | pytorch/vision: Datasets, Transforms and Models specific to Computer Vision
-https://github.com/pytorch/vision/tree/master/torchvision/models | vision/torchvision/models at master · pytorch/vision
-http://pytorch.org/docs/master/torchvision/models.html | torchvision.models — PyTorch master documentation
-http://pytorch.org/docs/0.1.12/torchvision/models.html | torchvision.models — PyTorch 0.1.12_2 documentation
-
-https://www.tensorflow.org/tutorials/deep_cnn
-
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
-https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
--->
 
 <!--
 Python- Statistics Stack- Scikit-Learn Reference
 * [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
 * [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)  
 * [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+
+ 
+http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
+
 * [Scikit-Learn Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)  
 * [Scikit-Learn Clustering](http://scikit-learn.org/stable/modules/clustering.html)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/scikit-learn.git)  
-* [Scikit-Learn Issam Laradji Neural Networks (See Machine Learning with Scikit-Learn)](https://github.com/IssamLaradji/NeuralNetworks)  
-
-Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image)  
-* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples)  
-
-https://github.com/scikit-image/scikit-image | scikit-image/scikit-image: Image Processing SciKit (Toolbox for SciPy)
-
-http://scikit-learn.org/stable/ | scikit-learn: machine learning in Python — scikit-learn 0.19.1 documentation
 -->
 
 
@@ -4125,9 +3751,6 @@ http://nbviewer.jupyter.org/ | Jupyter Notebook Viewer
 https://ipython.org/notebook.html
 -->
 
-Python- Statistics Stack- iPython
-* [iPython](http://ipython.org) , [iPython GitHub](https://github.com/ipython/ipython), and [iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)  
-
 Python- Statistics Stack- iPython Reference
 * [iPython Docs Contents](http://ipython.org/ipython-doc/2/index.html)  
 * [iPython Docs](http://ipython.org/ipython-doc/stable/index.html)  
@@ -4135,6 +3758,8 @@ Python- Statistics Stack- iPython Reference
 * [iPython- A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#pandas-for-data-analysis) 
 
 <!--
+[iPython Wikipedia](http://en.wikipedia.org/wiki/IPython)
+
 http://ipython.org/videos.html 
 http://ipython.org/documentation.html 
 http://ipython.org/ipython-doc/2/notebook/notebook.html#introduction Starting the Notebook Server http://damontallen.github.io/IPython-quick-ref-sheets  
@@ -4150,16 +3775,6 @@ Python- Statistics Stack- Documents and Galleries
 * [SciPy/NumPy Docs List](http://docs.scipy.org/doc)  
 * [SciPy/NumPy Cookbook](http://wiki.scipy.org/Cookbook) 
 * [An Introduction to NumPy and SciPy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)  
-
-Python- Statistics Stack- NumPy 
-* [NumPy](http://www.numpy.org), [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy), and [NumPy GitHub](https://github.com/numpy/numpy)  
-* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference)  
-* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
-
-<!--
-numpy built in functions
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
--->
 
 Python- Statistics Stack- SciPy 
 * [SciPy](http://www.scipy.org), [SciPy Wikipedia](http://en.wikipedia.org/wiki/SciPy), and [SciPy GitHub](https://github.com/scipy/scipy)  
@@ -4200,8 +3815,6 @@ http://matplotlib.org/faq/index.html
 
 
 <!--
-https://services.google.com/fb/forms/cloud-tpu-beta-request/
-
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 
@@ -4228,6 +3841,26 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 
 <!--
+Stanford: Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)
+
+http://cs231n.stanford.edu/reports
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+
+http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
+https://twitter.com/karpathy/status/654459786059083776?lang=en | Andrej Karpathy on Twitter: "Gradient checking neural nets is hard, with many amusing subtleties. Updated my cs231n section on it; Now quite long http://t.co/JlEv0QB9FO"
+-->
+
+<!--
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 | TensorFlow For Poets
+https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
+-->
+
+<!--
+numpy built in functions
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
+
+https://www.tensorflow.org/tutorials/deep_cnn
+
 https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html | TensorFlow.js
 
 https://www.tensorflow.org/api_docs/python/tf/data | Module: tf.data  |  TensorFlow
@@ -4274,6 +3907,71 @@ http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.check_grad.html | scipy.optimize.check_grad — SciPy v1.0.0 Reference Guide
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html | numpy.random.normal — NumPy v1.13 Manual
 https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.linalg.norm.html | numpy.linalg.norm — NumPy v1.12 Manual
+
+https://en.wikipedia.org/wiki/Dot_product
+https://en.wikipedia.org/wiki/Cross_product
+
+Fast AI Computational Linear Algebra
+
+https://nickhigham.wordpress.com/2016/03/29/the-top-10-algorithms-in-applied-mathematics/ | The Top 10 Algorithms in Applied Mathematics | Nick Higham
+
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?disable_polymer=1 | 3Blue1Brown - YouTube
+https://www.youtube.com/watch?v=k7RM-ot2NWY&index=3&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2 - YouTube
+
+Recommended by Rachel Thomas?
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | Essence of linear algebra - YouTube - YouTube
+
+https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery
+https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/ | A Gentle Introduction to Vectors for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-matrices-machine-learning/ | Introduction to Matrices and Matrix Arithmetic for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/ | A Gentle Introduction to Matrix Factorization for Machine Learning - Machine Learning Mastery
+
+
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc | Taking derivatives | Calculus (all content, first year) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
+
+https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd | Standard deviation of residuals or Root-mean-square error (RMSD) (video) | Khan Academy
+https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line | Squared error of regression line (video) | Khan Academy
+
+Derivatives
+https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
+https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
+
+Derivatives
+http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
+
+https://www.mathworks.com/help/nnet/ref/traingdm.html | Gradient descent with momentum backpropagation - MATLAB traingdm
+https://www.mathworks.com/help/optim/ug/checking-validity-of-gradients-or-jacobians.html | Checking Validity of Gradients or Jacobians - MATLAB & Simulink
+https://www.mathworks.com/help/gads/what-is-global-optimization.html | What Is Global Optimization? - MATLAB & Simulink
+https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html | Local vs. Global Optima - MATLAB & Simulink
+https://www.mathworks.com/matlabcentral/fileexchange/61616-adam-stochastic-gradient-descent-optimization | Adam stochastic gradient descent optimization - File Exchange - MATLAB Central
+https://www.mathworks.com/help/nnet/ref/traingda.html | Gradient descent with adaptive learning rate backpropagation - MATLAB traingda
+https://www.mathworks.com/help/matlab/ref/norm.html | Vector and matrix norms - MATLAB norm
+https://www.mathworks.com/help/nnet/ref/nnet.cnn.layer.layer.getl2factor.html?requestedDomain=true | Get L2 regularization factor of layer learnable parameter - MATLAB getL2Factor
+https://www.mathworks.com/help/symbolic/mupad_ug/univariate-linear-regression.html | Univariate Linear Regression - MuPAD
+
+Derivatives
+http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
+http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
+
+http://mathworld.wolfram.com/L2-Norm.html | L^2-Norm -- from Wolfram MathWorld
+http://m.wolframalpha.com/input/?i=chain+rule | chain rule - Wolfram|Alpha Results
+http://community.wolfram.com/groups/-/m/t/1045915 | Find global and local optima of a function? - Online Technical Discussion Groups—Wolfram Community
+http://mathworld.wolfram.com/NormalDistribution.html | Normal Distribution -- from Wolfram MathWorld
+http://mathworld.wolfram.com/Gram-SchmidtOrthonormalization.html | Gram-Schmidt Orthonormalization -- from Wolfram MathWorld
+http://mathworld.wolfram.com/ExponentiallyWeightedMovingAverage.html | Exponentially Weighted Moving Average -- from Wolfram MathWorld
+http://mathworld.wolfram.com/FrobeniusNorm.html | Frobenius Norm -- from Wolfram MathWorld
+http://mathworld.wolfram.com/EuclideanNorm.html | Euclidean Norm -- from Wolfram MathWorld
 -->
 
 <!--
@@ -4467,6 +4165,31 @@ http://www.informit.com/articles/article.aspx?p=1849069 | A Python Reading List 
 
 
 
+Coding Guides and Workshops
+* [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
+* [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
+
+<!--
+* [Smithsonian Workshops Coding in Python](https://github.com/SmithsonianWorkshops/CodingInPython)
+
+https://github.com/SmithsonianWorkshops/CodingInPython/blob/master/Week%200/Installing%20miniconda%20on%20Mac.md | CodingInPython/Installing miniconda on Mac.md at master · SmithsonianWorkshops/CodingInPython
+
+https://github.com/georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data | georgetown-analytics/XBUS-501-01.Software-Engineering-for-Data: Materials for Georgetown Data Science certificate.
+https://github.com/georgetown-analytics/machine-learning | georgetown-analytics/machine-learning: Code & Data for Introduction to Machine Learning with Scikit-Learn
+https://github.com/georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning | georgetown-analytics/XBUS-505-01.Data_Analysis_II_Machine_Learning: Materials for Georgetown Data Science certificate. http://scs.georgetown.edu/courses/1069/data-sources
+-->
+
+
+Data Science- Forums
+* [Reddit Deep Learning](https://www.reddit.com/r/deeplearning) 
+* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
+* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
+* [Stack Exchange AI](https://ai.stackexchange.com)
+* [Stack Exchange Data Science](https://datascience.stackexchange.com)
+* [Quora Data Science Algorithms](https://algorithmsdatascience.quora.com)
+
 <!--
 https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
 
@@ -4494,7 +4217,8 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 -->
 
 <!--
-* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn), 
+* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn)
+* [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)
 * [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
 * [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
 -->
@@ -4508,6 +4232,10 @@ https://conda.io/docs/user-guide/getting-started.html | Getting started with con
 https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
 https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
 https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — Conda documentation
+-->
+
+<!--
+* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
 -->
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
