@@ -751,14 +751,15 @@ Forums
 * [Free Code Camp Forum](http://forum.freecodecamp.com)
 * [Treehouse Community](https://teamtreehouse.com/community)
 
+CodePen
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+
 <!--
 More forums or GitHub?
 
 http://treehouse.github.io/installation-guides
 -->
-
-CodePen
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 Reddit
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
@@ -916,6 +917,8 @@ https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams
 <!--
 https://www.twitchtools.com/followers | Followers - TwitchTools
 -->
+
+Kent Dodds
 
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
@@ -1570,8 +1573,53 @@ https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Cou
 -->
 
 
-## Digital Agencies and Code Philosophies
+## DevOps
 
+<!--
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+## Release Management
+
+## X Driven Development
+
+<!--
+https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
+https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
+
+https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
+https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
+
+https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
+https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
+
+
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
+https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+-->
+
+
+## Digital Agencies and Code Philosophies
 
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
@@ -1595,27 +1643,23 @@ https://www.thoughtworks.com/
 https://robots.thoughtbot.com/running-acceptance-with-review-apps
 -->
 
-
-## DevOps
-
-<!--
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
--->
-
-## Release Management
-
-## X Driven Development
-
 <!--
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+New
+https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
+https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
+
+https://landing.google.com/sre/ | Google - Site Reliability Engineering
+https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliability Engineering
+https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://opensource.google.com/docs/releasing
+https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
 
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 http://principlesofchaos.org/ | Principles of Chaos Engineering
@@ -1623,10 +1667,6 @@ http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
-
-https://opensource.google.com/docs/releasing
-
-https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
 
 https://en.wikipedia.org/wiki/Test-driven_development
 https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
@@ -1655,14 +1695,7 @@ https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 
 
 * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
   
-New
-https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
-https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
 
-https://landing.google.com/sre/ | Google - Site Reliability Engineering
-https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliability Engineering
-https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
@@ -1759,69 +1792,6 @@ http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 See Git Workflow, DevOps, Dotfiles, Code Review
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
-https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
-https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
-
-https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
-https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
-
-https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
-
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
-https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
--->
-
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-
-
-
-
-SOLID
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-<!--
-https://en.wikipedia.org/wiki/OOPSLA | OOPSLA - Wikipedia
--->
-
-## Object-Oriented Design Patterns
-
-<!--
-classification creational structural behavioral patterns - Google Search
-
-https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/Observer_pattern
-https://en.wikipedia.org/wiki/Observer_pattern#UML_class_and_sequence_diagram | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-uml strategy pattern - Google Search
-observer pattern uml - Google Search
-https://en.wikipedia.org/wiki/Factory_(object-oriented_programming) | Factory (object-oriented programming) - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern
--->
-
-
 
 ## Object-Oriented Design Patterns- Python
 
@@ -1869,39 +1839,7 @@ Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
-General
-* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-* [Software Development](https://en.wikipedia.org/wiki/Software_development)
-
-https://en.wikipedia.org/wiki/Computer_architecture
-https://en.wikipedia.org/wiki/Computer_science
-https://en.wikipedia.org/wiki/Software_engineering
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages | Timeline of programming languages - Wikipedia
 -->
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
--->
-
-
 
 ## Website Project Management
 
