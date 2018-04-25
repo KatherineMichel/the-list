@@ -55,8 +55,6 @@ DNS, SSL, Wildcard
 * [Servers and Databases](#servers-and-databases)
 
 
-
- 
 https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
 
 See Events
@@ -98,12 +96,10 @@ Git and Markdown
 Open Source, Open Source Documentation
 
 
-
 https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
 https://medium.freecodecamp.org/the-engineers-guide-to-not-making-your-app-look-awful-8b178b670e27 | The engineer’s guide to not making your app look awful
 
 https://medium.freecodecamp.org/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b | How we got our 2-year-old repo trending on GitHub in just 48 hours
-
 
 
 Getting Started: Building a Chrome Extension
@@ -111,22 +107,8 @@ https://developer.chrome.com/extensions/getstarted
 
 https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
 
- 		 			
 https://app.pluralsight.com/library/browse | Browse | Pluralsight
-
-https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
-https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
-https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
-https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
-https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
-https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
-
-https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
-
-https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
-https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight
-
-
+					
 https://www.udemy.com/js-and-react-for-devs
 
 https://www.codecademy.com/courses/learn-the-command-line				
@@ -142,8 +124,6 @@ https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Busi
 http://distributionhacks.com/post-startup-launch-checklist | Post Launch Checklist: 10 Tasks You Should Complete
 https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from Reality | Edelman Digital
 -->
-
-
 
 
 ## Look At Daily or Monthly
@@ -366,26 +346,15 @@ hobbies, habits
 -->
 
 
-
-## Project Management
-
-Prototyping Software- Keynotopia
-* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
-
-## Engineering Blogs, Stack, Building Tools
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-
 <!--
 http://thenewstack.io
 
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
+
+Prototyping Software- Keynotopia
+* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
+* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 
 https://websitedownloader.io/wayback-machine-downloader
 https://websitedownloader.io
@@ -393,13 +362,8 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+
 ## Software Tools
-
-https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
-
-Linux and Darwin Code
-* [Linux Kernel GitHub](https://github.com/torvalds/linux)
-* [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
 
 Containers- Kubernetes
 * [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
@@ -409,14 +373,11 @@ Containers- Docker
 * [Docker Hub](https://hub.docker.com)
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
-Terraform
-* [Terraform](https://www.terraform.io)
-* [Terraform Module Registry](https://registry.terraform.io)
-
 Jekyll
 * [Jekyll Templates](https://jekyllrb.com/docs/templates)
 * [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
 
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
@@ -433,69 +394,64 @@ Microsoft- JavaScript
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 
-https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
-
 * ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
 
-
-https://mobyproject.org/#moby-and-docker
-
-https://github.com/docker/cli
-https://github.com/docker/infrakit
-https://github.com/moby/moby
-
-https://github.com/linuxkit/linuxkit
-
-https://github.com/Docker/labs
-
-* [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
-* [Docker Run Reference](https://docs.docker.com/engine/reference/run)
-* [Docker Compose](https://docs.docker.com/compose/overview)
-
-Container Clusters
-* [Compose File Reference](https://docs.docker.com/compose/compose-file/)
-* [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
-	
 Kubernetes
 * [Kel](http://www.kelproject.com)
 
-* [Play with docker classroom](http://training.play-with-docker.com/)
-	  	  	
-Docker Images
-* [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
-* [docker-lambda](https://github.com/lambci/docker-lambda)
-
-Bitnami Stacksmith
-* [Bitnami Stacksmith](https://stacksmith.bitnami.com)
-
 Heroku- Docker
 * [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container registry public beta - deploy Docker images to Heroku](https://devcenter.heroku.com/changelog-items/926)
 * [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
 
 GitLab- Docker
 * [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
 
-https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
+Bitnami Stacksmith
+* [Bitnami Stacksmith](https://stacksmith.bitnami.com)
 
-https://hub.docker.com/r/heroku/cedar
+https://github.com/kelseyhightower
 
-https://github.com/revsys/jslog4kube
-https://github.com/kubernetes/minikube
-https://github.com/kubernetes/kops
-https://github.com/kubernetes/helm
+https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
+-->
 
-https://heptio.com/ | Heptio | Unleash the Power of Kubernetes
-https://github.com/heptio/aws-quickstart | heptio/aws-quickstart: AWS Kubernetes cluster via CloudFormation and kubeadm
-        
-https://github.com/GoogleCloudPlatform/kubernetes-workshops
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
-http://kubernetes.io/docs/getting-started-guides/aws
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
-https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
-https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
+<!--
+https://medium.com/@preethikasireddy
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
 
-https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
+https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
+-->
+
+<!--
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+Status Code Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 -->
 
 
@@ -521,8 +477,7 @@ OS X Terminal
 
 http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
 					  		  
-* [Apple Open Source](https://developer.apple.com/opensource)		
-  		  
+		  		  
 Apple- Dash
 * [Dash for MacOS](https://kapeli.com/dash)
 
@@ -534,14 +489,6 @@ https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
 https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
 
 ## Python- Code Editors and Docs
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
 
 https://code.visualstudio.com/docs/editor/intellisense
 https://code.visualstudio.com/docs/introvideos/intellisense
@@ -576,27 +523,13 @@ Keyboard Shortcuts
 #### Command Line and Shell
 Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
 
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-
 https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 
-https://en.wikipedia.org/wiki/Manifest_file | Manifest file - Wikipedia
-
 https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
+
 http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
 -->
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-
 
 
 ## Developer and Team Success
@@ -621,23 +554,6 @@ https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-d
 
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7 | Are Programmer Brains Different? – JavaScript Scene – Medium
--->
-
-## Tech Learning Resources
-
-<!--
-https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
-
-http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-
-http://exercism.io
--->
-
-<!--
-https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
-
-https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
@@ -665,48 +581,53 @@ https://github.com/FreeCodeCamp/design-style-guide
 
 <!--
 More forums or GitHub?
-
-http://treehouse.github.io/installation-guides
 -->
 
-Reddit
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-OpenStack
-* [OpenStack Community](https://www.openstack.org/community)
-
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Insights](https://stackoverflow.com/insights)
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-<!--
-Upvotes
-https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
--->
 
 ## Standards and Documentation
+
+
+https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
+
+Linux and Darwin Code
+* [Linux Kernel GitHub](https://github.com/torvalds/linux)
+* [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
 
 Arm, Intel, Linux Kernel
 * [Arm](https://developer.arm.com)
 * [Intel](https://newsroom.intel.com)
 * [Linux Kernel Mailing List](https://lkml.org)
 
+
 Apple
 * [Apple Support](https://support.apple.com)
 
+
 <!--
+https://cloud.google.com/source-repositories/pricing
+https://medium.com/aws-activate-startup-blog
+https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
+
 https://www.chromium.org
 https://googleprojectzero.blogspot.com
 https://research.google.com
+https://medium.com/google-cloud
+https://cloud.google.com
+http://googleappengine.blogspot.com
+https://cloudplatform.googleblog.com
 
 https://azure.microsoft.com/en-us/blog
 https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examples | Microsoft Docs
 https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
 -->
 
+
+Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Support](https://support.mozilla.org)
 
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
@@ -721,22 +642,21 @@ Standards
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
 Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
-
-Mozilla
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-* [Mozilla Support](https://support.mozilla.org)
 
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+* [Apple Open Source](https://developer.apple.com/opensource)
+
 
 #### Browsers, Layout Engines, Developer Tools
 
@@ -788,7 +708,6 @@ https://developers.google.com/cast/docs/developers
 Google Developers- Google Chrome Tools
 * [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 -->
-
 
 
 <!--
@@ -894,124 +813,6 @@ https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The la
 -->
 
 
-
-## History of Technology and Computer Science
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
--->
-
-## Computers- General
-
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-
-CPU and Instruction Set
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Machine Code and Assembly Language
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-<!--
-https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
--->
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-Status Code Definitions
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
-
-
-
-
 ## InfoSec
 
 <!--
@@ -1067,8 +868,6 @@ https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection
 https://en.wikipedia.org/wiki/Red_team
 -->
 
-## Hosting News
-
 Tools
 * [AWS Marketplace](https://aws.amazon.com/marketplace) 
 
@@ -1078,20 +877,12 @@ Heroku and GitHub Marketplaces
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
-## Hosting Events
-
 <!--
 http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
--->
 
-<!--
-Google Cloud Blog
--->
+https://github.com/features
 
-<!--
 https://aws.amazon.com/events/aws-innovate
 -->
 
@@ -1191,8 +982,6 @@ http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
 https://aws.amazon.com/architecture
 -->
 
-
-
 #### Heroku
 
 Heroku- General
@@ -1223,11 +1012,11 @@ https://github.com/heroku/heroku-apps
 
 https://devcenter.heroku.com/articles/how-heroku-works
 
+
 https://blog.heroku.com/deploying-react-with-zero-configuration
 
 https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 -->
-
 
 #### Google Cloud
 
@@ -1261,8 +1050,6 @@ https://cloud.google.com/source-repositories/docs
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
-
-
 
 #### Deployment and Git Integration
 
@@ -1334,10 +1121,7 @@ http://microservices.io
 ## Django Learning Resources
 
 <!--
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
-
+Classy
 http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
 https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
 Classy Django REST Framework
@@ -1348,11 +1132,8 @@ http://cdrf.co
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 -->
 
-
 Forums
 * [Reddit Django](https://www.reddit.com/r/django)
-
-
 
 Python- Django- Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
@@ -1389,9 +1170,6 @@ https://hellowebbooks.com/learn-django/ | Learn how to build your first web app 
 https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
 -->
 
-
-## DevOps
-
 <!--
 https://devopsbootcamp.osuosl.org/daycamp.html
 http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
@@ -1401,7 +1179,10 @@ http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
-## Release Management
+<!--
+## Website Project Management
+See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
+-->
 
 ## Digital Agencies and Code Philosophies
 
@@ -1409,9 +1190,11 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 
 <!--
 https://about.gitlab.com
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
 https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
 https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 
 
@@ -1429,7 +1212,9 @@ https://robots.thoughtbot.com/running-acceptance-with-review-apps
 -->
 
 <!--
+
 Engineering Manager
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
@@ -1437,6 +1222,7 @@ Developer Survey
 https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
 https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
 
 https://opensource.google.com/docs/releasing
 https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
@@ -1453,7 +1239,6 @@ https://www.atlassian.com/agile/code-reviews
 
 * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
-https://about.gitlab.com/handbook/ | Team Handbook | GitLab
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://docs.gitlab.com/ee/workflow/
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
@@ -1474,8 +1259,6 @@ https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we u
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
 
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
@@ -1508,8 +1291,6 @@ http://jtleek.com/modules/01_DataScientistToolbox
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
-document driven development - Google Search
-
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
 
@@ -1528,14 +1309,6 @@ https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: 
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
 https://github.com/mdo/config
-
-https://cloud.google.com/source-repositories/pricing
-https://medium.com/aws-activate-startup-blog
-https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
-https://medium.com/google-cloud
-https://cloud.google.com
-http://googleappengine.blogspot.com
-https://cloudplatform.googleblog.com
 -->
 
 
@@ -1550,22 +1323,12 @@ http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.p
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 -->
 
-## Git and Workflow
-
-<!--
-See Git Workflow, DevOps, Dotfiles, Code Review
--->
-
-
 ## Object-Oriented Design Patterns- Python
-
 
 <!--
 https://twitter.com/brandon_rhodes?lang=en | Brandon Rhodes (@brandon_rhodes) | Twitter
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 http://python-patterns.guide/ | Python Patterns
-http://python-patterns.guide/gang-of-four/decorator-pattern/ | The Decorator Pattern
-http://python-patterns.guide/gang-of-four/factory-method/ | Factory Method
 https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
 http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
 http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
@@ -1604,8 +1367,6 @@ https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Co
 https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
 
 -->
-
-## Website Project Management
 
 ## UML
 
@@ -1826,17 +1587,12 @@ https://www.skillshare.com/classes/Python-Object-Oriented-From-Scratch/130025419
 <!--
 https://www.wolframalpha.com/examples/science-and-technology/computational-science/ | Wolfram|Alpha Examples: Computational Sciences
 
-https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
-
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
 https://www.coursera.org/specializations/aml | Advanced Machine Learning | Coursera
 
 https://github.com/udacity/machine-learning | udacity/machine-learning: Content for Udacity's Machine Learning curriculum
 https://github.com/udacity/deep-learning
-
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
 
 https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=dda520d7-96c0-4028-905c-fbc96c0ea93b&clip=0&mode=live | Doing Data Science with Python
 
@@ -1877,37 +1633,26 @@ https://github.com/yangshun/front-end-interview-handbook | yangshun/front-end-in
 https://github.com/search?utf8=%E2%9C%93&q=interview+questions
 https://github.com/MaximAbramchuck/awesome-interview-questions
 https://github.com/blakeembrey/code-problems
-
-https://cs.stackexchange.com
-http://statweb.stanford.edu
-http://cslibrary.stanford.edu
-https://engineering.stanford.edu
-http://web.mit.edu
 -->
 
-
-
 <!--
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-
 https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
 https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
 https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+-->
 
-https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
-https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
-https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
-https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
-https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+<!--
+https://cs.stackexchange.com
+http://statweb.stanford.edu
+https://engineering.stanford.edu
+http://web.mit.edu
+
+http://cslibrary.stanford.edu
 -->
 
 
-
 <!--
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
-https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
-
 Fast AI Blog
 
 http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
