@@ -765,6 +765,13 @@ https://www.khanacademy.org/math/calculus-home
 https://www.khanacademy.org/math/ap-calculus-ab
 https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
 
+https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
+
+https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+
 SQL
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
@@ -968,6 +975,10 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+https://github.com/NirantK/best-of-jupyter
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
+
 https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
 https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
 https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
