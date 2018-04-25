@@ -520,23 +520,15 @@ OS X Terminal
 * [SS64 OS X Reference](http://ss64.com/osx)
 
 http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
-		
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
-* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)			
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
-
-https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
-https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md		
-  		  
+					  		  
 * [Apple Open Source](https://developer.apple.com/opensource)		
   		  
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
 iTerm2		
 * [iTerm2](https://www.iterm2.com)		
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
 
 https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
 https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
@@ -640,9 +632,6 @@ http://cslibrary.stanford.edu/ | Stanford CS Ed Library
 
 http://exercism.io
 -->
-
-
-  
 
 <!--
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
@@ -1338,26 +1327,8 @@ Python- Django- AWS Elastic Beanstalk Deployment
 #### Microservices and Serverless
 
 <!--
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-
-https://github.com/serverless/site
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
-http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
-https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
--->
-
-<!--
   * [Microservices Resource Guide](https://martinfowler.com/microservices/)
 http://microservices.io
-https://serverless.com
 -->
  
 ## Django Learning Resources
@@ -1432,39 +1403,6 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 
 ## Release Management
 
-## X Driven Development
-
-<!--
-https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction | Object-Oriented Software Construction - Wikipedia
-https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design | Object-oriented analysis and design - Wikipedia
-https://en.wikipedia.org/wiki/GRASP_(object-oriented_design) | GRASP (object-oriented design) - Wikipedia
-
-https://en.wikipedia.org/wiki/Business_requirements | Business requirements - Wikipedia
-https://en.wikipedia.org/wiki/Requirements_analysis | Requirements analysis - Wikipedia
-
-https://en.wikipedia.org/wiki/Waterfall_model | Waterfall model - Wikipedia
-https://en.wikipedia.org/wiki/Agile_software_development | Agile software development - Wikipedia
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://en.wikipedia.org/wiki/Timeboxing | Timeboxing - Wikipedia
-
-
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Domain_model | Domain model - Wikipedia
-https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
--->
-
-
 ## Digital Agencies and Code Philosophies
 
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
@@ -1493,6 +1431,7 @@ https://robots.thoughtbot.com/running-acceptance-with-review-apps
 Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
 https://opensource.google.com/docs/releasing
