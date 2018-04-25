@@ -191,20 +191,6 @@ http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 
 ## Look At Daily or Monthly
 
-Look at Daily
-* [GitHub Trending](https://github.com/trending)
-* [Product Hunt](https://www.producthunt.com)
-* [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-* [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Nuzzel](http://nuzzel.com)
-* [Techmeme](https://www.techmeme.com)
-
-Product Hunt Golden Kitty Awards and Top 500
-* [Golden Kitty Awards](https://goldenkittyawards.com)
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Products](http://500products.com)
-* [Top 500 Hunters](http://500hunters.com)
-
 <!--
 https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
 https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
@@ -212,19 +198,6 @@ https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on T
 
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 -->
-
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Top 10 Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
-
-
 
 ## Interesting Ideas
 
@@ -463,19 +436,6 @@ Prototyping Software- Keynotopia
 * [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
 * [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 
-## People and Projects
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Trending Developers
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-<!--
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
--->
-
 ## Engineering Blogs, Stack, Building Tools
 
 Stack
@@ -483,45 +443,17 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
-Analysis
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
 
 <!--
 http://thenewstack.io
+
+Analysis
+* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 https://websitedownloader.io/wayback-machine-downloader
 https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
-
-Workflow Automation
-* [Zapier](https://zapier.com)
-* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
-
-Bots
-* [Microsoft Bot Framework](https://dev.botframework.com)
-
-https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
-https://chatbotsmagazine.com
-
-New (See also reporobot and githubteacher)
-https://github.com/guardian/facebook-news-bot
-https://www.messenger.com/t/theguardian/
-
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-https://github.com/jw84/messenger-bot-tutorial
-https://github.com/WhiteHouse/fb_messenger_bot
 -->
 
 ## Software Tools
@@ -1691,12 +1623,6 @@ https://us.pycon.org/2011/schedule
 <!--
 https://en.wikipedia.org/wiki/List_of_computer_science_conferences | List of computer science conferences - Wikipedia
 
-https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
-https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
-https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
-https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
-https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
-
 https://github.com/basecamp/handbook/blob/master/international-travel-guide.md | handbook/international-travel-guide.md at master · basecamp/handbook
 
 http://lmorillas.github.io/python_events/ | Python Events
@@ -1820,8 +1746,6 @@ https://github.com/fluentpython | Fluent Python
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
-
-
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 
@@ -2041,12 +1965,6 @@ https://jeffknupp.com/blog/2012/12/11/learning-python-via-django-considered-harm
 
 ## Python Internals
 
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
 <!--
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
 
@@ -2074,10 +1992,6 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 
 
 ## Python Packaging
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
 
 <!--
 https://docs.python.org/3/library/distribution.html
@@ -2186,6 +2100,18 @@ https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
 
 https://app.convertkit.com/landing_pages/318646?v=6 | Hello Web Design Email Course | Hello Web Books
+-->
+
+
+
+
+<!--
+https://twitter.com/loic/status/922570180814704641 | Loic Le Meur 🐓 on Twitter: "This isn’t a sponsored post 🙂 What credit cards do you use for maximizing miles? Chase Saphire (3:1) and United (1.5:1) here. Stopped Amex."
+https://www.google.com/search?q=chase+sapphire+chase+freedom+miles&oq=chase+sapphire+chase+freedom+miles&aqs=chrome..69i57.5924j0j7&sourceid=chrome&ie=UTF-8 | chase sapphire chase freedom miles - Google Search
+https://thepointsguy.com/guide/the-best-airline-elite-status-programs/ | The Best Airline Elite Status Programs in the US
+https://creditcards.chase.com/a1/sapphire/reserve | Chase Sapphire Reserve Credit Card | Chase.com
+https://thepointsguy.com/2017/08/earny-saves-cash-price-protection/ | How Earny Can Save You Big Cash With Little Effort
+
 
 Interesting
 https://hellowebbooks.com/news/all-about-hello-web-apps-paperback-book-fulfillment/ | Designing and printing Hello Web App's PDF and paperback editions - Hello Web Books
@@ -2194,12 +2120,8 @@ https://medium.com/@limedaring/shipping-and-fulfillment-for-my-self-published-bo
 https://hellowebbooks.com/news/fulfillment-updates/ | Shipping and Fulfillment for My Self-Published Books (Update Since I’ve Moved to Canada) - Hello Web Books
 
 https://twitter.com/limedaring/status/943545349314170880 | Tracy Osborn on Twitter: "Learning some valuable lessons about going from a small company for fulfillment to a large one (Amazon) of my @hellowebbooks."
--->
 
 
-
-
-<!--
 ## Open Companies
 
 https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
