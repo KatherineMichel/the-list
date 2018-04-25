@@ -56,9 +56,38 @@ Courses
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 <!--
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
-
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
+
+https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
+https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
+https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
+https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
+https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
+https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
+
+https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
+
+https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
+https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight 
+-->
+
+Reddit
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+OpenStack
+* [OpenStack Community](https://www.openstack.org/community)
+
+<!--
+http://treehouse.github.io/installation-guides
+
+http://exercism.io
+
+http://www.100daysofcode.com/
+
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
+
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
 
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
@@ -125,6 +154,9 @@ Containers
 * [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
 
+Terraform
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
+
 AWS- Lambda
 * [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/)
@@ -158,6 +190,11 @@ https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
 
 Hosting Blogs
 * [GitHub Blog](https://github.com/blog)
@@ -233,6 +270,14 @@ DjangoCon US
 DjangoCon Europe
 * [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
 
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
 Official Python Tutorial
 * [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
 
@@ -244,10 +289,13 @@ MOOCs
 Learning Platforms (See also others)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
+
+<!--
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+-->
 
 Python Trending, Topics, Forums
 * [GitHub Trending: python](https://github.com/trending/python)
@@ -289,6 +337,10 @@ Python Tutors- Regular
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+<!--
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+-->
 
 Python Tutors- YouTube
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
@@ -360,6 +412,12 @@ Django Tutorials (Official, Mozilla Developer Network and SIBTC)
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
 
+<!--
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
 Django Consulting Firms, Blogs, Repos
 * [Changeset Consulting](https://changeset.nyc)
 * [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
@@ -421,11 +479,91 @@ https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Ref
 https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 -->
 
+
 General
 * [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 * [Software Development Wikipedia](https://en.wikipedia.org/wiki/Software_development)
 * [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
+
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+Machine Code and Assembly Language
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
 
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
@@ -828,6 +966,14 @@ Fast AI
 Jeremy and Rachel
 * [Jeremy Howard YouTube](https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ)
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
+
+<!--
+https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
+https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
+https://www.superdatascience.com/deep-learning/ | Deep Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+https://www.udemy.com/machinelearning/learn/v4/ | Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy
+https://www.superdatascience.com/machine-learning/ | Machine Learning A-Z™: Download Practice Datasets - SuperDataScience - Big Data | Analytics Careers | Mentors | Success
+-->
 
 MIT 6.S191: Introduction to Deep Learning
 * [Website](http://introtodeeplearning.com), [YouTube](https://www.youtube.com/user/Zan560/videos), and [GitHub](https://github.com/aamini/introtodeeplearning_labs)
