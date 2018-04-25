@@ -1408,14 +1408,15 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
 <!--
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
 https://about.gitlab.com
 https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
 https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
 https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
 
 https://github.com/thoughtbot/guides/tree/master/protocol
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
@@ -1432,6 +1433,9 @@ Engineering Manager
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
+Developer Survey
+https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
+https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
 https://opensource.google.com/docs/releasing
@@ -1473,10 +1477,6 @@ https://resources.github.com/webcasts/Introduction-to-open-source-security-tools
 
 https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
 
-Developer Survey
-https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
-https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
-
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
@@ -1490,23 +1490,14 @@ https://en.wikipedia.org/wiki/Agile_modeling | Agile modeling - Wikipedia
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
-
-
-
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-
 https://martinfowler.com/bliki/MaturityModel.html
 https://martinfowler.com/bliki/C3.html | C3
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
 https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-
 https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-document driven development - Google Search
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
-
 http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
 http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
 http://wiki.c2.com/?BusNumber | Bus Number
@@ -1514,6 +1505,10 @@ http://wiki.c2.com/?BusNumber | Bus Number
 https://en.wikibooks.org/wiki/Control_Systems/Feedback_Loops | Control Systems/Feedback Loops - Wikibooks, open books for an open world
 http://jtleek.com/modules/01_DataScientistToolbox
 
+
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+document driven development - Google Search
 
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
