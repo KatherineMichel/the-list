@@ -1,38 +1,7 @@
 # Favorite Learning Resources
 
 <!--
-#### Dashboards
-
-Status
-* [Amazon Status](http://status.aws.amazon.com)
-* [Facebook Status](https://developers.facebook.com/status)
-* [GitBook Status](http://status.gitbook.com)
-* [GitHub Status](https://status.github.com) and [GitHub Status Twitter](https://twitter.com/githubstatus)
-* [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
-* [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
-* [Slack Status](https://status.slack.com)
-
-Consoles: Developer
-* [GitHub Settings](https://github.com/settings)
-* [Heroku Dashboard](https://dashboard.heroku.com)
-* [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
-* [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
-* [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
-
-Consoles: Webmaster and Analytics
-* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
-* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
-
-https://status.cloud.google.com/incident/cloud-networking/17002 | Google Cloud Status Dashboard
-
-https://myactivity.google.com/myactivity | Google – My Activity
-
-https://status.bitbucket.org/ | Atlassian Bitbucket Status
-
 * [Cloud9](https://c9.io/katherinemichel)
-
-
-
 
 Startup Engineering MOOC
 
@@ -92,11 +61,13 @@ https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting th
 
 See Events
 http://webbyawards.com
+shorty awards
 
 Major Conferences
 https://www.cebit.de/en/ | CEBIT – Europe's Business Festival for Innovation and Digitization
 https://www.mobileworldcongress.com/ | Home | Mobile World Congress
 https://www.ces.tech/ | CES - The Global Stage for Innovation - CES 2018
+
 
 New
 https://www.digitalocean.com/products/storage/object-storage
@@ -119,8 +90,6 @@ http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 
 User Interfaces
-
-site reliability engineering
 
 Open Company
 Digital Agencies and Code Philosophies
@@ -164,27 +133,14 @@ https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/learn/learn-sass	
 
 
-DjangoCon
-
-https://jekyllrb.com/docs/continuous-integration
-
-https://help.shopify.com/themes/liquid/filters
-
-http://daigofuji.github.io/jekyll-foundation-6-starter
-http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
-http://daigofuji.github.io/jekyll-foundation-5-starter
-https://github.com/daigofuji/jekyll-foundation-5-starter
-
-
 https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
 https://blog.deming.org
 
 
 https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Businesses
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+
 http://distributionhacks.com/post-startup-launch-checklist | Post Launch Checklist: 10 Tasks You Should Complete
 https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from Reality | Edelman Digital
-http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 -->
 
 
@@ -205,10 +161,6 @@ https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 
 * [Charlie Rose](http://www.charlierose.com)
 * [This American Life](http://www.thisamericanlife.org)
 
-Curated Blogs and Podcasts
-* [Slate Star Codex](http://slatestarcodex.com)
-* [Stratechery: The 2017 Stratechery Year in Review](https://stratechery.com/2017/the-2017-stratechery-year-in-review)
- 
 Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 * [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
@@ -302,6 +254,7 @@ https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-disti
 
 https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
 
+http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 http://humanetech.com/ | Center for Humane Technology
 https://www.wired.com/story/phone-addiction-formula/ | WIRED
 http://captology.stanford.edu/ | Persuasive Tech
@@ -408,16 +361,6 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
 
-Carlota Perez Framework
-* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surve Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
-* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
 <!--
 hobbies, habits
 -->
@@ -492,6 +435,9 @@ Microsoft- JavaScript
 
 https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+
 https://mobyproject.org/#moby-and-docker
 
 https://github.com/docker/cli
@@ -510,9 +456,6 @@ Container Clusters
 * [Compose File Reference](https://docs.docker.com/compose/compose-file/)
 * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
 	
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
-
-
 Kubernetes
 * [Kel](http://www.kelproject.com)
 
@@ -533,11 +476,9 @@ Heroku- Docker
 GitLab- Docker
 * [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
 
-
 https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
 
 https://hub.docker.com/r/heroku/cedar
-
 
 https://github.com/revsys/jslog4kube
 https://github.com/kubernetes/minikube
@@ -551,9 +492,9 @@ https://github.com/GoogleCloudPlatform/kubernetes-workshops
 
 http://kubernetes.io/docs/getting-started-guides/aws
 
-
 https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
 https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
+
 https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 -->
 
@@ -695,11 +636,7 @@ https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
 <!--
 https://medium.freecodecamp.org/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d | The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2018
 
-https://www.khanacademy.org/partner-content/pixar
-
 http://cslibrary.stanford.edu/ | Stanford CS Ed Library
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show	
 
 http://exercism.io
 -->
@@ -710,15 +647,6 @@ http://exercism.io
 <!--
 https://www.udacity.com/courses/all?bookmarks=true | All Courses and Nanodegree Programs | Udacity
 
-https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
-https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
-https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
--->
-
-Khan Academy
-* [Khan Academy GitHub](https://github.com/Khan)
-
-<!--
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 -->
@@ -746,15 +674,6 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
 
-Forums
-* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
-* [Free Code Camp Forum](http://forum.freecodecamp.com)
-* [Treehouse Community](https://teamtreehouse.com/community)
-
-CodePen
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
-
-
 <!--
 More forums or GitHub?
 
@@ -777,29 +696,6 @@ Stack Overflow
 <!--
 Upvotes
 https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
--->
-
-Stack Exchange
-* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
-Wolfram
-* [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
-* [Wolfram Functions](http://functions.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-
-Math and General Knowledge  
-* [Project Euler Problems](http://projecteuler.net/problems) 
-* [Khan Academy Math](https://www.khanacademy.org/math)
-* [Math Dot Com](http://www.math.com)
-* [Math Overflow](http://mathoverflow.net)
-* [Stack Exchange Math](https://math.stackexchange.com)
-* [Stack Exchange Stats](https://stats.stackexchange.com)
-* [Maths is Fun](http://www.mathsisfun.com)
-
-<!--
-http://community.wolfram.com
-http://www.wolframalpha.com/calculators
 -->
 
 ## Standards and Documentation
@@ -914,17 +810,9 @@ https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 -->
 
-<!--
-https://www.twitchtools.com/followers | Followers - TwitchTools
--->
-
 Kent Dodds
 
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
-
-
-
 
 <!--
 Joni Trythall
@@ -1046,6 +934,7 @@ Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
 * [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 * [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
 
 CPU and Instruction Set
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
@@ -1188,8 +1077,6 @@ https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection
 
 https://en.wikipedia.org/wiki/Red_team
 -->
-
-
 
 ## Hosting News
 
@@ -1454,19 +1341,8 @@ Python- Django- AWS Elastic Beanstalk Deployment
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
--->
 
-AWS- Lambda
-* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-
-
-Azure Functions
-* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-
-
-
-<!--
+https://github.com/serverless/site
 https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
 
 https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
@@ -1476,10 +1352,6 @@ https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation 
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
 https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-
-https://github.com/serverless/site
-
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates andexamples of serverless architectures built with the Serverless Framework and AWS Lambda
 -->
 
 <!--
@@ -1488,32 +1360,6 @@ http://microservices.io
 https://serverless.com
 -->
  
-
-## Python and Django Books and Tutorials
-
-* [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
-
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
-
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-Python Websites and Newsletters
-* [Iron Python in Action](http://www.ironpythoninaction.com)
-* [Learn Python](http://www.learnpython.org)
-* [Python Central](http://www.pythoncentral.io)
-* [Python for Beginners](http://www.pythonforbeginners.com)
-* [Python Tutor](http://pythontutor.com)
-* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
-* [The Python Guru](http://thepythonguru.com)
-
-Python IDLE
-* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
-* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python)) 
-
-
 ## Django Learning Resources
 
 <!--
@@ -1649,15 +1495,6 @@ https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
-New
-https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
-https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
-
-https://landing.google.com/sre/ | Google - Site Reliability Engineering
-https://landing.google.com/sre/interview/ben-treynor.html | Google - Site Reliability Engineering
-https://en.wikipedia.org/wiki/Site_reliability_engineering | Site reliability engineering - Wikipedia
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
-
 https://opensource.google.com/docs/releasing
 https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
 
@@ -1667,16 +1504,6 @@ http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
-
-https://en.wikipedia.org/wiki/Test-driven_development
-https://en.wikipedia.org/wiki/Model-driven_architecture | Model-driven architecture - Wikipedia
-
-https://en.wikipedia.org/wiki/Progressive_enhancement
-https://en.wikipedia.org/wiki/Service-oriented_architecture
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
 https://www.atlassian.com/agile
 https://www.atlassian.com/agile/code-reviews
@@ -1705,10 +1532,14 @@ https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your 
 
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 
-https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
 https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+Developer Survey
+https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
 https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
+
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
@@ -1762,8 +1593,6 @@ https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: 
 
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
-https://jekyllrb.com/docs/deployment-methods/
-
 https://github.com/mdo/config
 
 https://cloud.google.com/source-repositories/pricing
@@ -1783,6 +1612,7 @@ Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 -->
 
