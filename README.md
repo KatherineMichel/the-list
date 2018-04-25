@@ -23,13 +23,14 @@ Consoles: Webmaster and Analytics
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
-
 https://status.cloud.google.com/incident/cloud-networking/17002 | Google Cloud Status Dashboard
 
 https://myactivity.google.com/myactivity | Google – My Activity
 
+https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 * [Cloud9](https://c9.io/katherinemichel)
+
 
 
 
@@ -163,6 +164,8 @@ https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/learn/learn-sass	
 
 
+DjangoCon
+
 https://jekyllrb.com/docs/continuous-integration
 
 https://help.shopify.com/themes/liquid/filters
@@ -176,8 +179,6 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 https://www.drucker.institute/ | Drucker Institute | Strengthening organizations to strengthen society
 https://blog.deming.org
 
-
-https://status.bitbucket.org/ | Atlassian Bitbucket Status
 
 https://www.indiehackers.com/ | Indie Hackers: Learn from Profitable Online Businesses
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
@@ -200,13 +201,6 @@ https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 
 -->
 
 ## Interesting Ideas
-
-Wikipedia
-* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists)
-
-Best Books
-* [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
-* [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
 
 * [Charlie Rose](http://www.charlierose.com)
 * [This American Life](http://www.thisamericanlife.org)
@@ -458,19 +452,7 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 
 ## Software Tools
 
-Assembly 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-<!--
-https://en.wikipedia.org/wiki/C%2B%2B | C++ - Wikipedia
-
 https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
 
 Linux and Darwin Code
 * [Linux Kernel GitHub](https://github.com/torvalds/linux)
@@ -567,10 +549,8 @@ https://github.com/heptio/aws-quickstart | heptio/aws-quickstart: AWS Kubernetes
         
 https://github.com/GoogleCloudPlatform/kubernetes-workshops
 
-http://docs.kelproject.com/installation/layer0/gce
 http://kubernetes.io/docs/getting-started-guides/aws
-http://kubernetes.io/docs/hellonode
-https://github.com/kubernetes-incubator/cri-o
+
 
 https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
 https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
@@ -841,6 +821,7 @@ https://docs.microsoft.com/en-us/ | Technical documentation, API, and code examp
 https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Technology, Computer, and Software Research
 -->
 
+
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
@@ -849,6 +830,7 @@ Standards
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
 * [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
