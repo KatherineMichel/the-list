@@ -938,10 +938,6 @@ Mozilla- Documentation
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
-IBM Documentation
-* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
-* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-
 #### Browsers, Layout Engines, Developer Tools
 
 <!--
@@ -961,28 +957,10 @@ Platform Updates
 http://release.mozilla.org/ | Mozilla Releases
 -->
 
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
 <!--
-https://www.mozilla.org/en-US/firefox/new/
-https://github.com/devtools-html/debugger.html | devtools-html/debugger.html: The Firefox debugger that works anywhere
-
-
 https://developer.chrome.com/devtools
 https://developer.chrome.com/apps
 https://developer.chrome.com/extensions
-
-Brave
-
-[WebKit JS](https://developer.apple.com/reference/webkitjs/)
-     
-https://www.mozilla.org/en-US/firefox/channel/desktop/
-https://testpilot.firefox.com
-
-Google Developers- General
-* [Google Chrome Home](https://developers.google.com/chrome)
 
 Google Developers- Google Chrome Doc
 * [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
@@ -994,7 +972,6 @@ Google Developers- Google Chrome Doc
 * [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
 * [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
 
-        
 * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 
 https://developers.google.com/web/tools/setup/setup-workflow
@@ -1008,39 +985,11 @@ https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#ac
 https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
 https://developers.google.com/cast/docs/developers
 
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
 Google Developers- Google Chrome Tools
 * [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://www.udacity.com/course/website-performance-optimization--ud884
 -->
+
+
 
 <!--
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
@@ -1651,65 +1600,17 @@ https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation 
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
 https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
-https://github.com/awslabs/lambda-refarch-webapp
-https://github.com/awslabs/serverless-application-model
-https://github.com/awslabs/aws-serverless-express
-https://github.com/awslabs/serverless-photo-recognition
 
 https://github.com/serverless/site
-https://serverlesscode.com/post/zappa-wsgi-for-python/
-https://serverless.com/framework/docs/providers/aws/guide/credentials/
-https://serverlesscode.com/post/rich-jones-interview-django-zappa/
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
 
-https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://pypi.python.org/pypi/django-zappa
-https://github.com/ryansb/django-zappa-example
-
-http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://github.com/MitocGroup/deep-microservices-todomvc
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates andexamples of serverless architectures built with the Serverless Framework and AWS Lambda
 -->
-
-
 
 <!--
-* Microservices
-  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
-    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
-    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
-    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
-    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
-    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
-    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
-  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
   * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-  * API Gateway
-    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
-    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
-    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
-  * Serverless
-    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
-    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
-    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
-      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
-    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
-      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
-      
-* [IronFunctions](https://github.com/iron-io/functions)
+http://microservices.io
+https://serverless.com
 -->
-
-
-
-
-## Some Favorite Awesome
-
  
 #### Python and Django Conference Videos and Slides
 
