@@ -18,22 +18,20 @@ Social Media Webmaster and Ads, Pixels
 Metatags, Social Graph, Rich Snippets
 KPCB and John Maeda Design in Tech Report
 Design Blogs
+Bootstrap, Kickstarters
+Favicon, Sitemap, robots.txt, humans.txt
+Facebook and Google Design
+Google Material Design (See also Facebook React)
+Bootstrap Material Design
+Polymer (See also Facebook React)
+Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
 
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
 https://www.nngroup.com
 
-Bootstrap, Kickstarters
-Favicon, Sitemap, robots.txt, humans.txt
-
-Facebook and Google Design
-Google Material Design (See also Facebook React)
-Bootstrap Material Design
-Polymer (See also Facebook React)
 https://developers.google.com/web/showcase
-
-Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
 
 https://html5boilerplate.com/
 
@@ -145,6 +143,13 @@ Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 * [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
 
+Tim Ferris
+* [Tools of Titans](https://toolsoftitans.com) and [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+* [Tribe of Mentors](https://tribeofmentors.com)
+
+Hooked
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
@@ -175,13 +180,6 @@ Productivity- The Art of Focus
 
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Tim Ferris
-* [Tools of Titans](https://toolsoftitans.com) and [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
-* [Tribe of Mentors](https://tribeofmentors.com)
-
-Hooked
-* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 
 Pattern
 * [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
@@ -370,7 +368,6 @@ YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
-
 <!--
 ## JavaScript Resources
 
@@ -378,38 +375,21 @@ Microsoft- JavaScript
 * [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
 
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 
 Kubernetes
 * [Kel](http://www.kelproject.com)
-
-Heroku- Docker
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-
-GitLab- Docker
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
 
 Bitnami Stacksmith
 * [Bitnami Stacksmith](https://stacksmith.bitnami.com)
 
 https://github.com/kelseyhightower
-
-https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 -->
 
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
--->
 
 <!--
 https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
@@ -821,18 +801,9 @@ https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection
 https://en.wikipedia.org/wiki/Red_team
 -->
 
-Tools
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-
-<!--
-Heroku and GitHub Marketplaces
--->
-
 <!--
 http://githubuniverse.com/watch
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
-https://github.com/features
 
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 
@@ -841,20 +812,13 @@ https://aws.amazon.com/events/aws-innovate
 
 ## Hosting Docs
 
-Heroku Hosting Docs
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+* [GitHub Features](https://github.com/features)
+
+Tools
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
 
 <!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
-https://dashboard.heroku.com/apps | Personal apps | Heroku
-https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
+Heroku and GitHub Marketplaces
 -->
 
 Digital Ocean Hosting Docs (VPS)
@@ -872,6 +836,7 @@ Digital Ocean Hosting Docs (VPS)
 <!--
 * [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
 -->
+
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
@@ -891,26 +856,6 @@ AWS- GitHub and Livecoding
 * [AWS Twitch](https://aws.amazon.com/twitch)
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
-
-<!--
-AWS Certifications
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-
-* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
--->
-
-Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Developers](https://cloud.google.com/developers)  
-
-Alibaba
-* [Alibaba Cloud](https://www.alibabacloud.com)
-
-
-#### AWS
 
 AWS- Websites, Mobile, Social
 * [AWS Websites](https://aws.amazon.com/websites)
@@ -936,43 +881,42 @@ http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
 https://aws.amazon.com/architecture
 -->
 
+<!--
+AWS Certifications
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+-->
+
 #### Heroku
 
-Heroku- General
-  * [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
 <!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+https://dashboard.heroku.com/apps | Personal apps | Heroku
+https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
+
 * [Heroku Examples](https://github.com/heroku-examples)
 https://github.com/heroku/heroku-apps
+-->
 
-https://devcenter.heroku.com/articles/how-heroku-works
-
-
+<!--
 https://blog.heroku.com/deploying-react-with-zero-configuration
 
 https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 -->
 
 #### Google Cloud
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
 
 Google Cloud, App Engine
 * [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
@@ -1005,6 +949,9 @@ https://cloud.google.com/source-repositories/docs
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
 
+Alibaba
+* [Alibaba Cloud](https://www.alibabacloud.com)
+
 #### Deployment and Git Integration
 
 Heroku Multiple Environments and Site Staging
@@ -1026,8 +973,7 @@ Python- Heroku
 * [Heroku Python Sample GitHub](https://github.com/heroku/python-sample)  
 * [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)
 * [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
-* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)  
-* [Heroku Getting Started with Python Introduction](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)  
+* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)   
 * [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
 
 <!--
@@ -1068,8 +1014,9 @@ Python- Django- AWS Elastic Beanstalk Deployment
 #### Microservices and Serverless
 
 <!--
-  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-http://microservices.io
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+
 -->
  
 ## Django Learning Resources
@@ -1291,21 +1238,22 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 ## Programming Syntax and Conventions
 
 <!--
+Python Syntax and Semantics
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+Algorithms
+* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
+
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
+
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
 https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
 https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
 
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
-Python Syntax and Semantics
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-
-* ["Minimal examples of data structures and algorithms in Python"](https://github.com/keon/algorithms)
-
 Python
 https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
-https://github.com/norvig/pytudes | norvig/pytudes: Python programs to practice or demonstrate skills.
-
 -->
 
 ## UML
