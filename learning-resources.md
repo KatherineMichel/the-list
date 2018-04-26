@@ -249,12 +249,8 @@ https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free
 https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
 -->
 
-## Skills and Employment
-
 Stanford CS 007-06: Personal Finance for Engineers (Adam Nash)
 * [Stanford CS 007-06 Blog](https://cs007.blog) and [Adam Nash Slideshare](https://www.slideshare.net/adamnash)
-
-
 
 <!--
 https://personalmba.com/second-order-effects/ | Second-Order Effects - The Personal MBA
@@ -264,8 +260,6 @@ http://changethis.com/manifesto/17.PersonalMBA/pdf/17.PersonalMBA.pdf | The Pers
 http://changethis.com/manifesto/98.02.PersonalMBA/pdf/98.02.PersonalMBA.pdf | 98.02.PersonalMBA.pdf
 http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrapper Bible
 -->
-
-## Scientific Method
 
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
@@ -882,14 +876,6 @@ Heroku Git Integration
 * [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
 * [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
 
-
-#### Microservices and Serverless
-
-<!--
-  * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-
--->
  
 ## Django Learning Resources
 
