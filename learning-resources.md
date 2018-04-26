@@ -326,16 +326,6 @@ http://sethgodin.typepad.com/files/8.01.bootstrappersbible-1.pdf | The Bootstrap
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
 -->
 
-<!--
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
--->
-
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
 
@@ -361,22 +351,9 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
 
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
 <!--
-## JavaScript Resources
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
-
 Kubernetes
 * [Kel](http://www.kelproject.com)
 
@@ -492,6 +469,12 @@ http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
 -->
 
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
 
 ## Developer and Team Success
 
@@ -510,6 +493,12 @@ https://medium.com/javascript-scene/struggling-to-find-great-senior-javascript-d
 
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7 | Are Programmer Brains Different? – JavaScript Scene – Medium
+
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
+
+https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 -->
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
@@ -535,13 +524,8 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
 
-<!--
-More forums or GitHub?
--->
-
 
 ## Standards and Documentation
-
 
 https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
 
@@ -821,22 +805,6 @@ Tools
 Heroku and GitHub Marketplaces
 -->
 
-Digital Ocean Hosting Docs (VPS)
-* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
-* [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
-* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
-* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
-
-* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
-* [Digital Ocean Community](https://www.digitalocean.com/community)
-* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
-
-<!--
-* [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
--->
-
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
@@ -951,6 +919,23 @@ https://cloud.google.com/source-repositories/docs
 
 Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
+
+Digital Ocean Hosting Docs (VPS)
+* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
+* [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
+* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
+* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+
+* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
+* [Digital Ocean Community](https://www.digitalocean.com/community)
+* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
+
+<!--
+* [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
+-->
+
 
 #### Deployment and Git Integration
 
