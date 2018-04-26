@@ -6,25 +6,8 @@
 Startup Engineering MOOC
 
 Developer Surveys
-Company Design Blogs
-Company Design Systems
-Style Guides
-The Cathedral and the Bazaar
 Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, PyCharm, EditorConfig, Makefile
-Built With
 Encoding, Dot Files
-Unix and Linux- General
-Social Media Webmaster and Ads, Pixels
-Metatags, Social Graph, Rich Snippets
-KPCB and John Maeda Design in Tech Report
-Design Blogs
-Bootstrap, Kickstarters
-Favicon, Sitemap, robots.txt, humans.txt
-Facebook and Google Design
-Google Material Design (See also Facebook React)
-Bootstrap Material Design
-Polymer (See also Facebook React)
-Sass, Polyfill, Vendor-prefixed CSS Property Overview, Cross Browser and Sniffing
 
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
@@ -879,24 +862,11 @@ https://cloud.google.com/source-repositories/docs
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+* [Digital Ocean Community](https://www.digitalocean.com/community)
+
 Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
-
-Digital Ocean Hosting Docs (VPS)
-* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
-* [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
-* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
-* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
-
-* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
-* [Digital Ocean Community](https://www.digitalocean.com/community)
-* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
-
-<!--
-* [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
--->
 
 
 #### Deployment and Git Integration
@@ -1340,7 +1310,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-m
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/ | Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf | Mathematics for Computer Science: Course Textbook
 
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-december-3f6cb3c4ce1a | 450 Free Online Programming & Computer Science Courses You Can Start in December
 https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 | Every single Machine Learning course on the internet, ranked by your reviews
 
@@ -1348,16 +1317,6 @@ https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 
 https://github.com/mikesprague/udacity-nanodegrees | mikesprague/udacity-nanodegrees: List of Udacity Nanodegree programs with links to the free courses in their curricula
 
-https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
-
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-
-<!--
 Object-Oriented
 
 https://www.coursera.org/courses?languages=en&query=object | Object Courses | Coursera
@@ -1398,6 +1357,13 @@ https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+
+https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
 
