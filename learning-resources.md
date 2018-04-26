@@ -363,22 +363,6 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
 
-## Software Tools
-
-Containers- Kubernetes
-* [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
-
-Containers- Docker
-* [Docker GitHub](https://github.com/docker/docker)  
-* [Docker Hub](https://hub.docker.com)
-* [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
-
-Jekyll
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
-
-
 Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
@@ -413,9 +397,6 @@ https://github.com/kelseyhightower
 
 https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 -->
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
@@ -534,11 +515,6 @@ https://www.gnu.org/software/make/manual/make.html
 
 ## Developer and Team Success
 
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
 <!--
 https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.ms2a11gxu | Learning How to Learn: The Most Important Developer Skill
 https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde | We fired our top talent. Best decision we ever made.
@@ -583,9 +559,6 @@ https://github.com/FreeCodeCamp/design-style-guide
 More forums or GitHub?
 -->
 
-* [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 
 ## Standards and Documentation
 
@@ -639,10 +612,8 @@ Standards
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 
-Google Developers- General
+Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-
-Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
 
 Mozilla- Documentation
@@ -659,23 +630,6 @@ Google Developers- Code
 
 
 #### Browsers, Layout Engines, Developer Tools
-
-<!--
-Platform Status
-* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
-Platform Releases
- * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
-    
-Platform Updates
-* [Mozilla Hacks](https://hacks.mozilla.org/)
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-* [Webkit Blog](https://webkit.org/blog/)
-* [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-* [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
-
-http://release.mozilla.org/ | Mozilla Releases
--->
 
 <!--
 https://developer.chrome.com/devtools
@@ -714,13 +668,12 @@ Google Developers- Google Chrome Tools
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
-
-https://github.com/bnb/awesome-developer-streams | bnb/awesome-developer-streams: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 -->
 
-Kent Dodds
+* [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
 
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
 <!--
 Joni Trythall
@@ -873,8 +826,6 @@ Tools
 
 <!--
 Heroku and GitHub Marketplaces
-
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
 <!--
@@ -882,6 +833,8 @@ http://githubuniverse.com/watch
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 
 https://github.com/features
+
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 
 https://aws.amazon.com/events/aws-innovate
 -->
@@ -911,6 +864,7 @@ Digital Ocean Hosting Docs (VPS)
 * [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 * [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+
 * [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
 * [Digital Ocean Community](https://www.digitalocean.com/community)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
@@ -1186,8 +1140,6 @@ See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
 
 ## Digital Agencies and Code Philosophies
 
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
-
 <!--
 https://about.gitlab.com
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
@@ -1212,16 +1164,14 @@ https://robots.thoughtbot.com/running-acceptance-with-review-apps
 -->
 
 <!--
-
-Engineering Manager
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-
 Developer Survey
 https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
 https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
 https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+* [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 
 
 https://opensource.google.com/docs/releasing
@@ -1232,6 +1182,7 @@ http://principlesofchaos.org/ | Principles of Chaos Engineering
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
+
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
 
 https://www.atlassian.com/agile
@@ -1315,11 +1266,6 @@ https://github.com/mdo/config
 https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
 
 <!--
-Agile and Lean
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 -->
 
@@ -1327,13 +1273,7 @@ http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 <!--
 https://twitter.com/brandon_rhodes?lang=en | Brandon Rhodes (@brandon_rhodes) | Twitter
-https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
-http://python-patterns.guide/ | Python Patterns
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
 https://en.wikipedia.org/wiki/A_Pattern_Language | A Pattern Language - Wikipedia
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
@@ -1378,8 +1318,6 @@ http://www.uml.org/ | Welcome To UML Web Site!
 https://github.com/sibtc/django-beginners-guide/blob/master/boards/models.py#L57 | django-beginners-guide/models.py at master · sibtc/django-beginners-guide
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc | UML 2.0 Tutorial - YouTube
-
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Interaction_diagrams | Unified Modeling Language - Wikipedia
 
 http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
 
