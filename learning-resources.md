@@ -134,7 +134,16 @@ https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on T
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 -->
 
-## Interesting Ideas
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+<!--
+https://www.hbs.edu
+-->
+
+
+## Mind Tools
 
 * [Charlie Rose](http://www.charlierose.com)
 * [This American Life](http://www.thisamericanlife.org)
@@ -149,53 +158,6 @@ Tim Ferris
 
 Hooked
 * [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-<!--
-https://www.hbs.edu
--->
-
-## Mind Tools
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-Productivity- Marshall Goldsmith
-* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw) and ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Productivity- Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-Productivity- Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-Productivity- Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Productivity- The Art of Focus
-* [Index](https://bitcq.com/torrent/3196010)
-
-Productivity- Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Pattern
-* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
-
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
-* [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
-* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
 
 Neuorplasticity
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
@@ -950,51 +912,6 @@ Heroku Git Integration
 * [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
 * [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
 
-#### Deployment and Cloud by Language
-
-Python- Heroku
-* [Heroku Python Homepage](https://www.heroku.com/python) 
-* [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
-* [Heroku Python Sample GitHub](https://github.com/heroku/python-sample)  
-* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)
-* [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
-* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)   
-* [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
-
-<!--
-https://devcenter.heroku.com/articles/s3-upload-python
-
-https://devcenter.heroku.com/articles/django-app-configuration
-https://devcenter.heroku.com/articles/django-assets
--->
-
-Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
-* [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template) 
-* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
-* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
-* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
-
-<!--
-* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
--->
-
-Python- Amazon
-* [AWS Python](https://aws.amazon.com/python)
-* [AWS Python SDK (Boto) PyPi](https://pypi.python.org/pypi/boto)
-* [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
-* [Getting Started with the AWS SDK for Python (Boto)](http://aws.amazon.com/developers/getting-started/python)
-* [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
-
-<!--
-https://github.com/boto/boto
-https://aws.amazon.com/premiumsupport/knowledge-center/python-boto3-virtualenv
-
-https://pypi.python.org/pypi/django-toolbelt
-https://pypi.python.org/pypi/static3/0.5
--->
-
-Python- Django- AWS Elastic Beanstalk Deployment
-* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
 #### Microservices and Serverless
 
