@@ -224,6 +224,11 @@ https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A coll
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Lanyrd](http://lanyrd.com)
 * [PaperCall](https://www.papercall.io)
