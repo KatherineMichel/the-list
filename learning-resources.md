@@ -20,9 +20,7 @@ https://html5boilerplate.com/
 
 * [Front-End Development](#front-end-development) 
 * [CSS Helpers](#css-helpers)
-
 * [Testing and Performance](#testing-and-performance)
-
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
   * [JavaScript Framework](#javascript-framework)
@@ -764,22 +762,6 @@ AWS- GitHub and Livecoding
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
 
-AWS- Websites, Mobile, Social
-* [AWS Websites](https://aws.amazon.com/websites)
-* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
-* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
-* [AWS Mobile](https://aws.amazon.com/mobile)
-* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
-* [AWS Mobile Analytics](http://aws.amazon.com/mobileanalytics)
-
-AWS- Elastic Beanstalk and S3
-* [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
-* [AWS S3](http://aws.amazon.com/documentation/s3)
-
-AWS- SES and SNS (Including Worldwide SMS)
-* [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
-* [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
-
 <!--
 DevOps
 https://aws.amazon.com/devops/what-is-devops
@@ -1183,7 +1165,6 @@ http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 -->
 
 
-
 Singly Linked Linear Lists vs. Other Lists
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
@@ -1195,97 +1176,6 @@ Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
-
-<!--
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-https://en.wikipedia.org/wiki/List_of_algorithms
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/Computational_mathematics
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Mathematical_optimization
-https://en.wikipedia.org/wiki/Theory_of_computation
-https://en.wikipedia.org/wiki/Programming_language_theory
-https://en.wikipedia.org/wiki/Computational_statistics
-https://en.wikipedia.org/wiki/Computational_physics
-https://en.wikipedia.org/wiki/Computational_linguistics
-https://en.wikipedia.org/wiki/Natural-language_processing
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-
-Common Data Structure Operations
-https://en.wikipedia.org/wiki/Array_data_structure
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists
-https://en.wikipedia.org/wiki/Doubly_linked_list
-https://en.wikipedia.org/wiki/Skip_list
-https://en.wikipedia.org/wiki/Hash_table
-https://en.wikipedia.org/wiki/Binary_search_tree
-https://en.wikipedia.org/wiki/Cartesian_tree
-https://en.wikipedia.org/wiki/B-tree
-https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
-https://en.wikipedia.org/wiki/Splay_tree
-https://en.wikipedia.org/wiki/AVL_tree
-https://en.wikipedia.org/wiki/K-d_tree
-
-https://en.wikipedia.org/wiki/Sorting | Sorting - Wikipedia
-https://en.wikipedia.org/wiki/Sorting_algorithm
-https://en.wikipedia.org/wiki/List_(abstract_data_type)
-https://en.wikipedia.org/wiki/Sequence#Analysis
-https://en.wikipedia.org/wiki/Lexicographical_order
-
-Array Sorting Algorithms
-http://en.wikipedia.org/wiki/Quicksort
-http://en.wikipedia.org/wiki/Merge_sort
-http://en.wikipedia.org/wiki/Timsort
-http://en.wikipedia.org/wiki/Heapsort
-http://en.wikipedia.org/wiki/Bubble_sort
-http://en.wikipedia.org/wiki/Insertion_sort
-http://en.wikipedia.org/wiki/Selection_sort
-https://en.wikipedia.org/wiki/Tree_sort
-http://en.wikipedia.org/wiki/Shellsort
-http://en.wikipedia.org/wiki/Bucket_sort
-http://en.wikipedia.org/wiki/Radix_sort
-https://en.wikipedia.org/wiki/Counting_sort
-https://en.wikipedia.org/wiki/Cubesort
-
-https://en.wikipedia.org/wiki/Selection_algorithm
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
--->
-
-<!--
-https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://en.wikipedia.org/wiki/Abstract_data_type
-
-https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
-https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
-Contiguous Data Structures
-
-https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-
-https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
--->
-
 
 
 ## Crowdsourced, Curated Programming Learning Resources
