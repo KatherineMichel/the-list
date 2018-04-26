@@ -652,6 +652,14 @@ Design Patterns- General
 
 <!--
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+http://python-patterns.guide/ | Python Patterns
+https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
 -->
 
 Python and Django Design Patterns and Algorithms
@@ -1161,6 +1169,21 @@ Awesome Data Science
 * [PyTorch List GitHub](https://github.com/spro/pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+<!--
+Agile and Lean
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+
+Engineering Manager
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+-->
+
+GitLab
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
 Site Reliability Engineering
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
