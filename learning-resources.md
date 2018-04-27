@@ -82,8 +82,6 @@ https://github.com/etsy/statsd
 
 Open Company
 Digital Agencies and Code Philosophies
-DevOps
-Git and Markdown
 Open Source, Open Source Documentation
 
 
@@ -631,8 +629,6 @@ https://aws.amazon.com/events/aws-innovate
 
 ## Hosting Docs
 
-* [GitHub Features](https://github.com/features)
-
 Tools
 * [AWS Marketplace](https://aws.amazon.com/marketplace) 
 
@@ -794,6 +790,220 @@ http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
+
+
+<!--
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+https://about.gitlab.com/
+
+https://developer.atlassian.com
+
+https://www.atlassian.com/devops | What is DevOps? | Atlassian
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+GitLab Docs- Overview
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+
+GitLab General
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://docs.gitlab.com/ee/install/README.html
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+https://docs.gitlab.com/ee/ci/README.html
+
+
+https://bitbucket.org/product/features/pipelines | Bitbucket Pipelines - Continuous Delivery | Bitbucket
+https://bitbucket.org/integrations/cloud
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
+https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
+
+GitLab, Bitbucket, GitHub, Heroku, Digital Ocean, etc.
+https://github.com/integrations/aws-codedeploy
+
+https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/ | How to set up a continuous deployment pipeline - Amazon Web Services
+https://aws.amazon.com/about-aws/whats-new/2017/09/aws-codebuild-now-provides-ability-to-manage-secrets | AWS CodeBuild Now Provides Ability To Manage Secrets
+
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/multiple-environments
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+https://www.npmjs.com/package/git-flow-deploy
+
+https://devcenter.heroku.com/articles/chatops | ChatOps | Heroku Dev Center
+https://devcenter.heroku.com/articles/how-heroku-works | How Heroku Works | Heroku Dev Center
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+https://elements.heroku.com/addons/semaphore | Semaphore - Add-ons - Heroku Elements
+https://elements.heroku.com/addons/codeship | Codeship - Add-ons - Heroku Elements
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/jenkins.html
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/12/14/continuous-delivery-of-a-spring-boot-application-with-gitlab-ci-and-kubernetes/
+https://about.gitlab.com/2016/06/09/continuous-delivery-with-gitlab-and-convox/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
+
+https://about.gitlab.com/2016/11/14/idea-to-production/
+https://gitlab.com/gitlab-examples/kubernetes-deploy
+https://github.com/torchbox/gitlab-kube-deploy
+https://developer.ibm.com/code/journey/run-gitlab-kubernetes/
+
+Supported Providers
+https://docs.travis-ci.com/user/deployment
+https://docs.travis-ci.com/user/deployment/releases/
+https://docs.travis-ci.com/user/customizing-the-build#Build-Matrix | Customizing the Build - Travis CI
+https://docs.travis-ci.com/user/deployment/heroku/
+https://docs.travis-ci.com/user/build-stages/deploy-heroku/
+https://docs.travis-ci.com/user/notifications/
+
+Linux free tier
+https://circleci.com/integrations
+https://circleci.com/docs/2.0/deployment_integrations
+https://circleci.com/integrations/github
+https://circleci.com/docs/1.0/continuous-deployment-with-heroku/
+
+
+https://aws.amazon.com/codepipeline/
+https://aws.amazon.com/codedeploy/product-integrations/github
+https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
+
+https://github.com/aws/aws-codedeploy-agent
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
+http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-push-repo.html
+
+http://docs.aws.amazon.com/codecommit/latest/userguide/how-to-mirror-repo-pushes.html
+http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
+
+CloudFormation
+https://aws.amazon.com/cloudformation/aws-cloudformation-templates
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
+
+https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+https://aws.amazon.com/blogs/devops/tag/continuous-integration/
+https://aws.amazon.com/blogs/devops/tag/continuous-deployment/
+https://aws.amazon.com/blogs/compute/continuous-deployment-to-amazon-ecs-using-aws-codepipeline-aws-codebuild-amazon-ecr-and-aws-cloudformation/
+https://aws.amazon.com/devops/continuous-integration/
+https://aws.amazon.com/devops/continuous-delivery/
+https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/continuous-delivery-codepipeline.html
+aws continuous integration and deployment
+https://medium.com/aws-activate-startup-blog/five-tips-to-get-started-with-continuous-delivery-c292cfd60970
+https://github.com/awslabs/ecs-refarch-continuous-deployment
+https://www.youtube.com/watch?v=DurzNeBQ-WU
+https://www.youtube.com/watch?v=P7i01eqmzrs
+continuous integration and deployment best practices
+https://www.slideshare.net/AmazonWebServices/cicd-best-practices
+https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-continuous-delivery-and-the-aws-developer-tools
+https://www.slideshare.net/AmazonWebServices/devops-continuous-integration-and-deployment-on-aws-putting-money-back-into-your-mission-46838630
+https://www.slideshare.net/AmazonWebServices/continuous-integration-and-deployment-best-practices-on-aws-arc307-aws-reinvent-2013
+
+google cloud and google app engine continous integration and delivery
+https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes
+https://cloud.google.com/solutions/continuous-delivery-with-travis-ci#continuous_deployment_on_app_engine_flexible_environment_instances
+https://cloud.google.com/solutions/continuous-delivery-jenkins-container-engine
+https://cloud.google.com/solutions/continuous-delivery-bitbucket-app-engine
+https://cloud.google.com/solutions/continuous-delivery-with-travis-ci
+https://cloud.google.com/solutions/devops/
+https://cloud.google.com/container-registry/docs/continuous-delivery
+https://cloudplatform.googleblog.com/2017/06/spinnaker-10-continuous-delivery.html
+http://googleappengine.blogspot.com/2012/10/jenkins-meet-google-app-engine.html
+https://medium.com/google-cloud/zero-to-continuous-delivery-with-google-cloud-platform-8e3bf1312fb5
+https://medium.com/google-cloud/continuous-delivery-in-a-microservice-infrastructure-with-google-container-engine-docker-and-fb9772e81da7
+https://www.spinnaker.io/guides/tutorials/codelabs/gcp-kubernetes-source-to-prod/
+https://www.youtube.com/watch?v=05EZx3MBHSY
+https://open.blogs.nytimes.com/2017/01/12/continuous-deployment-to-google-cloud-platform-with-drone/?mcubz=3
+
+digitalocean continuous integration and deployment
+https://www.digitalocean.com/community/tags/ci-cd?type=tutorials
+https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment
+https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-pipelines-with-gitlab-ci-on-ubuntu-16-04
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+https://www.digitalocean.com/community/questions/how-to-setup-a-staging-server-that-will-then-push-to-production-server
+https://www.digitalocean.com/community/questions/setting-up-development-deploy-production-server
+
+https://docs.travis-ci.com/user/deployment/google-app-engine/
+
+https://circleci.com/docs/1.0/continuous-deployment-with-aws-ec2-container-service/
+https://discuss.circleci.com/t/deployment-to-digital-ocean-how/15380
+https://circleci.com/docs/1.0/deploy-google-app-engine/
+https://circleci.com/docs/1.0/continuous-deployment-with-google-container-engine/ | Continuous Deployment with Google Container Engine - CircleCI
+https://circleci.com/docs/1.0/google-cloud-platform/
+https://circleci.com/blog/slack-integration/
+-->
+
+<!--
+http://jtleek.com/modules/01_DataScientistToolbox
+
+https://help.github.com/enterprise/2.10/admin/guides/developer-workflow/using-webhooks-for-continuous-integration/
+
+https://www.udemy.com/continuous-delivery-on-aws/
+https://www.udemy.com/docker-continuous-integration-delivery-automate-code-build-test-deploy/
+
+https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-to-aws-s3-using-circleci-in-under-30-minutes-a8e268284098
+https://www.nodejitsu.com/documentation/features/webhooks/
+https://developer.salesforce.com/platform/heroku
+https://devops.com
+
+https://martinfowler.com
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+http://schacon.github.io/git/user-manual
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Continuous_Integration | Introduction to Software Engineering/Tools/Continuous Integration - Wikibooks, open books for an open world
+
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
+
+http://djangoci.com
+http://docs.python-guide.org/en/latest/scenarios/ci
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+-->
+
+
 <!--
 ## Website Project Management
 See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
@@ -808,11 +1018,8 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
 
 <!--
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
-https://about.gitlab.com
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
 https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
 
@@ -885,11 +1092,13 @@ https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your 
 
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
 http://www.agilemodeling.com/ | Agile Modeling (AM) Home Page: Effective Practices for Modeling and Documentation
 https://en.wikipedia.org/wiki/Agile_modeling | Agile modeling - Wikipedia
+
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
@@ -907,7 +1116,6 @@ http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To
 http://wiki.c2.com/?BusNumber | Bus Number
 
 https://en.wikibooks.org/wiki/Control_Systems/Feedback_Loops | Control Systems/Feedback Loops - Wikibooks, open books for an open world
-http://jtleek.com/modules/01_DataScientistToolbox
 
 
 https://github.com/DevOpsBootcamp/website/blob/master/Makefile
@@ -918,8 +1126,6 @@ https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 Trello
 https://upcase.com/design-for-developers-resources/principles
-
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
 https://github.com/mdo/config
 -->
