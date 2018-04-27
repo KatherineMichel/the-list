@@ -163,6 +163,8 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
 <!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+
 https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
 
 https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
@@ -181,6 +183,9 @@ https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 -->
 
 Streaming
@@ -729,6 +734,8 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
+Object-Oriented Design Patterns- Python
+
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 http://python-patterns.guide/ | Python Patterns
@@ -738,6 +745,14 @@ http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.o
 http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
 http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
 http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
 -->
 
 Python and Django Design Patterns and Algorithms
@@ -1750,6 +1765,12 @@ Mental Models
 Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
 * [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+
+<!--
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+-->
 
 Finance Blogs
 * [Michael Mauboussin](http://michaelmauboussin.com) and [Michael Mauboussin Writing](http://michaelmauboussin.com/writing.html)
