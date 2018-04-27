@@ -1,5 +1,13 @@
 # The List
 
+<!--
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+-->
+
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [Product Hunt](https://www.producthunt.com)
@@ -13,6 +21,14 @@ Product Hunt Golden Kitty Awards and Top 500
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
+
+<!--
+https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
+https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+-->
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
@@ -71,6 +87,13 @@ https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
 https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight 
 -->
 
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Guide](https://guide.freecodecamp.org)
+* [Free Code Camp Map](https://www.freecodecamp.com/map)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
 Reddit
 * [Reddit Technology Top](https://www.reddit.com/r/technology/top)
 
@@ -78,6 +101,9 @@ OpenStack
 * [OpenStack Community](https://www.openstack.org/community)
 
 <!--
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
+* [Digital Ocean Community](https://www.digitalocean.com/community)
+
 http://treehouse.github.io/installation-guides
 
 http://exercism.io
@@ -240,14 +266,48 @@ Heroku- Elements Marketplace
 * [Heroku Elements Marketplace](https://elements.heroku.com)
 * [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
 
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
 
 Container Registries and Tools
 * [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
 * [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
 * [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+
+Mozilla- Documentation
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
 Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -535,6 +595,10 @@ General
 * [Software Development Wikipedia](https://en.wikipedia.org/wiki/Software_development)
 * [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
 
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
@@ -612,6 +676,12 @@ EditorConfig (tabs versus spaces, ect) .editorconfig
 Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
 Style
@@ -869,6 +939,9 @@ https://en.wikipedia.org/wiki/Natural-language_processing
 
 https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
 
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
 Common Data Structure Operations
 https://en.wikipedia.org/wiki/Array_data_structure
 https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
@@ -1007,6 +1080,10 @@ More Learning Resources
 * [Partial Derivative](http://www.partiallyderivative.com)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
+
+<!--
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+-->
 
 Teachers
 * [Chris Albon](https://chrisalbon.com)
@@ -1301,6 +1378,31 @@ Awesome Data Science
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+GitHub Open Source Survey
+* [Open Source Survey Insights](http://opensourcesurvey.org/2017/#insights), [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
+* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+Models and Frameworks
+* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
+* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
+* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
+* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
 <!--
 Agile and Lean
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
@@ -1311,10 +1413,15 @@ Engineering Manager
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
-GitLab
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
 Site Reliability Engineering
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
@@ -1395,6 +1502,9 @@ https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-re
 https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
 https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
 -->
+
+GitLab
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
 Digital Agency Playbook, Blog, Styleguide, Templates
 * [The Figure 53 Company Handbook](http://figure53.com/handbook)
