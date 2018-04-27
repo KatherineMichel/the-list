@@ -68,11 +68,13 @@ Courses
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 * [Learn to Code the Hard Way](http://learncodethehardway.org) 
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course]
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Treehouse](https://teamtreehouse.com) and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 <!--
+Pluralsight Free Weekly Course
+
 * [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
 
 https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
@@ -728,7 +730,7 @@ Design Patterns- Gang of Four (GoF)
 Design Patterns- General
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -1068,7 +1070,7 @@ More Learning Resources
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
 Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 Analyst Group Resources
@@ -1141,7 +1143,7 @@ Front-Runners
 * [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow JS](https://js.tensorflow.org)
-* [TensorFlow Mobile](https://www.tensorflow.org/mobile), [](https://www.tensorflow.org/mobile/tflite), [TensorFlow Lite], and [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite)
+* [TensorFlow Mobile](https://www.tensorflow.org/mobile), [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite), and [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite)
 * [TensorFlow Magenta](https://magenta.tensorflow.org)
 * [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
