@@ -177,10 +177,14 @@ https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second E
 
 https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
 
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
 -->
+
+Streaming
+* [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
 
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
@@ -190,6 +194,10 @@ Languages and Frameworks
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
+
+Node and React
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
 <!--
 https://jekyllrb.com/docs/deployment-methods
@@ -532,11 +540,22 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
 
+Python- Django Carrots (Inspired Django Girls Tutorial)
+* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
+
+Python- Django- Hello Web Books
+* [Hello Web Books GitHub](https://hellowebbooks.com) and [Hello Web Books GitHub](https://github.com/hellowebbooks)
+* [Hello Web Design GitHub](https://github.com/hellowebapp/hellowebdesign)
+
+Python- Django- Hello Web App
+* [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
+* [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
+* [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
+* [Hello Web App Setup](https://hellowebapp.com/setup)
+
 General
 * [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-* [Software Development Wikipedia](https://en.wikipedia.org/wiki/Software_development)
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
 
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
@@ -648,10 +667,12 @@ SOLID
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 
 Programming Languages
 * [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
@@ -721,9 +742,6 @@ http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
 
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-Design
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
@@ -941,6 +959,16 @@ https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
 -->
 
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+
 Machine Learning and Statistical Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
 * [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
@@ -1024,8 +1052,21 @@ More Learning Resources
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+
+Analyst Group Resources
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
 <!--
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
+
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
 -->
 
 Teachers
@@ -1337,6 +1378,7 @@ Interesting Curated Learning Resources- General
 * [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 
+
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
@@ -1374,13 +1416,13 @@ Open Source
 Models and Frameworks
 * [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
 * [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [Capability Maturity Model Integration Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 * [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
 * [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
 <!--
 https://martinfowler.com/bliki/MaturityModel.html
-https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration | Capability Maturity Model Integration - Wikipedia
 
 https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
 https://github.com/opensourceway/open-decision-framework
