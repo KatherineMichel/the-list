@@ -24,6 +24,8 @@ Google Docs Voice
 
 * [Anki](https://apps.ankiweb.net)
 
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
+
 The 4ps
 https://www.cleverism.com/understanding-marketing-mix-concept-4ps
 https://en.wikipedia.org/wiki/Marketing_mix
@@ -113,22 +115,7 @@ http://distributionhacks.com/post-startup-launch-checklist | Post Launch Checkli
 https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from Reality | Edelman Digital
 -->
 
-
-## Look At Daily or Monthly
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-<!--
-https://www.hbs.edu
--->
-
-
 ## Mind Tools
-
-* [Charlie Rose](http://www.charlierose.com)
-* [This American Life](http://www.thisamericanlife.org)
 
 Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
@@ -258,6 +245,27 @@ hobbies, habits
 
 
 <!--
+Joni Trythall
+http://jonibologna.com/ | Joni Bologna’s Blog
+https://twitter.com/JoniTrythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+
+http://yupgup.com/ | Design for Events & Communities - YupGup
+https://medium.com/@helloyupgup
+https://twitter.com/helloyupgup/lists/community-folks/members | List members
+https://wiggle.work/blog/hello-introducing-wiggle-work-20180129 | Hello! Introducing Wiggle Work | Wiggle Work
+
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+-->
+
+<!--
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
@@ -272,6 +280,8 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
 
+
+
 <!--
 http://thenewstack.io
 
@@ -282,16 +292,6 @@ Bitnami Stacksmith
 * [Bitnami Stacksmith](https://stacksmith.bitnami.com)
 
 https://github.com/kelseyhightower
--->
-
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature
 -->
 
 <!--
@@ -385,12 +385,6 @@ http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
 https://www.gnu.org/software/make/manual/make.html
 -->
 
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
 
 ## Developer and Team Success
 
@@ -417,18 +411,8 @@ Microsoft- JavaScript
 https://github.com/learn-javascript-courses/learn-javascript | learn-javascript-courses/learn-javascript: Learn JavaScript with Eric Elliott: An online course series for future application builders.
 -->
 
-Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
-* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Map](https://www.freecodecamp.com/map)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-
 <!--
+* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) 
 https://github.com/freeCodeCamp/guides | freeCodeCamp/guides: A collection of easy-to-understand guides to programming tools
 
 https://medium.freecodecamp.org/tagged/events
@@ -512,26 +496,6 @@ https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 * [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
-<!--
-Joni Trythall
-http://jonibologna.com/ | Joni Bologna’s Blog
-https://twitter.com/JoniTrythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-
-http://yupgup.com/ | Design for Events & Communities - YupGup
-https://medium.com/@helloyupgup
-https://twitter.com/helloyupgup/lists/community-folks/members | List members
-https://wiggle.work/blog/hello-introducing-wiggle-work-20180129 | Hello! Introducing Wiggle Work | Wiggle Work
-
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
--->
 
 ## Interesting Curated Learning Resources- General
 
@@ -552,6 +516,15 @@ Lists
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
+* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
+
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+
 https://github.com/atav1k/product-modeling | atav1k/product-modeling
 https://github.com/thoughtbot/apprenticeship
 https://github.com/shovanch/fullstack-webdev-path | shovanch/fullstack-webdev-path: 📚 A learning path for Full-stack web development , Fork this template and start learning
@@ -562,12 +535,6 @@ http://ashleymcnamara.github.io/learn_to_code/
 
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 
-https://www.sideprojectchecklist.com/
-https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md
-
-https://github.com/LisaDziuba/Marketing-for-Engineers | LisaDziuba/Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product.
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 
 https://github.com/Kristories/awesome-guidelines
 https://github.com/mrmrs/styleguide-checklist
@@ -586,7 +553,6 @@ https://frontendmasters.com/books/front-end-handbook/2017/tools/http.html
 
 https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: A list of everything that *could* go in the head of your document
 
-https://github.com/gurugio/lowlevelprogramming-university
 
 https://github.com/jlevy/og-osx-shortcuts
 https://github.com/jaywcjlove/awesome-mac
@@ -595,10 +561,6 @@ https://github.com/herrbischoff/awesome-osx-command-line
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 
-
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 -->
 
@@ -766,9 +728,6 @@ https://cloud.google.com/source-repositories/docs
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) 
-* [Digital Ocean Community](https://www.digitalocean.com/community)
-
 Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
 
@@ -819,8 +778,6 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
-https://medium.com/@limedaring/why-im-selling-weddinglovely-my-eight-year-old-company-with-62-000-revenue-in-2017-69fb56c8929f | Why I’m selling WeddingLovely, my eight year old company (with $62,000 revenue in 2017)
-
 https://hwapy3.herokuapp.com/ | Homepage - My Hello Web App Project
 
 https://hellowebbooks.com/learn-django/ | Learn how to build your first web app - Hello Web Books
@@ -840,11 +797,21 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 <!--
 ## Website Project Management
 See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
+
+https://github.com/red-hat-people-team | Red Hat People team
+
+ooda loop - Google Search
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 -->
 
-## Digital Agencies and Code Philosophies
 
 <!--
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
 https://about.gitlab.com
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
 https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
@@ -853,6 +820,16 @@ https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How wor
 https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
 https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://thoughtbot.com/playbook
 https://github.com/thoughtbot/guides
@@ -861,16 +838,32 @@ https://github.com/thoughtbot/guides/tree/master/protocol
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 https://robots.thoughtbot.com/tags/git
 
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+
 https://github.com/hypenotic/hypelabs
 
 https://www.thoughtworks.com/
 https://robots.thoughtbot.com/running-acceptance-with-review-apps
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+http://todogroup.org
+https://github.com/todogroup
 -->
 
-<!--
-https://opensource.google.com/docs/releasing
-https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
 
+
+
+
+## Digital Agencies and Code Philosophies
+
+<!--
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 http://principlesofchaos.org/ | Principles of Chaos Engineering
 http://stevesouders.com/hpws
@@ -878,10 +871,6 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
-
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
 * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
@@ -892,17 +881,9 @@ https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 
   
 
 
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
-
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
@@ -933,18 +914,10 @@ https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
 * [Getting Started with Dot Files](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-
 * [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
 
 Trello
 https://upcase.com/design-for-developers-resources/principles
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
 
@@ -952,11 +925,6 @@ https://github.com/mdo/config
 -->
 
 
-https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
-
-<!--
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
--->
 
 ## Object-Oriented Design Patterns- Python
 
