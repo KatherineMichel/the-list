@@ -337,13 +337,7 @@ OS X Terminal
 
 http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x		
 					  		  
-		  		  
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-iTerm2		
-* [iTerm2](https://www.iterm2.com)		
-* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+Dash, iTerm2
 
 https://kapeli.com/dash_guide#integrationPlugins | Dash User Guide - Kapeli
 https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash | Dash - Visual Studio Marketplace
@@ -446,9 +440,6 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
 
-Apple
-* [Apple Support](https://support.apple.com)
-
 Arm, Intel
 
 <!--
@@ -473,32 +464,6 @@ https://www.microsoft.com/en-us/research/ | Microsoft Research – Emerging Tech
 Mozilla
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
 * [Mozilla Support](https://support.mozilla.org)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-
-Mozilla- Documentation
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-* [Apple Open Source](https://developer.apple.com/opensource)
 
 
 #### Browsers, Layout Engines, Developer Tools
@@ -749,16 +714,8 @@ https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
 * [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 -->
 
-#### Heroku
-
 <!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
 https://dashboard.heroku.com/apps | Personal apps | Heroku
-https://devcenter.heroku.com/articles/git | Deploying with Git | Heroku Dev Center
 
 * [Heroku Examples](https://github.com/heroku-examples)
 https://github.com/heroku/heroku-apps
@@ -816,19 +773,8 @@ Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
 
 
-#### Deployment and Git Integration
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
 Google Cloud, App Engine and GitHub
 * [Deploying to Google Cloud via GitHub Push](http://googlecloudplatform.blogspot.com/2014/04/using-github-for-push-to-deploy.html) 
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
  
 ## Django Learning Resources
 
