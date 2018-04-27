@@ -233,8 +233,6 @@ Stack
 * [Built With](http://builtwith.com) 
 
 Hosting Blogs
-* [GitHub Blog](https://github.com/blog)
-* [GitHub Engineering](https://githubengineering.com)
 * [Heroku Blog](https://blog.heroku.com)
 * [Amazon Web Services New](https://aws.amazon.com/new)
 * [AWS Blog](https://aws.amazon.com/blogs)
@@ -1385,6 +1383,22 @@ Google Developers- Code
 Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
 
+<!--
+https://opensource.google.com/docs/releasing
+https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
+
+https://opensource.google.com/docs/why/ | Why Open Source? – opensource.google.com
+
+https://opensource.google.com/projects/explore/featured
+https://opensource.googleblog.com/2017/09/making-google-developers-documentation.html | Making the Google Developers Documentation Style Guide Public | Google Open Source Blog
+https://developers.googleblog.com/2017/03/a-new-home-for-google-open-source.html
+
+Google Open Source Report Card
+https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
+Groupon Open Source Report Card
+https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
+-->
+
 GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
@@ -1402,6 +1416,16 @@ Models and Frameworks
 * [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
 * [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+<!--
+https://martinfowler.com/bliki/MaturityModel.html
+https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration | Capability Maturity Model Integration - Wikipedia
+
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
+https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
+-->
 
 <!--
 Agile and Lean
@@ -1422,6 +1446,29 @@ Atlassian Agile
 * [Atlassian Agile](https://www.atlassian.com/agile)
 * [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
 * [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Comparison](https://about.gitlab.com/comparison)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+GitHub
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [GitHub Blog](https://github.com/blog)  
+* [GitHub Engineering](https://githubengineering.com)  
+* [GitHub Updates](https://github.com/updates)
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
 
 Site Reliability Engineering
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
