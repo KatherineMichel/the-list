@@ -13,6 +13,7 @@ Look at Daily
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Indie Hackers](https://www.indiehackers.com)
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
@@ -1320,6 +1321,22 @@ Awesome Data Science
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
+Interesting Curated Learning Resources- General
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
@@ -1586,6 +1603,111 @@ Curated Blogs and Podcasts
 
 Tim Ferris
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
+* [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
+
+Tim Ferris
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+
+Seneca
+* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
+* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
+
+<!--
+https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/ | On The Shortness of Life: An Introduction to Seneca | The Blog of Author Tim Ferriss
+-->
+
+Learning
+* [Review and Summary of A Mind for Numbers](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
+* ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+Hooked
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+
+<!--
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+
+http://humanetech.com/ | Center for Humane Technology
+http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
+
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://captology.stanford.edu/ | Persuasive Tech
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
+Andy Grove's 100 point guide to being a better manager
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+-->
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
+Productivity- Marshall Goldsmith
+* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw) and ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Productivity- Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+Productivity- Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+Productivity- Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+Productivity- The Art of Focus
+* [Index](https://bitcq.com/torrent/3196010)
+
+Productivity- Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
+
+<!--
+https://www.health.harvard.edu/topics/improving-memory | Improving Memory - Harvard Health
+http://www.worldmemorychampionships.com/ | Welcome to the 26th World Memory Championships 2017 - The World Memory Championships
+
+Batching
+https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
+https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
+https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
+https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
+https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
+https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
+https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
+https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
+https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
+https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+
+http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
+https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
+http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
+http://calnewport.com/blog/
+
+https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
+https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
+-->
+
+Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
+* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
 
 Finance Blogs
 * [Michael Mauboussin](http://michaelmauboussin.com) and [Michael Mauboussin Writing](http://michaelmauboussin.com/writing.html)
@@ -1638,45 +1760,19 @@ Carlota Perez Framework
 * [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surve Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
 * [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
 
+The Elements of Value
+* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
+<!--
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
+
+The 4ps
+https://www.cleverism.com/understanding-marketing-mix-concept-4ps
+https://en.wikipedia.org/wiki/Marketing_mix
+-->
+
 Financial Ratio
 * [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-Productivity- Marshall Goldsmith
-* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw) and ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Productivity- Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-Productivity- Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-Productivity- Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Productivity- The Art of Focus
-* [Index](https://bitcq.com/torrent/3196010)
-
-Productivity- Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Pattern
-* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
-
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
-* [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
-* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
