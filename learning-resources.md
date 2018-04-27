@@ -1,10 +1,48 @@
 # Learning Resources
 
 <!--
+Back Pain Mind-Body Connection
+http://www.correctus.se/dokument/DrSarno-en.pdf | DrSarno-en.pdf
+https://www.amazon.com/gp/product/B01M5FH9PM/?th=1
+
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
+http://humanetech.com/ | Center for Humane Technology
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://captology.stanford.edu/ | Persuasive Tech
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
+
+#### Growth, Marketing, and Content Resources
+
+Google Docs Voice
+
+* [Anki](https://apps.ankiweb.net)
+
+The 4ps
+https://www.cleverism.com/understanding-marketing-mix-concept-4ps
+https://en.wikipedia.org/wiki/Marketing_mix
+
+Major Conferences
+https://www.cebit.de/en/ | CEBIT – Europe's Business Festival for Innovation and Digitization
+https://www.mobileworldcongress.com/ | Home | Mobile World Congress
+https://www.ces.tech/ | CES - The Global Stage for Innovation - CES 2018
+
+See Events
+http://shortyawards.com/ | The Shorty Awards - Honoring the best of social media
+https://www.youtube.com/channel/UCa5-AIw8jipYOtRmGfYI7uw | Shorty Awards - YouTube
+https://www.streamys.org/ | The Streamy Awards
+http://webbyawards.com
+
+
 * [Cloud9](https://c9.io/katherinemichel)
 
 Startup Engineering MOOC
-
 Developer Surveys
 Unix, Linux, Ubuntu, Bash, Shell and Bash Builtins, Mac OS X, Sha-Bang/Shebang, PyCharm, EditorConfig, Makefile
 Encoding, Dot Files
@@ -18,33 +56,7 @@ https://developers.google.com/web/showcase
 
 https://html5boilerplate.com/
 
-* [Front-End Development](#front-end-development) 
-* [CSS Helpers](#css-helpers)
-* [Testing and Performance](#testing-and-performance)
-* [JavaScript](#javascript)
-* [AJAX, jQuery, JSON](#ajax-jquery-json)
-  * [JavaScript Framework](#javascript-framework)
-  * [JavaScript Tools](#javascript-tools)
-  
-Microsoft, ASP.NET- All
-DNS, SSL, Wildcard
-
-* [Servers, Databases, Architectures](#servers-databases-architectures)
-* [Apache, SQL, Nginx](#apach-sql-nginx) 
-* [Servers and Databases](#servers-and-databases)
-
-
 https://lifehacker.com/ | Lifehacker - Tips, tricks and downloads for getting things done
-
-See Events
-http://webbyawards.com
-shorty awards
-
-Major Conferences
-https://www.cebit.de/en/ | CEBIT – Europe's Business Festival for Innovation and Digitization
-https://www.mobileworldcongress.com/ | Home | Mobile World Congress
-https://www.ces.tech/ | CES - The Global Stage for Innovation - CES 2018
-
 
 New
 https://www.digitalocean.com/products/storage/object-storage
@@ -66,8 +78,6 @@ http://grafana.org
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 
-User Interfaces
-
 Open Company
 Digital Agencies and Code Philosophies
 DevOps
@@ -86,8 +96,7 @@ https://developer.chrome.com/extensions/getstarted
 
 https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
 
-https://app.pluralsight.com/library/browse | Browse | Pluralsight
-					
+
 https://www.udemy.com/js-and-react-for-devs
 
 https://www.codecademy.com/courses/learn-the-command-line				
@@ -106,14 +115,6 @@ https://edelmandigital.com/trends/ | 2018 Trends Report - Separating Hype from R
 
 
 ## Look At Daily or Monthly
-
-<!--
-https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
-https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
-
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
--->
 
 Nuzzel Custom Feeds
 * [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
@@ -140,9 +141,6 @@ Tim Ferris
 Hooked
 * [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 
-Neuorplasticity
-* [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
-
 Learning
 * [Review and Summary of A Mind for Numbers](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
 * ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
@@ -155,12 +153,6 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
 Andy Grove's 100 point guide to being a better manager
 https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
 https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
@@ -174,12 +166,6 @@ https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/ 
 https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
 
 https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
-
-http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
-http://humanetech.com/ | Center for Humane Technology
-https://www.wired.com/story/phone-addiction-formula/ | WIRED
-http://captology.stanford.edu/ | Persuasive Tech
-http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
 
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
 
@@ -272,8 +258,6 @@ hobbies, habits
 
 
 <!--
-http://thenewstack.io
-
 Analysis
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
@@ -288,9 +272,9 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
 
-
-
 <!--
+http://thenewstack.io
+
 Kubernetes
 * [Kel](http://www.kelproject.com)
 
@@ -299,6 +283,7 @@ Bitnami Stacksmith
 
 https://github.com/kelseyhightower
 -->
+
 
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
@@ -461,24 +446,10 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
 
-
-## Standards and Documentation
-
-https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
-
-Linux and Darwin Code
-* [Linux Kernel GitHub](https://github.com/torvalds/linux)
-* [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
-
-Arm, Intel, Linux Kernel
-* [Arm](https://developer.arm.com)
-* [Intel](https://newsroom.intel.com)
-* [Linux Kernel Mailing List](https://lkml.org)
-
-
 Apple
 * [Apple Support](https://support.apple.com)
 
+Arm, Intel
 
 <!--
 https://cloud.google.com/source-repositories/pricing
@@ -1091,9 +1062,6 @@ https://github.com/crista/exercises-in-programming-style | crista/exercises-in-p
 https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
 
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-Python
-https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 -->
 
 ## UML
@@ -1130,43 +1098,6 @@ https://www.uml-diagrams.org/multiplicity.html | UML Multiplicity and Collection
 django uml - Google Search
 -->
 
-
-
-## Algorithms and Data Structures
-
-<!--
-https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
-
-https://github.com/search?utf8=%E2%9C%93&q=machine+learning+cheat+sheet&type=
-https://github.com/search?utf8=%E2%9C%93&q=data+science+cheat+sheet&type=
-https://github.com/search?utf8=%E2%9C%93&q=python+cheat+sheet&type=
-
-Python for Big Data
-https://www.xmind.net/m/WvfC
-
-Mathworks- Machine Learning Summarized in One Picture
-https://www.mathworks.com/help/stats/machine-learning-in-matlab.html
-
-https://www.datasciencecentral.com/profiles/blogs/20-cheat-sheets-python-ml-data-science | 20 Cheat Sheets: Python, ML, Data Science, R, and More - Data Science Central
-https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165 | New Machine Learning Cheat Sheet by Emily Barry - Data Science Central
-
-http://www.datasciguide.com/contenttype/cheat-sheets/?post_types=content | Cheat Sheets | Content Types | Data Sci Guide
-
-https://github.com/kailashahirwar/cheatsheets-ai
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
-
-
-Machine Learning Algos
-https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html | Top 10 Machine Learning Algorithms for Beginners
-https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11 | A Tour of The Top 10 Algorithms for Machine Learning Newbies
-https://www.datasciencecentral.com/profiles/blogs/the-10-algorithms-machine-learning-engineers-need-to-know | The 10 Algorithms Machine Learning Engineers Need to Know - Data Science Central
-https://www.datasciencecentral.com/profiles/blogs/top-10-machine-learning-algorithms | Top 10 Machine Learning Algorithms - Data Science Central
-http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
--->
-
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
 Bracket Notation and Zero-Based Numbering
 * [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
@@ -1233,6 +1164,9 @@ https://www.coursera.org/learn/algorithms-part1 | Algorithms, Part I | Coursera
 https://www.coursera.org/learn/python-data | Python Data Structures | Coursera
 
 https://www.udacity.com/course/programming-foundations-with-python--ud036 | Python Programming Course | Udacity
+
+Python
+https://www.udacity.com/course/design-of-computer-programs--cs212 | Design of Computer Programs | Udacity
 
 
 https://github.com/anu0012/awesome-computer-science-opportunities | anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
@@ -1658,142 +1592,4 @@ Data Science- Forums
 https://www.youtube.com/watch?v=FkHWKq86tSw | MIT 6.S191: Faster ML Development with TensorFlow - YouTube
 
 https://docs.google.com/spreadsheets/d/1eMVYpGGCYz4-k0jjAECe189z-nZYWC9b_HwHTYZPAqA/edit#gid=0 | 2018 6.S191 Lecture 3 References - Google Sheets
--->
-
-DataCamp
-* [DataCamp Projects](https://www.datacamp.com/projects)
-
-<!--
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intermediate-python-for-data-science
-
-https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
-
-https://twitter.com/search?f=users&q=datacamp&src=typd | datacamp - Twitter Search
-https://twitter.com/willems_karlijn | Karlijn Willems (@willems_karlijn) | Twitter
-https://www.datacamp.com/instructors/jasonamyers | Jason Myers | DataCamp
--->
-
-<!--
-https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679 | Reviews for Creative Applications of Deep Learning with TensorFlow from Kadenze | Class Central
-https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral&aID=1114009&signedin=true#_=_ | Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze
--->
-
-<!--
-* [Scikit-Learn Wikipedia](http://en.wikipedia.org/wiki/Scikit-learn)
-* [NumPy Wikipedia](http://en.wikipedia.org/wiki/NumPy)
-* [MatPlotLib Wikipedia](http://en.wikipedia.org/wiki/Matplotlib)
-* [Pandas Wikipedia](http://en.wikipedia.org/wiki/Pandas_(software))
--->
-
-Python- Statistics Stack- MatPlotLib Reference
-* [MatPlotLib Reference](http://matplotlib.org/contents.html)  
-* [MatPlotLib General Index](http://matplotlib.org/genindex.html)  
-* [MatPlotLib Module Index](http://matplotlib.org/py-modindex.html)  
-* [MatPlotLib API](http://matplotlib.org/api/index.html )  
-* [MatPlotLib User's Guide](http://matplotlib.org/users/index.html)  
-* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)  
-* [MatPlotLib Reference PDF](http://matplotlib.org/Matplotlib.pdf)  
-* [MatPlotLib Gallery](http://matplotlib.org/gallery.html)  
-* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html)  
-* [MatPlotLib Examples](http://matplotlib.org/examples/index.html)  
-* [MatPlotLib PyPlot Command Summary](http://matplotlib.org/api/pyplot_summary.html)  
-* [MatPlotLib Toolkits](http://matplotlib.org/mpl_toolkits/index.html) 
-
-* [MatPlotLib Excel Tools Dependency (See also MatPlotLib Toolkits) PyPi](https://pypi.python.org/pypi/xlwt)  
-
-<!--
-Resources 
-http://matplotlib.org/resources/index.html 
-External Resources 
-http://matplotlib.org/faq/index.html  
--->
-
-<!--
-https://github.com/spyder-ide/spyder/issues/3275 | Print all keyboard shortcuts to cheatset · Issue #3275 · spyder-ide/spyder
--->
-
-<!--
-https://conda.io/docs/user-guide/getting-started.html | Getting started with conda — Conda documentation
-https://anaconda.org/anaconda/anaconda-navigator | Anaconda Navigator :: Anaconda Cloud
-https://anaconda.org/anaconda/repo | Package repository for anaconda :: Anaconda Cloud
-https://conda.io/docs/user-guide/tasks/manage-pkgs.html | Managing packages — Conda documentation
--->
-
-<!--
-* [NumPy Reference PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf) 
--->
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics)
-* [SymPy](http://sympy.org/en/index.html), [SymPy Wikipedia](http://en.wikipedia.org/wiki/SymPy), and [SymPy GitHub](https://github.com/sympy/sympy)  
-* [SymPy Docs](http://docs.sympy.org/latest/index.html)  
-* [SymPy Features](http://www.sympy.org/en/features.html)  
-
-Python- Statistics Stack- StatsModel
-* [StatsModel](http://statsmodels.sourceforge.net) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Main Features PyPi](https://pypi.python.org/pypi/statsmodels)  
-* [StatsModel Docs Homepage](http://statsmodels.sourceforge.net/stable/index.html)  
-* [StatsModel General Index](http://statsmodels.sourceforge.net/stable/genindex.html)  
-* [StatsModel Docs](http://statsmodels.sourceforge.net/documentation.html)  
-* [StatsModel Gallery](http://statsmodels.sourceforge.net/stable/examples/index.html)  
-
-Python- Statistics Stack- GGPlot
-* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-* [GGPlot Docs](http://ggplot.yhathq.com/docs/index.html) 
-
-Hosting
-* [Paperspace](https://www.paperspace.com) and [Paperspace Twitter](https://twitter.com/HelloPaperspace)
-* [Crestle](https://www.crestle.com)
-* [FloydHub](https://www.floydhub.com)
-
-<!--
-https://paperspace.zendesk.com/hc/en-us/articles/216609067-How-does-Paperspace-billing-work-Monthly-Hourly- | How does Paperspace billing work? (Monthly & Hourly) – Help Center Home
--->
-
-<!--
-https://research.google.com/colaboratory/faq.html | Colaboratory – Google
-
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d | Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium
-https://twitter.com/deeplearningtr | Deep Learning Türkiye (@deeplearningtr) | Twitter
-https://medium.com/@_NicT_/colaboratorys-free-gpu-72ebc9272933 | Colaboratory’s Free GPU – Nicholas Teague – Medium
--->
-
-<!--
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
--->
-
-Google History of Machine Learning
-* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
-
-Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
-
-Andrew Ng
-* [Landing AI](https://www.landing.ai)
-* ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
-
-<!--
-https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
-https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
-
-Some Wow Research Results
-https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
-
-https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
-https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
-http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
-https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
-https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
-
-Screenshot to Code in Keras
-https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
-https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
-https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
 -->
