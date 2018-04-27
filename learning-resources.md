@@ -922,16 +922,6 @@ https://robots.thoughtbot.com/running-acceptance-with-review-apps
 -->
 
 <!--
-Developer Survey
-https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
-https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
-https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
-
-* [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-
-
 https://opensource.google.com/docs/releasing
 https://opensource.google.com/docs/foundations/ | Transferring Project Management to Open Source Foundations – opensource.google.com
 
@@ -942,11 +932,6 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
-
-https://www.atlassian.com/agile
-https://www.atlassian.com/agile/code-reviews
-
-* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
 https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
 https://docs.gitlab.com/ee/workflow/
