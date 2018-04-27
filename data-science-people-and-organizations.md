@@ -249,3 +249,42 @@ https://yahooeng.tumblr.com/post
 https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
 -->
+
+<!--
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+-->
+
+Google History of Machine Learning
+* [Google Cloud "Explore the history of machine learning"](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning)
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com), [A16Z AI Blog Post](http://a16z.com/2017/05/12/ai-playbook), and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Frank Chen: The Promise of Artificial Intelligence](https://vimeo.com/215926017)
+
+Andrew Ng
+* [Landing AI](https://www.landing.ai)
+* ["Revitalizing manufacturing through AI"](https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814)
+
+<!--
+https://www.youtube.com/watch?v=21EiKfQYZXc | Andrew Ng: Artificial Intelligence is the New Electricity - YouTube
+https://blog.keras.io/the-future-of-deep-learning.html | The future of deep learning
+
+Some Wow Research Results
+https://www.arxiv-vanity.com/papers/1712.01208v1/ | The Case for Learned Index Structures – Arxiv Vanity
+
+https://www.youtube.com/watch?v=pPN8d0E3900 | Capsule Networks (CapsNets) – Tutorial - YouTube
+https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b | Understanding Hinton’s Capsule Networks. Part I: Intuition.
+http://bigthink.com/robby-berman/buh-bye-traditional-neural-networks-hello-capsules | Capsule Networks May Replace Neural Networks in AI | Big Think
+https://twitter.com/jhagel/status/926819589610078208 | John Hagel on Twitter: "Neural nets vs. "capsule" networks - reflects my belief creation spaces will be a key driver of accelerated learning https://t.co/gpL98OIZNM"
+https://www.google.com/search?ei=Ct39WempK8ecjwSdhYiYDw&q=Sara+Sabour+capsules&oq=Sara+Sabour+capsules&gs_l=psy-ab.3...4904.6038.0.6139.9.9.0.0.0.0.176.861.1j6.7.0....0...1.1.64.psy-ab..2.5.657...0j0i22i30k1j33i160k1j33i21k1.0.4r4bWYhkccU | Sara Sabour capsules - Google Search
+
+Screenshot to Code in Keras
+https://twitter.com/EmilWallner/status/951093523310313472 | Emil Wallner on Twitter: "I’m thrilled to share my latest deep learning project: Turning a design mockup into code. 💻 🤖 1) Give the trained neural network a design i… https://t.co/zv1lSa3SI8"
+https://github.com/emilwallner/Screenshot-to-code-in-Keras | emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | Turning Design Mockups Into Code With Deep Learning - FloydHub Blog
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/ | How to Use Small Experiments to Develop a Caption Generation Model in Keras - Machine Learning Mastery
+-->
