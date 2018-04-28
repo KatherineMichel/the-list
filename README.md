@@ -65,13 +65,15 @@ MOOCs
 Courses
 * [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
-* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 * [Learn to Code the Hard Way](http://learncodethehardway.org) 
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+In Particular
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
+* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 
 <!--
 Pluralsight Free Weekly Course
@@ -105,8 +107,6 @@ OpenStack
 * [OpenStack Community](https://www.openstack.org/community)
 
 <!--
-http://treehouse.github.io/installation-guides
-
 http://exercism.io
 
 http://www.100daysofcode.com/
@@ -391,10 +391,6 @@ Learning Platforms (See also others)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
-<!--
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
--->
-
 Python Trending, Topics, Forums
 * [GitHub Trending: python](https://github.com/trending/python)
 * [GitHub Topic: python](https://github.com/topics/python)
@@ -507,6 +503,7 @@ http://runestoneinteractive.org/library.html | Runestone Interactive Titles
 
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
+https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
 
 https://dbader.org/blog | Python Tutorials – dbader.org
 
@@ -827,6 +824,11 @@ Object Oriented Programming
 SOLID
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
+<!--
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html | The Clean Architecture | 8th Light
+-->
+
 Concepts
 * [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -857,17 +859,11 @@ Programming Languages
 Programming Language Comparisons
 Category "Programming language comparisons"
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+
 Comparison of basic instructions of programming languages
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
 Comparison of programming languages (mapping)
 Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
 -->
 
 Programming Language Leveling Up and Comparisons
@@ -963,6 +959,28 @@ Probability
 * [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
 * [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
+
+<!--
+Khan Academy
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
+
+https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
+
+https://www.khanacademy.org/math/ap-statistics
+https://www.khanacademy.org/math/statistics-probability
+
+SQL
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+-->
+
 Linear Algebra and Calculus- wikipedia
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
 * [Numerical Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
@@ -1001,22 +1019,6 @@ https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9
 
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
-
-https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
-
-https://www.khanacademy.org/computing/computer-science | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
-
-SQL
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
 https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
 https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
@@ -1427,6 +1429,10 @@ Stanford Groups
 Karpathy (Stanford)
 * ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+<!--
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+-->
 
 Python for Data Science Books- General
 * [Jake VanderPlas Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) and [Jake VanderPlas Python Data Science Handbook GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
