@@ -316,6 +316,12 @@ JavaScript Scene
 * ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
+
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Lanyrd](http://lanyrd.com)
 * [PaperCall](https://www.papercall.io)
@@ -401,46 +407,60 @@ Wiki Books
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 <!--
-https://en.wikipedia.org/wiki/Python_(programming_language)
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
+https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_Object_Oriented_Programming_in_Python_3 | Non-Programmer's Tutorial for Python 3/Intro to Object Oriented Programming in Python 3 - Wikibooks, open books for an open world
 
 https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 
-
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 -->
 
-Tutorials- Looking At
-* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
+Eric Matthes
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
-* [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
-* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
-* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
+-->
+
+Google Python Class
+* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
+
+<!--
+https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
+
 https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers		
 https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
 -->
 
+Free Code Camp Python
+* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
+
+<!--
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+-->
+
+Tutorials- Looking At
+* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
+* [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
+* [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
+* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
+* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
+
+
 <!--
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
-
-https://github.com/fluentpython | Fluent Python
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-coding-challenges: freeCodeCamp's stand-alone Python coding challenges
-https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
 
 https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
 
@@ -470,17 +490,24 @@ http://interactivepython.org/runestone/default/user/login?_next=/runestone/defau
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
 
-http://www.ironpythoninaction.com
-https://github.com/RafeKettler
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+http://interactivepython.org/runestone/static/pythonds/BasicDS/ImplementinganUnorderedListLinkedLists.html | 3.21. Implementing an Unordered List: Linked Lists — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
+
+https://runestone.academy/runestone/static/pythonds/Introduction/ControlStructures.html | 1.10. Control Structures — Problem Solving with Algorithms and Data Structures
+
+http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/SpecialWaystoExecutePythoninthisBook.html | 1.4. Executing Python in this Book — How to Think like a Computer Scientist: Interactive Edition
+http://interactivepython.org/courselib/static/thinkcspy/Functions/mainfunction.html | 6.7. Using a Main Function — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/Appendices/PrecedenceTable.html#operator-summary | Operator precedence table — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/SimplePythonData/UpdatingVariables.html | 2.11. Updating Variables — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
+http://runestoneinteractive.org/library.html | Runestone Interactive Titles
 
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 
-http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
-
-http://letspy.tech/ | Home
 https://dbader.org/blog | Python Tutorials – dbader.org
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
@@ -502,9 +529,6 @@ https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
-http://inventwithpython.com/cracking/ | Cracking Codes with Python
 -->
 
 Python Tutors- Regular
@@ -538,6 +562,12 @@ Python Websites and Newsletters
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
 
+<!--
+https://github.com/RafeKettler
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+-->
+
 Python- Books
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
@@ -545,6 +575,12 @@ Python- Books
 * [Allen Downey: O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
 * [Allen Downey: O'Reilly Think Python 2 GitHub](https://github.com/AllenDowney/ThinkPython2) 
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+
+<!--
+https://github.com/fluentpython | Fluent Python
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+-->
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
@@ -989,6 +1025,17 @@ https://minireference.com/static/tutorials/conceptmap.pdf
 -->
 
 <!--
+https://betterexplained.com/
+
+An Intuitive Guide to Linear Algebra
+https://betterexplained.com/articles/linear-algebra-guide
+A Programmer's Intuition for Matrix Multiplication
+https://betterexplained.com/articles/matrix-multiplication
+Vector Calculus: Understanding the Cross Product
+https://betterexplained.com/articles/cross-product
+Vector Calculus: Understanding the Dot Product 
+https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product
+
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
@@ -1146,6 +1193,30 @@ Kaggle
 * [Kaggle Kernels](https://www.kaggle.com/kernels) 
 * [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 * [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
+<!--
+https://www.datacamp.com/community/tags/kaggle | kaggle
+
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+
+https://github.com/Kaggle | Kaggle
+http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
+https://www.kaggle.com/getting-started
+
+https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
+
+https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+
+Kaggle National Data Science Bowl
+https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
+https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity. Purpose. | Presented by Booz Allen and Kaggle
+
+https://github.com/EliotAndres/kaggle-past-solutions
+http://ndres.me/kaggle-past-solutions
+-->
 
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
@@ -1371,6 +1442,16 @@ https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
 https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+
+http://greenteapress.com/wp/think-python/
+Think Stats: Probability and Statistics for Programmers [Digital]
+http://greenteapress.com/thinkstats/
+https://www.amazon.com/gp/product/1449307116/
+Think Bayes
+http://greenteapress.com/wp/think-bayes/
+https://www.amazon.com/gp/product/1449370780
+Stats in a Nutshell 
+https://www.amazon.com/gp/product/1449316824
 
 http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
 
