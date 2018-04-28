@@ -401,6 +401,14 @@ Wiki Books
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 <!--
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
+
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+
+
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 -->
 
@@ -413,6 +421,91 @@ Tutorials- Looking At
 * [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
+
+<!--
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers		
+https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
+-->
+
+<!--
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
+https://github.com/fluentpython | Fluent Python
+
+https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+
+https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges | freeCodeCamp/python-coding-challenges: freeCodeCamp's stand-alone Python coding challenges
+https://freecodecamp.github.io/python-coding-challenges/ | python-coding-challenges
+
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://www.fullstackpython.com/best-python-resources.html
+
+https://github.com/fullstackpython | Full Stack Python
+https://github.com/fullstackpython/book-code-examples | fullstackpython/book-code-examples: Code from Full Stack Python books, such as Deploying Flask Web Applications.
+
+http://www.tutorialspoint.com/python/ | Python Tutorial
+https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+
+https://www.digitalocean.com/community/tutorials?q=python
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorial_series/django-development
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+
+* [Interactive Python](http://www.interactivepython.org)
+
+http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
+
+How to Think Like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/index.html
+
+http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+
+http://www.ironpythoninaction.com
+https://github.com/RafeKettler
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+https://python.swaroopch.com
+http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
+
+http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
+
+http://letspy.tech/ | Home
+https://dbader.org/blog | Python Tutorials – dbader.org
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://nostarch.com/crackingcodes | Cracking Codes with Python | No Starch Press
+http://inventwithpython.com/cracking/ | Cracking Codes with Python
+-->
 
 Python Tutors- Regular
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
@@ -429,10 +522,6 @@ Python Tutors- Regular
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-<!--
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
--->
 
 Python Tutors- YouTube
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
@@ -464,8 +553,31 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
+<!--
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+
+https://github.com/aosabook/500lines/tree/master/interpreter
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
+https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+
+https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
+
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+-->
+
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 Python IDLE
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
@@ -1088,6 +1200,14 @@ DataCamp
 * [DataCamp GitHub](https://github.com/datacamp)
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
+<!--
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intermediate-python-for-data-science
+
+https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
+-->
+
 Learning Paths
 * [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
@@ -1250,6 +1370,7 @@ https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
 
 http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
 
