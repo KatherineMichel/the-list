@@ -825,6 +825,9 @@ SOLID
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 <!--
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
 https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
 https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html | The Clean Architecture | 8th Light
 -->
@@ -1041,6 +1044,8 @@ https://betterexplained.com/articles/vector-calculus-understanding-the-dot-produ
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+
+https://en.wikipedia.org/wiki/Lambda_calculus | Lambda calculus - Wikipedia
 
 https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
 https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
