@@ -1567,20 +1567,25 @@ Awesome Data Science
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 Interesting Curated Learning Resources- General
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Open Source Society University](https://github.com/ossu/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 * [Front End Guide](https://github.com/grab/front-end-guide)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
-* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
+
+Interesting Curated Learning Resources- Marketing and Sales
 * [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+Interesting Curated Learning Resources- Back-End Developer
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
