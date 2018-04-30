@@ -165,22 +165,14 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
 
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
-
 https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
-https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?ie=UTF8&linkCode=ll1&linkId=155486c68c7371934f98360e0222d7bc&ref_=as_li_ss_tl&tag=eejs-20
 
 https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
 https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
 
 https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
 
-https://pragprog.com/book/mnee2/release-it-second-edition | Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard | The Pragmatic Bookshelf
-
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672 | Refactoring: Improving the Design of Existing Code: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma: 9780201485677: Amazon.com: Books
-
 https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
 https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
 
@@ -188,9 +180,6 @@ https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twi
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-
-https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
-https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
 
 https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658 | Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series): Kent Beck, Cynthia Andres: 9780321278654: Amazon.com: Books
 http://ptgmedia.pearsoncmg.com/images/9780321278654/samplepages/9780321278654.pdf | Extreme Programming Explained: Embrace Change
@@ -575,6 +564,7 @@ Python- Books
 
 <!--
 https://github.com/fluentpython | Fluent Python
+https://github.com/fluentpython/example-code | fluentpython/example-code: Example code for the book Fluent Python
 
 https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
 -->
@@ -821,22 +811,16 @@ Object Oriented Programming
 * [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
-SOLID
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
 <!--
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html | The Clean Architecture | 8th Light
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 -->
 
 Concepts
 * [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 
