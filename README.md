@@ -812,8 +812,6 @@ Object Oriented Programming
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 <!--
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 -->
 
@@ -823,6 +821,17 @@ Concepts
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+
+<!--
+Bracket Notation and Zero-Based Numbering
+* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
+* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+-->
 
 Programming Languages
 * [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
@@ -836,6 +845,10 @@ Programming Paradigms
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+
+<!--
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
 
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
@@ -897,37 +910,6 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Data, Data Science, Big Data
-* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
-* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
-* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
-* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-
-Data Monetization
-* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
-* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
-
-Artificial Intelligence- Wikipedia
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
-
-Deep Learning and Neural Networks- Wikipedia
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
-* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
-
-
 Data Structures
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
@@ -938,13 +920,26 @@ Algorithms
 * [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
 
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
+
+Python
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
+* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+
+Django
+* [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
+
+<!--
+http://bigocheatsheet.com/#poster
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://en.wikipedia.org/wiki/Order_of_magnitude | Order of magnitude - Wikipedia
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+-->
 
 
 <!--
@@ -1116,15 +1111,11 @@ https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
 -->
 
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
 
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
 
 Machine Learning and Statistical Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
@@ -1208,6 +1199,39 @@ https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity
 https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
 -->
+
+
+Data, Data Science, Big Data
+* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+
+Data Monetization
+* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
+
+Artificial Intelligence- Wikipedia
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Artificial General Intelligence Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects) 
+
+Deep Learning and Neural Networks- Wikipedia
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks) 
+* [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+* [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
+
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
 Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
