@@ -886,6 +886,35 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
+https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
+https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
+https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
+https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
+https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
+https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
+https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
+https://en.wikipedia.org/wiki/Composite_pattern | Composite pattern - Wikipedia
+https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
+https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
+https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
+https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
+https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
+https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
+https://en.wikipedia.org/wiki/Interpreter_pattern | Interpreter pattern - Wikipedia
+https://en.wikipedia.org/wiki/Iterator_pattern | Iterator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Mediator_pattern | Mediator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Memento_pattern | Memento pattern - Wikipedia
+https://en.wikipedia.org/wiki/Observer_pattern | Observer pattern - Wikipedia
+https://en.wikipedia.org/wiki/State_pattern | State pattern - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
+https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
+
 Object-Oriented Design Patterns- Python
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
