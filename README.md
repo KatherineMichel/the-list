@@ -886,8 +886,13 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
+Software Design Patterns catalog
+
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Design_Patterns
 https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
 https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+
 https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
 https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
 https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
