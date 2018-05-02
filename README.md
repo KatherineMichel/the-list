@@ -798,9 +798,11 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-Scripting and MVCs
+Scripting
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
+
+MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
@@ -813,6 +815,11 @@ Object Oriented Programming
 
 <!--
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
 -->
 
 Concepts
@@ -899,6 +906,7 @@ https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
 https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
 https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
 https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
+
 https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
 https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
 https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
@@ -907,6 +915,7 @@ https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
 https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
 https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
 https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
+
 https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
 https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
 https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
@@ -966,6 +975,8 @@ Django
 * [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 
 <!--
+https://en.wikipedia.org/wiki/Performance_tuning
+
 http://bigocheatsheet.com/#poster
 
 https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
