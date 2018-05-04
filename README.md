@@ -291,6 +291,7 @@ Stellar Programming Learning Resources
 
 <!--
 https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
 
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
@@ -1177,6 +1178,17 @@ James Damore Coding Competition Books
 * [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
+<!--
+https://en.wikipedia.org/wiki/Introduction_to_Algorithms | Introduction to Algorithms - Wikipedia
+
+The Algorithm Design Manual
+http://www.algorist.com/ | The Algorithm Design Manual
+http://www.algorist.com/algorist.html | Algorithm Repository
+
+Python
+https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
+-->
+
 Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
@@ -1376,6 +1388,19 @@ Benchmarking
 * [TensorFlow Models Analysis GitHub](https://github.com/tensorflow/model-analysis)
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
+<!--
+http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
+
+https://www.spec.org
+
+MLPerf
+https://mlperf.org/
+Fathom: Reference Workloads for Modern Deep Learning
+https://github.com/rdadolf/fathom
+https://arxiv.org/abs/1608.06581
+http://fathom.readthedocs.io/en/latest/quickstart/
+-->
+
 XGBoost
 * [XGBoost GitHub](https://github.com/dmlc/xgboost) and [XGBoost Docs](http://xgboost.readthedocs.io)
 * [XGBoost Docs Python](http://xgboost.readthedocs.io/en/latest/python)
@@ -1388,6 +1413,11 @@ Front-Runners
 * [TensorFlow Magenta](https://magenta.tensorflow.org)
 * [TensorFlow Playground](http://playground.tensorflow.org)
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+
+<!--
+PyTorch Roadmap
+https://pytorch.org/2018/05/02/road-to-1.0.html
+-->
 
 Models and Examples
 * [PyTorch Models (Torchvision) GitHub](https://github.com/pytorch/vision/tree/master/torchvision/models) and [PyTorch Examples GitHub](https://github.com/pytorch/examples)
