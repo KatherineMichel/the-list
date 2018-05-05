@@ -1455,6 +1455,10 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
+<!--
+https://developers.google.com/machine-learning/crash-course/glossary
+-->
+
 Fast AI
 * [fast.ai](http://www.fast.ai)
 * [The fast.ai deep learning library, lessons, and tutorials GitHub](https://github.com/fastai/fastai)
