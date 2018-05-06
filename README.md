@@ -452,8 +452,7 @@ https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-res
 
 https://www.fullstackpython.com/best-python-resources.html
 
-https://github.com/fullstackpython | Full Stack Python
-https://github.com/fullstackpython/book-code-examples | fullstackpython/book-code-examples: Code from Full Stack Python books, such as Deploying Flask Web Applications.
+* [Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 http://www.tutorialspoint.com/python/ | Python Tutorial
 https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
