@@ -960,8 +960,11 @@ Big O Notation
 * [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 * [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
 * [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
-* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Big O Notation- Terminology
+* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 
 Python Performance
 * [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
@@ -972,11 +975,11 @@ Django
 * [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 
 <!--
+Recursion
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Stack-based_memory_allocation
 
 https://docs.python.org/3/c-api/memory.html
-
-https://en.wikipedia.org/wiki/Logarithm
 
 https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
 https://en.wikipedia.org/wiki/Analysis_of_algorithms
@@ -1015,12 +1018,20 @@ Common Data Structure Operations- Linked Data Structure
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
 
-<!--
-Common Data Structure Operations
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
+Common Data Structure Operations- Stack, Queue, Heap
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
+LIFO and FIFO
+* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
+
+<!--
+Contiguous and Non-Contiguous Data Structures
+Non-Linear Data Structures
+https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures
+
+Common Data Structure Operations
 https://en.wikipedia.org/wiki/Skip_list
 https://en.wikipedia.org/wiki/Hash_table
 https://en.wikipedia.org/wiki/Binary_search_tree
@@ -1030,9 +1041,6 @@ https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
 https://en.wikipedia.org/wiki/Splay_tree
 https://en.wikipedia.org/wiki/AVL_tree
 https://en.wikipedia.org/wiki/K-d_tree
-
-Non-Linear Data Structures
-https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures
 -->
 
 Algorithms
@@ -1045,9 +1053,7 @@ Algorithms
 https://rosettacode.org/wiki/Category:Programming_Tasks
 http://rosettacode.org/wiki/Category:Sorting_Algorithms
 
-https://en.wikipedia.org/wiki/List_of_algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
 https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
@@ -1056,15 +1062,12 @@ https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Theory_of_computation
 https://en.wikipedia.org/wiki/Programming_language_theory
+
+https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/Computational_statistics
 https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
-
-Contiguous Data Structures
-
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-Recursion
 
 Control structures
 * sequential processing
@@ -1144,16 +1147,13 @@ Algorithm Dictionaries and Libraries
 James Damore Coding Competition Books
 * [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
 * [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
+* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 More Algorithms Books
 * [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 
 <!--
-The Algorithm Design Manual
-http://www.algorist.com/ | The Algorithm Design Manual
-
 Python
 https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
 -->
@@ -1184,6 +1184,7 @@ Linear Algebra
 * [Numerical Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
 
 Calculus
+* [Glossary of Calculus Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_calculus) 
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
 * [Lambda Calculus Wikipedia](https://en.wikipedia.org/wiki/Lambda_calculus) 
 * [Vector Calculus Wikipedia](https://en.wikipedia.org/wiki/Vector_calculus) 
@@ -1192,8 +1193,6 @@ Calculus
 
 <!--
 https://en.wikipedia.org/wiki/Summation
-
-https://en.wikipedia.org/wiki/Glossary_of_calculus
 -->
 
 Mathematics of Deep Learning
