@@ -954,20 +954,17 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
-Data Structures
-* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-
-
-Python
+Big O Notation
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Python Performance
 * [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
 * [Python Speed](https://wiki.python.org/moin/PythonSpeed)
 * [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
@@ -976,17 +973,180 @@ Django
 * [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 
 <!--
+https://en.wikipedia.org/wiki/Logarithm
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+
+Linear versus Constant Time
+https://en.wikipedia.org/wiki/Time_complexity#Linear_time
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
 https://en.wikipedia.org/wiki/Performance_tuning
 
 http://bigocheatsheet.com/#poster
 
 https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
 
-https://en.wikipedia.org/wiki/Order_of_magnitude | Order of magnitude - Wikipedia
-
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 -->
 
+
+Data Structures
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+
+<!--
+Non-Linear Data Structures
+https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures
+-->
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+
+<--
+https://rosettacode.org/wiki/Category:Programming_Tasks
+http://rosettacode.org/wiki/Category:Sorting_Algorithms
+
+https://en.wikipedia.org/wiki/List_of_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/Computational_mathematics
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Theory_of_computation
+https://en.wikipedia.org/wiki/Programming_language_theory
+https://en.wikipedia.org/wiki/Computational_statistics
+https://en.wikipedia.org/wiki/Computational_physics
+https://en.wikipedia.org/wiki/Computational_linguistics
+https://en.wikipedia.org/wiki/Natural-language_processing
+
+Singly Linked Linear Lists vs. Other Lists
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
+https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
+Contiguous Data Structures
+
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+
+Control structures
+* sequential processing
+* selection for decision-making
+* iteration for repetitive control 
+
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/Sequence#Analysis
+https://en.wikipedia.org/wiki/Sequential_access
+https://en.wikipedia.org/wiki/Random_access
+
+https://en.wikipedia.org/wiki/Lexicographical_order
+
+Common Data Structure Operations
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
+https://en.wikipedia.org/wiki/Array_data_structure
+https://en.wikipedia.org/wiki/List_(abstract_data_type)
+https://en.wikipedia.org/wiki/Linked_list
+https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists
+https://en.wikipedia.org/wiki/Doubly_linked_list
+https://en.wikipedia.org/wiki/Skip_list
+https://en.wikipedia.org/wiki/Hash_table
+https://en.wikipedia.org/wiki/Binary_search_tree
+https://en.wikipedia.org/wiki/Cartesian_tree
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+https://en.wikipedia.org/wiki/Splay_tree
+https://en.wikipedia.org/wiki/AVL_tree
+https://en.wikipedia.org/wiki/K-d_tree
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+https://en.wikipedia.org/wiki/Category:Graph_algorithms
+https://en.wikipedia.org/wiki/Category:Scheduling_algorithms
+
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Search_algorithm
+https://en.wikipedia.org/wiki/Linear_search
+https://en.wikipedia.org/wiki/Exponential_search
+https://en.wikipedia.org/wiki/Binary_search_algorithm
+https://en.wikipedia.org/wiki/Binary_search_algorithm#Binary_search_versus_other_schemes
+
+https://en.wikipedia.org/wiki/Category:Sorting_algorithms
+https://en.wikipedia.org/wiki/Sorting | Sorting - Wikipedia
+https://en.wikipedia.org/wiki/Sorting_algorithm
+
+Array Sorting Algorithms
+http://en.wikipedia.org/wiki/Quicksort
+http://en.wikipedia.org/wiki/Merge_sort
+http://en.wikipedia.org/wiki/Timsort
+http://en.wikipedia.org/wiki/Heapsort
+http://en.wikipedia.org/wiki/Bubble_sort
+http://en.wikipedia.org/wiki/Insertion_sort
+http://en.wikipedia.org/wiki/Selection_sort
+https://en.wikipedia.org/wiki/Tree_sort
+http://en.wikipedia.org/wiki/Shellsort
+http://en.wikipedia.org/wiki/Bucket_sort
+http://en.wikipedia.org/wiki/Radix_sort
+https://en.wikipedia.org/wiki/Counting_sort
+https://en.wikipedia.org/wiki/Cubesort
+
+https://en.wikipedia.org/wiki/Selection_algorithm
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
+
+https://en.wikipedia.org/wiki/Persistent_data_structure
+
+https://en.wikipedia.org/wiki/Abstract_data_type
+
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+
+https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
+-->
+
+
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Machine Learning and Statistical Algorithms
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
+* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
+Algorithm Dictionaries and Libraries
+* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
+ 
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+<!--
+https://en.wikipedia.org/wiki/Introduction_to_Algorithms | Introduction to Algorithms - Wikipedia
+
+The Algorithm Design Manual
+http://www.algorist.com/ | The Algorithm Design Manual
+http://www.algorist.com/algorist.html | Algorithm Repository
+
+Python
+https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
+-->
 
 <!--
 Khan Academy
@@ -1009,10 +1169,13 @@ SQL
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 -->
 
-Linear Algebra and Calculus- wikipedia
+Linear Algebra
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
 * [Numerical Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
+
+Calculus
 * [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
+* [Lambda Calculus Wikipedia](https://en.wikipedia.org/wiki/Lambda_calculus) 
 * [Vector Calculus Wikipedia](https://en.wikipedia.org/wiki/Vector_calculus) 
 * [Differential Calculus Wikipedia](https://en.wikipedia.org/wiki/Differential_calculus) 
 * [Multivariate Calculus Wikipedia](https://en.wikipedia.org/wiki/Multivariable_calculus) 
@@ -1070,123 +1233,12 @@ Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer 
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
 
-https://en.wikipedia.org/wiki/Lambda_calculus | Lambda calculus - Wikipedia
-
 https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
 https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
 https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
 https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
 https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
 https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-https://en.wikipedia.org/wiki/List_of_algorithms
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/Computational_mathematics
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Mathematical_optimization
-https://en.wikipedia.org/wiki/Theory_of_computation
-https://en.wikipedia.org/wiki/Programming_language_theory
-https://en.wikipedia.org/wiki/Computational_statistics
-https://en.wikipedia.org/wiki/Computational_physics
-https://en.wikipedia.org/wiki/Computational_linguistics
-https://en.wikipedia.org/wiki/Natural-language_processing
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Common Data Structure Operations
-https://en.wikipedia.org/wiki/Array_data_structure
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists
-https://en.wikipedia.org/wiki/Doubly_linked_list
-https://en.wikipedia.org/wiki/Skip_list
-https://en.wikipedia.org/wiki/Hash_table
-https://en.wikipedia.org/wiki/Binary_search_tree
-https://en.wikipedia.org/wiki/Cartesian_tree
-https://en.wikipedia.org/wiki/B-tree
-https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
-https://en.wikipedia.org/wiki/Splay_tree
-https://en.wikipedia.org/wiki/AVL_tree
-https://en.wikipedia.org/wiki/K-d_tree
-
-https://en.wikipedia.org/wiki/Sorting | Sorting - Wikipedia
-https://en.wikipedia.org/wiki/Sorting_algorithm
-https://en.wikipedia.org/wiki/List_(abstract_data_type)
-https://en.wikipedia.org/wiki/Sequence#Analysis
-https://en.wikipedia.org/wiki/Lexicographical_order
-
-Array Sorting Algorithms
-http://en.wikipedia.org/wiki/Quicksort
-http://en.wikipedia.org/wiki/Merge_sort
-http://en.wikipedia.org/wiki/Timsort
-http://en.wikipedia.org/wiki/Heapsort
-http://en.wikipedia.org/wiki/Bubble_sort
-http://en.wikipedia.org/wiki/Insertion_sort
-http://en.wikipedia.org/wiki/Selection_sort
-https://en.wikipedia.org/wiki/Tree_sort
-http://en.wikipedia.org/wiki/Shellsort
-http://en.wikipedia.org/wiki/Bucket_sort
-http://en.wikipedia.org/wiki/Radix_sort
-https://en.wikipedia.org/wiki/Counting_sort
-https://en.wikipedia.org/wiki/Cubesort
-
-https://en.wikipedia.org/wiki/Selection_algorithm
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
-
-https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://en.wikipedia.org/wiki/Abstract_data_type
-
-https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
-https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
-Contiguous Data Structures
-
-https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-
-https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
--->
-
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Machine Learning and Statistical Algorithms
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
-* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
-
-Algorithm Dictionaries and Libraries
-* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
- 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-<!--
-https://en.wikipedia.org/wiki/Introduction_to_Algorithms | Introduction to Algorithms - Wikipedia
-
-The Algorithm Design Manual
-http://www.algorist.com/ | The Algorithm Design Manual
-http://www.algorist.com/algorist.html | Algorithm Repository
-
-Python
-https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
 -->
 
 Mind Maps and Cheat Sheets
@@ -1389,6 +1441,8 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+https://github.com/onnx/onnx
+
 http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
 
 https://www.spec.org
@@ -1872,7 +1926,7 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 -->
 
 Carlota Perez Framework
-* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surve Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
+* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
 * [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
 
 The Elements of Value
