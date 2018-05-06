@@ -577,7 +577,26 @@ Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
 <!--
+$ python -m dis program.py
+compiler -> bytecode
+bytecode -> python interpreter (interpreter is written in C language)
+output
+(compiler/interpreter run together, bytecode is assembly language/instruction set, each bytecode is called an opcode)
+
+* Include/object.h
+* Objects/object.c
+* Python data model (Python API)
+* Python object protocol (C API)
+
+PyObject
+Frames, function calls, basic scope
+
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions
+
+https://docs.python.org/3.7/reference/datamodel.html
+https://docs.python.org/3.7/library/dis.html
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+https://github.com/python/cpython/blob/master/Include/object.h
 
 https://github.com/aosabook/500lines/tree/master/interpreter
 http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
@@ -974,8 +993,29 @@ Python Performance
 Django
 * [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 
+Improvement
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+
 <!--
-Recursion
+https://en.wikipedia.org/wiki/Execution_(computing)
+https://en.wikipedia.org/wiki/Object_code
+https://en.wikipedia.org/wiki/Bytecode
+
+Control structures
+* sequential processing
+* selection for decision-making
+* iteration for repetitive control 
+
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/Sequence#Analysis
+https://en.wikipedia.org/wiki/Sequential_access
+https://en.wikipedia.org/wiki/Random_access
+
+https://en.wikipedia.org/wiki/Lexicographical_order
+
+https://en.wikipedia.org/wiki/Recursion
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Stack-based_memory_allocation
 
@@ -991,8 +1031,6 @@ https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operation
 Linear versus Constant Time
 https://en.wikipedia.org/wiki/Time_complexity#Linear_time
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-https://en.wikipedia.org/wiki/Performance_tuning
 
 http://bigocheatsheet.com/#poster
 
@@ -1069,17 +1107,7 @@ https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
 
-Control structures
-* sequential processing
-* selection for decision-making
-* iteration for repetitive control 
 
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/Sequence#Analysis
-https://en.wikipedia.org/wiki/Sequential_access
-https://en.wikipedia.org/wiki/Random_access
-
-https://en.wikipedia.org/wiki/Lexicographical_order
 
 
 
