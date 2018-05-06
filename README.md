@@ -1158,17 +1158,11 @@ Python
 https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
 -->
 
-<!--
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
 
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
-
+<!--
 https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 
@@ -1177,6 +1171,12 @@ https://www.khanacademy.org/math/statistics-probability
 
 SQL
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
 -->
 
 Linear Algebra
