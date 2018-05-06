@@ -973,6 +973,10 @@ Django
 * [Django 2.0 Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 
 <!--
+https://en.wikipedia.org/wiki/Stack-based_memory_allocation
+
+https://docs.python.org/3/c-api/memory.html
+
 https://en.wikipedia.org/wiki/Logarithm
 
 https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
@@ -1000,7 +1004,34 @@ Data Structures
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
+Common Data Structure Operations- Array and List
+* [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+
+Common Data Structure Operations- Linked Data Structure
+* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
+* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
+* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+
 <!--
+Common Data Structure Operations
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
+
+https://en.wikipedia.org/wiki/Skip_list
+https://en.wikipedia.org/wiki/Hash_table
+https://en.wikipedia.org/wiki/Binary_search_tree
+https://en.wikipedia.org/wiki/Cartesian_tree
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+https://en.wikipedia.org/wiki/Splay_tree
+https://en.wikipedia.org/wiki/AVL_tree
+https://en.wikipedia.org/wiki/K-d_tree
+
 Non-Linear Data Structures
 https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures
 -->
@@ -1031,14 +1062,10 @@ https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
 
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-https://en.wikipedia.org/wiki/Linked_data_structure | Linked data structure - Wikipedia
-https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays | Linked data structure - Wikipedia
 Contiguous Data Structures
 
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+Recursion
 
 Control structures
 * sequential processing
@@ -1052,24 +1079,7 @@ https://en.wikipedia.org/wiki/Random_access
 
 https://en.wikipedia.org/wiki/Lexicographical_order
 
-Common Data Structure Operations
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
-https://en.wikipedia.org/wiki/Array_data_structure
-https://en.wikipedia.org/wiki/List_(abstract_data_type)
-https://en.wikipedia.org/wiki/Linked_list
-https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists
-https://en.wikipedia.org/wiki/Doubly_linked_list
-https://en.wikipedia.org/wiki/Skip_list
-https://en.wikipedia.org/wiki/Hash_table
-https://en.wikipedia.org/wiki/Binary_search_tree
-https://en.wikipedia.org/wiki/Cartesian_tree
-https://en.wikipedia.org/wiki/B-tree
-https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
-https://en.wikipedia.org/wiki/Splay_tree
-https://en.wikipedia.org/wiki/AVL_tree
-https://en.wikipedia.org/wiki/K-d_tree
+
 
 https://en.wikipedia.org/wiki/Category:Algorithms
 https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
@@ -1135,14 +1145,15 @@ Algorithm Dictionaries and Libraries
 James Damore Coding Competition Books
 * [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
 * [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
-<!--
-https://en.wikipedia.org/wiki/Introduction_to_Algorithms | Introduction to Algorithms - Wikipedia
+More Algorithms Books
+* [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 
+<!--
 The Algorithm Design Manual
 http://www.algorist.com/ | The Algorithm Design Manual
-http://www.algorist.com/algorist.html | Algorithm Repository
 
 Python
 https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
@@ -1179,6 +1190,12 @@ Calculus
 * [Vector Calculus Wikipedia](https://en.wikipedia.org/wiki/Vector_calculus) 
 * [Differential Calculus Wikipedia](https://en.wikipedia.org/wiki/Differential_calculus) 
 * [Multivariate Calculus Wikipedia](https://en.wikipedia.org/wiki/Multivariable_calculus) 
+
+<!--
+https://en.wikipedia.org/wiki/Summation
+
+https://en.wikipedia.org/wiki/Glossary_of_calculus
+-->
 
 Mathematics of Deep Learning
 * ["Mathematics of Deep Learning"](https://arxiv.org/pdf/1712.04741.pdf)
@@ -1232,6 +1249,8 @@ https://betterexplained.com/articles/vector-calculus-understanding-the-dot-produ
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
+
+https://en.wikipedia.org/wiki/Series_(mathematics)
 
 https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
 https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
