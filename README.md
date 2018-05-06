@@ -591,6 +591,8 @@ output
 PyObject
 Frames, function calls, basic scope
 
+http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
+
 https://docs.python.org/3/library/dis.html#python-bytecode-instructions
 
 https://docs.python.org/3.7/reference/datamodel.html
