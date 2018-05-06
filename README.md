@@ -576,7 +576,28 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
+Python Code Execution Visualization
+* [Python Tutor](http://pythontutor.com)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+
 <!--
+https://github.com/aosabook/500lines/tree/master/interpreter
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+
+Eli Bendersky
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
 $ python -m dis program.py
 compiler -> bytecode
 bytecode -> python interpreter (interpreter is written in C language)
@@ -591,30 +612,24 @@ output
 PyObject
 Frames, function calls, basic scope
 
-http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
+https://docs.python.org/2.4/lib/bytecodes.html
 
+https://docs.python.org/3.7/library/dis.html
 https://docs.python.org/3/library/dis.html#python-bytecode-instructions
 
 https://docs.python.org/3.7/reference/datamodel.html
-https://docs.python.org/3.7/library/dis.html
+https://docs.python.org/3.7/reference/datamodel.html#emulating-numeric-types
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+https://docs.python.org/3.7/library/functions.html#dir
+https://docs.python.org/3.7/c-api/object.html
+https://docs.python.org/3.7/c-api/structures.html
+https://docs.python.org/3.7/c-api/concrete.html
+
 https://github.com/python/cpython/blob/master/Include/object.h
+https://github.com/python/cpython/tree/master/Objects
 
-https://github.com/aosabook/500lines/tree/master/interpreter
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-http://pgbovine.net/cpython-internals.htm | Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code
-https://www.youtube.com/user/pgbovine/playlists?disable_polymer=1 | Philip Guo - YouTube
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-
-https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/ | Python’s Innards: Introduction | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife/ | Python’s Innards: for my wife | NIL: .to write(1) ~ help:about
-
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+http://courses.pgbovine.net/csc253/assignments.htm
+http://courses.pgbovine.net/csc253/schedule.htm
 
 https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
