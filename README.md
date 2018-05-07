@@ -569,10 +569,6 @@ https://github.com/fluentpython/example-code | fluentpython/example-code: Exampl
 https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
 -->
 
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
- 
 Python IDLE
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
 * [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
@@ -998,6 +994,26 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 
 
 
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+ 
+<!--
+https://docs.python.org/3/library/logging.config.html
+
+https://docs.python.org/3/library/debug.html
+https://docs.python.org/3/library/development.html
+https://docs.python.org/3/library/traceback.html
+
+https://docs.python.org/3/library/pdb.html | 27.3. pdb — The Python Debugger — Python 3.6.4 documentation
+https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debuggefr | Working with pdb to Debug Python Code | DigitalOcean
+https://docs.python.org/3/library/unittest.html | 26.4. unittest — Unit testing framework — Python 3.6.4 documentation
+https://docs.python.org/3.7/library/unittest.mock.html | 27.5. unittest.mock — mock object library — Python 3.7.0b1 documentation
+https://docs.python.org/3.6/library/unittest.mock-examples.html | 26.6. unittest.mock — getting started — Python 3.6.5 documentation
+
+https://docs.djangoproject.com/en/2.0/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
+-->
+
 
 Big O Notation
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
@@ -1030,6 +1046,8 @@ Improvement
 * [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
 
 <!--
+https://en.wikipedia.org/wiki/Mathematical_optimization
+
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
 
 https://en.wikipedia.org/wiki/Execution_(computing)
@@ -1062,25 +1080,26 @@ Abstract Data Type and Data Structures
 
 <!--
 Dynamic Data Structures
-
-Python Data Structures
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 -->
+
+Python Built-In Sequence Types
+* str
+* list
+* tuple
 
 Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
 * [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
 * [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
 
+Python- List (linear implementations = stacks, queues; non-linear = graphs, trees)
+
 <!--
-"A data structure is said to be linear if its elements form a sequence."
-Non-Linear Data Structures
+Python Data Structures
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
 https://en.wikipedia.org/wiki/Sequence#Analysis
--->
+https://en.wikipedia.org/wiki/Parsing
 
-Non-Linear Data Structures (trees, graphs)
-
-<!--
 https://en.wikipedia.org/wiki/Lexicographical_order
 -->
 
@@ -1148,8 +1167,6 @@ https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
 https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Theory_of_computation
 https://en.wikipedia.org/wiki/Programming_language_theory
 
@@ -1158,9 +1175,6 @@ https://en.wikipedia.org/wiki/Computational_statistics
 https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_linguistics
 https://en.wikipedia.org/wiki/Natural-language_processing
-
-
-
 
 
 https://en.wikipedia.org/wiki/Category:Algorithms
