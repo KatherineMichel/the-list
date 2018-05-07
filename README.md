@@ -573,71 +573,6 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
  
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-Python Code Execution Visualization
-* [Python Tutor](http://pythontutor.com)
-
-Python Internals- Philip Guo
-* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
-
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
-
-<!--
-https://github.com/aosabook/500lines/tree/master/interpreter
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-
-Eli Bendersky
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
-
-$ python -m dis program.py
-compiler -> bytecode
-bytecode -> python interpreter (interpreter is written in C language)
-output
-(compiler/interpreter run together, bytecode is assembly language/instruction set, each bytecode is called an opcode)
-
-* Include/object.h
-* Objects/object.c
-* Python data model (Python API)
-* Python object protocol (C API)
-
-PyObject
-Frames, function calls, basic scope
-
-https://docs.python.org/2.4/lib/bytecodes.html
-
-https://docs.python.org/3.7/library/dis.html
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions
-
-https://docs.python.org/3.7/reference/datamodel.html
-https://docs.python.org/3.7/reference/datamodel.html#emulating-numeric-types
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-https://docs.python.org/3.7/library/functions.html#dir
-https://docs.python.org/3.7/c-api/object.html
-https://docs.python.org/3.7/c-api/structures.html
-https://docs.python.org/3.7/c-api/concrete.html
-
-https://github.com/python/cpython/blob/master/Include/object.h
-https://github.com/python/cpython/tree/master/Objects
-
-http://courses.pgbovine.net/csc253/assignments.htm
-http://courses.pgbovine.net/csc253/schedule.htm
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
--->
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
 Python IDLE
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
 * [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
@@ -990,6 +925,80 @@ Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
 
+
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
+Python Code Execution Visualization
+* [Python Tutor](http://pythontutor.com)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+
+<!--
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+https://github.com/aosabook/500lines/tree/master/interpreter
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
+
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
+
+Eli Bendersky
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
+
+$ python -m dis program.py
+compiler -> bytecode
+bytecode -> python interpreter (interpreter is written in C language)
+output
+(compiler/interpreter run together, bytecode is assembly language/instruction set, each bytecode is called an opcode)
+
+* Include/object.h
+* Objects/object.c
+* Python data model (Python API)
+* Python object protocol (C API)
+
+PyObject
+Frames, function calls, basic scope
+
+https://docs.python.org/2.4/lib/bytecodes.html
+
+https://docs.python.org/3.7/library/dis.html
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions
+
+https://docs.python.org/3.7/reference/datamodel.html
+https://docs.python.org/3.7/reference/datamodel.html#emulating-numeric-types
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+https://docs.python.org/3.7/library/functions.html#dir
+https://docs.python.org/3.7/c-api/object.html
+https://docs.python.org/3.7/c-api/structures.html
+https://docs.python.org/3.7/c-api/concrete.html
+
+https://github.com/python/cpython/blob/master/Include/object.h
+https://github.com/python/cpython/tree/master/Objects
+
+http://courses.pgbovine.net/csc253/assignments.htm
+http://courses.pgbovine.net/csc253/schedule.htm
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+-->
+
+
+
+
 Big O Notation
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
 * [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
@@ -1020,15 +1029,6 @@ https://en.wikipedia.org/wiki/Execution_(computing)
 https://en.wikipedia.org/wiki/Object_code
 https://en.wikipedia.org/wiki/Bytecode
 
-Control structures
-* sequential processing
-* selection for decision-making
-* iteration for repetitive control 
-
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/Sequence#Analysis
-https://en.wikipedia.org/wiki/Sequential_access
-https://en.wikipedia.org/wiki/Random_access
 
 https://en.wikipedia.org/wiki/Lexicographical_order
 
@@ -1057,15 +1057,37 @@ https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understand
 -->
 
 
-Data Structures
+Abstract Data Type and Data Structures
+* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
-Common Data Structure Operations- Array and List
-* [Array Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+<!--
+Python Data Structures
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+-->
 
-Common Data Structure Operations- Linked Data Structure
+Linear Data Structures (array, linked list, doubly linked list, stack, queue)
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Non-Linear Data Structures (trees, graphs)
+
+<!--
+"A data structure is said to be linear if its elements form a sequence."
+Non-Linear Data Structures
+
+https://en.wikipedia.org/wiki/Sequence#Analysis
+-->
+
+Sequential Versus Random Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+
+Common Data Structure Operations- Contiguous versus Linked Data Structures
+* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
+* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
 * [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
@@ -1073,22 +1095,33 @@ Common Data Structure Operations- Linked Data Structure
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
 
-Common Data Structure Operations- Stack, Queue, Heap
+<!--
+NumPy Array, Array Creation
+https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
+
+Dynamic Data Structures
+-->
+
+Common Data Structure Operations- Stack, Queue
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+
+<!--
+"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
+-->
+
+Common Data Structure Operations- Heap
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 LIFO and FIFO
 * [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
 
-<!--
-Contiguous and Non-Contiguous Data Structures
-Non-Linear Data Structures
-https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures
+Common Data Structure Operations- Hash Table (Python Dictionary)
+* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
+<!--
 Common Data Structure Operations
 https://en.wikipedia.org/wiki/Skip_list
-https://en.wikipedia.org/wiki/Hash_table
 https://en.wikipedia.org/wiki/Binary_search_tree
 https://en.wikipedia.org/wiki/Cartesian_tree
 https://en.wikipedia.org/wiki/B-tree
@@ -1166,8 +1199,6 @@ https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
 https://en.wikipedia.org/wiki/Persistent_data_structure
 
-https://en.wikipedia.org/wiki/Abstract_data_type
-
 https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
 
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
@@ -1206,15 +1237,13 @@ https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/11182902
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
+* [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 
 <!--
-https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA | Khan Academy Computing - YouTube
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
-
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 
-SQL
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
 https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
