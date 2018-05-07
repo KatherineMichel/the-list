@@ -1046,6 +1046,9 @@ Improvement
 * [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
 
 <!--
+https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
+https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
+
 https://en.wikipedia.org/wiki/Mathematical_optimization
 
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
@@ -1080,12 +1083,10 @@ Abstract Data Type and Data Structures
 
 <!--
 Dynamic Data Structures
--->
 
-Python Built-In Sequence Types
-* str
-* list
-* tuple
+mutable versus immutable
+https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747
+-->
 
 Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
 * [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
