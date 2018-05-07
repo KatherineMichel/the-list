@@ -1007,6 +1007,11 @@ Big O Notation
 * [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
 
+Linear versus Constant Time
+* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
+* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
+
 Big O Notation- Terminology
 * [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
 * [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
@@ -1025,12 +1030,11 @@ Improvement
 * [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
 
 <!--
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
 https://en.wikipedia.org/wiki/Execution_(computing)
 https://en.wikipedia.org/wiki/Object_code
 https://en.wikipedia.org/wiki/Bytecode
-
-
-https://en.wikipedia.org/wiki/Lexicographical_order
 
 https://en.wikipedia.org/wiki/Recursion
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
@@ -1045,12 +1049,6 @@ https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complex
 https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
 https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
 
-Linear versus Constant Time
-https://en.wikipedia.org/wiki/Time_complexity#Linear_time
-https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-http://bigocheatsheet.com/#poster
-
 https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
 
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
@@ -1063,15 +1061,15 @@ Abstract Data Type and Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 <!--
+Dynamic Data Structures
+
 Python Data Structures
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 -->
 
-Linear Data Structures (array, linked list, doubly linked list, stack, queue)
+Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
 * [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
 * [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Non-Linear Data Structures (trees, graphs)
 
 <!--
 "A data structure is said to be linear if its elements form a sequence."
@@ -1080,7 +1078,13 @@ Non-Linear Data Structures
 https://en.wikipedia.org/wiki/Sequence#Analysis
 -->
 
-Sequential Versus Random Access
+Non-Linear Data Structures (trees, graphs)
+
+<!--
+https://en.wikipedia.org/wiki/Lexicographical_order
+-->
+
+Sequential Versus Random (Direct) Access
 * [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
 * [Random Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
 
@@ -1098,8 +1102,6 @@ Common Data Structure Operations- Contiguous versus Linked Data Structures
 <!--
 NumPy Array, Array Creation
 https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
-
-Dynamic Data Structures
 -->
 
 Common Data Structure Operations- Stack, Queue
