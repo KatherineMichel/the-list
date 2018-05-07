@@ -1159,7 +1159,7 @@ Algorithms
 * [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
 
-<--
+<!--
 https://rosettacode.org/wiki/Category:Programming_Tasks
 http://rosettacode.org/wiki/Category:Sorting_Algorithms
 
