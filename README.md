@@ -1335,6 +1335,12 @@ https://betterexplained.com/articles/cross-product
 Vector Calculus: Understanding the Dot Product 
 https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product
 
+https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia		
+https://en.wikipedia.org/wiki/Cross_product		
+https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia		
+https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm | Divide and conquer algorithm - Wikipedia		
+https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
+
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
