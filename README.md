@@ -1046,6 +1046,9 @@ Improvement
 * [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
 
 <!--
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
+
 https://docs.python.org/3.6/reference/datamodel.html#objects | 3. Data model — Python 3.6.3 documentation
 https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — Python 3.6.3 documentation
 
@@ -1280,6 +1283,8 @@ https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorith
 https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 -->
 
 Linear Algebra
@@ -1374,9 +1379,11 @@ https://betterexplained.com/articles/vector-calculus-understanding-the-dot-produ
 
 https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia		
 https://en.wikipedia.org/wiki/Cross_product		
-https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia		
+https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia	
+
 https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm | Divide and conquer algorithm - Wikipedia		
 https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
 
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
@@ -1508,6 +1515,10 @@ More Learning Resources
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
+<!--
+https://distill.pub/ | Distill — Latest articles about machine learning
+-->
+
 Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
@@ -1531,6 +1542,11 @@ Teachers
 * [Jake VanderPlas](http://jakevdp.github.io)
 * [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
+
+<!--
+http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
+https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
+-->
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
@@ -1668,6 +1684,16 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+https://twitter.com/math_rachel/status/958021756593123328 | Rachel Thomas on Twitter: "Our new, updated Practical Deep Learning for Coders is here! It’s free (no ads), based on PyTorch, accessible to beginners, even faster & more accurate than before. https://t.co/KgtHR2B9Vk… https://t.co/pSy3mYMcaE"
+
+https://t.co/CSfjbn8Knv | http://presentations.cocodataset.org/COCO17-Detect-UCenter.pptx
+https://twitter.com/jeremyphoward/status/963818202860945408 | Jeremy Howard on Twitter: "Complete details from COCO 17 detection winners, hidden away in an unindexed ppt! So much great info here. https://t.co/CSfjbn8Knv… https://t.co/3MMWQb6ZLj"
+https://twitter.com/jeremyphoward/status/963542848485273600 | Jeremy Howard on Twitter: "Easier way to install COCO API (from the COCO github issues): pip install -e git+https://github .com/pdollar/coco.git#egg=pycocotools&subdirectory=PythonAPI"
+https://github.com/cocodataset/cocoapi | cocodataset/cocoapi: COCO API - Dataset @ http://cocodataset.org/
+
+http://docs.chainer.org/en/stable/reference/check.html | Assertion and Testing — Chainer 3.4.0 documentation
+https://chainer.org/announcement/2018/04/17/released-v4.html | Released Chainer/CuPy v4.0.0
+
 https://github.com/NirantK/best-of-jupyter
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
