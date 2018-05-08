@@ -1257,6 +1257,10 @@ Khan Academy
 * [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 
 <!--
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
