@@ -1257,21 +1257,29 @@ Khan Academy
 * [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 
 <!--
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+https://en.wikipedia.org/wiki/Series_(mathematics)
+
+https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
+https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
+https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
+https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
+https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
+
+http://www.mathsisfun.com/numbers/ | Numbers Index
+https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
+https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
 
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
 
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
 -->
 
 Linear Algebra
@@ -1288,6 +1296,15 @@ Calculus
 
 <!--
 https://en.wikipedia.org/wiki/Summation
+
+https://www.khanacademy.org/#linear-algebra | Khan Academy | Free Online Courses, Lessons & Practice
+https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+
+https://www.khanacademy.org/math/precalculus
+https://www.khanacademy.org/math/calculus-home
+https://www.khanacademy.org/math/ap-calculus-ab
+https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus
 -->
 
 Mathematics of Deep Learning
@@ -1303,10 +1320,6 @@ Fast AI Computational Linear Algebra Course Recommended Books
 * ["Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms"](https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229)
 
 <!--
-https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
-
 Jeremy Howard- Matrix Calculus
 https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
 http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
@@ -1328,6 +1341,26 @@ https://minireference.com/static/tutorials/conceptmap.pdf
 -->
 
 <!--
+https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
+https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
+
+Derivatives
+https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
+https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
+http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
+http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
+http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
+
+https://en.wikipedia.org/wiki/Differential_equation | Differential equation - Wikipedia
+https://www.mathsisfun.com/calculus/differential-equations.html | Differential Equations - Introduction
+http://mathworld.wolfram.com/SigmoidFunction.html
+https://reference.wolfram.com/language/ref/Tanh.html
+
+https://www.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-multiplication/a/properties-of-matrix-multiplication | Properties of matrix multiplication (article) | Khan Academy
+https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
+
 https://betterexplained.com/
 
 An Intuitive Guide to Linear Algebra
@@ -1348,15 +1381,6 @@ https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
-
-https://en.wikipedia.org/wiki/Series_(mathematics)
-
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
 -->
 
 Mind Maps and Cheat Sheets
