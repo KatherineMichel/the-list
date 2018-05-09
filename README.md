@@ -1280,6 +1280,9 @@ https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
 https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
 https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
 
+https://www.khanacademy.org/computing/computer-science/how-computers-work2
+https://www.khanacademy.org/math
+
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
@@ -1310,10 +1313,12 @@ https://en.wikipedia.org/wiki/Summation
 
 https://www.khanacademy.org/#linear-algebra | Khan Academy | Free Online Courses, Lessons & Practice
 https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
+https://www.khanacademy.org/math/differential-equations
 
 https://www.khanacademy.org/math/precalculus
 https://www.khanacademy.org/math/calculus-home
 https://www.khanacademy.org/math/ap-calculus-ab
+https://www.khanacademy.org/math/ap-calculus-bc
 https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
 https://www.khanacademy.org/math/multivariable-calculus
 -->
@@ -1321,6 +1326,10 @@ https://www.khanacademy.org/math/multivariable-calculus
 Mathematics of Deep Learning
 * ["Mathematics of Deep Learning"](https://arxiv.org/pdf/1712.04741.pdf)
 * ["A guide to convolution arithmetic for deep learning"](https://arxiv.org/pdf/1603.07285.pdf)
+
+<!--
+https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
+-->
 
 Fast AI Math
 * [Wiki: Linear Algebra for Deep Learning](http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning)
