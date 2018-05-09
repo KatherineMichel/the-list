@@ -1342,8 +1342,12 @@ https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6b
 https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
 https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
 
-
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
+
+https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
+https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
 
 https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
 https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
@@ -1506,7 +1510,7 @@ Requests for Research
 * [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
 Data Science Websites
-* [AnalyticBridge](http://www.analyticbridge.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
+* [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
 * [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
 * [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
 
