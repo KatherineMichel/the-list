@@ -1778,6 +1778,9 @@ Python for Data Science Books- General
 <!--
 https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
+http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
+
+Think Books
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
 https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
@@ -1791,39 +1794,14 @@ http://greenteapress.com/wp/think-bayes/
 https://www.amazon.com/gp/product/1449370780
 Stats in a Nutshell 
 https://www.amazon.com/gp/product/1449316824
-
-http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
-
-https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
-
-https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
-
-http://shop.oreilly.com/product/0636920030515.do | Introduction to Machine Learning with Python - O'Reilly Media
-
-https://github.com/rasbt/python-machine-learning-book | rasbt/python-machine-learning-book: The "Python Machine Learning (1st edition)" book code repository and info resource
-
-https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
-https://github.com/nfmcclure/tensorflow_cookbook
-
-https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
-
-https://github.com/fchollet/deep-learning-with-python-notebooks
-https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
-https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
-
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow
-https://github.com/ageron/handson-ml
-https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
-http://shop.oreilly.com/product/0636920052289.do | Hands-On Machine Learning with Scikit-Learn and TensorFlow - O'Reilly Media
-
-https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
-https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
 -->
 
 Python for Data Science Books- Specialized
-* [Alice Zheng Feature Engineering for Machine Learning](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
-* [Ryan Mitchell Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
-* [Toby Segaran Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
+* [Feature Engineering for Machine Learning (Alice Zheng)](https://www.amazon.com/Feature-Engineering-Machine-Learning-Models/dp/1491953241)
+* [Web Scraping with Python (Ryan Mitchell)](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491985577)
+* [Collective Intelligence (Toby Segaran)](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
+
+Machine Learning Books
 
 Deep Learning Books
 * [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com) and [Neural Networks and Deep Learning (Michael Nielsen) GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning)
@@ -1831,8 +1809,49 @@ Deep Learning Books
 * [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
+<!--
+https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
+https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
+https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
+
+https://github.com/fchollet/deep-learning-with-python-notebooks
+https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks | redeipirati/projects/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python" | FloydHub
+
+Nikhil Buduma  (Author), Nicholas Locascio (Contributor)
+https://www.amazon.com/Fundamentals-Deep-Learning-Next-Generation-Intelligence/dp/1491925612
+
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291 | Hands-On Machine Learning with Scikit-Learn and TensorFlow
+https://github.com/ageron/handson-ml
+https://github.com/ageron/tensorflow-safari-course | ageron/tensorflow-safari-course: Exercises and solutions to accompany my Safari course introducing TensorFlow.
+
+Andreas Mueller and Sarah Guido
+https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
+https://github.com/amueller/introduction_to_ml_with_python
+
+https://www.amazon.com/Learning-TensorFlow-Guide-Building-Systems/dp/1491978511
+
+https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714
+https://github.com/johnmyleswhite/ML_for_Hackers
+
+
+
+
+https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
+
+https://github.com/rasbt/python-machine-learning-book | rasbt/python-machine-learning-book: The "Python Machine Learning (1st edition)" book code repository and info resource
+
+https://www.amazon.com/TensorFlow-Machine-Learning-Cookbook-McClure/dp/1786462168
+https://github.com/nfmcclure/tensorflow_cookbook
+
+https://www.manning.com/books/machine-learning-with-tensorflow | Manning | Machine Learning with TensorFlow
+-->
+
 AI Books
 * [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
+
+<!--
+https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+-->
 
 Spyder
 * [Spyder GitHub](https://github.com/spyder-ide/spyder)
