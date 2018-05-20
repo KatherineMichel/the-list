@@ -1048,8 +1048,12 @@ Django
 
 Improvement
 * [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
 * [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 * [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
 
 <!--
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
@@ -1524,6 +1528,7 @@ Data Science Websites
 * [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
 
 More Learning Resources
+* [Distill Pub](https://distill.pub/)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
 * [DataSciGuide](http://www.datasciguide.com)
 * [Toward Data Science](https://towardsdatascience.com)
@@ -1533,10 +1538,6 @@ More Learning Resources
 * [Partial Derivative](http://www.partiallyderivative.com)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
-
-<!--
-https://distill.pub/ | Distill — Latest articles about machine learning
--->
 
 Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
