@@ -1064,6 +1064,10 @@ https://docs.python.org/3.6/reference/datamodel.html#types | 3. Data model — P
 
 https://en.wikipedia.org/wiki/Mathematical_optimization
 
+https://en.wikipedia.org/wiki/Time_complexity
+https://en.wikipedia.org/wiki/Time_complexity#Constant_time
+https://en.wikipedia.org/wiki/Time_complexity#Linear_time
+https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
 
 https://en.wikipedia.org/wiki/Execution_(computing)
