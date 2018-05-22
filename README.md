@@ -1282,6 +1282,9 @@ More Algorithms Books
 * [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 
 <!--
+Grokking
+http://adit.io/errata.html
+
 Python
 https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
 -->
