@@ -1024,6 +1024,17 @@ Big O Notation
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
 
 <!--
+https://nedbatchelder.com/text/bigo.html
+https://nedbatchelder.com/text/bigo/bigo.html#12
+https://nedbatchelder.com/text/bigo/bigo.html#13
+https://nedbatchelder.com/text/bigo/bigo.html#14
+https://nedbatchelder.com/text/bigo/bigo.html#15
+https://nedbatchelder.com/text/bigo/bigo.html#16
+https://nedbatchelder.com/text/bigo/bigo.html#17
+
+https://nedbatchelder.com/text/slowsgrows.html
+https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
+
 https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
 https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
 https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
@@ -1078,6 +1089,9 @@ https://en.wikipedia.org/wiki/Recursion
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 https://en.wikipedia.org/wiki/Stack-based_memory_allocation
 
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
+
 https://docs.python.org/3/c-api/memory.html
 
 https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
@@ -1112,6 +1126,8 @@ Linear (Sequential) Data Structures (array, linked list, doubly linked list, sta
 Python- List (linear implementations = stacks, queues; non-linear = graphs, trees)
 
 <!--
+https://en.wikipedia.org/wiki/Random-access_memory
+
 Python Data Structures
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
@@ -1159,6 +1175,8 @@ Common Data Structure Operations- Hash Table (Python Dictionary)
 * [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
 <!--
+https://en.wikipedia.org/wiki/LIFO_(computing)
+
 Common Data Structure Operations
 https://en.wikipedia.org/wiki/Skip_list
 https://en.wikipedia.org/wiki/Binary_search_tree
