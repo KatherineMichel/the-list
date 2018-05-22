@@ -1568,6 +1568,10 @@ Rules and Advice
 * [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
+<!--
+https://developers.google.com/machine-learning/rules-of-ml/
+-->
+
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
@@ -1672,6 +1676,9 @@ Front-Runners
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
 <!--
+https://github.com/tensorflow/tfjs-core
+https://github.com/tensorflow/tfjs-models
+
 PyTorch Roadmap
 https://pytorch.org/2018/05/02/road-to-1.0.html
 -->
