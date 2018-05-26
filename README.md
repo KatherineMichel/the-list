@@ -574,33 +574,6 @@ Python IDLE
 * [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python)) 
 
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
