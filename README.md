@@ -445,6 +445,9 @@ Tutorials- Looking At
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
+https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo
+https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8
+https://dev.to/vaidehijoshi/whats-a-linked-list-anyway
 
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
