@@ -626,6 +626,10 @@ Django Consulting Firms, Blogs, Repos
 * [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
 * [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
+<!--
+https://www.divio.com/en/ | Divio Cloud - The platform for Python and Django - Divio
+-->
+
 Teachers
 * [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
 * [Frank Wiles](http://www.frankwiles.com)
