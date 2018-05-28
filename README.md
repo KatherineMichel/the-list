@@ -861,6 +861,7 @@ Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 Design Patterns- General
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
 * [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -870,6 +871,10 @@ Design Patterns- General
 
 <!--
 Software Design Patterns catalog
+
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
+[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
 
 https://en.wikipedia.org/wiki/Architectural_pattern
 https://en.wikipedia.org/wiki/Design_Patterns
