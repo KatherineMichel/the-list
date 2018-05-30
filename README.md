@@ -955,6 +955,8 @@ Method Resolution Order
 
 
 <!--
+https://docs.python.org/3/glossary.html#term-method-resolution-order
+
 Kenneth Reitz Advice to Me 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
