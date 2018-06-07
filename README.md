@@ -972,6 +972,9 @@ https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a
 Eli Bendersky
 https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
 
+https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website
+https://docs.python.org/3.6/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation
+
 $ python -m dis program.py
 compiler -> bytecode
 bytecode -> python interpreter (interpreter is written in C language)
@@ -982,6 +985,12 @@ output
 * Objects/object.c
 * Python data model (Python API)
 * Python object protocol (C API)
+
+https://github.com/python/cpython/blob/master/Include/object.h
+https://github.com/python/cpython/blob/master/Objects/abstract.c
+https://github.com/python/cpython/tree/master/Objects
+https://github.com/python/cpython/tree/master/Objects/clinic
+https://github.com/python/cpython/tree/master/Objects/stringlib
 
 PyObject
 Frames, function calls, basic scope
@@ -1890,6 +1899,12 @@ Interesting Curated Learning Resources- Back-End Developer
 * [Open Product Management](https://github.com/tron1991/open-product-management)
 * [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+<!--
+https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
+https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+https://github.com/mtdvio/every-programmer-should-know | mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+-->
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
