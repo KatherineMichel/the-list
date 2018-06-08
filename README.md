@@ -955,6 +955,10 @@ Method Resolution Order
 
 
 <!--
+http://courses.pgbovine.net/
+http://courses.pgbovine.net/csc253/assignments.htm
+http://courses.pgbovine.net/csc253/schedule.htm
+
 https://docs.python.org/3/glossary.html#term-method-resolution-order
 
 Kenneth Reitz Advice to Me 
@@ -1486,7 +1490,10 @@ Rules and Advice
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 <!--
+https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
+
+http://forums.fast.ai/t/30-best-practices/12344
 -->
 
 Analyst Group Resources
@@ -1637,6 +1644,9 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
 <!--
+https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
+https://developers.google.com/machine-learning/practica/image-classification/
+
 https://developers.google.com/machine-learning/crash-course/glossary
 -->
 
