@@ -461,6 +461,8 @@ Tutorials- Looking At
 
 
 <!--
+https://dbader.org/blog | Python Tutorials – dbader.org
+
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
@@ -515,8 +517,6 @@ http://runestoneinteractive.org/library.html | Runestone Interactive Titles
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
-
-https://dbader.org/blog | Python Tutorials – dbader.org
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
@@ -624,7 +624,7 @@ Django Consulting Firms, Blogs, Repos
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
 * [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
-* [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
+* [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
 https://www.divio.com/en/ | Divio Cloud - The platform for Python and Django - Divio
