@@ -1653,6 +1653,13 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+https://github.com/fastai/numerical-linear-algebra-v2 | fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
+http://www.fast.ai/2018/05/07/part2-launch/
+http://course.fast.ai/part2.html
+http://forums.fast.ai/c/deep-learning
+http://forums.fast.ai/t/google-colab-setup-for-fastai-part-2-v2/13464
+http://nlp.fast.ai/
+
 https://twitter.com/math_rachel/status/958021756593123328 | Rachel Thomas on Twitter: "Our new, updated Practical Deep Learning for Coders is here! It’s free (no ads), based on PyTorch, accessible to beginners, even faster & more accurate than before. https://t.co/KgtHR2B9Vk… https://t.co/pSy3mYMcaE"
 
 https://t.co/CSfjbn8Knv | http://presentations.cocodataset.org/COCO17-Detect-UCenter.pptx
@@ -1660,6 +1667,7 @@ https://twitter.com/jeremyphoward/status/963818202860945408 | Jeremy Howard on T
 https://twitter.com/jeremyphoward/status/963542848485273600 | Jeremy Howard on Twitter: "Easier way to install COCO API (from the COCO github issues): pip install -e git+https://github .com/pdollar/coco.git#egg=pycocotools&subdirectory=PythonAPI"
 https://github.com/cocodataset/cocoapi | cocodataset/cocoapi: COCO API - Dataset @ http://cocodataset.org/
 
+https://chainer.org/
 http://docs.chainer.org/en/stable/reference/check.html | Assertion and Testing — Chainer 3.4.0 documentation
 https://chainer.org/announcement/2018/04/17/released-v4.html | Released Chainer/CuPy v4.0.0
 
