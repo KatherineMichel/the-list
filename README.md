@@ -555,6 +555,17 @@ Python Tutors- Regular
 * [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+<!--
+https://jeffknupp.com/blog
+https://jeffknupp.com/blog/archives/ | Archives
+https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
+
+http://treyhunner.com/talks/
+http://treyhunner.com/blog/archives/
+https://github.com/treyhunner
+http://treyhunner.com/projects/ | Projects - Trey Hunner
+-->
+
 Python Tutors- YouTube
 * [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
 * [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
