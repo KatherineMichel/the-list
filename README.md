@@ -566,7 +566,6 @@ Python Websites and Newsletters
 * [Learn Python](http://www.learnpython.org)
 * [Python Central](http://www.pythoncentral.io)
 * [Python for Beginners](http://www.pythonforbeginners.com)
-* [Python Tutor](http://pythontutor.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
 
@@ -991,8 +990,9 @@ output
 * Python object protocol (C API)
 
 https://github.com/python/cpython/blob/master/Include/object.h
-https://github.com/python/cpython/blob/master/Objects/abstract.c
 https://github.com/python/cpython/tree/master/Objects
+
+https://github.com/python/cpython/blob/master/Objects/abstract.c
 https://github.com/python/cpython/tree/master/Objects/clinic
 https://github.com/python/cpython/tree/master/Objects/stringlib
 
@@ -1012,11 +1012,11 @@ https://docs.python.org/3.7/c-api/object.html
 https://docs.python.org/3.7/c-api/structures.html
 https://docs.python.org/3.7/c-api/concrete.html
 
-https://github.com/python/cpython/blob/master/Include/object.h
-https://github.com/python/cpython/tree/master/Objects
-
-http://courses.pgbovine.net/csc253/assignments.htm
-http://courses.pgbovine.net/csc253/schedule.htm
+Not Sure
+https://docs.python.org/3.7/c-api/code.html
+https://docs.python.org/3/c-api/memory.html
+https://docs.python.org/2/c-api/int.html
+https://docs.python.org/2/c-api/type.html#c.PyTypeObject
 
 https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
