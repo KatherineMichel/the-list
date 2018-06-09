@@ -1318,6 +1318,8 @@ Jeremy Howard- Matrix Calculus
 https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
 http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
 
+https://github.com/fastai/numerical-linear-algebra-v2 | fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
+
 http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
@@ -1332,10 +1334,11 @@ https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics
 https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
 https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
 
+https://minireference.com/static/tutorials/conceptmap.pdf
+
 https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
 https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
 https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-https://minireference.com/static/tutorials/conceptmap.pdf
 -->
 
 <!--
@@ -1411,37 +1414,57 @@ http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 Coding Competitions
 * Kaggle
 * Hackathons
-* Competitive Programming
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 * Project-Based Learning
 
+<!--
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+-->
+
 Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions) 
-* [Kaggle Progression](https://www.kaggle.com/progression) 
-* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle](http://www.kaggle.com), [Kaggle Blog](http://blog.kaggle.com), and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle GitHub](https://github.com/Kaggle)
+* [Kaggle Getting Started](https://www.kaggle.com/getting-started)
+
+<!--
+https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
+-->
+
+Kaggle- Learning
 * [Kaggle Learn](https://www.kaggle.com/learn)
 * [Kaggle Machine Learning](https://www.kaggle.com/learn/machine-learning)
 * [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
+
+Kaggle- Datasets and Kernels
 * [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Kernels](https://www.kaggle.com/kernels) 
+* [Kaggle Kernels](https://www.kaggle.com/kernels)
+
+Kaggle- Rankings and Progression
+* [Kaggle Rankings](https://www.kaggle.com/rankings) 
+* [Kaggle Progression](https://www.kaggle.com/progression) 
+
+Kaggle- Competition
+* [Kaggle Competitions](https://www.kaggle.com/competitions) 
+* [Kaggle API GitHub](https://github.com/Kaggle/kaggle-api)
 * [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
 * [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
 
 <!--
 https://www.datacamp.com/community/tags/kaggle | kaggle
 
-https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA | Kaggle - YouTube - YouTube
-
-https://github.com/Kaggle | Kaggle
-http://blog.kaggle.com | No Free Hunch | The Official Blog of Kaggle.com
-https://www.kaggle.com/getting-started
-
-https://github.com/Kaggle/kaggle-api | Kaggle/kaggle-api: Official Kaggle API
-https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
-
-https://www.kaggle.com/wiki/CompetitionLaunchChecklist
-https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
-https://www.kaggle.com/wiki/ModelSubmissionBestPractices
+https://web.archive.org/web/20150106171844/https://www.kaggle.com/wiki/CompetitionLaunchChecklist
+https://web.archive.org/web/20150106205215/https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
+https://web.archive.org/web/20150106174032/https://www.kaggle.com/wiki/ModelSubmissionBestPractices
 
 Kaggle National Data Science Bowl
 https://www.youtube.com/watch?v=eHwkfhmJexs | 2018 Data Science Bowl - YouTube
@@ -1449,6 +1472,8 @@ https://datasciencebowl.com/ | Home | The Data Science Bowl | Passion. Curiosity
 
 https://github.com/EliotAndres/kaggle-past-solutions
 http://ndres.me/kaggle-past-solutions
+
+https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
 -->
 
 
@@ -1687,7 +1712,6 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
-https://github.com/fastai/numerical-linear-algebra-v2 | fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
 http://www.fast.ai/2018/05/07/part2-launch/
 http://course.fast.ai/part2.html
 http://forums.fast.ai/c/deep-learning
@@ -1703,7 +1727,6 @@ https://github.com/cocodataset/cocoapi | cocodataset/cocoapi: COCO API - Dataset
 
 https://chainer.org/
 http://docs.chainer.org/en/stable/reference/check.html | Assertion and Testing — Chainer 3.4.0 documentation
-https://chainer.org/announcement/2018/04/17/released-v4.html | Released Chainer/CuPy v4.0.0
 
 https://github.com/NirantK/best-of-jupyter
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
