@@ -363,8 +363,10 @@ PyData
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
 * [PyData Events](https://pydata.org/events.html)
 
+
 EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
+
 
 DjangoCon US
 * [DjangoCon US Videos](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos)
@@ -461,6 +463,8 @@ Tutorials- Looking At
 
 
 <!--
+http://inventwithpython.com/blog/ | The Invent with Python Blog -
+
 https://dbader.org/blog | Python Tutorials – dbader.org
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
@@ -535,6 +539,7 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/le
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+http://www.fullstackpython.com/deployment.html
 
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 -->
@@ -556,6 +561,10 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://www.slideshare.net/MariattaWijaya
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+
 https://jeffknupp.com/blog
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
@@ -595,6 +604,8 @@ Python- Books
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 
 <!--
+https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
+
 https://github.com/fluentpython | Fluent Python
 https://github.com/fluentpython/example-code | fluentpython/example-code: Example code for the book Fluent Python
 
@@ -637,6 +648,7 @@ Django Consulting Firms, Blogs, Repos
 * [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://www.cuttlesoft.com/ | Cuttlesoft, Custom Software Developers
 https://www.divio.com/en/ | Divio Cloud - The platform for Python and Django - Divio
 -->
 
