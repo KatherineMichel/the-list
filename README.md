@@ -1058,6 +1058,19 @@ Abstract Data Type and Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 <!--
+https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
+https://www.tensorflow.org/programmers_guide/tensors#data_types
+https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
+
+https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia
+http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
+http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
+
+https://en.wikipedia.org/wiki/Tensor_product | Tensor product - Wikipedia
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
+difference between python list an dnumpy array
+
 Dynamic Data Structures
 
 mutable versus immutable
