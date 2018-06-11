@@ -1787,10 +1787,49 @@ https://www.coursera.org/learn/deep-neural-network/home/welcome
 https://www.coursera.org/learn/machine-learning-projects/home/welcome
 https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
 https://www.coursera.org/learn/nlp-sequence-models
-Geoffrey Hinton
+
+"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
+https://www.coursera.org/learn/neural-networks
 https://www.coursera.org/learn/neural-networks/home/welcome | Neural Networks for Machine Learning | Coursera
+https://www.cs.toronto.edu/~hinton/csc2515
+
+https://www.cs.toronto.edu/~tijmen/csc321
+
+Udacity Introduction to Machine Learning (Katie Malone and Sebastian Thrun)
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+Udacity Deep Learning by Google (Vincent Vanhoucke and Arpan Chakraborty)
+https://www.udacity.com/course/deep-learning--ud730
 -->
 
+
+<!--
+Oxford
+https://github.com/oxford-cs-deepnlp-2017/lectures
+
+Mining Massive Datasets (Stanford)
+* [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
+* [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
+
+Mining Massive Data Sets / Stanford 
+http://i.stanford.edu/~ullman/mmds.html
+https://www.amazon.com/gp/product/1107015359
+
+http://ufldl.stanford.edu/wiki/index.php/Main_Page
+http://ufldl.stanford.edu/tutorial
+
+Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
+http://web.stanford.edu/class/cs221/
+Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
+http://web.stanford.edu/class/cs224n/
+YouTube Playlist
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
+http://cs231n.stanford.edu/
+
+http://cs231n.github.io/convolutional-networks/
+http://cs231n.github.io/neural-networks-3
+-->
 Stanford Groups
 * [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
 * [Stanford Natural Language Processing Group](https://nlp.stanford.edu)
