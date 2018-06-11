@@ -76,6 +76,7 @@ https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
 -->
 
 <!--
+https://blog.openai.com/openai-charter/ | OpenAI Charter
 https://datapractices.org/manifesto/ | Manifesto for Data Practices
 https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
 https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
