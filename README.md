@@ -1403,6 +1403,11 @@ Mind Maps and Cheat Sheets
 * [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
+https://twitter.com/expa/status/931446443029626880 | Expa on Twitter: "17 equations that changed the world... https://t.co/lEmuRe5sVz"
+http://es.gizmodo.com/todo-lo-que-sabemos-sobre-matematicas-esta-explicado-en-1792046906 | Todo lo que sabemos sobre matemáticas está explicado en este mapa de manera sencilla
+http://dreammachin.es/desktop_algorithms.png | desktop_algorithms.png (5184×1516)
+
+
 Python Cheat Sheets
 
 https://www.datacamp.com/community/data-science-cheatsheets
@@ -1552,6 +1557,10 @@ Rules and Advice
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 <!--
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
+https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
+
 https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
 
