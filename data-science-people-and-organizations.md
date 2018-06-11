@@ -60,6 +60,20 @@ Thought Pieces
 * [OpenAI (Various Companies and People)](https://openai.com), [OpenAI Blog](https://blog.openai.com), and [OpenAI GitHub](https://github.com/openai)
 * [Partnership on AI (Various Companies)](https://www.partnershiponai.org)
 
+<!--
+https://www.aifund.ai/ | AI Fund
+https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
+https://aigrant.org/ | AI Grant
+https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
+
+https://blog.openai.com
+https://blog.openai.com/openai-scholars/ | OpenAI Scholars
+
+https://research.google.com/teams/brain/residency/ | Research at Google
+
+https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
+-->
+
 ## Companies that Create Leading Data Science Frameworks/Infrastructure
 
 * [Amazon GitHub](https://github.com/amzn)
