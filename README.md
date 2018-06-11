@@ -1986,6 +1986,18 @@ Python- Statistics Stack- MatPlotLib
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
 
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
+ 
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+
 Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 * [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
