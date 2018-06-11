@@ -37,6 +37,8 @@ http://www.psi.toronto.edu/~jimmy
 
 http://cs.stanford.edu/people/karpathy
 
+https://medium.com/@beaucronin
+
 http://martin.zinkevich.org/
 
 http://www.vincentgranville.com
