@@ -1652,6 +1652,8 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+https://github.com/stanford-futuredata/dawn-bench-entries | stanford-futuredata/dawn-bench-entries: DAWNBench: An End-to-End Deep Learning Benchmark and Competition (Deadline April 20, 2018 for initial pull requests)
+
 SOTA
 https://github.com/openai/baselines
 
@@ -1683,6 +1685,8 @@ Front-Runners
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
 <!--
+https://github.com/tensorly/tensorly | tensorly/tensorly: TensorLy: Tensor Learning in Python.
+
 https://github.com/tensorflow/tfjs-core
 https://github.com/tensorflow/tfjs-models
 
