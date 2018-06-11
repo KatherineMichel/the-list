@@ -66,12 +66,19 @@ https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-c
 https://aigrant.org/ | AI Grant
 https://twitter.com/juliagalef/status/904474539374948352 | Julia Galef on Twitter: "Help pick AI projects to get grant $! @danielgross & @natfriedman are swamped w/applications & need more reviewers: https://t.co/suABCUv5y5"
 
-https://blog.openai.com
 https://blog.openai.com/openai-scholars/ | OpenAI Scholars
 
 https://research.google.com/teams/brain/residency/ | Research at Google
 
 https://www.deeplearning.ai/ai-internship | deeplearning.ai | AI Internship
+-->
+
+<!--
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
 -->
 
 ## Companies that Create Leading Data Science Frameworks/Infrastructure
@@ -276,14 +283,6 @@ https://research.yahoo.com/research-areas/machine-learning-and-data-science | Re
 https://yahooeng.tumblr.com/post
 https://github.com/youtube | YouTube
 https://www.zomato.com/blog/machine-learning | Our learnings from Huddle on Machine Learning | Zomato Blog
--->
-
-<!--
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
 -->
 
 Google History of Machine Learning
