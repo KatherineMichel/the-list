@@ -3,7 +3,7 @@
 ## Data Scientists
 
 * [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
-* [Andrew Ng Medium](https://medium.com/@andrewng) and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
+* [Andrew Ng Medium](http://www.andrewng.org), [Andrew Ng Medium](https://medium.com/@andrewng), and [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
 * [Clare Corthell GitHub](https://github.com/clarecorthell)  
 * [Daphne Koller](http://ai.stanford.edu/~koller), [Daphne Koller Twitter](https://twitter.com/DaphneKoller), and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
 * [François Chollet Twitter](https://twitter.com/fchollet) and [François Chollet GitHub](https://github.com/fchollet)
@@ -23,11 +23,18 @@
 * [Sebastian Thrun Wikipedia](https://en.wikipedia.org/wiki/Sebastian_Thrun)
 * [Yann LeCun](http://yann.lecun.com), [Yann LeCun Facebook](https://www.facebook.com/yann.lecun), and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
-Thought Pieces
-* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
-
 <!--
+https://www.cs.toronto.edu/~tijmen
+https://www.cs.toronto.edu/~hinton
+https://www.cs.toronto.edu/~urtasun/
+http://www.psi.toronto.edu/~andrew/
+http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html
+
+https://web.stanford.edu/~tdozat
+http://web.stanford.edu/~jurafsky/
+http://statweb.stanford.edu/~susan
+http://www.psi.toronto.edu/~jimmy
+
 http://cs.stanford.edu/people/karpathy
 
 http://martin.zinkevich.org/
@@ -41,6 +48,10 @@ https://twitter.com/rctatman/following | People followed by Rachael Tatman (@rct
 https://twitter.com/jeremyphoward/following | People followed by Jeremy Howard (@jeremyphoward) | Twitter
 https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@math_rachel) | Twitter
 -->
+
+Thought Pieces
+* [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
 
 ## Partnerships, Exchanges, Ethics
 
@@ -77,6 +88,9 @@ https://twitter.com/math_rachel/following | People followed by Rachel Thomas (@m
 * [Yandex GitHub](https://github.com/yandex)
 
 <!--
+https://twitter.com/BaiduResearch | Baidu Research (@BaiduResearch) | Twitter
+https://twitter.com/NvidiaAI | NVIDIA AI (@NvidiaAI) | Twitter
+
 https://cloud.google.com/ml-engine/docs/machine-learning-resources | Machine Learning Resources  |  Cloud Machine Learning Engine (Cloud ML Engine)  |  Google Cloud Platform
 
 https://cloud.google.com/tpu/ | Cloud TPUs - ML accelerators for TensorFlow  |  Google Cloud Platform
