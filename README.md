@@ -1535,6 +1535,10 @@ Requests for Research
 * [OpenAI Requests for Research](https://openai.com/requests-for-research)
 * [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
+<!--
+https://github.com/openai/requests-for-research
+-->
+
 Data Science Websites
 * [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
 * [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
@@ -1635,6 +1639,11 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
 
+Interesting
+* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
+
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
 * [Baidu Research DeepBench](https://svail.github.io/DeepBench)
@@ -1643,6 +1652,9 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+SOTA
+https://github.com/openai/baselines
+
 https://github.com/onnx/onnx
 
 http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
@@ -1750,6 +1762,7 @@ https://github.com/cocodataset/cocoapi | cocodataset/cocoapi: COCO API - Dataset
 https://chainer.org/
 http://docs.chainer.org/en/stable/reference/check.html | Assertion and Testing — Chainer 3.4.0 documentation
 
+
 https://github.com/NirantK/best-of-jupyter
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
@@ -1852,9 +1865,14 @@ Python for Data Science Books- General
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
-https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
+Python Data Science Handbook
+http://shop.oreilly.com/product/0636920034919.do | Python Data Science Handbook - O'Reilly Media
 
+Python for Data Analysis
+https://github.com/wesm/pydata-book
 http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McKinney
+
+https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 Think Books
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
@@ -1948,6 +1966,11 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 
 Python- Statistics Stack- iPython and Jupyter
 * [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
+* [Jupyter](http://jupyter.org)
+
+A Gallery of Interesting Jupyter Notebooks
+* [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks) 
+* [A Gallery of Interesting IPython Notebooks- Pandas for Data Analysis](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#pandas-for-data-analysis)
 
 Python- Statistics Stack- NumPy 
 * [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
@@ -1958,11 +1981,6 @@ Python- Statistics Stack- MatPlotLib
 
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
-
-Interesting
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 Neural Networks
 * [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
