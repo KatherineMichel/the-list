@@ -1619,6 +1619,8 @@ https://github.com/ossu/data-science/blob/master/extras/specializations.md | dat
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
+https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
+http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
 
@@ -1964,6 +1966,10 @@ Python- Statistics Stack- Scikit-Learn
 * [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
 * [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
 
+<!--
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+-->
+
 Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 * [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image/scikit-image)  
 * [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples) 
@@ -1982,6 +1988,10 @@ Python- Statistics Stack- NumPy
 
 Python- Statistics Stack- MatPlotLib
 * [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
 
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
@@ -1989,11 +1999,16 @@ Python- Statistics Stack- Pandas
 Python- Statistics Stack- SciPy 
 * [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
  
+<!--
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
+-->
+
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 * [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
 
 Python- Statistics Stack- StatsModel
 * [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Gallery](http://www.statsmodels.org/stable/examples/index.html)  
 
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
