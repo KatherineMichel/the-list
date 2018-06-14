@@ -395,12 +395,30 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
+<!--
+https://www.sitepoint.com
+https://www.tutorialspoint.com/python
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
+-->
+
 Learning Platforms (See also others)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
+
+<!--
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+https://www.edx.org/course/subject/computer-science/python
+https://www.youtube.com/user/khanacademy/search?query=python
+https://nostarch.com/search/node/python | Search | No Starch Press
+http://exercism.io/languages/python/about | Python - exercism.io
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
+
+http://pyvideo.org/search.html?q=django | PyVideo.org
+-->
 
 Python Trending, Topics, Forums
 * [GitHub Trending: python](https://github.com/trending/python)
@@ -465,7 +483,11 @@ Tutorials- Looking At
 <!--
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
+https://realpython.com/ | Real Python - Real Python
+https://realpython.com/courses
+
 https://dbader.org/blog | Python Tutorials – dbader.org
+https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
