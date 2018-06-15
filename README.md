@@ -1676,6 +1676,12 @@ Interesting
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
+<!--
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
+-->
+
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
 * [Baidu Research DeepBench](https://svail.github.io/DeepBench)
@@ -1850,10 +1856,37 @@ Udacity Deep Learning by Google (Vincent Vanhoucke and Arpan Chakraborty)
 https://www.udacity.com/course/deep-learning--ud730
 -->
 
+Stanford Groups
+* [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
+* [Stanford Natural Language Processing Group](https://nlp.stanford.edu)
+* [Stanford Vision Lab](http://vision.stanford.edu)
+
+Karpathy (Stanford)
+* ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 <!--
 Oxford
 https://github.com/oxford-cs-deepnlp-2017/lectures
+
+Harvard CS109 Data Science
+http://cs109.github.io/2015/
+https://test-matterhorn.dce.harvard.edu/engage/ui/index.html#/2014/01/14328
+
+Intro to Data Science - Bill Howe (UW)
+https://github.com/datasciencemasters/go/issues/102
+https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ
+
+* Machine Learning [Caltech / Edx]
+http://work.caltech.edu/lectures.html
+
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+
+Data Science Groups
+The Elements of Statistical Learning / Stanford
+https://statistics.stanford.edu/~tibs/ElemStatLearn
+https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
+https://web.stanford.edu/class/cs106s/ | CS106S
 
 Mining Massive Datasets (Stanford)
 * [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
@@ -1878,18 +1911,6 @@ http://cs231n.stanford.edu/
 
 http://cs231n.github.io/convolutional-networks/
 http://cs231n.github.io/neural-networks-3
--->
-Stanford Groups
-* [Stanford Machine Learning Group](https://stanfordmlgroup.github.io)
-* [Stanford Natural Language Processing Group](https://nlp.stanford.edu)
-* [Stanford Vision Lab](http://vision.stanford.edu)
-
-Karpathy (Stanford)
-* ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
-* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
-<!--
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
 -->
 
 Python for Data Science Books- General
