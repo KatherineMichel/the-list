@@ -1614,6 +1614,14 @@ Teachers
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
+https://www.instagram.com/hardmaru/
+
+https://aaroncourville.wordpress.com/ | Aaron Courville
+https://www.analyticsvidhya.com/blog
+https://github.com/adeshpande3
+https://adeshpande3.github.io
+https://jamesmccaffrey.wordpress.com
+
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 -->
@@ -1893,6 +1901,16 @@ Python for Data Science Books- General
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
+O'Reilly
+Interactive Data Visualization for the Web: An Introduction to Designing with D3
+https://www.amazon.com/gp/product/1449339735
+Social Network Analysis for Startups: Finding connections on the social web
+https://www.amazon.com/gp/product/1449306462
+Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit
+https://www.amazon.com/gp/product/0596516495
+Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists
+https://www.amazon.com/gp/product/0596802358
+
 Python Data Science Handbook
 http://shop.oreilly.com/product/0636920034919.do | Python Data Science Handbook - O'Reilly Media
 
