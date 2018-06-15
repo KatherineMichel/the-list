@@ -1911,6 +1911,25 @@ http://cs231n.stanford.edu/
 
 http://cs231n.github.io/convolutional-networks/
 http://cs231n.github.io/neural-networks-3
+http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
+
+
+Introduction to Databases (Stanford)
+https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about
+ 
+Introduction to Information Retrieval / Stanford 
+https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+https://www.amazon.com/gp/product/0521865719
+
+Convex Optimization (Stanford)
+http://stanford.edu/class/ee364a/index.html
+http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+
+From Languages to Information / Stanford CS147 
+http://web.stanford.edu/class/cs124/
+
+Deep Learning for Natural Language Processing CS224d (Stanford)
+http://cs224d.stanford.edu/syllabus.html
 -->
 
 Python for Data Science Books- General
