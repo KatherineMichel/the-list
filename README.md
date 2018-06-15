@@ -1880,21 +1880,11 @@ https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ
 * Machine Learning [Caltech / Edx]
 http://work.caltech.edu/lectures.html
 
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-
 Data Science Groups
 The Elements of Statistical Learning / Stanford
 https://statistics.stanford.edu/~tibs/ElemStatLearn
 https://stats385.github.io/ | Theories of Deep Learning (STATS 385) by stats385
 https://web.stanford.edu/class/cs106s/ | CS106S
-
-Mining Massive Datasets (Stanford)
-* [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
-* [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
-
-Mining Massive Data Sets / Stanford 
-http://i.stanford.edu/~ullman/mmds.html
-https://www.amazon.com/gp/product/1107015359
 
 http://ufldl.stanford.edu/wiki/index.php/Main_Page
 http://ufldl.stanford.edu/tutorial
@@ -1906,6 +1896,11 @@ http://web.stanford.edu/class/cs224n/
 YouTube Playlist
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
+http://web.stanford.edu/class/cs106a/
+
+
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+
 CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
 http://cs231n.stanford.edu/
 
@@ -1913,23 +1908,34 @@ http://cs231n.github.io/convolutional-networks/
 http://cs231n.github.io/neural-networks-3
 http://cs231n.github.io/neural-networks-3/#gradcheck | CS231n Convolutional Neural Networks for Visual Recognition
 
-
 Introduction to Databases (Stanford)
 https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about
  
-Introduction to Information Retrieval / Stanford 
+Introduction to Information Retrieval (Stanford) 
 https://nlp.stanford.edu/IR-book/information-retrieval-book.html
 https://www.amazon.com/gp/product/0521865719
+
+From Languages to Information (Stanford)
+http://web.stanford.edu/class/cs124/
+
+Mining Massive Datasets (Stanford)
+* [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
+* [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
+
+Mining Massive Data Sets (Stanford) 
+http://i.stanford.edu/~ullman/mmds.html
+https://www.amazon.com/gp/product/1107015359
 
 Convex Optimization (Stanford)
 http://stanford.edu/class/ee364a/index.html
 http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 
-From Languages to Information / Stanford CS147 
-http://web.stanford.edu/class/cs124/
-
 Deep Learning for Natural Language Processing CS224d (Stanford)
 http://cs224d.stanford.edu/syllabus.html
+
+Stanford CS147?
+Design Thinking for User Experience Design, Prototyping & Evaluation
+http://hci.stanford.edu/courses/cs147/2017/au/
 -->
 
 Python for Data Science Books- General
@@ -1961,17 +1967,23 @@ http://wesmckinney.com/pages/book.html | Python for Data Analysis Book - Wes McK
 https://www.datascienceatthecommandline.com/ | Data Science at the Command Line
 
 Think Books
+https://github.com/AllenDowney
+
+Think Python
+http://greenteapress.com/wp/think-python/
+Think Stats: Probability and Statistics for Programmers
+http://greenteapress.com/thinkstats/
+https://www.amazon.com/gp/product/1449307116/
+Think Bayes: Bayesian Statistics Made Simple
+http://greenteapress.com/wp/think-bayes/
 http://www.greenteapress.com/thinkbayes/html/thinkbayes001.html | Preface
+Think Bayes: Bayesian Statistics in Python
+https://www.amazon.com/gp/product/1449370780
+
+Think Complexity
 http://greenteapress.com/wp/think-complexity-2e/ | Think Complexity 2e – Green Tea Press
 https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
 
-http://greenteapress.com/wp/think-python/
-Think Stats: Probability and Statistics for Programmers [Digital]
-http://greenteapress.com/thinkstats/
-https://www.amazon.com/gp/product/1449307116/
-Think Bayes
-http://greenteapress.com/wp/think-bayes/
-https://www.amazon.com/gp/product/1449370780
 Stats in a Nutshell 
 https://www.amazon.com/gp/product/1449316824
 -->
@@ -1990,6 +2002,10 @@ Deep Learning Books
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
+https://www.amazon.com/dp/1491989386 | Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning: 9781491989388: Computer Science Books @ Amazon.com
+http://shop.oreilly.com/product/0636920085423.do | Machine Learning with Python Cookbook - O'Reilly Media
+https://github.com/chrisalbon | chrisalbon (Chris Albon) / Repositories
+
 https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ | Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books
 https://www.manning.com/books/deep-learning-with-python | Manning | Deep Learning with Python
 https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-7/v-6/9 | liveBook - Deep Learning with Python MEAP V06 - 7 Advanced deep learning best practices
