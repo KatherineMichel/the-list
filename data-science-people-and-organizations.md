@@ -55,6 +55,13 @@ Thought Pieces
 * [Andrej Karpathy: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
 
+<!--
+Fast AI
+https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106
+Jeff Dean's presentation on Trends and Developments in Deep Learning Research
+https://www.slideshare.net/AIFrontiers/jeff-dean-trends-and-developments-in-deep-learning-research | Jeff Dean at AI Frontiers: Trends and Developments in Deep Learning R…
+-->
+
 ## Partnerships, Exchanges, Ethics
 
 * [Artificial Intelligence Index](http://aiindex.org)
