@@ -1609,6 +1609,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
 https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
 
+https://blog.openai.com/openai-charter/
 https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
 
