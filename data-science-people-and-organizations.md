@@ -223,6 +223,21 @@ https://code.facebook.com/applied-machine-learning/ | Applied Machine Learning |
 * [Uber Engineering](https://eng.uber.com)
 * [Uber gh-pages](http://uber.github.io)
 
+<!--
+https://www.meetup.com/UberEvents/
+http://eng.uber.com/
+https://eng.uber.com/tech-stack-part-one/ | The Uber Engineering Tech Stack, Part I: The Foundation | Uber Engineering Blog
+https://eng.uber.com/tech-stack-part-two/ | The Uber Engineering Tech Stack, Part II: The Edge and Beyond | Uber Engineering Blog
+https://eng.uber.com/michelangelo/ | Meet Michelangelo: Uber's Machine Learning Platform
+https://github.com/uber/horovod | uber/horovod: Distributed training framework for TensorFlow, Keras, and PyTorch.
+https://github.com/uber/kepler.gl | uber/kepler.gl
+https://eng.uber.com/vine/ | VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution
+https://eng.uber.com/differentiable-plasticity/ | Differentiable Plasticity: A New Method for Learning to Learn | Uber Engineering Blog
+http://uber.github.io/deck.gl/blog/2017/visualization-framework-suite
+https://medium.com/vis-gl/start-scripting-with-deck-gl-c9036d7a6011 | Start Scripting with deck.gl – vis.gl – Medium
+https://www.datadeck.com/ | Data Visualization, Centralize & Collaborate Data | DataDeck
+-->
+
 ## Companies that Do Large-Scale Data Science
 
 * [AddThis GitHub](https://github.com/addthis)
