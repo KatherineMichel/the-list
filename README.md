@@ -355,6 +355,19 @@ PyVideo
 Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
 
+DjangoCon US
+* [DjangoCon US](http://www.djangocon.us)
+* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
+* [DjangoCon US Playlists](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists)
+* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
+* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
+* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
+* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
+DjangoCon Europe
+* [DjangoCon Europe](https://djangocon.eu)
+* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+
 PyCon U.S.
 * [PyCon](http://www.pycon.org)
 * [PyCon 2018 Videos](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
@@ -375,6 +388,10 @@ Videos
 PyCon Canada
 * [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
 
+EuroPython
+* [EuroPython](https://europython.eu)
+* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
+
 PyData- Major Events
 * [PyData](http://pydata.org)
 * [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
@@ -384,22 +401,19 @@ PyData- Major Events
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
 * [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 
-EuroPython
-* [EuroPython](https://europython.eu)
-* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
-
-DjangoCon US
-* [DjangoCon US](http://www.djangocon.us)
-* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
-* [DjangoCon US Playlists](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists)
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
-DjangoCon Europe
-* [DjangoCon Europe](https://djangocon.eu)
-* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+<!--
+http://scaledml.org/ | Scaled Machine Learning
+http://aifrontiers.com/ | AI Frontiers Conference
+https://www.slideshare.net/AIFrontiers | AI Frontiers | SlideShare
+https://nips.cc/
+International Conference on Machine Learning
+https://icml.cc/
+https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
+International Conference on Computer Vision
+https://www.thecvf.com/
+https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+http://cvpr2018.thecvf.com/
+-->
 
 Visual Studio Code
 * [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
