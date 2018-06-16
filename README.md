@@ -503,6 +503,8 @@ Tutorials- Looking At
 
 
 <!--
+https://twitter.com/aaronchall/status/961250524753551360
+
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
 https://realpython.com/ | Real Python - Real Python
@@ -719,6 +721,10 @@ Python- Django- Tutorial and Book Lists
 Two Scoops Books
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+
+<!--
+https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc | Two Scoops of Django 1.11 FAQ – Two Scoops Press
+-->
 
 Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
 * [High Performance Django](https://highperformancedjango.com)
@@ -2283,6 +2289,7 @@ https://medium.com/@tristanharris
 http://www.tristanharris.com/the-need-for-a-new-design-ethics/
 
 http://humanetech.com/ | Center for Humane Technology
+http://humanetech.com/take-control/ | Take Control — Center for Humane Technology
 http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 
 https://www.wired.com/story/phone-addiction-formula/ | WIRED
