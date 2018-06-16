@@ -1814,6 +1814,11 @@ Recommended by Rachel Thomas?
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 
+Recommended by Jeremy Howard
+https://github.com/NirantK/best-of-jupyter
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
+
 
 http://www.fast.ai/2018/01/17/international-spring-2018/ | International Fellowship applications for Part 2 now open · fast.ai
 
@@ -1851,10 +1856,10 @@ https://github.com/cocodataset/cocoapi | cocodataset/cocoapi: COCO API - Dataset
 https://chainer.org/
 http://docs.chainer.org/en/stable/reference/check.html | Assertion and Testing — Chainer 3.4.0 documentation
 
-
-https://github.com/NirantK/best-of-jupyter
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
-https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
+Old
+https://github.com/fastai/courses/blob/master/setup/aws-alias.sh
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/utils.py
+https://github.com/fastai/courses/blob/master/deeplearning1/nbs/lesson1.ipynb
 
 https://www.udemy.com/complete-python-bootcamp/learn/v4/content | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
 https://www.udemy.com/deeplearning/learn/v4 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | Udemy
