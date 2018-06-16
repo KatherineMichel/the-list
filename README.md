@@ -409,6 +409,12 @@ Visual Studio Code
 PyCharm
 * [PyCharm](https://www.jetbrains.com/pycharm)
 
+<!--
+https://www.jetbrains.com/pycharm | Thank you for downloading PyCharm!
+https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
+https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
+-->
+
 Official Python Tutorial
 * [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
 
@@ -421,6 +427,13 @@ MOOCs
 https://www.sitepoint.com
 https://www.tutorialspoint.com/python
 https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
+
+http://www.tutorialspoint.com/python/ | Python Tutorial
+https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
 Learning Platforms (See also others)
@@ -464,8 +477,14 @@ https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Prog
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types#Mutable_vs_Immutable_Objects | Python Programming/Data Types - Wikibooks, open books for an open world
+
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
 
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
 -->
 
 Eric Matthes
@@ -503,6 +522,10 @@ Tutorials- Looking At
 
 
 <!--
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
+
 https://twitter.com/aaronchall/status/961250524753551360
 
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
@@ -510,26 +533,29 @@ http://inventwithpython.com/blog/ | The Invent with Python Blog -
 https://realpython.com/ | Real Python - Real Python
 https://realpython.com/courses
 
-https://dbader.org/blog | Python Tutorials – dbader.org
-https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
 https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
 https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo
 https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8
 https://dev.to/vaidehijoshi/whats-a-linked-list-anyway
 
-https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
+https://dbader.org/blog | Python Tutorials – dbader.org
+https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
 
 https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
+https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
 
 https://www.fullstackpython.com/best-python-resources.html
 
 * [Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
-http://www.tutorialspoint.com/python/ | Python Tutorial
-https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+http://www.fullstackpython.com/deployment.html
 
 https://www.digitalocean.com/community/tutorials?q=python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
@@ -568,11 +594,7 @@ https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
 
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
+https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
 
 https://learncodethehardway.org/more-python/
 
@@ -582,12 +604,6 @@ https://learnpythonthehardway.org/book/nopython3.html
 https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-http://www.fullstackpython.com/deployment.html
-
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 -->
 
 Python Tutors- Regular
@@ -735,6 +751,12 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
+
+<!--
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+-->
 
 Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
@@ -942,6 +964,8 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
+See also: Django Design Patterns
+
 Software Design Patterns catalog
 
 * [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
@@ -1528,6 +1552,8 @@ Kaggle- Competition
 * [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
 
 <!--
+http://blog.kaggle.com/2018/05/07/profiling-top-kagglers-bestfitting-currently-1-in-the-world
+
 https://www.datacamp.com/community/tags/kaggle | kaggle
 
 https://web.archive.org/web/20150106171844/https://www.kaggle.com/wiki/CompetitionLaunchChecklist
@@ -1615,7 +1641,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
 https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
 
-https://blog.openai.com/openai-charter/
 https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
 
