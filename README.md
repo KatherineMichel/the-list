@@ -1810,10 +1810,35 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+Recommended by Rachel Thomas?
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
+
+
+http://www.fast.ai/2018/01/17/international-spring-2018/ | International Fellowship applications for Part 2 now open · fast.ai
+
+https://github.com/fastai/fastai/blob/master/docs/style.md | fastai/style.md at master · fastai/fastai
+
+Wiki
+http://wiki.fast.ai/index.php/Main_Page#Lessons
+http://wiki.fast.ai/index.php/Main_Page#Tools
+http://wiki.fast.ai/index.php/Deep_Learning_Glossary | Deep Learning Glossary - Deep Learning Course Wiki
+http://wiki.fast.ai/index.php/Kaggle_CLI
+
 http://www.fast.ai/2018/05/07/part2-launch/
+http://www.fast.ai/2018/01/26/v2-launch/ | Practical Deep Learning for Coders 2018 · fast.ai
+
+Practical Deep Learning (Lessons 1-7)
+http://course.fast.ai/about.html
+http://course.fast.ai/start.html
+http://course.fast.ai/lessons/lessons.html
+Cutting edge Deep Learning (Lessons 8-14)
 http://course.fast.ai/part2.html
+http://course.fast.ai/lessons/lessons2.html
+
 http://forums.fast.ai/c/deep-learning
 http://forums.fast.ai/t/google-colab-setup-for-fastai-part-2-v2/13464
+https://github.com/fastai/imagenet-fast | fastai/imagenet-fast
 http://nlp.fast.ai/
 
 https://twitter.com/math_rachel/status/958021756593123328 | Rachel Thomas on Twitter: "Our new, updated Practical Deep Learning for Coders is here! It’s free (no ads), based on PyTorch, accessible to beginners, even faster & more accurate than before. https://t.co/KgtHR2B9Vk… https://t.co/pSy3mYMcaE"
