@@ -623,6 +623,9 @@ Python Tutors- Regular
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
+
 https://www.slideshare.net/MariattaWijaya
 
 https://stephensugden.com/crash_into_python/ | Crash into Python
