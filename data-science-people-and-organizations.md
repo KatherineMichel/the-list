@@ -70,6 +70,8 @@ https://www.slideshare.net/AIFrontiers/jeff-dean-trends-and-developments-in-deep
 * [Partnership on AI (Various Companies)](https://www.partnershiponai.org)
 
 <!--
+https://twitter.com/ScienceComPe/status/979417964624666624 | @GrJoselo on Twitter: "Program AI https://t.co/GAQ1KmcSlq https://t.co/BTQo2cY4ls https://t.co/SjBcfCy9XD https://t.co/0BXhZQ99a5 https://t.co/21whldo0E1"
+
 https://www.aifund.ai/ | AI Fund
 https://medium.com/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072 | Announcing the AI Fund: Building transformative AI companies
 https://aigrant.org/ | AI Grant
