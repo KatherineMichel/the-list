@@ -401,18 +401,17 @@ PyData- Major Events
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
 * [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 
+ML Conferences
+* [AI Frontiers](http://aifrontiers.com) and [AI Frontiers SlideShare](https://www.slideshare.net/AIFrontiers)
+* [Scaled Machine Learning](http://scaledml.org)
+* [International Conference on Machine Learning (ICML)](https://icml.cc)
+* [The Computer Vision Foundation (CVF)](https://www.thecvf.com)
+* [International Conference on Computer Vision 2018 (CVPR)](http://cvpr2018.thecvf.com)
+* [Annual Conference on Neural Information Processing Systems (NIPS)](https://nips.cc)
+
 <!--
-http://scaledml.org/ | Scaled Machine Learning
-http://aifrontiers.com/ | AI Frontiers Conference
-https://www.slideshare.net/AIFrontiers | AI Frontiers | SlideShare
-https://nips.cc/
-International Conference on Machine Learning
-https://icml.cc/
 https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
-International Conference on Computer Vision
-https://www.thecvf.com/
 https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
-http://cvpr2018.thecvf.com/
 -->
 
 Visual Studio Code
@@ -424,7 +423,6 @@ PyCharm
 * [PyCharm](https://www.jetbrains.com/pycharm)
 
 <!--
-https://www.jetbrains.com/pycharm | Thank you for downloading PyCharm!
 https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
 https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
 -->
@@ -439,13 +437,16 @@ MOOCs
 
 <!--
 https://www.sitepoint.com
-https://www.tutorialspoint.com/python
 https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
 
 http://www.tutorialspoint.com/python/ | Python Tutorial
 https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+https://www.tutorialspoint.com/python/python_dictionary_data_structure.htm
+https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+
+https://www.tutorialspoint.com/data_structures_algorithms
 
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
@@ -1164,9 +1165,6 @@ http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Phys
 
 https://en.wikipedia.org/wiki/Tensor_product | Tensor product - Wikipedia
 
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
-difference between python list an dnumpy array
-
 Dynamic Data Structures
 
 mutable versus immutable
@@ -1205,11 +1203,6 @@ Common Data Structure Operations- Contiguous versus Linked Data Structures
 * [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
-
-<!--
-NumPy Array, Array Creation
-https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
--->
 
 Common Data Structure Operations- Stack, Queue
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
@@ -1769,6 +1762,8 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+http://dawn.cs.stanford.edu/blog
+
 https://github.com/stanford-futuredata/dawn-bench-entries | stanford-futuredata/dawn-bench-entries: DAWNBench: An End-to-End Deep Learning Benchmark and Competition (Deadline April 20, 2018 for initial pull requests)
 
 SOTA
@@ -2054,10 +2049,17 @@ Python for Data Science Books- General
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+NumPy Array, Array Creation
+https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 
+What advantages do NumPy arrays offer over (nested) Python lists?
+https://www.scipy.org/scipylib/faq.html#what-advantages-do-numpy-arrays-offer-over-nested-python-lists
 https://docs.scipy.org/doc/numpy/reference/ufuncs.html
+
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 
 O'Reilly
