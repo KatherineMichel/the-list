@@ -2133,7 +2133,10 @@ https://www.amazon.com/Learning-TensorFlow-Guide-Building-Systems/dp/1491978511
 https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714
 https://github.com/johnmyleswhite/ML_for_Hackers
 
-
+* Machine Learning for Hackers
+http://nbviewer.jupyter.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb
+* Probabilistic Programming and Bayesian Methods for Hackers 
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 
 https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN | Machine Learning for Dummies
@@ -2174,6 +2177,9 @@ Python- Statistics Stack- NumPy
 * [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
 
 <!--
+https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
+https://www.datacamp.com/community/tutorials?tag=python
+
 http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
 https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
 
