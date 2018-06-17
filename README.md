@@ -2209,15 +2209,27 @@ Python- Image Processing- Scikit-Image (See also Python Imaging Library)
 * [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image/scikit-image)  
 * [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples) 
 
+Python- Statistics Stack- Pandas
+* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
+
+<!--
+Intro to Data Structures
+https://pandas.pydata.org/pandas-docs/stable/dsintro.html
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html
+
+https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+https://medium.freecodecamp.org/series-and-dataframe-in-python-a800b098f68
+https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm
+-->
+
 Python- Statistics Stack- MatPlotLib
 * [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
 * [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
 * [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
 * [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
 * [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
-
-Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 * [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
