@@ -178,6 +178,7 @@ https://en.wikipedia.org/wiki/CUDA | CUDA - Wikipedia
 Google Research
 * [Google Blog](https://www.blog.google), [Google Blog Topics](https://www.blog.google/topics), and [Google Blog Products](https://www.blog.google/products)
 * [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](https://research.googleblog.com)
+* [Google Developers Blog](https://developers.googleblog.com)
 * [Google Developers Machine Learning](https://developers.google.com/machine-learning)
 * [Google Cloud Platform Blog](https://cloudplatform.googleblog.com)
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en) 
