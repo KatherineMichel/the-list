@@ -2049,17 +2049,6 @@ Python for Data Science Books- General
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
-NumPy Array, Array Creation
-https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 
-What advantages do NumPy arrays offer over (nested) Python lists?
-https://www.scipy.org/scipylib/faq.html#what-advantages-do-numpy-arrays-offer-over-nested-python-lists
-https://docs.scipy.org/doc/numpy/reference/ufuncs.html
-
-https://www.datacamp.com/community/tutorials/python-numpy-tutorial
-
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 
 O'Reilly
@@ -2172,19 +2161,6 @@ Conda
 * [Anaconda](https://www.continuum.io/downloads) and [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html) 
 * [Miniconda](http://conda.pydata.org/miniconda.html)
 
-Python- Statistics Stack- Scikit-Learn
-* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
-
-<!--
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
--->
-
-Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image/scikit-image)  
-* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples) 
-
 Python- Statistics Stack- iPython and Jupyter
 * [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
 * [Jupyter](http://jupyter.org)
@@ -2197,6 +2173,42 @@ Python- Statistics Stack- NumPy
 * [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
 * [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
 
+<!--
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/
+-->
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
+
+<!--
+NumPy Array, Array Creation
+https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 
+What advantages do NumPy arrays offer over (nested) Python lists?
+https://www.scipy.org/scipylib/faq.html#what-advantages-do-numpy-arrays-offer-over-nested-python-lists
+https://docs.scipy.org/doc/numpy/reference/ufuncs.html
+-->
+
+Python- Statistics Stack- Scikit-Learn
+* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
+
+<!--
+https://www.datacamp.com/community/tutorials/machine-learning-python
+https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
+-->
+
+Python- Image Processing- Scikit-Image (See also Python Imaging Library)
+* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image/scikit-image)  
+* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples) 
+
 Python- Statistics Stack- MatPlotLib
 * [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
 * [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
@@ -2206,13 +2218,6 @@ Python- Statistics Stack- MatPlotLib
 
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
-
-Python- Statistics Stack- SciPy 
-* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
- 
-<!--
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 Manual
--->
 
 Python- Statistics Stack- SymPy (Symbolic Mathematics)
 * [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
