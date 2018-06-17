@@ -536,6 +536,8 @@ Tutorials- Looking At
 
 
 <!--
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
@@ -595,6 +597,7 @@ http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.htm
 http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
 
 https://runestone.academy/runestone/static/pythonds/Introduction/ControlStructures.html | 1.10. Control Structures — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
 
 http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/SpecialWaystoExecutePythoninthisBook.html | 1.4. Executing Python in this Book — How to Think like a Computer Scientist: Interactive Edition
 http://interactivepython.org/courselib/static/thinkcspy/Functions/mainfunction.html | 6.7. Using a Main Function — How to Think like a Computer Scientist: Interactive Edition
@@ -607,6 +610,7 @@ http://runestoneinteractive.org/library.html | Runestone Interactive Titles
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
+https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
 
 https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
 
@@ -727,6 +731,7 @@ Django Consulting Firms, Blogs, Repos
 * [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://torchbox.com/blog
 https://www.cuttlesoft.com/ | Cuttlesoft, Custom Software Developers
 https://www.divio.com/en/ | Divio Cloud - The platform for Python and Django - Divio
 -->
@@ -1654,6 +1659,9 @@ Rules and Advice
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 <!--
+An Example Data Science Process
+http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
+
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
 https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
@@ -2000,8 +2008,6 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 http://web.stanford.edu/class/cs106a/
 
 
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-
 CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
 http://cs231n.stanford.edu/
 
@@ -2048,6 +2054,12 @@ Python for Data Science Books- General
 * [Wes McKinney Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662)
 
 <!--
+http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
+
+https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
+https://docs.scipy.org/doc/numpy/reference/ufuncs.html
+https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
+
 O'Reilly
 Interactive Data Visualization for the Web: An Introduction to Designing with D3
 https://www.amazon.com/gp/product/1449339735
