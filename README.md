@@ -396,6 +396,7 @@ PyData- Major Events
 * [PyData](http://pydata.org)
 * [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
+* [AnacondaCon](https://anacondacon.io)
 * [SciPy](https://conference.scipy.org)
 * [EuroSciPy](https://www.euroscipy.org)
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
@@ -1686,6 +1687,8 @@ Teachers
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
+https://chrisalbon.com
+
 https://www.instagram.com/hardmaru/
 
 https://aaroncourville.wordpress.com/ | Aaron Courville
@@ -1696,6 +1699,12 @@ https://jamesmccaffrey.wordpress.com
 
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
+
+
+https://distill.pub/2017/feature-visualization/ | Feature Visualization
+https://distill.pub/2018/building-blocks/ | The Building Blocks of Interpretability
+
+https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
 -->
 
 DataCamp
@@ -2154,6 +2163,19 @@ AI Books
 
 <!--
 https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+-->
+
+<!--
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+https://klee.github.io/ | KLEE
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal
+https://github.com/dlvm-team/ | DLVM
+https://clang.llvm.org/ | "clang" C Language Family Frontend for LLVM
+http://llvm.org/ | The LLVM Compiler Infrastructure Project
 -->
 
 Spyder
