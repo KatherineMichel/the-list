@@ -1728,6 +1728,8 @@ Peter Warden
 https://petewarden.com/2016/02/28/tensorflow-for-poets/
 https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
+* How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
+
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
 -->
