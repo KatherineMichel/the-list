@@ -1738,7 +1738,7 @@ https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63
 <!--
 http://ml-cheatsheet.readthedocs.io
 https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
-https://betterexplained.com
+
 https://www.mathworks.com
 https://www.pyimagesearch.com/
 
