@@ -213,7 +213,7 @@ Facebook Research
 * [Facebook Research](https://research.fb.com) and [Facebook Research GitHub](https://github.com/facebookresearch)
 * [Facebook Open Compute](http://www.opencompute.org)  
 * [Facebook Code](https://code.facebook.com)
-* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+* [Facebook's Top Open Data Problems](https://research.fb.com/facebook-s-top-open-data-problems)
 
 <!--
 https://research.fb.com/category/applied-machine-learning/ | Applied Machine Learning – Facebook Research
