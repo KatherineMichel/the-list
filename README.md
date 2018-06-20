@@ -1624,12 +1624,8 @@ Arxiv
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
 
 Requests for Research
-* [OpenAI Requests for Research](https://openai.com/requests-for-research)
+* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
 * [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
-
-<!--
-https://github.com/openai/requests-for-research
--->
 
 Data Science Websites
 * [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
@@ -1687,8 +1683,6 @@ Teachers
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
-https://chrisalbon.com
-
 https://www.instagram.com/hardmaru/
 
 https://aaroncourville.wordpress.com/ | Aaron Courville
@@ -1696,10 +1690,53 @@ https://www.analyticsvidhya.com/blog
 https://github.com/adeshpande3
 https://adeshpande3.github.io
 https://jamesmccaffrey.wordpress.com
+-->
+
+<!--
+Videos, Tutorials, and Blogs
+Jeff Dean
+https://www.youtube.com/watch?v=QSaZGT4-6EY
+Google legend Jeff Dean from the Google Brain team lecture on Large-Scale Deep Learning for Intelligent Computer Systems
+https://www.youtube.com/watch?v=4hqb3tdk01k
+
+Prof. Geoff Hinton
+https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+Peter Norvig, 2016
+https://www.youtube.com/watch?v=X769cyzBNVw
+Yann LeCun, The Institute for Scientific Computing Research (ISCR), Lawrence Livermore National Laboratory
+https://www.youtube.com/watch?v=Qk4SqF9FT-M
+John Launchbury, the Director of DARPA's Information Innovation Office (I2O)
+https://www.youtube.com/embed/-O01G3tSYpU
+
+Michael Jordan
+http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts
+Convolutional Neural Networks introduced by LeCun, Bengio, Lottou, Haffer in 1998
+http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+Generative Adversarial Networks paper Ian Goodfellow et. al's 2014 
+https://arxiv.org/abs/1406.2661
+Google Brain team and Stanford researchers Quoc Le and Andrew Ng
+https://arxiv.org/abs/1112.6209
+
+Tutorials
+Google Codelab
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+Peter Warden
+https://petewarden.com/2016/02/28/tensorflow-for-poets/
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+
+https://www.youtube.com/watch?v=cKxRvEZd3Mw
+https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
+-->
+
+<!--
+http://ml-cheatsheet.readthedocs.io
+https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
+https://betterexplained.com
+https://www.mathworks.com
+https://www.pyimagesearch.com/
 
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
-
 
 https://distill.pub/2017/feature-visualization/ | Feature Visualization
 https://distill.pub/2018/building-blocks/ | The Building Blocks of Interpretability
@@ -1852,6 +1889,8 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
 <!--
+https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
+
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
 https://developers.google.com/machine-learning/practica/image-classification/
 
