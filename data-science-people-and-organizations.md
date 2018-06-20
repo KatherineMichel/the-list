@@ -56,6 +56,8 @@ Thought Pieces
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
 
 <!--
+Google Brain Presentation
+https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
 Fast AI
 https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106
 Jeff Dean's presentation on Trends and Developments in Deep Learning Research
@@ -105,6 +107,7 @@ https://developers.google.com/machine-learning/fairness-overview/ | Machine Lear
 * [Cisco GitHub](https://github.com/CiscoSystems)
 * [Cloudera GitHub](https://github.com/cloudera)
 * [DeepMind (Google) GitHub](https://github.com/deepmind)
+* [Facebook Experimental](https://github.com/facebookexperimental)
 * [Facebook Incubator GitHub](https://github.com/facebookincubator)
 * [Facebook Research GitHub](https://github.com/facebookresearch)
 * [Google GitHub](https://github.com/google)
