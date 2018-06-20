@@ -1520,7 +1520,8 @@ https://github.com/RubensZimbres/Repo-2016
 
 https://github.com/soulmachine/machine-learning-cheat-sheet
 
-http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+Scikit-learn documentation: Choosing the right estimator
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
 -->
 
 Coding Competitions
@@ -2275,7 +2276,6 @@ Python- Statistics Stack- Scikit-Learn
 https://www.datacamp.com/community/tutorials/machine-learning-python
 https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
 
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
 -->
 
 Python- Image Processing- Scikit-Image (See also Python Imaging Library)
