@@ -1156,6 +1156,10 @@ Abstract Data Type and Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 <!--
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
+* [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type)  
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
+
 https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
 https://www.tensorflow.org/programmers_guide/tensors#data_types
 https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
