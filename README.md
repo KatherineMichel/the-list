@@ -918,6 +918,8 @@ https://en.wikipedia.org/wiki/Object_composition
 https://en.wikipedia.org/wiki/State_(computer_science)
 https://en.wikipedia.org/wiki/State_diagram
 https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistent_data_structure
 -->
 
 Concepts
@@ -926,17 +928,6 @@ Concepts
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-
-<!--
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
--->
 
 
 Programming Languages
@@ -953,6 +944,12 @@ Programming Paradigms
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 
 <!--
+JavaScript
+https://en.wikipedia.org/wiki/Prototype-based_programming
+
+functional programming- immutability/immutable data structures
+https://en.wikipedia.org/wiki/Purely_functional_programming
+
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
@@ -995,8 +992,6 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
-See also: Django Design Patterns
-
 Software Design Patterns catalog
 
 * [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
@@ -1041,6 +1036,9 @@ Object-Oriented Design Patterns- Python
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
+
+https://www.pyohio.org/2018/schedule/presentation/17/
+
 http://python-patterns.guide/ | Python Patterns
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
 https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
@@ -1072,16 +1070,22 @@ Abstract Data Type and Data Structures
 * [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
 <!--
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
-* [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type)  
-* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
-
 Dynamic Data Structures
+
+https://en.wikipedia.org/wiki/Immutable_object
 
 mutable versus immutable
 https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747
+
+https://en.wikipedia.org/wiki/Recursion_(computer_science)
 -->
 
 Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
@@ -1103,15 +1107,18 @@ https://en.wikipedia.org/wiki/Lexicographical_order
 Memory
 * [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
 
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-
 <!--
 https://en.wikipedia.org/wiki/Address_space
 https://en.wikipedia.org/wiki/Memory_address
+-->
 
-https://en.wikipedia.org/wiki/Persistent_data_structure
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+
+<!--
+Sequential Access List
+Random (Direct) Access List
 -->
 
 Common Data Structure Operations- Contiguous versus Linked Data Structures
@@ -1127,28 +1134,27 @@ Common Data Structure Operations- Contiguous versus Linked Data Structures
 
 <!--
 https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+
+"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
 -->
+
+LIFO and FIFO
+* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
+* [LIFO Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
 
 Common Data Structure Operations- Stack, Queue
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 
-<!--
-"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
--->
-
 Common Data Structure Operations- Heap
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-
-LIFO and FIFO
-* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
 
 Common Data Structure Operations- Hash Table (Python Dictionary)
 * [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
-<!--
-https://en.wikipedia.org/wiki/LIFO_(computing)
 
+
+<!--
 Common Data Structure Operations
 https://en.wikipedia.org/wiki/Skip_list
 https://en.wikipedia.org/wiki/Binary_search_tree
@@ -1159,12 +1165,6 @@ https://en.wikipedia.org/wiki/Splay_tree
 https://en.wikipedia.org/wiki/AVL_tree
 https://en.wikipedia.org/wiki/K-d_tree
 -->
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
 
 <!--
 https://rosettacode.org/wiki/Category:Programming_Tasks
@@ -1222,19 +1222,17 @@ https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
+
+
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
+https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm | Divide and conquer algorithm - Wikipedia		
+https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
 -->
 
-
-Machine Learning- Wikipedia
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Machine Learning and Statistical Algorithms
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
-* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
 
 Algorithm Dictionaries and Libraries
 * [Open Genus Cosmos](https://github.com/opengenus/cosmos)
@@ -1256,6 +1254,19 @@ http://adit.io/errata.html
 Python
 https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ | Data Structures and Algorithms in Python: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser: 9781118290279: Amazon.com: Books
 -->
+
+Machine Learning- Wikipedia
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [Outline of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Machine Learning and Statistical Algorithms
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) 
+* [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)
+
+
 
 Khan Academy
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
@@ -1283,10 +1294,6 @@ https://www.khanacademy.org/math
 https://www.khanacademy.org/math/ap-statistics
 https://www.khanacademy.org/math/statistics-probability
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
-
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
 
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
@@ -1410,9 +1417,6 @@ http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
 http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
 
 
-https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm | Divide and conquer algorithm - Wikipedia		
-https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
-https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
 
 Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
 https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
@@ -1449,6 +1453,7 @@ https://github.com/soulmachine/machine-learning-cheat-sheet
 Scikit-learn documentation: Choosing the right estimator
 * [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
 -->
+
 
 Coding Competitions
 * Kaggle
