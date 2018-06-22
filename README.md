@@ -776,12 +776,12 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
 
-<!--
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
--->
 
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+ 
+ 
 Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
@@ -803,6 +803,10 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+<!--
+What happens when...
+-->
 
 Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
@@ -934,6 +938,7 @@ Strong and Weak Typing
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 -->
 
+
 Programming Languages
 * [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
 * [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
@@ -973,6 +978,8 @@ Programming Language Leveling Up and Comparisons
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
+
+
 
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -1054,101 +1061,12 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
-
-
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-Python Code Execution Visualization
-* [Python Tutor](http://pythontutor.com)
-
-Python Internals- Philip Guo
-* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
-
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
-
 <!--
-http://courses.pgbovine.net/
-http://courses.pgbovine.net/csc253/assignments.htm
-http://courses.pgbovine.net/csc253/schedule.htm
-
-https://docs.python.org/3/glossary.html#term-method-resolution-order
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
-https://github.com/aosabook/500lines/tree/master/interpreter
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines
-
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner
-
-Eli Bendersky
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website
-
-https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website
-https://docs.python.org/3.6/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation
-
-$ python -m dis program.py
-compiler -> bytecode
-bytecode -> python interpreter (interpreter is written in C language)
-output
-(compiler/interpreter run together, bytecode is assembly language/instruction set, each bytecode is called an opcode)
-
-* Include/object.h
-* Objects/object.c
-* Python data model (Python API)
-* Python object protocol (C API)
-
-https://github.com/python/cpython/blob/master/Include/object.h
-https://github.com/python/cpython/tree/master/Objects
-
-https://github.com/python/cpython/blob/master/Objects/abstract.c
-https://github.com/python/cpython/tree/master/Objects/clinic
-https://github.com/python/cpython/tree/master/Objects/stringlib
-
-PyObject
-Frames, function calls, basic scope
-
-https://docs.python.org/2.4/lib/bytecodes.html
-
-https://docs.python.org/3.7/library/dis.html
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions
-
-https://docs.python.org/3.7/reference/datamodel.html
-https://docs.python.org/3.7/reference/datamodel.html#emulating-numeric-types
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-https://docs.python.org/3.7/library/functions.html#dir
-
-https://docs.python.org/3.7/c-api/object.html
-https://docs.python.org/3.7/c-api/structures.html
-https://docs.python.org/3.7/c-api/concrete.html
-
-Not Sure
-https://docs.python.org/3.7/c-api/code.html
-https://docs.python.org/3/c-api/memory.html
-https://docs.python.org/2/c-api/int.html
-https://docs.python.org/2/c-api/type.html#c.PyTypeObject
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
 -->
 
-
-
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
- 
  
 Abstract Data Type and Data Structures
 * [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
@@ -1159,16 +1077,6 @@ Abstract Data Type and Data Structures
 * [List of Terms Relating to Algorithms and Data Structures Wikipedia](http://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)  
 * [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type)  
 * [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures)  
-
-https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
-https://www.tensorflow.org/programmers_guide/tensors#data_types
-https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
-
-https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia
-http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
-http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
-
-https://en.wikipedia.org/wiki/Tensor_product | Tensor product - Wikipedia
 
 Dynamic Data Structures
 
@@ -1183,8 +1091,6 @@ Linear (Sequential) Data Structures (array, linked list, doubly linked list, sta
 Python- List (linear implementations = stacks, queues; non-linear = graphs, trees)
 
 <!--
-https://en.wikipedia.org/wiki/Random-access_memory
-
 Python Data Structures
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
 
@@ -1194,9 +1100,19 @@ https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/Lexicographical_order
 -->
 
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
 Sequential Versus Random (Direct) Access
 * [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
 * [Random Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+
+<!--
+https://en.wikipedia.org/wiki/Address_space
+https://en.wikipedia.org/wiki/Memory_address
+
+https://en.wikipedia.org/wiki/Persistent_data_structure
+-->
 
 Common Data Structure Operations- Contiguous versus Linked Data Structures
 * [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
@@ -1208,6 +1124,10 @@ Common Data Structure Operations- Contiguous versus Linked Data Structures
 * [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+
+<!--
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+-->
 
 Common Data Structure Operations- Stack, Queue
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
@@ -1300,10 +1220,6 @@ https://en.wikipedia.org/wiki/Selection_algorithm
 https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
-
-https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
 
 https://en.wikipedia.org/wiki/Search_data_structure | Search data structure - Wikipedia
 -->
@@ -1483,6 +1399,16 @@ https://betterexplained.com/articles/vector-calculus-understanding-the-dot-produ
 https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia		
 https://en.wikipedia.org/wiki/Cross_product		
 https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia	
+https://en.wikipedia.org/wiki/Tensor_product | Tensor product - Wikipedia
+
+
+https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
+https://www.tensorflow.org/programmers_guide/tensors#data_types
+https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
+
+http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
+http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
+
 
 https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm | Divide and conquer algorithm - Wikipedia		
 https://en.wikipedia.org/wiki/Greedy_algorithm | Greedy algorithm - Wikipedia
