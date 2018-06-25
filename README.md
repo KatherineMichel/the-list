@@ -702,6 +702,94 @@ Python IDLE
 * [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python)) 
 
+
+
+<!--
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+https://docs.python.org/3/library/types.html#module-types
+
+Type/Hints
+https://docs.python.org/3/library/typing.html
+
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+https://docs.python.org/3/glossary.html#term-abstract-base-class
+https://docs.python.org/3/library/abc.html
+
+https://docs.python.org/3/glossary.html#term-type
+https://docs.python.org/3/glossary.html#term-duck-typing
+https://docs.python.org/3/glossary.html#term-function-annotation
+https://docs.python.org/3/glossary.html#term-variable-annotation
+
+* [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
+-->
+
+<!--
+Python and Django recommended testing tools
+-->
+
+Testing Tools Used by Eldarion
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+* [isort GitHub](https://github.com/timothycrosley/isort)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+pytest and Nose (Unit Test Extension)
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest](http://pytest.org)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [mock PyPi](https://pypi.python.org/pypi/mock)
+
+<!--
+https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
+https://codecov.io/#features | Codecov
+
+flake8 
+noqa: E501
+https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
+https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
+-->
+
+<!--
+https://martinfowler.com/bliki/TestCoverage.html
+
+https://github.com/PyCQA/mccabe
+https://github.com/PyCQA/pylint
+
+https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
+
+http://www.diveintopython.net/unit_testing
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+http://masteringdjango.com/testing-in-django
+
+https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://docs.pytest.org/en/latest/example/
+https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+https://github.com/dcramer/django-devserver | dcramer/django-devserver: A drop-in replacement for Django's runserver.
+
+Django Database Logs
+
+https://www.slideshare.net/LouiseGrandjonc/the-amazing-world-behind-your-orm | The amazing world behind your ORM
+-->
+
+
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
