@@ -56,6 +56,8 @@ Thought Pieces
 * [Peter Warden: Deep Learning is Eating Software](https://petewarden.com/2017/11/13/deep-learning-is-eating-software)
 
 <!--
+https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/ | Building the Software 2.0 Stack by Andrej Karpathy from Tesla
+
 Google Brain Presentation
 https://drive.google.com/file/d/0ByUKRdiCDK7-UXB1R1ZpX082MEk/view
 Fast AI
