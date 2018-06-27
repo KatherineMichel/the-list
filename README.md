@@ -548,6 +548,8 @@ https://twitter.com/aaronchall/status/961250524753551360
 
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
+https://github.com/pybites/challenges
+
 https://realpython.com/ | Real Python - Real Python
 https://realpython.com/courses
 
@@ -1154,6 +1156,8 @@ Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
 <!--
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
 https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
 https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
 https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
@@ -1192,6 +1196,14 @@ https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Q
 
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 -->
+
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
 
 Linear Algebra
 * [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
@@ -1440,69 +1452,6 @@ Deep Learning and Neural Networks- Wikipedia
 * [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
-
-Arxiv
-* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
-* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
-
-Requests for Research
-* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
-* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
-
-Data Science Websites
-* [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
-* [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
-* [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
-
-More Learning Resources
-* [Distill Pub](https://distill.pub/)
-* [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
-* [DataSciGuide](http://www.datasciguide.com)
-* [Toward Data Science](https://towardsdatascience.com)
-* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
-* [Machine Learnings](https://machinelearnings.co)
-* [Metis Blog](https://www.thisismetis.com/blog) and [Metis Twitter](https://twitter.com/thisismetis)
-* [Partial Derivative](http://www.partiallyderivative.com)
-* [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
-* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
-
-Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
-* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
-<!--
-An Example Data Science Process
-http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
-
-https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
-https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
-https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
-
-https://blog.google/topics/ai/ai-principles/
-https://developers.google.com/machine-learning/rules-of-ml/
-
-http://forums.fast.ai/t/30-best-practices/12344
--->
-
-Analyst Group Resources
-* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
-* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
-
-<!--
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
-
-https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
-http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
--->
 
 Teachers
 * [Chris Albon](https://chrisalbon.com)
@@ -1522,6 +1471,57 @@ https://github.com/adeshpande3
 https://adeshpande3.github.io
 https://jamesmccaffrey.wordpress.com
 -->
+
+Data Science Websites
+* [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
+* [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
+* [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
+
+More Learning Resources
+* [Distill Pub](https://distill.pub/)
+* [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
+* [DataSciGuide](http://www.datasciguide.com)
+* [Toward Data Science](https://towardsdatascience.com)
+* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
+* [Machine Learnings](https://machinelearnings.co)
+* [Metis Blog](https://www.thisismetis.com/blog) and [Metis Twitter](https://twitter.com/thisismetis)
+* [Partial Derivative](http://www.partiallyderivative.com)
+* [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
+* [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
+
+
+Analyst Group Resources
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+<!--
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
+
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
+-->
+
+
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+
+<!--
+An Example Data Science Process
+http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
+
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
+https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
+
+https://blog.google/topics/ai/ai-principles/
+https://developers.google.com/machine-learning/rules-of-ml/
+
+http://forums.fast.ai/t/30-best-practices/12344
+-->
+
 
 <!--
 Videos, Tutorials, and Blogs
@@ -1624,6 +1624,57 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
 
+
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Python Algorithms
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+
+Awesome Django
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+Awesome Data Science
+* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
+* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
+* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
+* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
+* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
+* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
+* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
+
+GAN
+* [The GAN Zoo GitHub](https://github.com/hindupuravinash/the-gan-zoo)
+* [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
+* [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
+
+
+
+Arxiv
+* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
+* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+Requests for Research
+* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
+* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
+
 Interesting
 * [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 * [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
@@ -1636,6 +1687,7 @@ https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
 -->
+
 
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
@@ -2160,48 +2212,9 @@ Python- Statistics Stack- StatsModel
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
-GAN
-* [The GAN Zoo GitHub](https://github.com/hindupuravinash/the-gan-zoo)
-* [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
-* [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
-
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-
-Awesome Python Algorithms
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-
-Awesome Django
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
-* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
-* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
-* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
-* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
-* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
-* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
-* [Awesome NLP](https://github.com/keon/awesome-nlp)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 Interesting Curated Learning Resources- General
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
