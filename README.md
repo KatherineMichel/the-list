@@ -68,7 +68,7 @@ Courses
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Learn to Code the Hard Way](http://learncodethehardway.org) 
 * [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+* [W3Schools Web Developmenlt Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 In Particular
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
@@ -715,6 +715,7 @@ https://docs.python.org/3/library/types.html#module-types
 Type/Hints
 https://docs.python.org/3/library/typing.html
 
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://docs.python.org/3/glossary.html#term-abstract-base-class
 https://docs.python.org/3/library/abc.html
@@ -740,6 +741,10 @@ Testing Tools Used by Eldarion
 * [isort GitHub](https://github.com/timothycrosley/isort)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+<!--
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+-->
 
 pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
@@ -805,6 +810,7 @@ https://github.com/vintasoftware/classy-django-rest-framework
 Django Class-Based-View Inspector -- Classy CBV
 Classy Class-Based Views
 http://ccbv.co.uk
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
 
 https://github.com/django/django-localflavor
 https://github.com/django/django-formtools
@@ -1506,6 +1512,8 @@ Teachers
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
+https://blog.acolyer.org/ | the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
+
 https://www.instagram.com/hardmaru/
 
 https://aaroncourville.wordpress.com/ | Aaron Courville
@@ -1560,6 +1568,7 @@ https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary 
 https://www.mathworks.com
 https://www.pyimagesearch.com/
 
+http://ruder.io/tracking-progress-nlp/ | Tracking the Progress in Natural Language Processing
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 
@@ -1567,6 +1576,7 @@ https://distill.pub/2017/feature-visualization/ | Feature Visualization
 https://distill.pub/2018/building-blocks/ | The Building Blocks of Interpretability
 
 https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-network/ | How many images do you need to train a neural network? « Pete Warden's blog
+https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it | Why you need to improve your training data, and how to do it « Pete Warden's blog
 -->
 
 DataCamp
@@ -1620,6 +1630,8 @@ Interesting
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 <!--
+https://paperswithcode.com/ | Papers with Code : the latest in machine learning
+
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
@@ -1701,6 +1713,8 @@ Google Cloud and TPU
 
 <!--
 https://services.google.com/fb/forms/cloud-tpu-beta-request/
+
+https://cloudplatform.googleblog.com/2018/06/Cloud-TPU-now-offers-preemptible-pricing-and-global-availability.html | Google Cloud Platform Blog: Cloud TPU now offers preemptible pricing and global availability
 -->
 
 Colab and Datalab
@@ -1717,9 +1731,16 @@ TensorFlow/Google Machine Learning Learning Resources
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
 
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
-https://developers.google.com/machine-learning/practica/image-classification/
+https://developers.google.com/machine-learning/practica/image-classification/ | ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers
 
 https://developers.google.com/machine-learning/crash-course/glossary
+
+Facebook
+https://research.fb.com/videos/field-guide-to-machine-learning-lesson-1-problem-definition/ | Field Guide to Machine Learning, Lesson 1: Problem Definition – Facebook Research
+
+Microsoft
+https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
+https://www.edx.org/course/data-science-essentials
 -->
 
 Fast AI
@@ -1735,6 +1756,10 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+https://mlbook.explained.ai/
+
+https://twitter.com/math_rachel/status/1008033901799923712 | Rachel Thomas on Twitter: "learn deep learning: https://t.co/MhwV380FWg computational linear algebra: https://t.co/CY7Gu8IXmZ data science career advice: https://t.co/jKNchZdtA8 myths about AI: https://t.co/DPlLoOLF63 biased AI: https://t.co/3qOtervksj debunking the pipeline myth: https://t.co/qIW64dWkUg"
+
 Recommended by Rachel Thomas?
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
@@ -1979,6 +2004,7 @@ Deep Learning Books
 * [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
 
 <!--
+https://www.oreilly.com/catalog/errata.csp?isbn=0636920085423 | Errata | O'Reilly Media Machine Learning with Python Cookbook
 https://www.amazon.com/dp/1491989386 | Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning: 9781491989388: Computer Science Books @ Amazon.com
 http://shop.oreilly.com/product/0636920085423.do | Machine Learning with Python Cookbook - O'Reilly Media
 https://github.com/chrisalbon | chrisalbon (Chris Albon) / Repositories
@@ -2063,6 +2089,8 @@ Python- Statistics Stack- NumPy
 * [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
 
 <!--
+https://www.machinelearningplus.com/python/101-numpy-exercises-python/ | 101 NumPy Exercises for Data Analysis (Python) - ML+
+
 https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
 https://www.datacamp.com/community/tutorials?tag=python
 
