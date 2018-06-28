@@ -296,11 +296,6 @@ https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my
 https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -1489,6 +1484,10 @@ More Learning Resources
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
+<!--
+https://www.mathworks.com
+https://www.pyimagesearch.com/
+-->
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
@@ -1561,12 +1560,10 @@ https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
 -->
 
+
 <!--
 http://ml-cheatsheet.readthedocs.io
 https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
-
-https://www.mathworks.com
-https://www.pyimagesearch.com/
 
 http://ruder.io/tracking-progress-nlp/ | Tracking the Progress in Natural Language Processing
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
@@ -1579,18 +1576,6 @@ https://petewarden.com/2017/12/14/how-many-images-do-you-need-to-train-a-neural-
 https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it | Why you need to improve your training data, and how to do it « Pete Warden's blog
 -->
 
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
-* [DataCamp GitHub](https://github.com/datacamp)
-* [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
-
-<!--
-https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
-https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
-https://campus.datacamp.com/courses/intermediate-python-for-data-science
-
-https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
--->
 
 Learning Paths
 * [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
@@ -1793,6 +1778,22 @@ https://research.fb.com/videos/field-guide-to-machine-learning-lesson-1-problem-
 Microsoft
 https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
 https://www.edx.org/course/data-science-essentials
+-->
+
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+* [DataCamp GitHub](https://github.com/datacamp)
+* [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
+
+<!--
+https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
+https://www.datacamp.com/community/tutorials?tag=python
+
+https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://campus.datacamp.com/courses/intermediate-python-for-data-science
+
+https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
 -->
 
 Fast AI
@@ -2107,19 +2108,6 @@ AI Books
 https://github.com/norvig/paip-lisp | norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 -->
 
-<!--
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-https://klee.github.io/ | KLEE
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal
-https://github.com/dlvm-team/ | DLVM
-https://clang.llvm.org/ | "clang" C Language Family Frontend for LLVM
-http://llvm.org/ | The LLVM Compiler Infrastructure Project
--->
-
 Spyder
 * [Spyder GitHub](https://github.com/spyder-ide/spyder)
 
@@ -2142,9 +2130,6 @@ Python- Statistics Stack- NumPy
 
 <!--
 https://www.machinelearningplus.com/python/101-numpy-exercises-python/ | 101 NumPy Exercises for Data Analysis (Python) - ML+
-
-https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
-https://www.datacamp.com/community/tutorials?tag=python
 
 http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
 https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
@@ -2212,6 +2197,19 @@ Python- Statistics Stack- StatsModel
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 
+<!--
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
+https://klee.github.io/ | KLEE
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal
+https://github.com/dlvm-team/ | DLVM
+https://clang.llvm.org/ | "clang" C Language Family Frontend for LLVM
+http://llvm.org/ | The LLVM Compiler Infrastructure Project
+-->
+
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -2238,9 +2236,15 @@ Interesting Curated Learning Resources- Back-End Developer
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
 <!--
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
 https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
 https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
-https://github.com/mtdvio/every-programmer-should-know | mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 -->
 
 Top Links of All Times
