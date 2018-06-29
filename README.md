@@ -1585,9 +1585,6 @@ Awesome Python
 * [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 * [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 
-Awesome Python Algorithms
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-
 Awesome Django
 * [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
@@ -1610,12 +1607,7 @@ Awesome Data Science
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
-Neural Networks
-* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
-* [Asimov's Institute Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo)
-
 GAN
-* [The GAN Zoo GitHub](https://github.com/hindupuravinash/the-gan-zoo)
 * [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
 * [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
 
@@ -1625,15 +1617,6 @@ Arxiv
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
 
-Requests for Research
-* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
-* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
-
-Interesting
-* [State-of-the-Art Result for all Machine Learning Problems GitHub](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
-* [Deep Learning Architecture Genealogy Project GitHub](https://github.com/hunkim/deep_architecture_genealogy)
-* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
-
 <!--
 https://paperswithcode.com/ | Papers with Code : the latest in machine learning
 
@@ -1642,6 +1625,9 @@ https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Ka
 https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
 -->
 
+Requests for Research
+* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
+* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
@@ -1675,6 +1661,9 @@ http://fathom.readthedocs.io/en/latest/quickstart/
 XGBoost
 * [XGBoost GitHub](https://github.com/dmlc/xgboost) and [XGBoost Docs](http://xgboost.readthedocs.io)
 * [XGBoost Docs Python](http://xgboost.readthedocs.io/en/latest/python)
+
+Software- General
+* [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
 Front-Runners
 * [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
@@ -1752,13 +1741,62 @@ https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning
 https://www.edx.org/course/data-science-essentials
 -->
 
+
+Mind Maps and Cheat Sheets
+* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
+
+<!--
+Python Crash Course Cheat Sheet
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
+DataCamp Python Cheat Sheets
+https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
+
+Python Basics
+http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
+
+Importing Data
+http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
+
+Jupyter Notebook
+http://datacamp-community.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40
+
+NumPy
+http://datacamp-community.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7
+
+Scikit Learn
+http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116
+
+Keras
+http://datacamp-community.s3.amazonaws.com/94fc681d-5422-40cb-a129-2218e9522f17
+
+Matplotlib
+http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
+
+Pandas Cheat Sheet
+http://datacamp-community.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251
+http://datacamp-community.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+SciPy
+http://datacamp-community.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f
+
+PySpark
+http://datacamp-community.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4
+http://datacamp-community.s3.amazonaws.com/65076e3c-9df1-40d5-a0c2-36294d9a3ca9
+
+Scikit-learn documentation: Choosing the right estimator
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
+-->
+
+
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 * [DataCamp GitHub](https://github.com/datacamp)
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
 <!--
-https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
+https://www.datacamp.com/community/data-science-cheatsheets
+
 https://www.datacamp.com/community/tutorials?tag=python
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
@@ -1767,6 +1805,7 @@ https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
 -->
+
 
 Fast AI
 * [fast.ai](http://www.fast.ai)
