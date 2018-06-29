@@ -1743,6 +1743,9 @@ TensorFlow Resources
 
 <!--
 https://www.tensorflow.org/api_docs/
+
+https://github.com/chiphuyen/tf-oreilly | chiphuyen/tf-oreilly: Code for O'Reilly's "A Short Course on TensorFlow"
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
 -->
 
 Google Cloud and TPU
