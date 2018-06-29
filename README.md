@@ -1323,37 +1323,6 @@ https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) 
 https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
 -->
 
-Mind Maps and Cheat Sheets
-* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
-
-<!--
-https://twitter.com/expa/status/931446443029626880 | Expa on Twitter: "17 equations that changed the world... https://t.co/lEmuRe5sVz"
-http://es.gizmodo.com/todo-lo-que-sabemos-sobre-matematicas-esta-explicado-en-1792046906 | Todo lo que sabemos sobre matemáticas está explicado en este mapa de manera sencilla
-http://dreammachin.es/desktop_algorithms.png | desktop_algorithms.png (5184×1516)
-
-
-Python Cheat Sheets
-
-https://www.datacamp.com/community/data-science-cheatsheets
-http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
-http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
-https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
-
-http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
-https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1 | A Tour of Machine Learning Algorithms - Data Science Centralf
-
-https://github.com/RubensZimbres/Repo-2018
-https://github.com/RubensZimbres/Repo-2017
-https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.16.OK.pdf
-https://github.com/RubensZimbres/Repo-2017/blob/master/Pictures%20-%20Formulas/EQUATIONS.FINAL.15.OK.pdf
-https://github.com/RubensZimbres/Repo-2016
-
-https://github.com/soulmachine/machine-learning-cheat-sheet
-
-Scikit-learn documentation: Choosing the right estimator
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
--->
-
 
 Coding Competitions
 * Kaggle
