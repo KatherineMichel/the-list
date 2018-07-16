@@ -1003,6 +1003,17 @@ Object Oriented Programming
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 <!--
+Dan Bader OO Recommendations
+https://dbader.org/
+https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
+https://docs.python.org/3/tutorial/classes.html
+https://learnpythonthehardway.org/book/
+https://github.com/faif/python-patterns
+https://www.toptal.com/python/python-design-patterns
+https://www.packtpub.com/application-development/python-3-object-oriented-programming
+http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
+
+
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Object_composition
@@ -1020,6 +1031,9 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 
+<!--
+https://en.wikipedia.org/wiki/KISS_principle
+-->
 
 Programming Languages
 * [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
