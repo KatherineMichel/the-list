@@ -556,8 +556,6 @@ https://dev.to/vaidehijoshi/whats-a-linked-list-anyway
 https://dbader.org/blog | Python Tutorials – dbader.org
 https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
 
-https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
-
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
@@ -1004,7 +1002,8 @@ Object Oriented Programming
 
 <!--
 Dan Bader OO Recommendations
-https://dbader.org/
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
 https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
 https://docs.python.org/3/tutorial/classes.html
 https://learnpythonthehardway.org/book/
