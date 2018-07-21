@@ -555,6 +555,7 @@ https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me —
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
+http://coodict.github.io/python3-in-one-pic/ | Python3 in one picture
 https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
 
 https://twitter.com/aaronchall/status/961250524753551360
@@ -1637,6 +1638,10 @@ Awesome Data Science
 * [PyTorch List GitHub](https://github.com/spro/pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+<!--
+https://github.com/gstaff/awesome-tensorflow | gstaff/awesome-tensorflow: A curated list of awesome projects using the TensorFlow machine learning library.
+-->
 
 GAN
 * [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
