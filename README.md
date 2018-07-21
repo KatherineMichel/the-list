@@ -343,6 +343,21 @@ Python and Django
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
 -->
 
+<!--
+Recent/Soon
+
+DjangoCon Schedule
+https://2018.pygotham.org/
+
+https://ep2018.europython.eu/
+https://www.pyohio.org/2018/
+
+https://scipy2018.scipy.org/
+https://www.euroscipy.org/2018/
+
+https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
+-->
+
 PyVideo
 * [PyVideo](http://pyvideo.org)
 * [PyVideo Events](http://pyvideo.org/events.html)
@@ -406,6 +421,9 @@ ML Conferences
 * [Annual Conference on Neural Information Processing Systems (NIPS)](https://nips.cc)
 
 <!--
+LancsSS18
+https://acl2018.org/ | ACL 2018: About
+https://mlconf.com/ | The Machine Learning Conference
 https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
 https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
 -->
