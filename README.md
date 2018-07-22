@@ -1566,6 +1566,7 @@ https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63
 http://ml-cheatsheet.readthedocs.io
 https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
 
+http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 http://ruder.io/tracking-progress-nlp/ | Tracking the Progress in Natural Language Processing
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
@@ -1631,6 +1632,7 @@ Awesome Data Science
 * [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
 * [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Tensorflow GitHub](https://github.com/gstaff/awesome-tensorflow)
 * [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
 * [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
 * [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
@@ -1638,10 +1640,6 @@ Awesome Data Science
 * [PyTorch List GitHub](https://github.com/spro/pytorch-list)
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
-<!--
-https://github.com/gstaff/awesome-tensorflow | gstaff/awesome-tensorflow: A curated list of awesome projects using the TensorFlow machine learning library.
--->
 
 GAN
 * [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
@@ -1737,9 +1735,6 @@ TensorFlow Resources
 
 <!--
 https://www.tensorflow.org/api_docs/
-
-https://github.com/chiphuyen/tf-oreilly | chiphuyen/tf-oreilly: Code for O'Reilly's "A Short Course on TensorFlow"
-https://github.com/chiphuyen/stanford-tensorflow-tutorials
 -->
 
 Google Cloud and TPU
@@ -1833,6 +1828,7 @@ DataCamp
 <!--
 https://www.datacamp.com/community/data-science-cheatsheets
 
+https://www.datacamp.com/courses/all | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 https://www.datacamp.com/community/tutorials?tag=python
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
@@ -2000,6 +1996,13 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 http://web.stanford.edu/class/cs106a/
 
+
+Stanford’s class CS230 (Deep Learning) taught by Prof. Andrew Ng and Prof. Kian Katanforoosh
+https://cs230-stanford.github.io/pytorch-getting-started.html | Introduction to PyTorch Code Examples
+https://cs230-stanford.github.io/project-code-examples.html | Introducing the Project Code Examples
+
+https://github.com/chiphuyen/tf-oreilly | chiphuyen/tf-oreilly: Code for O'Reilly's "A Short Course on TensorFlow"
+https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
 CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
 http://cs231n.stanford.edu/
