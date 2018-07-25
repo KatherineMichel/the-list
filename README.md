@@ -441,35 +441,24 @@ https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introdu
 https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
 -->
 
+Python Trending, Topics, Forums
+* [GitHub Trending: python](https://github.com/trending/python)
+* [GitHub Topic: python](https://github.com/topics/python)
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
 Official Python Tutorial
-* [Python Official Tutorial](https://docs.python.org/3.6/tutorial/) 
+* [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
 
-MOOCs
-* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
+Cheat Sheets
+* [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 
-<!--
-https://www.sitepoint.com
-https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
-
-http://www.tutorialspoint.com/python/ | Python Tutorial
-https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
-https://www.tutorialspoint.com/python/python_dictionary_data_structure.htm
-https://www.tutorialspoint.com/python/python_searching_algorithms.htm
-
-https://www.tutorialspoint.com/data_structures_algorithms
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
--->
 
 Learning Platforms (See also others)
-* [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
+* [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
+* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
@@ -484,11 +473,37 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywo
 http://pyvideo.org/search.html?q=django | PyVideo.org
 -->
 
-Python Trending, Topics, Forums
-* [GitHub Trending: python](https://github.com/trending/python)
-* [GitHub Topic: python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
+MOOCs
+* [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
+
+<!--
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+
+https://www.geeksforgeeks.org/ | GeeksforGeeks | A computer science portal for geeks
+
+https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
+
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
+
+http://www.tutorialspoint.com/python/ | Python Tutorial
+https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+https://www.tutorialspoint.com/python/list_sort.htm | Python List sort() Method
+
+https://www.tutorialspoint.com/data_structures_algorithms
+https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
+https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+-->
 
 Wiki Books
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
@@ -504,10 +519,6 @@ https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_
 
 https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
 
-https://en.wikibooks.org/wiki/Python_Programming/Functions
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types#Mutable_vs_Immutable_Objects | Python Programming/Data Types - Wikibooks, open books for an open world
-
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
 
@@ -519,27 +530,35 @@ https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
 Eric Matthes
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-
-<!--
-http://ehmatthes.github.io/pcc/chapter_18/README.html#updates | Python Crash Course by ehmatthes
--->
+* [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
 
 Google Python Class
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 
 <!--
 https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
-
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers		
-https://developers.google.com/edu/python/strings | Python Strings  |  Python Education  |  Google Developers
 -->
 
 Free Code Camp Python
 * [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 
 <!--
+Python Morsels
+https://github.com/pybites/challenges
+
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+
+https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
 Tutorials- Looking At
@@ -555,14 +574,11 @@ https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me —
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
-http://coodict.github.io/python3-in-one-pic/ | Python3 in one picture
-https://github.com/coodict/python3-in-one-pic | coodict/python3-in-one-pic: Learn python3 in one picture.
-
 https://twitter.com/aaronchall/status/961250524753551360
 
 http://inventwithpython.com/blog/ | The Invent with Python Blog -
-
-https://github.com/pybites/challenges
+https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
+https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
 
 https://realpython.com/ | Real Python - Real Python
 https://realpython.com/courses
@@ -595,6 +611,7 @@ https://www.digitalocean.com/community/tutorial_series/django-development
 https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
 https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
 
+
 * [Interactive Python](http://www.interactivepython.org)
 
 http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
@@ -623,21 +640,11 @@ https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html 
 https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
 http://runestoneinteractive.org/library.html | Runestone Interactive Titles
 
+
 https://python.swaroopch.com
 http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
 https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
 https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
-
-https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
-
-https://learncodethehardway.org/more-python/
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
 Python Tutors- Regular
@@ -1457,11 +1464,16 @@ Teachers
 * [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
+https://github.com/sebastianruder | sebastianruder (Sebastian Ruder)
+
+https://petewarden.com
 https://blog.acolyer.org/ | the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 
 https://www.instagram.com/hardmaru/
 
 https://aaroncourville.wordpress.com/ | Aaron Courville
+
+https://discuss.analyticsvidhya.com
 https://www.analyticsvidhya.com/blog
 https://github.com/adeshpande3
 https://adeshpande3.github.io
@@ -1509,6 +1521,9 @@ Rules and Advice
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 <!--
+OSEMN Process
+https://machinelearningmastery.com/how-to-work-through-a-problem-like-a-data-scientist/ | How To Work Through A Problem Like A Data Scientist
+
 An Example Data Science Process
 http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
 
@@ -1853,6 +1868,7 @@ Jeremy and Rachel
 
 <!--
 https://mlbook.explained.ai/
+https://mlbook.explained.ai/notebooks/index.html | Jupyter Notebook Files for The Mechanics of Machine Learning
 
 https://twitter.com/math_rachel/status/1008033901799923712 | Rachel Thomas on Twitter: "learn deep learning: https://t.co/MhwV380FWg computational linear algebra: https://t.co/CY7Gu8IXmZ data science career advice: https://t.co/jKNchZdtA8 myths about AI: https://t.co/DPlLoOLF63 biased AI: https://t.co/3qOtervksj debunking the pipeline myth: https://t.co/qIW64dWkUg"
 
