@@ -659,22 +659,6 @@ https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
 * [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
-https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
-
-https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
-
-http://www.tutorialspoint.com/python/ | Python Tutorial
-https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
-https://www.tutorialspoint.com/python/python_searching_algorithms.htm
-https://www.tutorialspoint.com/python/list_sort.htm | Python List sort() Method
-
-https://www.tutorialspoint.com/data_structures_algorithms
-https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
-https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
-
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
@@ -687,13 +671,6 @@ https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-
-https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
-
-https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
-https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
-https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
-https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
 
 https://github.com/treyhunner
 http://treyhunner.com/projects/ | Projects - Trey Hunner
@@ -730,15 +707,6 @@ https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python
 https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
 
 https://www.fullstackpython.com/best-python-resources.html
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-http://www.fullstackpython.com/deployment.html
-
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-https://www.digitalocean.com/community/tutorial_series/django-development
-https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
-https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
 
 * [Interactive Python](http://www.interactivepython.org)
 
