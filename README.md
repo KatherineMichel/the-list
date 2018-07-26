@@ -577,12 +577,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
 
 Tutorial
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
@@ -590,16 +584,34 @@ Tutorial
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
 
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
+
+
+Programming Language Leveling Up and Comparisons- Python
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+
 Python and Python Syntax and Semantics
 * [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 
-Wiki Books
+Python Walk-Throughs
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 * [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
 * [Non-Programmers Tutorial for Python 3 Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Tutorials Point Python](http://www.tutorialspoint.com/python)
+
+Other Walk-Throughs
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
+
 
 Google Python Class
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
@@ -648,16 +660,8 @@ Python Websites and Newsletters
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
 
-
 <!--
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
-
 * [Tutorials Point NumPy](https://www.tutorialspoint.com/numpy)
-* [Tutorials Point Python](http://www.tutorialspoint.com/python)
-* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
-* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
@@ -806,71 +810,6 @@ https://docs.python.org/3/glossary.html#term-variable-annotation
 * [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
 -->
 
-<!--
-Python and Django recommended testing tools
--->
-
-Testing Tools Used by Eldarion
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-* [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-
-<!--
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
--->
-
-pytest and Nose (Unit Test Extension)
-* [Nose GitHub](https://github.com/nose-devs/nose)
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-* [pytest](http://pytest.org)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-* [mock PyPi](https://pypi.python.org/pypi/mock)
-
-<!--
-https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
-https://codecov.io/#features | Codecov
-
-flake8 
-noqa: E501
-https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
--->
-
-<!--
-https://martinfowler.com/bliki/TestCoverage.html
-
-https://github.com/PyCQA/mccabe
-https://github.com/PyCQA/pylint
-
-https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
-
-http://www.diveintopython.net/unit_testing
-
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
-
-http://masteringdjango.com/testing-in-django
-
-https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://docs.pytest.org/en/latest/example/
-https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
-https://github.com/dcramer/django-devserver | dcramer/django-devserver: A drop-in replacement for Django's runserver.
-
-Django Database Logs
-
-https://www.slideshare.net/LouiseGrandjonc/the-amazing-world-behind-your-orm | The amazing world behind your ORM
--->
 
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
@@ -1016,10 +955,7 @@ Concepts
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-
-<!--
-https://en.wikipedia.org/wiki/KISS_principle
--->
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
 Programming Languages
 * [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
