@@ -589,37 +589,6 @@ Tutorial
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
 
-<!--
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
-
-
-* [Tutorials Point NumPy](https://www.tutorialspoint.com/numpy)
-* [Tutorials Point Python](http://www.tutorialspoint.com/python)
-* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
-* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
-
-https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
-
-https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
-
-http://www.tutorialspoint.com/python/ | Python Tutorial
-https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
-https://www.tutorialspoint.com/python/python_searching_algorithms.htm
-https://www.tutorialspoint.com/python/list_sort.htm | Python List sort() Method
-
-https://www.tutorialspoint.com/data_structures_algorithms
-https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
-https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
--->
-
-
 Python and Python Syntax and Semantics
 * [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
@@ -670,6 +639,44 @@ Python Tutors
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
+Python Websites and Newsletters
+* [Iron Python in Action](http://www.ironpythoninaction.com)
+* [Learn Python](http://www.learnpython.org)
+* [Python Central](http://www.pythoncentral.io)
+* [Python for Beginners](http://www.pythonforbeginners.com)
+* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+* [The Python Guru](http://thepythonguru.com)
+
+
+<!--
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
+
+
+* [Tutorials Point NumPy](https://www.tutorialspoint.com/numpy)
+* [Tutorials Point Python](http://www.tutorialspoint.com/python)
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
+
+https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
+
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
+
+http://www.tutorialspoint.com/python/ | Python Tutorial
+https://www.tutorialspoint.com/python/python_basic_syntax.htm | Python Basic Syntax
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+https://www.tutorialspoint.com/python/list_sort.htm | Python List sort() Method
+
+https://www.tutorialspoint.com/data_structures_algorithms
+https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
+https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+-->
 
 <!--
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
@@ -694,8 +701,20 @@ http://treyhunner.com/projects/ | Projects - Trey Hunner
 https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
 -->
 
-
 <!--
+https://twitter.com/aaronchall/status/961250524753551360
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+
+https://jeffknupp.com/blog
+https://jeffknupp.com/blog/archives/ | Archives
+https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
+
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+
+https://www.digitalocean.com/community/tutorials?q=python
+
+http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
 https://learncodethehardway.org/more-python/
 
@@ -705,20 +724,10 @@ https://learnpythonthehardway.org/book/nopython3.html
 https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
--->
-
-<!--
-https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
-
-https://twitter.com/aaronchall/status/961250524753551360
 
 
-https://www.digitalocean.com/community/tutorials?q=python
-
-http://inventwithpython.com/blog/ | The Invent with Python Blog -
 https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
 https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
-
 
 https://www.fullstackpython.com/best-python-resources.html
 
@@ -731,34 +740,33 @@ https://www.digitalocean.com/community/tutorial_series/django-development
 https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
 https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
 
-
 * [Interactive Python](http://www.interactivepython.org)
 
 http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
 
-How to Think Like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/index.html
+Runestone Interactive Tools Library of Titles
+http://runestoneinteractive.org/library.html
 
-http://interactivepython.org/runestone/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index | Runestone Interactive
+Problem Solving with Algorithms and Data Structures Using Python
+https://runestone.academy/runestone/static/pythonds/index.html
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-
-http://interactivepython.org/runestone/static/pythonds/BasicDS/ImplementinganUnorderedListLinkedLists.html | 3.21. Implementing an Unordered List: Linked Lists — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
 http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
 
-https://runestone.academy/runestone/static/pythonds/Introduction/ControlStructures.html | 1.10. Control Structures — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html | 1.13. Object-Oriented Programming in Python: Defining Classes — Problem Solving with Algorithms and Data Structures
+Everyday Python
+http://interactivepython.org/runestone/static/everyday/2016/05/groupby.html
 
-http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/SpecialWaystoExecutePythoninthisBook.html | 1.4. Executing Python in this Book — How to Think like a Computer Scientist: Interactive Edition
-http://interactivepython.org/courselib/static/thinkcspy/Functions/mainfunction.html | 6.7. Using a Main Function — How to Think like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/Appendices/PrecedenceTable.html#operator-summary | Operator precedence table — How to Think like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/SimplePythonData/UpdatingVariables.html | 2.11. Updating Variables — How to Think like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
+CS Principles: Big Ideas in Programming¶
+https://runestone.academy/runestone/static/StudentCSP/index.html
+
+How to Think like a Computer Scientist
 https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
-http://runestoneinteractive.org/library.html | Runestone Interactive Titles
+https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
+
+Course Reader - CS160
+http://computerscience.chemeketa.edu/cs160Reader/index.html
 
 
 https://python.swaroopch.com
@@ -772,21 +780,7 @@ https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth 
 http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 
 https://www.slideshare.net/MariattaWijaya
-
-https://stephensugden.com/crash_into_python/ | Crash into Python
-
-https://jeffknupp.com/blog
-https://jeffknupp.com/blog/archives/ | Archives
-https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 -->
-
-Python Websites and Newsletters
-* [Iron Python in Action](http://www.ironpythoninaction.com)
-* [Learn Python](http://www.learnpython.org)
-* [Python Central](http://www.pythoncentral.io)
-* [Python for Beginners](http://www.pythonforbeginners.com)
-* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
-* [The Python Guru](http://thepythonguru.com)
 
 <!--
 https://github.com/RafeKettler
