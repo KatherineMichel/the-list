@@ -613,6 +613,22 @@ Other Walk-Throughs
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 
+<!--
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+-->
+
 Google Python Class
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 
@@ -786,31 +802,6 @@ Python IDLE
 
 
 
-<!--
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
-https://docs.python.org/3/library/types.html#module-types
-
-Type/Hints
-https://docs.python.org/3/library/typing.html
-
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-https://docs.python.org/3/glossary.html#term-abstract-base-class
-https://docs.python.org/3/library/abc.html
-
-https://docs.python.org/3/glossary.html#term-type
-https://docs.python.org/3/glossary.html#term-duck-typing
-https://docs.python.org/3/glossary.html#term-function-annotation
-https://docs.python.org/3/glossary.html#term-variable-annotation
-
-* [Data Types Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
--->
-
-
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
@@ -980,21 +971,6 @@ https://en.wikipedia.org/wiki/Purely_functional_programming
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
--->
 
 
 Design Patterns- Gang of Four (GoF)
