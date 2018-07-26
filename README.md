@@ -459,6 +459,7 @@ Learning Platforms (See also others)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
@@ -466,7 +467,6 @@ https://courseroot.com/courses/?search=python&sortby=popularity | Best online Py
 https://www.edx.org/course/subject/computer-science/python
 https://www.youtube.com/user/khanacademy/search?query=python
 https://nostarch.com/search/node/python | Search | No Starch Press
-http://exercism.io/languages/python/about | Python - exercism.io
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 
@@ -480,11 +480,15 @@ MOOCs
 
 <!--
 Tutorial
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
 
-https://www.geeksforgeeks.org/ | GeeksforGeeks | A computer science portal for geeks
+* [Tutorials Point NumPy](https://www.tutorialspoint.com/numpy)
+* [Tutorials Point Python](http://www.tutorialspoint.com/python)
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
 
@@ -505,16 +509,17 @@ https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+
 Wiki Books
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 <!--
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-
 https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_Object_Oriented_Programming_in_Python_3 | Non-Programmer's Tutorial for Python 3/Intro to Object Oriented Programming in Python 3 - Wikibooks, open books for an open world
 
 https://en.wikiversity.org/wiki/Python_Programming/Tuples_and_Sets | Python Programming/Tuples and Sets - Wikiversity
@@ -527,11 +532,6 @@ https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-wit
 https://learnxinyminutes.com/docs/python/ | Learn python in Y Minutes
 -->
 
-Eric Matthes
-* [Eric Matthes: Introduction to Python](http://introtopython.org)
-* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
-
 Google Python Class
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 
@@ -539,14 +539,13 @@ Google Python Class
 https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
 -->
 
-Free Code Camp Python
+Python Challenges
+* [Exercism Python](https://exercism.io/tracks/python)
 * [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
+* [Python Morsels](https://www.pythonmorsels.com)
 
 <!--
-Python Morsels
-https://github.com/pybites/challenges
-
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 
 https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
@@ -561,51 +560,69 @@ https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-co
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
-Tutorials- Looking At
+Eric Matthes
+* [Eric Matthes: Introduction to Python](http://introtopython.org)
+* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
+* [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
+
+Python Tutors
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+* [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
-* [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA) and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
+* [Al Sweigart: Invent with Python](http://inventwithpython.com)
+* [Dan Bader](https://dbader.org), [Dan Bader Blog](https://dbader.org/blog), and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+* [Dan Bader: Real Python](https://realpython.com) and [Real Python Courses](https://realpython.com/courses)
+* [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
+* [Jeff Knupp](https://jeffknupp.com)
+* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
+* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
-
+* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+* [Trey Hunner](http://treyhunner.com), [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
+* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
-https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
-
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
-https://twitter.com/aaronchall/status/961250524753551360
-
-http://inventwithpython.com/blog/ | The Invent with Python Blog -
-https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
-https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
-
-https://realpython.com/ | Real Python - Real Python
-https://realpython.com/courses
-
-https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj | Stacks and Queues — BaseCS Video Series
-https://dev.to/vaidehijoshi/graph-theory--basecs-video-series-1cpo
-https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8
-https://dev.to/vaidehijoshi/whats-a-linked-list-anyway
-
-https://dbader.org/blog | Python Tutorials – dbader.org
 https://www.pythonistacafe.com/ | PythonistaCafe – Peer-to-Peer Learning for Python Developers
 
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
 https://www.amazon.com/dp/1775093301/?tag=dbaderorg-20 | Python Tricks: A Buffet of Awesome Python Features: Dan Bader: 9781775093305: Amazon.com: Books
 
-https://www.fullstackpython.com/best-python-resources.html
+https://github.com/treyhunner
+http://treyhunner.com/projects/ | Projects - Trey Hunner
 
-* [Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+
+https://twitter.com/aaronchall/status/961250524753551360
+
+
+https://www.digitalocean.com/community/tutorials?q=python
+
+http://inventwithpython.com/blog/ | The Invent with Python Blog -
+https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
+https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
+
+
+https://www.fullstackpython.com/best-python-resources.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 http://www.fullstackpython.com/deployment.html
 
-https://www.digitalocean.com/community/tutorials?q=python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 https://www.digitalocean.com/community/tutorial_series/django-development
 https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
@@ -647,22 +664,6 @@ https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of
 https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
 -->
 
-Python Tutors- Regular
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart](http://alsweigart.com) and [Al Sweigart: Invent with Python](http://inventwithpython.com)
-* [Dan Bader](https://dbader.org) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Grishma Jena GitHub](https://github.com/GJena)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
-* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-* [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Trey Hunner](http://treyhunner.com), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
-* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
 <!--
 https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
 http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
@@ -674,18 +675,7 @@ https://stephensugden.com/crash_into_python/ | Crash into Python
 https://jeffknupp.com/blog
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
-
-http://treyhunner.com/talks/
-http://treyhunner.com/blog/archives/
-https://github.com/treyhunner
-http://treyhunner.com/projects/ | Projects - Trey Hunner
 -->
-
-Python Tutors- YouTube
-* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
-* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
-* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
-* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 Python Websites and Newsletters
 * [Iron Python in Action](http://www.ironpythoninaction.com)
@@ -700,6 +690,12 @@ https://github.com/RafeKettler
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 -->
+
+Python Tutors- YouTube
+* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
+* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
+* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
+* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 Python- Books
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
@@ -1176,6 +1172,8 @@ http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.o
 http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
 http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
 http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
+https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
 
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 
@@ -1540,6 +1538,8 @@ http://forums.fast.ai/t/30-best-practices/12344
 
 <!--
 Videos, Tutorials, and Blogs
+https://www.youtube.com/watch?v=F1ka6a13S9I | (1) Nuts and Bolts of Applying Deep Learning (Andrew Ng) - YouTube
+
 Jeff Dean
 https://www.youtube.com/watch?v=QSaZGT4-6EY
 Google legend Jeff Dean from the Google Brain team lecture on Large-Scale Deep Learning for Intelligent Computer Systems
@@ -1772,6 +1772,12 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
 <!--
+https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
+https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
+
+https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57?linkId=54191031 | Seedbank — discover machine learning examples – TensorFlow – Medium
+http://tools.google.com/seedbank/ | Seedbank
+
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
 
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
@@ -1797,23 +1803,15 @@ https://ehmatthes.github.io/pcc/cheatsheets/README.html
 DataCamp Python Cheat Sheets
 https://www.datacamp.com/community/data-science-cheatsheets?page=3&tag=python
 
-Python Basics
+Done
 http://datacamp-community.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612
-
-Importing Data
-http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef | 50d31142-3de0-4159-89b9-18b718a728ef
-
-Jupyter Notebook
+http://datacamp-community.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef
 http://datacamp-community.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40
-
-NumPy
 http://datacamp-community.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7
+http://datacamp-community.s3.amazonaws.com/94fc681d-5422-40cb-a129-2218e9522f17
 
 Scikit Learn
 http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116
-
-Keras
-http://datacamp-community.s3.amazonaws.com/94fc681d-5422-40cb-a129-2218e9522f17
 
 Matplotlib
 http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
@@ -1943,6 +1941,7 @@ Deep Learning AI
 * [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <!--
+https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes | Fengdu78/Coursera-ML-AndrewNg-Notes: Wu Enda's Machine Learning Course Personal Note
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng | Notes from Coursera Deepchow Learning courses by Andrew Ng
 
 https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks
