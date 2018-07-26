@@ -47,121 +47,6 @@ Wikipedia Tech Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-Tech Terminology
-* [Techopedia](https://www.techopedia.com)
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), [Udacity Medium](https://medium.com/udacity), and [Udacity GitHub](https://github.com/udacity)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
-  
-Courses
-* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
-* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
-* [Learn to Code the Hard Way](http://learncodethehardway.org) 
-* [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
-* [W3Schools Web Developmenlt Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
-
-In Particular
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
-* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-
-<!--
-Pluralsight Free Weekly Course
-
-* [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
-
-https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
-https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
-https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
-https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
-https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
-https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
-
-https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
-
-https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
-https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight 
--->
-
-Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
-* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [Free Code Camp Guide](https://guide.freecodecamp.org)
-* [Free Code Camp Map](https://www.freecodecamp.com/map)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
-
-Reddit
-* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
-
-OpenStack
-* [OpenStack Community](https://www.openstack.org/community)
-
-<!--
-http://exercism.io
-
-http://www.100daysofcode.com/
-
-Upvotes
-https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
-
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
-
-https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
-https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
-https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
--->
-
-Wolfram
-* [Wolfram Resources](http://www.wolfram.com/resources)
-* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
-* [Wolfram Functions](http://functions.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-
-<!--
-http://community.wolfram.com
-http://www.wolframalpha.com/calculators
--->
-
-Math and General Knowledge  
-* [Project Euler Problems](http://projecteuler.net/problems) 
-* [Khan Academy Math](https://www.khanacademy.org/math)
-* [Math Dot Com](http://www.math.com)
-* [Maths is Fun](http://www.mathsisfun.com)
-
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [No Starch Press](https://www.nostarch.com)
-* [Humble Bundle](https://www.humblebundle.com)
-* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
-
-<!--
-https://pragprog.com/ | The Pragmatic Bookshelf
-
-* [O'Reilly Media](https://github.com/oreillymedia)
-* [Packt Publishing](https://github.com/PacktPublishing)
-
-Books!
-http://www.dev-books.com
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
--->
-
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
 
@@ -280,40 +165,6 @@ Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
--->
 
 JavaScript Scene
 * ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
@@ -527,6 +378,159 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 -->
 
 
+
+Tech Terminology
+* [Techopedia](https://www.techopedia.com)
+
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), [Udacity Medium](https://medium.com/udacity), and [Udacity GitHub](https://github.com/udacity)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+  
+Courses
+* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
+* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
+* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
+* [Learn to Code the Hard Way](http://learncodethehardway.org) 
+* [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
+* [W3Schools Web Developmenlt Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+In Particular
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
+* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
+
+<!--
+Pluralsight Free Weekly Course
+
+* [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
+
+https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
+https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
+https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
+https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
+https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
+https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
+
+https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
+
+https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
+https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight 
+-->
+
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Guide](https://guide.freecodecamp.org)
+* [Free Code Camp Map](https://www.freecodecamp.com/map)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+Reddit
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+OpenStack
+* [OpenStack Community](https://www.openstack.org/community)
+
+<!--
+http://exercism.io
+
+http://www.100daysofcode.com/
+
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
+
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+
+https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
+https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
+-->
+
+Wolfram
+* [Wolfram Resources](http://www.wolfram.com/resources)
+* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
+* [Wolfram Functions](http://functions.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+
+<!--
+http://community.wolfram.com
+http://www.wolframalpha.com/calculators
+-->
+
+Math and General Knowledge  
+* [Project Euler Problems](http://projecteuler.net/problems) 
+* [Khan Academy Math](https://www.khanacademy.org/math)
+* [Math Dot Com](http://www.math.com)
+* [Maths is Fun](http://www.mathsisfun.com)
+
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+
+Books
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [No Starch Press](https://www.nostarch.com)
+* [Humble Bundle](https://www.humblebundle.com)
+* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
+
+<!--
+https://pragprog.com/ | The Pragmatic Bookshelf
+
+* [O'Reilly Media](https://github.com/oreillymedia)
+* [Packt Publishing](https://github.com/PacktPublishing)
+
+Books!
+http://www.dev-books.com
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+-->
+
+
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
+
+
+
 Visual Studio Code
 * [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
 * [Visual Studio Code Docs](https://code.visualstudio.com/docs)
@@ -646,16 +650,20 @@ Eric Matthes
 Python Tutors
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
 * [Al Sweigart](http://alsweigart.com)
+* [Dan Bader](https://dbader.org), 
+* [Jeff Knupp](https://jeffknupp.com)
+* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
+* [Trey Hunner](http://treyhunner.com), 
+
+Useful Python Resources
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
-* [Dan Bader](https://dbader.org), [Dan Bader Blog](https://dbader.org/blog), and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 * [Dan Bader: Real Python](https://realpython.com) and [Real Python Courses](https://realpython.com/courses)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
@@ -664,7 +672,7 @@ Python Tutors
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-* [Trey Hunner](http://treyhunner.com), [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
@@ -794,11 +802,6 @@ Python Tutors- YouTube
 * [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
 * [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
-
-Python IDLE
-* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](https://docs.python.org/3.6/library/idle.html)  
-* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python)) 
 
 
 
@@ -1848,6 +1851,14 @@ Karpathy (Stanford)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 <!--
+New
+http://cs230.stanford.edu/proj-spring-2018.html | CS230: Deep Learning - Projects
+http://web.stanford.edu/class/cs20si/ | Stanford University: Tensorflow for Deep Learning Research
+http://cs224d.stanford.edu/ | Stanford University CS224d: Deep Learning for Natural Language Processing
+http://cs231n.github.io/optimization-1/ | CS231n Convolutional Neural Networks for Visual Recognition
+https://www.class-central.com/report/harvard-cs50-new-courses/ | CS50, Harvard's Largest Class Expands Its Line Up of Courses — Class Central
+
+
 Oxford
 https://github.com/oxford-cs-deepnlp-2017/lectures
 
