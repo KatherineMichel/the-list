@@ -927,7 +927,7 @@ Python Official Resources
 Python Tutorials
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 * [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
 * [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
 
@@ -937,8 +937,40 @@ Other Tutorials
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
+https://www.datacamp.com/community/tutorials?tag=python
+
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
+
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+
+Khan Academy
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
+* [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
+
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+https://betterexplained.com/
+
+https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia	
+
+https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
+https://www.tensorflow.org/programmers_guide/tensors#data_types
+https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
+
+http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
+http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
 -->
+
+Python Websites and Newsletters
+* [Iron Python in Action](http://www.ironpythoninaction.com)
+* [Learn Python](http://www.learnpython.org)
+* [Python Central](http://www.pythoncentral.io)
+* [Python for Beginners](http://www.pythonforbeginners.com)
+* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+* [The Python Guru](http://thepythonguru.com)
 
 Python Challenges
 * [Exercism Python](https://exercism.io/tracks/python)
@@ -979,14 +1011,6 @@ Useful Python Resources
 * [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-Python Websites and Newsletters
-* [Iron Python in Action](http://www.ironpythoninaction.com)
-* [Learn Python](http://www.learnpython.org)
-* [Python Central](http://www.pythoncentral.io)
-* [Python for Beginners](http://www.pythonforbeginners.com)
-* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
-* [The Python Guru](http://thepythonguru.com)
 
 <!--
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
@@ -1101,173 +1125,6 @@ Python Tutors- YouTube
 * [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
-
-
-
- 
-
-Khan Academy
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
-* [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
-* [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
-
-<!--
-https://en.wikipedia.org/wiki/Series_(mathematics)
-
-https://en.wikipedia.org/wiki/Discrete_mathematics | Discrete mathematics - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_algebra | Abstract algebra - Wikipedia
-https://en.wikipedia.org/wiki/Set_theory | Set theory - Wikipedia
-https://en.wikipedia.org/wiki/Graph_theory | Graph theory - Wikipedia
-https://en.wikipedia.org/wiki/Number_theory | Number theory - Wikipedia
-https://en.wikipedia.org/wiki/Trigonometry | Trigonometry - Wikipedia
-
-http://www.mathsisfun.com/numbers/ | Numbers Index
-https://en.wikipedia.org/wiki/List_of_numbers | List of numbers - Wikipedia
-https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-https://brownmath.com/swt/symbol.htm | Symbol Sheet / SWT
-
-https://www.khanacademy.org/computing/computer-science/how-computers-work2
-https://www.khanacademy.org/math
-
-https://www.khanacademy.org/math/ap-statistics
-https://www.khanacademy.org/math/statistics-probability
-https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w | Khan Academy Probability and Statistics - YouTube
-
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
--->
-
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
- 
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory) 
-
-Linear Algebra
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
-* [Numerical Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra) 
-
-Calculus
-* [Glossary of Calculus Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_calculus) 
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus) 
-* [Lambda Calculus Wikipedia](https://en.wikipedia.org/wiki/Lambda_calculus) 
-* [Vector Calculus Wikipedia](https://en.wikipedia.org/wiki/Vector_calculus) 
-* [Differential Calculus Wikipedia](https://en.wikipedia.org/wiki/Differential_calculus) 
-* [Multivariate Calculus Wikipedia](https://en.wikipedia.org/wiki/Multivariable_calculus) 
-
-<!--
-https://en.wikipedia.org/wiki/Summation
-
-https://www.khanacademy.org/#linear-algebra | Khan Academy | Free Online Courses, Lessons & Practice
-https://www.khanacademy.org/math/linear-algebra | Linear Algebra | Khan Academy
-https://www.khanacademy.org/math/differential-equations
-
-https://www.khanacademy.org/math/precalculus
-https://www.khanacademy.org/math/calculus-home
-https://www.khanacademy.org/math/ap-calculus-ab
-https://www.khanacademy.org/math/ap-calculus-bc
-https://www.khanacademy.org/math/differential-calculus | Differential Calculus | Khan Academy
-https://www.khanacademy.org/math/multivariable-calculus
--->
-
-Mathematics of Deep Learning
-* ["Mathematics of Deep Learning"](https://arxiv.org/pdf/1712.04741.pdf)
-* ["A guide to convolution arithmetic for deep learning"](https://arxiv.org/pdf/1603.07285.pdf)
-
-<!--
-https://arxiv.org/abs/1709.02840 | [1709.02840] A Brief Introduction to Machine Learning for Engineers
--->
-
-Fast AI Math
-* [Wiki: Linear Algebra for Deep Learning](http://wiki.fast.ai/index.php/Linear_Algebra_for_Deep_Learning)
-* [Wiki: Calculus for Deep Learning](http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning)
-
-Fast AI Computational Linear Algebra Course Recommended Books
-* ["Numerical Linear Algebra"](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
-* ["Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms"](https://www.amazon.com/Numerical-Methods-Analysis-Implementation-Algorithms/dp/0691151229)
-
-<!--
-Jeremy Howard- Matrix Calculus
-https://arxiv.org/pdf/1802.01528.pdf | 1802.01528.pdf
-http://parrt.cs.usfca.edu/doc/matrix-calculus.pdf | matrix-calculus.pdf
-
-https://github.com/fastai/numerical-linear-algebra-v2 | fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
-
-http://www.fast.ai/2017/07/17/num-lin-alg/ | New fast.ai course: Computational Linear Algebra · fast.ai
-https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
-https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra | Jupyter Notebook Viewer
-https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube
-https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY | Computational Linear Algebra - YouTube - YouTube
-https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491985250/video314936.html | All the linear algebra you need for AI - Rachel Thomas (fast.ai) - O'Reilly Artificial Intelligence Conference 2017 - San Francisco, CA [Video]
-
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ | Linear Algebra | Mathematics | MIT OpenCourseWare
-
-https://machinelearningmastery.com/why-learn-linear-algebra-for-machine-learning/ | 5 Reasons to Learn Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/linear_algebra_for_machine_learning/ | Basics of Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/ | Top Resources for Learning Linear Algebra for Machine Learning - Machine Learning Mastery
-https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/ | 10 Examples of Linear Algebra in Machine Learning - Machine Learning Mastery
-
-https://minireference.com/static/tutorials/conceptmap.pdf
-
-https://machinelearningmastery.com/no-bullshit-guide-to-linear-algebra-review/ | No Bullshit Guide To Linear Algebra Review - Machine Learning Mastery
-https://www.amazon.com/dp/0992001021?tag=inspiredalgor-20 | No bullshit guide to linear algebra: Ivan Savov: 9780992001025: Amazon.com: Books
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
--->
-
-<!--
-https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc/v/chain-rule-introduction | Chain rule (video) | Taking derivatives | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules | Derivative rules | AP®︎ Calculus AB | Math | Khan Academy
-https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/ab-derivative-intuition/v/derivative-as-a-concept | Derivative as a concept (video) | Khan Academy
-https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives | Introduction to partial derivatives (article) | Khan Academy
-
-Derivatives
-https://www.mathsisfun.com/calculus/derivatives-rules.html | Derivative Rules
-https://www.mathsisfun.com/calculus/derivatives-introduction.html | Introduction to Derivatives
-http://www.math.com/tables/derivatives/tableof.htm | Table of Derivatives
-http://www.wolframalpha.com/calculators/derivative-calculator/ | Derivative Calculator: Solve Derivatives with Wolfram|Alpha
-http://mathworld.wolfram.com/Derivative.html | Derivative -- from Wolfram MathWorld
-
-https://en.wikipedia.org/wiki/Differential_equation | Differential equation - Wikipedia
-https://www.mathsisfun.com/calculus/differential-equations.html | Differential Equations - Introduction
-http://mathworld.wolfram.com/SigmoidFunction.html
-https://reference.wolfram.com/language/ref/Tanh.html
-
-https://www.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-multiplication/a/properties-of-matrix-multiplication | Properties of matrix multiplication (article) | Khan Academy
-https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro | Intro to matrix multiplication (video) | Khan Academy
-
-https://betterexplained.com/
-
-An Intuitive Guide to Linear Algebra
-https://betterexplained.com/articles/linear-algebra-guide
-A Programmer's Intuition for Matrix Multiplication
-https://betterexplained.com/articles/matrix-multiplication
-Vector Calculus: Understanding the Cross Product
-https://betterexplained.com/articles/cross-product
-Vector Calculus: Understanding the Dot Product 
-https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product
-
-https://en.wikipedia.org/wiki/Dot_product | Dot product - Wikipedia		
-https://en.wikipedia.org/wiki/Cross_product		
-https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia	
-https://en.wikipedia.org/wiki/Tensor_product | Tensor product - Wikipedia
-
-
-https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
-https://www.tensorflow.org/programmers_guide/tensors#data_types
-https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
-
-http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
-http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
-
-
-
-Computational Linear Algebra/Numerical Linear Algebra, Mathematics for Computer Science
-https://www.quora.com/What-kind-of-math-is-important-for-computer-science | (2) What kind of math is important for computer science? - Quora
-https://math.stackexchange.com/questions/2091747/what-is-the-difference-between-computational-linear-algebra-and-linear-algebra | What is the difference between computational linear algebra and linear algebra? - Mathematics Stack Exchange
--->
 
 
 Coding Competitions
@@ -1712,7 +1569,6 @@ DataCamp
 
 <!--
 https://www.datacamp.com/courses/all | Data Science Courses: R & Python Analysis Tutorials | DataCamp
-https://www.datacamp.com/community/tutorials?tag=python
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
@@ -1746,7 +1602,6 @@ https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradien
 
 Recommended by Jeremy Howard
 https://github.com/NirantK/best-of-jupyter
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
 
 
