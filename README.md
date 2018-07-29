@@ -792,19 +792,6 @@ Python- Django- Hello Web App
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 
 
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-<!--
-https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
-https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
--->
-
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
 * [GitHub Topic: Python](https://github.com/topics/python)
