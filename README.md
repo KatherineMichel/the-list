@@ -495,41 +495,6 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
 
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
--->
-
-
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
@@ -1107,6 +1072,84 @@ Python Tutors- YouTube
 * [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
 * [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
+
+
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+Interesting Curated Learning Resources- General
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+Interesting Curated Learning Resources- Back-End Developer
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+<!--
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
+https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+-->
+
+Interesting Curated Learning Resources- Marketing and Sales
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
 
 
 Coding Competitions
@@ -1901,43 +1944,6 @@ https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare me
 https://github.com/dlvm-team/ | DLVM
 https://clang.llvm.org/ | "clang" C Language Family Frontend for LLVM
 http://llvm.org/ | The LLVM Compiler Infrastructure Project
--->
-
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-Interesting Curated Learning Resources- General
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-* [Front End Guide](https://github.com/grab/front-end-guide)
-* [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-Interesting Curated Learning Resources- Marketing and Sales
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-Interesting Curated Learning Resources- Back-End Developer
-* [Open Source Society University](https://github.com/ossu/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-<!--
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
-https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
 -->
 
 Top Links of All Times
