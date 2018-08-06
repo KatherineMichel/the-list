@@ -792,21 +792,12 @@ Python- Django- Hello Web App
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 
 
-Python Trending, Topics, Forums
-* [GitHub Trending: Python](https://github.com/trending/python)
-* [GitHub Topic: Python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
 
 Official Python Tutorial
 * [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
 
 Cheat Sheets
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-
-Mind Maps and Cheat Sheets
-* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
 
 <!--
 https://www.datacamp.com/community/data-science-cheatsheets
@@ -830,18 +821,34 @@ http://datacamp-community.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b
 Pandas Cheat Sheet
 http://datacamp-community.s3.amazonaws.com/fbc502d0-46b2-4e1b-b6b0-5402ff273251
 http://datacamp-community.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8
-https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 SciPy
 http://datacamp-community.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f
+-->
+
+
+
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+
+Mind Maps and Cheat Sheets
+* [Daniel Formoso: Machine Learning Mindmap GitHub](https://github.com/dformoso/machine-learning-mindmap) and [Daniel Formoso: Deep Learning Mindmap GitHub](https://github.com/dformoso/deeplearning-mindmap)
+
+<!--
+Scikit-learn documentation: Choosing the right estimator
+* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
+
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 PySpark
 http://datacamp-community.s3.amazonaws.com/4d91fcbc-820d-4ae2-891b-f7a436ebefd4
 http://datacamp-community.s3.amazonaws.com/65076e3c-9df1-40d5-a0c2-36294d9a3ca9
-
-Scikit-learn documentation: Choosing the right estimator
-* [Scikit-Learn Machine Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) 
 -->
+
+Python Trending, Topics, Forums
+* [GitHub Trending: Python](https://github.com/trending/python)
+* [GitHub Topic: Python](https://github.com/topics/python)
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
 
 Learning Platforms (See also others)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
@@ -919,14 +926,11 @@ Python Tutorials
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
 
 Other Tutorials
-* [Tutorials Point NumPy](https://www.tutorialspoint.com/numpy)
 * [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
 https://www.datacamp.com/community/tutorials?tag=python
-
-https://github.com/Stephen-Rimac/Python-for-Data-Scientists/blob/master/Python%20for%20Data%20Scientists.ipynb | Python-for-Data-Scientists/Python for Data Scientists.ipynb at master · Stephen-Rimac/Python-for-Data-Scientists
 
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
@@ -940,15 +944,6 @@ https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Q
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
 https://betterexplained.com/
-
-https://en.wikipedia.org/wiki/Tensor | Tensor - Wikipedia	
-
-https://www.tensorflow.org/programmers_guide/tensors | Tensors  |  TensorFlow
-https://www.tensorflow.org/programmers_guide/tensors#data_types
-https://www.tensorflow.org/programmers_guide/datasets#consuming_numpy_arrays
-
-http://mathworld.wolfram.com/Tensor.html | Tensor -- from Wolfram MathWorld
-http://www.feynmanlectures.caltech.edu/II_31.html | The Feynman Lectures on Physics Vol. II Ch. 31: Tensors
 -->
 
 Python Websites and Newsletters
@@ -1251,7 +1246,6 @@ More Learning Resources
 
 <!--
 https://www.mathworks.com
-https://www.pyimagesearch.com/
 -->
 
 Analyst Group Resources
@@ -1358,8 +1352,6 @@ https://github.com/ossu/data-science/blob/master/extras/specializations.md | dat
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
-https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb | Jupyter Notebook Viewer
-http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html | Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
 
@@ -1587,9 +1579,6 @@ Recommended by Rachel Thomas?
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ | Stochastic Gradient Descent (SGD) with Python - PyImageSearch
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 
-Recommended by Jeremy Howard
-https://github.com/NirantK/best-of-jupyter
-https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb | Jupyter Notebook Viewer
 
 
 http://www.fast.ai/2018/01/17/international-spring-2018/ | International Fellowship applications for Part 2 now open · fast.ai
@@ -1687,7 +1676,7 @@ Stanford Groups
 * [Stanford Vision Lab](http://vision.stanford.edu)
 
 Karpathy (Stanford)
-* ["Hacker's guide to Neural Networks"](http://karpathy.github.io/neuralnets)
+* ["Hacker's Guide to Neural Networks"](http://karpathy.github.io/neuralnets)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io) and [CS231n Convolutional Neural Networks for Visual Recognition Spring 2017 Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 <!--
@@ -1900,87 +1889,6 @@ Conda
 * [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html) and [Conda Cheat Sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf) 
 * [Anaconda](https://www.continuum.io/downloads) and [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html) 
 * [Miniconda](http://conda.pydata.org/miniconda.html)
-
-Python- Statistics Stack- iPython and Jupyter
-* [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
-* [Jupyter](http://jupyter.org)
-
-A Gallery of Interesting Jupyter Notebooks
-* [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks) 
-* [A Gallery of Interesting IPython Notebooks- Pandas for Data Analysis](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#pandas-for-data-analysis)
-
-Python- Statistics Stack- NumPy 
-* [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
-* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
-
-<!--
-https://www.machinelearningplus.com/python/101-numpy-exercises-python/ | 101 NumPy Exercises for Data Analysis (Python) - ML+
-
-http://cs231n.github.io/python-numpy-tutorial/ | Python Numpy Tutorial
-https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html | Computation on NumPy Arrays: Universal Functions | Python Data Science Handbook
-
-https://www.datacamp.com/community/tutorials/python-numpy-tutorial
-https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/
--->
-
-Python- Statistics Stack- SciPy 
-* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
-
-<!--
-NumPy Array, Array Creation
-https://docs.scipy.org/doc/numpy-1.13.0/user/basics.creation.html
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html | numpy.array — NumPy v1.14 
-What advantages do NumPy arrays offer over (nested) Python lists?
-https://www.scipy.org/scipylib/faq.html#what-advantages-do-numpy-arrays-offer-over-nested-python-lists
-https://docs.scipy.org/doc/numpy/reference/ufuncs.html
--->
-
-Python- Statistics Stack- Scikit-Learn
-* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
-
-<!--
-https://www.datacamp.com/community/tutorials/machine-learning-python
-https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
-
--->
-
-Python- Image Processing- Scikit-Image (See also Python Imaging Library)
-* [Scikit-Image](http://scikit-image.org) and [Scikit-Image GitHub](https://github.com/scikit-image/scikit-image)  
-* [Scikit-Image Examples](http://scikit-image.org/docs/dev/auto_examples) 
-
-Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
-
-<!--
-Intro to Data Structures
-https://pandas.pydata.org/pandas-docs/stable/dsintro.html
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html
-
-https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-https://medium.freecodecamp.org/series-and-dataframe-in-python-a800b098f68
-https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
-https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm
--->
-
-Python- Statistics Stack- MatPlotLib
-* [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
-* [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
-* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
-* [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
-* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics)
-* [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
-
-Python- Statistics Stack- StatsModel
-* [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Gallery](http://www.statsmodels.org/stable/examples/index.html)  
-
-Python- Statistics Stack- GGPlot
-* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 
 <!--
 Compilers
