@@ -668,6 +668,8 @@ Django Tutorials (Official, Mozilla Developer Network and SIBTC)
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
 
 <!--
+https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
+
 Classy
 http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
 https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
@@ -1394,6 +1396,7 @@ Learning Paths
 https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
+https://jakevdp.github.io/PythonDataScienceHandbook/01.01-help-and-documentation.html | Help and Documentation in IPython | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
 
 http://www.becomingadatascientist.com/learningclub/ | Data Science Learning Club
