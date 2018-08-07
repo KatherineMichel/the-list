@@ -629,7 +629,10 @@ Object-Oriented Design Patterns- Python
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 
-https://www.pyohio.org/2018/schedule/presentation/17/
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
+http://rhodesmill.org/brandon/talks/ | Talks
+https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
 
 http://python-patterns.guide/ | Python Patterns
 https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
@@ -1600,6 +1603,18 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python
 https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
+
+
+https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
+https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
+
+https://www.datacamp.com/community/news/jupyterlab-is-ready-for-users-7att8sanvdv | JupyterLab is ready for users (article) - DataCamp
+https://www.datacamp.com/community/tutorials/machine-learning-python | Python Machine Learning: Scikit-Learn Tutorial (article) - DataCamp
+
+https://www.datacamp.com/community/tutorials/xgboost-in-python | Using XGBoost in Python (article) - DataCamp
+
+https://www.datacamp.com/community/news/the-10-algorithms-machine-learning-engineers-need-to-know-9jasu2c6ici | The 10 Algorithms Machine Learning Engineers Need to Know (article) - DataCamp
+https://www.datacamp.com/community/news/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dbf6geuypk6 | A Tour of The Top 10 Algorithms for Machine Learning Newbies (article) - DataCamp
 -->
 
 
