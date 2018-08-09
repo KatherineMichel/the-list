@@ -763,6 +763,8 @@ Programming Language Leveling Up and Comparisons
 * [Rosetta Code](http://rosettacode.org)
 
 <!--
+https://rosettacode.org/wiki/Rosetta_Code | Rosetta Code
+
 Programming Languages
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 * [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
@@ -870,6 +872,8 @@ Useful Python Resources
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
+
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
 
@@ -1477,6 +1481,9 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
 <!--
+https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
+https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
+
 https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
 https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
 
