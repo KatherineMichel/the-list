@@ -873,6 +873,11 @@ Useful Python Resources
 
 <!--
 https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+
+https://realpython.com/python-data-classes/
+https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
+https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
 
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
@@ -1431,6 +1436,8 @@ Front-Runners
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
 <!--
+https://github.com/tensorflow/models/tree/master/research/slim#Pretrained | models/research/slim at master · tensorflow/models
+
 https://github.com/tensorly/tensorly | tensorly/tensorly: TensorLy: Tensor Learning in Python.
 
 https://github.com/tensorflow/tfjs-core
@@ -1458,7 +1465,9 @@ TensorFlow Resources
 <!--
 https://www.tensorflow.org/api_docs/
 
+https://2017.pygotham.org/talks/edward-probabilistic-modeling-made-easy/ | Edward - Probabilistic Modeling Made Easy - PyGotham 2017
 https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245 | Introducing TensorFlow Probability – TensorFlow – Medium
+http://edwardlib.org/ | Edward – Home
 -->
 
 Google Cloud and TPU
@@ -1483,6 +1492,9 @@ TensorFlow/Google Machine Learning Learning Resources
 <!--
 https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
 https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
+
+Jeremy Howard Resources
+https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos | Alena Kruchkova - YouTube
 
 https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
 https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
