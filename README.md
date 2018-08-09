@@ -1200,6 +1200,7 @@ More Learning Resources
 
 
 <!--
+https://blog.paperspace.com
 https://www.mathworks.com
 -->
 
@@ -1552,6 +1553,9 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
+https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb | fastai/lesson1.ipynb at master · fastai/fastai
+
 https://mlbook.explained.ai/
 https://mlbook.explained.ai/notebooks/index.html | Jupyter Notebook Files for The Mechanics of Machine Learning
 
