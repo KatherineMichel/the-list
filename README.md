@@ -570,101 +570,6 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 
 
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-Design Patterns- General
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-<!--
-Software Design Patterns catalog
-
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
-[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
-
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Design_Patterns
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
-
-https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
-https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
-https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
-https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
-https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
-https://en.wikipedia.org/wiki/Composite_pattern | Composite pattern - Wikipedia
-https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
-https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
-https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
-https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
-https://en.wikipedia.org/wiki/Interpreter_pattern | Interpreter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Iterator_pattern | Iterator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Mediator_pattern | Mediator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Memento_pattern | Memento pattern - Wikipedia
-https://en.wikipedia.org/wiki/Observer_pattern | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/State_pattern | State pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
-
-Object-Oriented Design Patterns- Python
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
-http://rhodesmill.org/brandon/talks/ | Talks
-https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
-
-http://python-patterns.guide/ | Python Patterns
-https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
--->
-
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-<!--
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
--->
-
-
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
@@ -1164,6 +1069,8 @@ Coding Competitions
 * Project-Based Learning
 
 <!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
 https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
 https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
@@ -1545,6 +1452,8 @@ TensorFlow Resources
 
 <!--
 https://www.tensorflow.org/api_docs/
+
+https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245 | Introducing TensorFlow Probability – TensorFlow – Medium
 -->
 
 Google Cloud and TPU
@@ -1575,6 +1484,11 @@ http://tools.google.com/seedbank/ | Seedbank
 
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
 
+http://www.fast.ai/2018/07/23/auto-ml-3/ | Google's AutoML: Cutting Through the Hype · fast.ai
+https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud
+https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
+
+https://developers.google.com/machine-learning/guides/ | ML Universal Guides  |  Google Developers
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
 https://developers.google.com/machine-learning/practica/image-classification/ | ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers
 
@@ -1589,6 +1503,10 @@ https://www.edx.org/course/data-science-essentials
 -->
 
 
+<!--
+https://lambdaschool.com/courses/ds/machine-learning/bootcamp/apply | Thank you | Machine Learning Mini Bootcamp
+https://twitter.com/AustenAllred/status/1024515388225146880 | Austen Allred on Twitter: "Accordingly, we’re going to broadcast a live Introfuction to Data Science course that’s completely free for everyone. Will run weekday evenings for a few weeks. Details tomorrow on that as well."
+-->
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
@@ -1608,8 +1526,11 @@ https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machin
 https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
 https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
 
-https://www.datacamp.com/community/news/jupyterlab-is-ready-for-users-7att8sanvdv | JupyterLab is ready for users (article) - DataCamp
 https://www.datacamp.com/community/tutorials/machine-learning-python | Python Machine Learning: Scikit-Learn Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/python-statistics-data-science | 40+ Python Statistics For Data Science Resources (article) - DataCamp
+https://www.datacamp.com/courses/statistical-thinking-in-python-part-1 | Statistical Thinking in Python (Part 1) | DataCamp
+
+https://www.datacamp.com/community/news/jupyterlab-is-ready-for-users-7att8sanvdv | JupyterLab is ready for users (article) - DataCamp
 
 https://www.datacamp.com/community/tutorials/xgboost-in-python | Using XGBoost in Python (article) - DataCamp
 
