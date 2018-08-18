@@ -872,6 +872,11 @@ Useful Python Resources
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+List Comprehensions and Generator Expressions
+http://pycon2018.trey.io/
+https://www.youtube.com/watch?v=_6U1XoxyyBY
+https://pycon2016.regex.training/
+
 https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
@@ -1015,6 +1020,10 @@ Interesting Curated Learning Resources- Back-End Developer
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
@@ -1398,6 +1407,10 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+https://blog.openai.com/openai-five-benchmark-results/
+
+https://aws.amazon.com/blogs/aws/thoughts-on-machine-learning-accuracy/
+
 http://dawn.cs.stanford.edu/blog
 
 https://github.com/stanford-futuredata/dawn-bench-entries | stanford-futuredata/dawn-bench-entries: DAWNBench: An End-to-End Deep Learning Benchmark and Competition (Deadline April 20, 2018 for initial pull requests)
@@ -1406,8 +1419,6 @@ SOTA
 https://github.com/openai/baselines
 
 https://github.com/onnx/onnx
-
-http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
 
 https://www.spec.org
 
@@ -1436,15 +1447,20 @@ Front-Runners
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
 
 <!--
+https://autokeras.com/
+https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e
+
+TensorFlow 2.0 is coming
+https://groups.google.com/a/tensorflow.org/forum/?utm_medium=email&utm_source=footer#!topic/announce/qXfsxr2sF-0
+PyTorch Roadmap
+https://pytorch.org/2018/05/02/road-to-1.0.html
+
 https://github.com/tensorflow/models/tree/master/research/slim#Pretrained | models/research/slim at master · tensorflow/models
 
 https://github.com/tensorly/tensorly | tensorly/tensorly: TensorLy: Tensor Learning in Python.
 
 https://github.com/tensorflow/tfjs-core
 https://github.com/tensorflow/tfjs-models
-
-PyTorch Roadmap
-https://pytorch.org/2018/05/02/road-to-1.0.html
 -->
 
 Models and Examples
@@ -1490,14 +1506,8 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
 <!--
-https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
-https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
-
-Jeremy Howard Resources
-https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos | Alena Kruchkova - YouTube
-
-https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
-https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
+https://medium.com/the-lever
+https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
 
 https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57?linkId=54191031 | Seedbank — discover machine learning examples – TensorFlow – Medium
 http://tools.google.com/seedbank/ | Seedbank
@@ -1509,17 +1519,28 @@ https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models
 https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
 
 https://developers.google.com/machine-learning/guides/ | ML Universal Guides  |  Google Developers
+https://developers.google.com/machine-learning/guides/text-classification/
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
 https://developers.google.com/machine-learning/practica/image-classification/ | ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers
 
-https://developers.google.com/machine-learning/crash-course/glossary
-
 Facebook
+https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/
 https://research.fb.com/videos/field-guide-to-machine-learning-lesson-1-problem-definition/ | Field Guide to Machine Learning, Lesson 1: Problem Definition – Facebook Research
 
 Microsoft
 https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
 https://www.edx.org/course/data-science-essentials
+
+https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing
+
+https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
+https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
+
+https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
+https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
+
+Jeremy Howard Resources
+https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos | Alena Kruchkova - YouTube
 -->
 
 
@@ -1534,6 +1555,9 @@ DataCamp
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
 <!--
+2018 DataCamp Course Wishlist
+https://docs.google.com/spreadsheets/d/1iqtAIifjaSurddhSkg_hlf-VydL7L-I8ccUETgEu5Tw/edit#gid=0
+
 https://www.datacamp.com/courses/all | Data Science Courses: R & Python Analysis Tutorials | DataCamp
 
 https://www.datacamp.com/tracks/data-scientist-with-python | Data Scientist with Python Track | DataCamp
@@ -1541,7 +1565,6 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python
 https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
-
 
 https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
 https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
@@ -1572,6 +1595,9 @@ Jeremy and Rachel
 * [Rachel Thomas YouTube](https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ)
 
 <!--
+http://www.fast.ai/2018/08/10/fastai-diu-imagenet/
+http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
+
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
 https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb | fastai/lesson1.ipynb at master · fastai/fastai
 
@@ -1585,7 +1611,7 @@ https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-py
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/ | Gradient descent with Python - PyImageSearch
 
 
-
+http://www.fast.ai/2018/08/16/diversity-fellowships/
 http://www.fast.ai/2018/01/17/international-spring-2018/ | International Fellowship applications for Part 2 now open · fast.ai
 
 https://github.com/fastai/fastai/blob/master/docs/style.md | fastai/style.md at master · fastai/fastai
