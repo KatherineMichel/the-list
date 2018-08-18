@@ -1019,10 +1019,35 @@ Interesting Curated Learning Resources- Back-End Developer
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-<!--
-https://github.com/trimstray/sysadmin-interview-questions
 
+<!--
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://github.com/1millionwomentotech/toolkitten | 1millionwomentotech/toolkitten: A toolkit for #1millionwomentotech community.
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://memberportal.1millionwomentotech.com/diy?r_done=1 | DIY
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+https://www.youtube.com/watch?v=Cefl8xfeSx4&feature=youtu.be | (1) Fundamentals of Business Planning and Fundraising for Startups - YouTube
+
+http://www.unwomen.org/en/digital-library/multimedia/2017/7/infographic-spotlight-on-sdg-5 | Spotlight on Sustainable Development Goal 5: Achieve gender equality and empower all women and girls | UN Women – Headquarters
+https://learnpythonthehardway.org/book/ | Learn Python the Hard Way
+http://www.nltk.org/book/ | NLTK Book
+https://pine.fm/LearnToProgram/ | Learn to Program, by Chris Pine
+https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
+https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React - React
+https://solidity.readthedocs.io/en/v0.4.24/ | Solidity — Solidity 0.4.24 documentation
+https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b | Build Your First Ethereum Smart Contract with Solidity — Tutorial
+https://developers.facebook.com/products#virtual-reality | Facebook Products, Developer Tools | Facebook for Developers
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
+https://developers.facebook.com/docs/ar-studio | AR Studio
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+
+https://github.com/CyC2018/CS-Notes
 https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/trimstray/sysadmin-interview-questions
 
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
