@@ -298,15 +298,21 @@ Interesting Curated Learning Resources- Back-End Developer
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 <!--
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+
+https://memberportal.1millionwomentotech.com/diy?r_done=1 | DIY
+
 https://github.com/1millionwomentotech | 1 Million Women To Tech
 https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
 https://github.com/1millionwomentotech/toolkitten | 1millionwomentotech/toolkitten: A toolkit for #1millionwomentotech community.
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://memberportal.1millionwomentotech.com/diy?r_done=1 | DIY
+
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+
 https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
 https://www.youtube.com/watch?v=Cefl8xfeSx4&feature=youtu.be | (1) Fundamentals of Business Planning and Fundraising for Startups - YouTube
  http://www.unwomen.org/en/digital-library/multimedia/2017/7/infographic-spotlight-on-sdg-5 | Spotlight on Sustainable Development Goal 5: Achieve gender equality and empower all women and girls | UN Women – Headquarters
+
 https://learnpythonthehardway.org/book/ | Learn Python the Hard Way
 http://www.nltk.org/book/ | NLTK Book
 https://pine.fm/LearnToProgram/ | Learn to Program, by Chris Pine
@@ -319,7 +325,6 @@ https://developers.facebook.com/products#virtual-reality | Facebook Products, De
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
 https://developers.facebook.com/docs/ar-studio | AR Studio
 http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
- https://github.com/CyC2018/CS-Notes
 -->
 
 <!--
@@ -365,6 +370,7 @@ https://github.com/jwasham/coding-interview-university#object-oriented-programmi
 https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
+
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -388,6 +394,10 @@ https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses:
 
 Tech Terminology
 * [Techopedia](https://www.techopedia.com)
+
+Math Resources
+* [Math Dot Com](http://www.math.com)
+* [Maths is Fun](http://www.mathsisfun.com)
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -446,10 +456,6 @@ OpenStack
 * [OpenStack Community](https://www.openstack.org/community)
 
 <!--
-http://exercism.io
-
-http://www.100daysofcode.com/
-
 Upvotes
 https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 
@@ -484,12 +490,14 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
-Math Resources
-* [Math Dot Com](http://www.math.com)
-* [Maths is Fun](http://www.mathsisfun.com)
-
-Math/Programming Problems  
+Math/Programming Problems and Projects
 * [Project Euler Problems](http://projecteuler.net/problems) 
+
+<!--
+http://exercism.io
+
+http://www.100daysofcode.com/
+-->
 
 Tutorial
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
@@ -749,6 +757,8 @@ Useful Python Resources
 <!--
 https://github.com/treyhunner
 http://treyhunner.com/projects/ | Projects - Trey Hunner
+
+https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
 
 List Comprehensions and Generator Expressions
 http://pycon2018.trey.io/
@@ -1202,58 +1212,28 @@ Data Science Websites
 * [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
 * [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
 
+Lots of Articles
+* [Toward Data Science](https://towardsdatascience.com/archive)
+* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
+
 More Learning Resources
 * [Distill Pub](https://distill.pub/)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com) and [Becoming a Data Scientist Twitter](https://twitter.com/BecomingDataSci)
 * [DataSciGuide](http://www.datasciguide.com)
-* [Toward Data Science](https://towardsdatascience.com)
-* [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
 * [Machine Learnings](https://machinelearnings.co)
 * [Metis Blog](https://www.thisismetis.com/blog) and [Metis Twitter](https://twitter.com/thisismetis)
-* [Partial Derivative](http://www.partiallyderivative.com)
 * [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com)
 * [Reddit Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning)
 
-
 <!--
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0
+
 https://blog.paperspace.com
 https://www.mathworks.com
 -->
 
-Analyst Group Resources
-* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
-* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
-
-<!--
-http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
-
-https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
-
-https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
-http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
--->
-
-
-Rules and Advice
-* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
-* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
-<!--
-OSEMN Process
-https://machinelearningmastery.com/how-to-work-through-a-problem-like-a-data-scientist/ | How To Work Through A Problem Like A Data Scientist
-
-An Example Data Science Process
-http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
-
-https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
-https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
-https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
-
-https://blog.google/topics/ai/ai-principles/
-https://developers.google.com/machine-learning/rules-of-ml/
-
-http://forums.fast.ai/t/30-best-practices/12344
--->
+Archive
+* [Partial Derivative](http://www.partiallyderivative.com)
 
 
 <!--
@@ -1297,10 +1277,8 @@ https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63
 -->
 
 
-<!--
-http://ml-cheatsheet.readthedocs.io
-https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
 
+<!--
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
 http://ruder.io/tracking-progress-nlp/ | Tracking the Progress in Natural Language Processing
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
@@ -1314,12 +1292,57 @@ https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and
 -->
 
 
+Analyst Group Resources
+* [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](https://www.boozallen.com/s/insight/publication/field-guide-to-data-science.html), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
+* [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+<!--
+http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
+
+https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
+
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
+-->
+
+
+Rules and Advice
+* [Martin Zinkevich: Google Rules for Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and [Martin Zinkevich: Google Rules for Machine Learning Mirror GitHub](https://github.com/thundergolfer/google-rules-of-machine-learning)
+* ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+
+<!--
+https://machinelearningmastery.com/machine-learning-mastery-method/
+https://machinelearningmastery.com/machine-learning-for-programmers/
+
+andy beck computational pathologist - Google Search
+https://mlhc17mit.github.io/slides/lecture6.pdf | lecture6.pdf
+https://www.coursera.org/learn/data-science-methodology | Data Science Methodology | Coursera
+http://adam.benjaminbloom.net/2015/07/21-diagrams-that-define-the-data-science-process/ | 21 Diagrams that Define the Data Science Process | adam.benjaminbloom.net
+
+OSEMN Process
+https://machinelearningmastery.com/how-to-work-through-a-problem-like-a-data-scientist/ | How To Work Through A Problem Like A Data Scientist
+
+An Example Data Science Process
+http://nbviewer.jupyter.org/github/Jay-Oh-eN/happy-healthy-hungry/blob/master/h3.ipynb
+
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
+https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
+
+https://blog.google/topics/ai/ai-principles/
+https://developers.google.com/machine-learning/rules-of-ml/
+
+http://forums.fast.ai/t/30-best-practices/12344
+-->
+
 Learning Paths
 * [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 * [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
+https://machinelearningmastery.com/start-here/
+
 https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
@@ -1496,6 +1519,13 @@ https://services.google.com/fb/forms/cloud-tpu-beta-request/
 https://cloudplatform.googleblog.com/2018/06/Cloud-TPU-now-offers-preemptible-pricing-and-global-availability.html | Google Cloud Platform Blog: Cloud TPU now offers preemptible pricing and global availability
 -->
 
+<!--
+http://ml-cheatsheet.readthedocs.io
+https://deeplearning4j.org/glossary | Deep Learning and Neural Network Glossary - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM
+https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary
+-->
+
 Colab and Datalab
 * [Google Colab](https://colab.research.google.com)
 * [Google Datalab](https://cloud.google.com/datalab)
@@ -1508,6 +1538,11 @@ TensorFlow/Google Machine Learning Learning Resources
 
 <!--
 https://ai.google/research/pubs/pub43146
+
+https://ai.google/research/pubs/pub43146 | Machine Learning: The High Interest Credit Card of Technical Debt – Google AI
+
+https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html
+https://ai.googleblog.com/2018/05/introducing-google-ai.html
 
 https://medium.com/the-lever
 https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
@@ -1600,6 +1635,8 @@ Fast AI Courses
 * [Fast AI Courses GitHub](https://github.com/fastai/courses)
 
 <!--
+http://www.fast.ai/2018/07/12/auto-ml-1/ | What do machine learning practitioners actually do? · fast.ai
+
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
 https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb | fastai/lesson1.ipynb at master · fastai/fastai
 
@@ -1609,6 +1646,9 @@ http://www.fast.ai/2018/01/17/international-spring-2018/ | International Fellows
 https://mlbook.explained.ai/
 https://mlbook.explained.ai/notebooks/index.html | Jupyter Notebook Files for The Mechanics of Machine Learning
 
+http://wiki.fast.ai/index.php/Gradient_Descent | Gradient Descent - Deep Learning Course Wiki
+
+http://www.fast.ai/2018/07/02/adam-weight-decay/ | AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai
 http://www.fast.ai/2018/08/10/fastai-diu-imagenet/
 http://www.fast.ai/2018/04/30/dawnbench-fastai/ | Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26 · fast.ai
 
