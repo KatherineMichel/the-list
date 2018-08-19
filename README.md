@@ -139,10 +139,6 @@ https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 -->
 
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
 Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
@@ -980,6 +976,11 @@ Python- Django- Hello Web App
 
 
 
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
 * [Lanyrd](http://lanyrd.com)
@@ -1180,6 +1181,56 @@ Deep Learning and Neural Networks- Wikipedia
 * [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 * [Recurrent Neural Network Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+Awesome Data Science
+* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
+* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
+* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
+* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
+* [Awesome Tensorflow GitHub](https://github.com/gstaff/awesome-tensorflow)
+* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
+* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
+* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
+* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
+* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+GAN
+* [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
+* [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
+
+
+
+Arxiv
+* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
+* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+
+<!--
+https://paperswithcode.com/ | Papers with Code : the latest in machine learning
+
+https://www.eff.org/ai/metrics
+https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
+https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
+-->
+
+Requests for Research
+* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
+* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
+
 
 Teachers
 * [Chris Albon](https://chrisalbon.com)
@@ -1279,10 +1330,13 @@ https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63
 
 
 <!--
+http://ruder.io/deep-learning-nlp-best-practices/
 http://ruder.io/optimizing-gradient-descent/ | An overview of gradient descent optimization algorithms
+https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
+https://www.slideshare.net/SebastianRuder/successes-and-frontiers-of-deep-learning
+
 http://ruder.io/tracking-progress-nlp/ | Tracking the Progress in Natural Language Processing
 http://ruder.io/transfer-learning/ | Transfer Learning - Machine Learning's Next Frontier
-https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning | Optimization for Deep Learning
 
 https://distill.pub/2017/feature-visualization/ | Feature Visualization
 https://distill.pub/2018/building-blocks/ | The Building Blocks of Interpretability
@@ -1311,6 +1365,9 @@ Rules and Advice
 * ["Practical advice for analysis of large, complex data sets"](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 <!--
+http://www.fast.ai/2018/07/12/auto-ml-1/ | What do machine learning practitioners actually do? · fast.ai
+http://forums.fast.ai/t/30-best-practices/12344
+
 https://machinelearningmastery.com/machine-learning-mastery-method/
 https://machinelearningmastery.com/machine-learning-for-programmers/
 
@@ -1331,8 +1388,6 @@ https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data 
 
 https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
-
-http://forums.fast.ai/t/30-best-practices/12344
 -->
 
 Learning Paths
@@ -1368,57 +1423,6 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
 
-
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-
-Awesome Django
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-Awesome Data Science
-* [Awesome Data Science GitHub](https://github.com/bulutyazilim/awesome-datascience)
-* [Awesome Learn Data Science GitHub](https://github.com/siboehm/awesome-learn-datascience)
-* [Awesome Machine Learning GitHub](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Machine Learning CN GitHub](https://github.com/jobbole/awesome-machine-learning-cn)
-* [Awesome Deep Learning GitHub](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Learning Resources GitHub](https://github.com/endymecy/awesome-deeplearning-resources)
-* [Awesome Deep Learning Resources GitHub](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
-* [Awesome Tensorflow GitHub](https://github.com/jtoy/awesome-tensorflow)
-* [Awesome Tensorflow GitHub](https://github.com/gstaff/awesome-tensorflow)
-* [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
-* [Awesome PyTorch GitHub](https://github.com/rickiepark/awesome-pytorch)
-* [The Incredible PyTorch GitHub](https://github.com/ritchieng/the-incredible-pytorch)
-* [Awesome PyTorch List GitHub](https://github.com/bharathgs/Awesome-pytorch-list)
-* [PyTorch List GitHub](https://github.com/spro/pytorch-list)
-* [Awesome NLP](https://github.com/keon/awesome-nlp)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-
-GAN
-* [Really Awesome GAN GitHub](https://github.com/nightrome/really-awesome-gan)
-* [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
-
-
-
-Arxiv
-* [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
-* [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
-
-<!--
-https://paperswithcode.com/ | Papers with Code : the latest in machine learning
-
-https://www.eff.org/ai/metrics
-https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
-https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
--->
-
-Requests for Research
-* [OpenAI Requests for Research](https://openai.com/requests-for-research) and [OpenAI Requests for Research GitHub](https://github.com/openai/requests-for-research)
-* [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
@@ -1635,8 +1639,6 @@ Fast AI Courses
 * [Fast AI Courses GitHub](https://github.com/fastai/courses)
 
 <!--
-http://www.fast.ai/2018/07/12/auto-ml-1/ | What do machine learning practitioners actually do? · fast.ai
-
 http://course.fast.ai/lessons/lesson1.html | Deep Learning For Coders—36 hours of lessons for free
 https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb | fastai/lesson1.ipynb at master · fastai/fastai
 
