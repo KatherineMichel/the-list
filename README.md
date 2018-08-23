@@ -616,6 +616,10 @@ https://en.wikipedia.org/wiki/State_diagram
 https://en.wikipedia.org/wiki/Interface_(computing)
 
 https://en.wikipedia.org/wiki/Persistent_data_structure
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
 -->
 
 Concepts
