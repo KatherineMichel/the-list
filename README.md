@@ -674,7 +674,21 @@ MOOCs
 
 Programming Language Leveling Up and Comparisons- Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+
+<!--
+https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Prototype-based_programming
+https://en.wikipedia.org/wiki/Event-driven_programming
+
+https://en.wikipedia.org/wiki/ECMAScript
+https://en.wikibooks.org/wiki/JavaScript
+https://en.wikipedia.org/wiki/JavaScript
+https://en.wikipedia.org/wiki/JavaScript_syntax
+https://learnxinyminutes.com/docs/javascript/
+
+https://learnxinyminutes.com/docs/python/
+-->
 
 Python and Python Syntax and Semantics
 * [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
