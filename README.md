@@ -271,8 +271,6 @@ YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
-
-
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -324,6 +322,9 @@ http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
 -->
 
 <!--
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/Droogans/unmaintainable-code
 https://github.com/CyC2018/CS-Notes
 
 https://github.com/trimstray/sysadmin-interview-questions
@@ -573,8 +574,6 @@ MVCs
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 
-
-
 Concepts
 * [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
 * [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -582,7 +581,6 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
 
 
 Official Python Tutorial
@@ -631,10 +629,6 @@ Programming Language Leveling Up and Comparisons- Python
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
 <!--
-https://en.wikipedia.org/wiki/Object-oriented_programming
-https://en.wikipedia.org/wiki/Prototype-based_programming
-https://en.wikipedia.org/wiki/Event-driven_programming
-
 https://en.wikipedia.org/wiki/ECMAScript
 https://en.wikibooks.org/wiki/JavaScript
 https://en.wikipedia.org/wiki/JavaScript
@@ -866,6 +860,13 @@ http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
 
 https://www.sqlalchemy.org/
+
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
+https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
+https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
@@ -894,6 +895,8 @@ https://github.com/django/django-contrib-comments
 
 Django Consulting Firms, Blogs, Repos
 * [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft](https://www.cuttlesoft.com)
+* [Divio](https://www.divio.com)
 * [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
 * [Pinax Blog](http://blog.pinaxproject.com)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
@@ -902,9 +905,9 @@ Django Consulting Firms, Blogs, Repos
 * [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+DjangoCon sponsors
+
 https://torchbox.com/blog
-https://www.cuttlesoft.com/ | Cuttlesoft, Custom Software Developers
-https://www.divio.com/en/ | Divio Cloud - The platform for Python and Django - Divio
 -->
 
 Teachers
@@ -1226,15 +1229,13 @@ Teachers
 * [Chris Albon](https://chrisalbon.com)
 * [Christopher Olah](http://colah.github.io)
 * [Jake VanderPlas](http://jakevdp.github.io)
+* [Peter Warden](https://petewarden.com)
 * [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
-* [Sebastian Ruder](http://ruder.io) and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
+* [Sebastian Ruder](http://ruder.io), [Sebastian Ruder GitHub](https://github.com/sebastianruder), and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
 
 <!--
 http://explained.ai
 
-https://github.com/sebastianruder | sebastianruder (Sebastian Ruder)
-
-https://petewarden.com
 https://blog.acolyer.org/ | the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
 
 https://www.instagram.com/hardmaru/
@@ -1386,16 +1387,13 @@ Learning Paths
 * [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-https://github.com/donnemartin/system-design-primer
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/Droogans/unmaintainable-code
+https://github.com/astorfi/Deep-Learning-World
+https://github.com/ml874/Data-Science-Cheatsheet
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 Resources List
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
-https://github.com/astorfi/Deep-Learning-World
-https://github.com/Avik-Jain/100-Days-Of-ML-Code
-https://github.com/ml874/Data-Science-Cheatsheet
 
 
 https://machinelearningmastery.com/start-here/
@@ -1541,8 +1539,25 @@ TensorFlow/Google Machine Learning Learning Resources
 * [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 
+Google Machine Learning Guides and Practica
+* [Google Machine Learning Guides](https://developers.google.com/machine-learning/guides)
+* [Google Machine Learning Practica](https://developers.google.com/machine-learning/practica)
+
+Google Seedbank
+* [Seedbank](http://tools.google.com/seedbank)
+* ["Seedbank — discover machine learning examples"](https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57)
+
+Facebook
+* [Facebook Machine Learning Academy](https://research.fb.com/videos/series/machine-learning-academy)
+* ["Introducing the Facebook Field Guide to Machine Learning video series"](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series)
+
+Bloomberg
+* [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml)
+
 <!--
-https://ai.google/research/pubs/pub43146
+http://www.fast.ai/2018/07/23/auto-ml-3/ | Google's AutoML: Cutting Through the Hype · fast.ai
+https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud
+https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
 
 https://ai.google/research/pubs/pub43146 | Machine Learning: The High Interest Credit Card of Technical Debt – Google AI
 
@@ -1552,32 +1567,17 @@ https://ai.googleblog.com/2018/05/introducing-google-ai.html
 https://medium.com/the-lever
 https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
 
-https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57?linkId=54191031 | Seedbank — discover machine learning examples – TensorFlow – Medium
-http://tools.google.com/seedbank/ | Seedbank
-
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
 
-http://www.fast.ai/2018/07/23/auto-ml-3/ | Google's AutoML: Cutting Through the Hype · fast.ai
-https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud
-https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
-
-https://developers.google.com/machine-learning/guides/ | ML Universal Guides  |  Google Developers
 https://developers.google.com/machine-learning/guides/text-classification/
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
 https://developers.google.com/machine-learning/practica/image-classification/ | ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers
-
-Facebook
-https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/
-https://research.fb.com/videos/field-guide-to-machine-learning-lesson-1-problem-definition/ | Field Guide to Machine Learning, Lesson 1: Problem Definition – Facebook Research
 
 Microsoft
 https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
 https://www.edx.org/course/data-science-essentials
 
 https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing
-
-https://bloomberg.github.io/foml/#home | Foundations of Machine Learning
-https://bloomberg.github.io/foml/#lectures | Foundations of Machine Learning
 
 https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
 https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
