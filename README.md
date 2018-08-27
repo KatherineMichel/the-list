@@ -1386,10 +1386,21 @@ Learning Paths
 * [Open Source Society University Data Science GitHub](https://github.com/ossu/data-science)
 
 <!--
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+https://github.com/donnemartin/system-design-primer
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/Droogans/unmaintainable-code
+
+Resources List
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/astorfi/Deep-Learning-World
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://github.com/ml874/Data-Science-Cheatsheet
+
+
 https://machinelearningmastery.com/start-here/
 
 https://github.com/ossu/data-science/blob/master/extras/specializations.md | data-science/specializations.md at master · ossu/data-science
-https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 https://jakevdp.github.io/PythonDataScienceHandbook/01.01-help-and-documentation.html | Help and Documentation in IPython | Python Data Science Handbook
 https://jakevdp.github.io/PythonDataScienceHandbook/05.15-learning-more.html
