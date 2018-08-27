@@ -1783,6 +1783,10 @@ Karpathy (Stanford)
 
 <!--
 New
+https://twitter.com/afshinea/status/1031393337998069760
+https://github.com/afshinea/stanford-cs-229-machine-learning
+https://stanford.edu/~shervine/teaching/cs-229.html
+
 http://cs230.stanford.edu/proj-spring-2018.html | CS230: Deep Learning - Projects
 http://web.stanford.edu/class/cs20si/ | Stanford University: Tensorflow for Deep Learning Research
 http://cs224d.stanford.edu/ | Stanford University CS224d: Deep Learning for Natural Language Processing
