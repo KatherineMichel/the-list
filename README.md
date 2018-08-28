@@ -1363,6 +1363,22 @@ https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
 -->
 
+
+<!--
+Ethics
+
+https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
+https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
+
+https://blog.openai.com/openai-charter/ | OpenAI Charter
+https://datapractices.org/manifesto/ | Manifesto for Data Practices
+https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
+-->
+
+
 Learning Paths
 * [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
@@ -1590,9 +1606,6 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python
 https://campus.datacamp.com/courses/intermediate-python-for-data-science
 
 https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning | Kaggle Python Tutorial on Machine Learning (practice) - DataCamp
-
-https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
-https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
 
 https://www.datacamp.com/community/tutorials/machine-learning-python | Python Machine Learning: Scikit-Learn Tutorial (article) - DataCamp
 https://www.datacamp.com/community/tutorials/python-statistics-data-science | 40+ Python Statistics For Data Science Resources (article) - DataCamp
