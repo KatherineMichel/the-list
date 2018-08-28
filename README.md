@@ -49,25 +49,6 @@ Wikipedia Tech Portals
 
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
-
-https://en.wikipedia.org/wiki/Code_Complete | Code Complete - Wikipedia
-
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
-
-https://en.wikipedia.org/wiki/The_Pragmatic_Programmer | The Pragmatic Programmer - Wikipedia
-
-https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-
-https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658 | Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series): Kent Beck, Cynthia Andres: 9780321278654: Amazon.com: Books
-http://ptgmedia.pearsoncmg.com/images/9780321278654/samplepages/9780321278654.pdf | Extreme Programming Explained: Embrace Change
 -->
 
 Streaming
@@ -294,7 +275,7 @@ Interesting Curated Learning Resources- Back-End Developer
 <!--
 https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
 
-https://memberportal.1millionwomentotech.com/diy?r_done=1 | DIY
+https://memberportal.1millionwomentotech.com/diy
 
 https://github.com/1millionwomentotech | 1 Million Women To Tech
 https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
@@ -894,14 +875,15 @@ https://github.com/django/django-contrib-comments
 -->
 
 Django Consulting Firms, Blogs, Repos
+* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
 * [Changeset Consulting](https://changeset.nyc)
 * [Cuttlesoft](https://www.cuttlesoft.com)
 * [Divio](https://www.divio.com)
 * [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
 * [Pinax Blog](http://blog.pinaxproject.com)
-* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [JamBon Software](https://github.com/jambonsw)
 * [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
+* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
@@ -1508,6 +1490,7 @@ TensorFlow Resources
 <!--
 https://www.tensorflow.org/api_docs/
 
+https://www.tensorflow.org/probability/
 https://2017.pygotham.org/talks/edward-probabilistic-modeling-made-easy/ | Edward - Probabilistic Modeling Made Easy - PyGotham 2017
 https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245 | Introducing TensorFlow Probability – TensorFlow – Medium
 http://edwardlib.org/ | Edward – Home
@@ -1869,6 +1852,9 @@ Allen Downey Think Books
 <!--
 Think Books
 https://github.com/AllenDowney
+
+Modeling and Simulation in Python
+http://greenteapress.com/wp/modsimpy/
 
 Think Stats: Probability and Statistics for Programmers
 http://greenteapress.com/thinkstats/
