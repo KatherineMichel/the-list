@@ -1207,34 +1207,16 @@ Requests for Research
 * [Sebastian Ruder Requests for Research](http://ruder.io/requests-for-research)
 
 
-Teachers
-* [Chris Albon](https://chrisalbon.com)
-* [Christopher Olah](http://colah.github.io)
-* [Jake VanderPlas](http://jakevdp.github.io)
-* [Peter Warden](https://petewarden.com)
-* [Rachel Tatman Twitch](https://www.twitch.tv/rctatman), [Rachel Tatman Kaggle](https://www.kaggle.com/rtatman), [Rachel Tatman GitHub](https://github.com/rctatman), [Rachel Tatman Twitter](https://twitter.com/rctatman), and [Rachel Tatman Youtube](https://www.youtube.com/channel/UCan-YDWrHGtmKRLiNa9dEYA)
-* [Sebastian Ruder](http://ruder.io), [Sebastian Ruder GitHub](https://github.com/sebastianruder), and [Sebastian Ruder SlideShare](https://www.slideshare.net/SebastianRuder)
+Data Science Websites
+* [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
+* [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
+* [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
 
 <!--
 http://explained.ai
 
 https://blog.acolyer.org/ | the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer
-
-https://www.instagram.com/hardmaru/
-
-https://aaroncourville.wordpress.com/ | Aaron Courville
-
-https://discuss.analyticsvidhya.com
-https://www.analyticsvidhya.com/blog
-https://github.com/adeshpande3
-https://adeshpande3.github.io
-https://jamesmccaffrey.wordpress.com
 -->
-
-Data Science Websites
-* [AnalyticBridge](https://www.analyticbridge.datasciencecentral.com) and [AnalyticBridge Twitter](https://twitter.com/analyticbridge)
-* [Data Science Central](http://www.datasciencecentral.com), [Data Science Central Previous Digests](http://www.datasciencecentral.com/page/previous-digests), and [Data Science Central Twitter](https://twitter.com/DataScienceCtrl)
-* [KDNuggets](http://www.kdnuggets.com), [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html), and [KDNuggets Twitter](https://twitter.com/kdnuggets)
 
 Lots of Articles
 * [Toward Data Science](https://towardsdatascience.com/archive)
@@ -1258,48 +1240,6 @@ https://www.mathworks.com
 
 Archive
 * [Partial Derivative](http://www.partiallyderivative.com)
-
-
-<!--
-Videos, Tutorials, and Blogs
-https://www.youtube.com/watch?v=F1ka6a13S9I | (1) Nuts and Bolts of Applying Deep Learning (Andrew Ng) - YouTube
-
-Jeff Dean
-https://www.youtube.com/watch?v=QSaZGT4-6EY
-Google legend Jeff Dean from the Google Brain team lecture on Large-Scale Deep Learning for Intelligent Computer Systems
-https://www.youtube.com/watch?v=4hqb3tdk01k
-
-Prof. Geoff Hinton
-https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
-Peter Norvig, 2016
-https://www.youtube.com/watch?v=X769cyzBNVw
-Yann LeCun, The Institute for Scientific Computing Research (ISCR), Lawrence Livermore National Laboratory
-https://www.youtube.com/watch?v=Qk4SqF9FT-M
-John Launchbury, the Director of DARPA's Information Innovation Office (I2O)
-https://www.youtube.com/embed/-O01G3tSYpU
-
-Michael Jordan
-http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts
-Convolutional Neural Networks introduced by LeCun, Bengio, Lottou, Haffer in 1998
-http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-Generative Adversarial Networks paper Ian Goodfellow et. al's 2014 
-https://arxiv.org/abs/1406.2661
-Google Brain team and Stanford researchers Quoc Le and Andrew Ng
-https://arxiv.org/abs/1112.6209
-
-Tutorials
-Google Codelab
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
-Peter Warden
-https://petewarden.com/2016/02/28/tensorflow-for-poets/
-https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
-
-* How to Write a Spelling Correcter / Norvig (Tutorial)[http://norvig.com/spell-correct.html]
-
-https://www.youtube.com/watch?v=cKxRvEZd3Mw
-https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
--->
-
 
 
 <!--
@@ -1364,21 +1304,6 @@ https://developers.google.com/machine-learning/rules-of-ml/
 -->
 
 
-<!--
-Ethics
-
-https://www.datacamp.com/community/news/data-practices-manifesto-ffq5hlr8yr | Data Practices Manifesto (article) - DataCamp
-https://www.datacamp.com/community/news/a-code-of-ethics-for-data-science-mjpcxa23fz | A Code of Ethics for Data Science (article) - DataCamp
-
-https://blog.openai.com/openai-charter/ | OpenAI Charter
-https://datapractices.org/manifesto/ | Manifesto for Data Practices
-https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1 | A Code of Ethics for Data Science – Medium
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
-https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
-https://developers.google.com/machine-learning/fairness-overview/ | Machine Learning Fairness  |  ML Fairness  |  Google Developers
--->
-
-
 Learning Paths
 * [High School Guide to Machine Learning GitHub](https://github.com/kjaisingh/high-school-guide-to-machine-learning)
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
@@ -1420,6 +1345,16 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
 -->
 
+Ethics
+* [Data Practices Manifesto](https://datapractices.org/manifesto)
+* [DJ Patil: "A Code of Ethics for Data Science"](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+* [Google Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview)
+* [OpenAI Charter](https://blog.openai.com/openai-charter)
+
+<!--
+https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
+https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
+-->
 
 Benchmarking
 * [Stanford DAWN Deep Learning Benchmark](https://dawn.cs.stanford.edu/benchmark)
@@ -1459,14 +1394,33 @@ XGBoost
 Software- General
 * [Deep Learning Model Convertor GitHub](https://github.com/ysh329/deep-learning-model-convertor)
 
-Front-Runners
+PyTorch
 * [PyTorch (Facebook)](http://pytorch.org), [PyTorch GitHub](https://github.com/pytorch/pytorch), and [PyTorch Docs](http://pytorch.org/docs)
+* [PyTorch General Index](http://pytorch.org/docs/0.3.1/genindex.html) and [PyTorch Discuss](https://discuss.pytorch.org)
+
+TensorFlow
 * [TensorFlow (Google)](https://www.tensorflow.org) and [TensorFlow GitHub](https://github.com/tensorflow)
 * [TensorFlow JS](https://js.tensorflow.org)
 * [TensorFlow Mobile](https://www.tensorflow.org/mobile), [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite), and [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite)
 * [TensorFlow Magenta](https://magenta.tensorflow.org)
 * [TensorFlow Playground](http://playground.tensorflow.org)
+
+TensorFlow Resources
+* [TensorFlow Community](https://www.tensorflow.org/community) and [TensorFlow Medium](https://medium.com/tensorflow)
+* [TensorFlow Hub](https://www.tensorflow.org/hub) 
+* [TensorFlow Serving](https://www.tensorflow.org/serving) 
+* [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
+* [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
+
+Keras
 * [Keras](https://keras.io) and [Keras GitHub](https://github.com/fchollet/keras)
+* [Keras Blog](https://blog.keras.io), [Keras Resources](https://github.com/fchollet/keras-resources), and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
+
+Models and Examples
+* [PyTorch Models (Torchvision) GitHub](https://github.com/pytorch/vision/tree/master/torchvision/models) and [PyTorch Examples GitHub](https://github.com/pytorch/examples)
+* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
+* [TensorFlow JS Examples GitHub](https://github.com/tensorflow/tfjs-examples)
+* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
 
 <!--
 https://autokeras.com/
@@ -1487,21 +1441,6 @@ https://github.com/tensorflow/tfjs-core
 https://github.com/tensorflow/tfjs-models
 https://github.com/tensorflow/ecosystem
 -->
-
-Models and Examples
-* [PyTorch Models (Torchvision) GitHub](https://github.com/pytorch/vision/tree/master/torchvision/models) and [PyTorch Examples GitHub](https://github.com/pytorch/examples)
-* [TensorFlow Models GitHub](https://github.com/tensorflow/models)
-* [TensorFlow JS Examples GitHub](https://github.com/tensorflow/tfjs-examples)
-* [Keras Deep Learning Models GitHub](https://github.com/fchollet/deep-learning-models) 
-
-TensorFlow Resources
-* [PyTorch General Index](http://pytorch.org/docs/0.3.1/genindex.html) and [PyTorch Discuss](https://discuss.pytorch.org)
-* [TensorFlow Community](https://www.tensorflow.org/community) and [TensorFlow Medium](https://medium.com/tensorflow)
-* [TensorFlow Hub](https://www.tensorflow.org/hub) 
-* [TensorFlow Serving](https://www.tensorflow.org/serving) 
-* [TensorFlow Get Started](https://www.tensorflow.org/get_started), [TensorFlow Tutorials](https://www.tensorflow.org/tutorials), and [TensorFlow Programmers Guide](https://www.tensorflow.org/programmers_guide)
-* [TensorFlow Dev Summit Highlights](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2), [TensorFlow Dev Summit YouTube Playlist](https://www.youtube.com/watch?v=kSa3UObNS6o&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN), and [TensorFlow Dev Summit](https://www.tensorflow.org/dev-summit)
-* [Keras Blog](https://blog.keras.io), [Keras Resources](https://github.com/fchollet/keras-resources), and [DataCamp Keras Cheat Sheet](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 
 <!--
 https://www.tensorflow.org/api_docs/
@@ -1554,6 +1493,8 @@ Bloomberg
 * [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml)
 
 <!--
+https://ai.google/
+
 http://www.fast.ai/2018/07/23/auto-ml-3/ | Google's AutoML: Cutting Through the Hype · fast.ai
 https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud
 https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
