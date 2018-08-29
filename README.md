@@ -1299,7 +1299,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
 https://www.kdnuggets.com/2017/03/data-science-project-playbook.html | The Data Science Project Playbook
 
-https://blog.google/topics/ai/ai-principles/
 https://developers.google.com/machine-learning/rules-of-ml/
 -->
 
@@ -1341,18 +1340,22 @@ http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning
 http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
 
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
+Learning Resources
 https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 | The Best Machine Learning Resources – Machine Learning for Humans – Medium
+
+Companies, People, Events
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | The Non-Technical Guide to Machine Learning & Artificial Intelligence
 -->
 
 Ethics
-* [Data Practices Manifesto](https://datapractices.org/manifesto)
-* [DJ Patil: "A Code of Ethics for Data Science"](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+* [Google AI Principles](https://blog.google/topics/ai/ai-principles)
 * [Google Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview)
 * [OpenAI Charter](https://blog.openai.com/openai-charter)
+* [Data Practices Manifesto](https://datapractices.org/manifesto)
+* [DJ Patil: "A Code of Ethics for Data Science"](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+* [Renee M. P. Teate: "A Challenge to Data Scientists"](https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists)
 
 <!--
-https://www.becomingadatascientist.com/2015/11/22/a-challenge-to-data-scientists/ | A Challenge to Data Scientists | Becoming A Data Scientist
 https://www.slideshare.net/ClareCorthell/engineering-ethics-practicing-fairness | Engineering Ethics: Practicing Fairness
 -->
 
@@ -1494,7 +1497,10 @@ Bloomberg
 
 <!--
 https://ai.google/
+https://medium.com/the-lever
+https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
 
+AutoML
 http://www.fast.ai/2018/07/23/auto-ml-3/ | Google's AutoML: Cutting Through the Hype · fast.ai
 https://cloud.google.com/automl/ | Cloud AutoML - Custom Machine Learning Models  |  Google Cloud
 https://cloud.google.com/natural-language/automl/docs/beginners-guide | AutoML Natural Language Beginner's guide  |  AutoML Natural Language  |  Google Cloud
@@ -1503,9 +1509,6 @@ https://ai.google/research/pubs/pub43146 | Machine Learning: The High Interest C
 
 https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html
 https://ai.googleblog.com/2018/05/introducing-google-ai.html
-
-https://medium.com/the-lever
-https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
 
 https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-edu/README.md at master · google/eng-edu
 
