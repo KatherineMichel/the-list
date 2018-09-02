@@ -477,8 +477,9 @@ http://exercism.io
 http://www.100daysofcode.com/
 -->
 
-Tutorial
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
+
+Tutorial
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
