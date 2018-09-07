@@ -643,11 +643,91 @@ Other Tutorials
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+
 https://www.datacamp.com/community/tutorials?tag=python
 
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
 https://betterexplained.com/
+-->
+
+<!--
+https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - YouTube
+
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+
+https://www.w3schools.com/python/python_modules.asp | Python Modules
+https://www.w3schools.com/python/python_ref_functions.asp | Python Built-in Functions
+https://www.w3schools.com/python/python_tuples.asp | Python Tuples
+
+https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
+
+http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
+http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
+
+https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
+https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
+
+https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
+https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
+
+http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/TherangeFunction.html | 4.7. The range Function — How to Think like a Computer Scientist: Interactive Edition
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3 | Creating Modules in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorial_series/django-development
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps | How To Deploy a Local Django App to a VPS | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
+https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_space_complexities.htm | Design and Analysis of Algorithms Space Complexities
+https://www.tutorialspoint.com/python/python_while_loop.htm | Python while Loop Statements
+https://www.tutorialspoint.com/python/python_numbers.htm | Python Numbers
+
+https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+https://www.tutorialspoint.com/python/list_sort.htm | Python List sort() Method
+https://www.tutorialspoint.com/data_structures_algorithms
+https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
+https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+http://www.fullstackpython.com/deployment.html
+
+https://realpython.com
+https://realpython.com/python-code-quality
+https://realpython.com/resources
+https://realpython.com/python-basics
+https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
+https://realpython.com/intermediate-python
+https://realpython.com/switching-to-python
+https://twitter.com/realpython
 -->
 
 Python Websites and Newsletters
@@ -726,6 +806,8 @@ https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
 
 https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
+https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
+https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 -->
 
 
@@ -796,6 +878,7 @@ http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
 Runestone Interactive Tools Library of Titles
 http://runestoneinteractive.org/library.html
 
+Python Sort Search
 Problem Solving with Algorithms and Data Structures Using Python
 https://runestone.academy/runestone/static/pythonds/index.html
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
@@ -1430,6 +1513,16 @@ Models and Examples
 https://autokeras.com/
 https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e
 
+https://www.tensorflow.org/api_docs/
+https://www.tensorflow.org/api_docs/python/ | All symbols in TensorFlow  |  TensorFlow
+
+https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db | Introducing TensorFlow.js: Machine Learning in Javascript
+
+https://www.tensorflow.org/probability/
+https://2017.pygotham.org/talks/edward-probabilistic-modeling-made-easy/ | Edward - Probabilistic Modeling Made Easy - PyGotham 2017
+https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245 | Introducing TensorFlow Probability – TensorFlow – Medium
+http://edwardlib.org/ | Edward – Home
+
 TensorFlow 2.0 is coming
 https://groups.google.com/a/tensorflow.org/forum/?utm_medium=email&utm_source=footer#!topic/announce/qXfsxr2sF-0
 PyTorch Roadmap
@@ -1444,15 +1537,6 @@ https://github.com/tensorly/tensorly | tensorly/tensorly: TensorLy: Tensor Learn
 https://github.com/tensorflow/tfjs-core
 https://github.com/tensorflow/tfjs-models
 https://github.com/tensorflow/ecosystem
--->
-
-<!--
-https://www.tensorflow.org/api_docs/
-
-https://www.tensorflow.org/probability/
-https://2017.pygotham.org/talks/edward-probabilistic-modeling-made-easy/ | Edward - Probabilistic Modeling Made Easy - PyGotham 2017
-https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245 | Introducing TensorFlow Probability – TensorFlow – Medium
-http://edwardlib.org/ | Edward – Home
 -->
 
 Google Cloud and TPU
@@ -1521,7 +1605,7 @@ Microsoft
 https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
 https://www.edx.org/course/data-science-essentials
 
-https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing
+https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing | Transfer Learning in Natural Language Processing | Intel® Software
 
 https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
 https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
