@@ -605,7 +605,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
 
-
 Programming Language Leveling Up and Comparisons- Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
@@ -643,37 +642,13 @@ Other Tutorials
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
-
-https://www.datacamp.com/community/tutorials?tag=python
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
-
-https://betterexplained.com/
--->
-
-<!--
 https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - YouTube
 
-https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
 
-https://www.w3schools.com/python/python_modules.asp | Python Modules
-https://www.w3schools.com/python/python_ref_functions.asp | Python Built-in Functions
-https://www.w3schools.com/python/python_tuples.asp | Python Tuples
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
 
-https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
-
-http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
-http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
-
-https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
-https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
-
-https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
-https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
-
-http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/TherangeFunction.html | 4.7. The range Function — How to Think like a Computer Scientist: Interactive Edition
+https://www.datacamp.com/community/tutorials?tag=python
 
 https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3 | Creating Modules in Python 3 | DigitalOcean
@@ -702,6 +677,18 @@ https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-p
 
 https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
 
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+https://www.geeksforgeeks.org/data-structures/
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://www.geeksforgeeks.org/category/program-output/
+https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/
+https://www.youtube.com/geeksforgeeksvideos/
+
+
 https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_space_complexities.htm | Design and Analysis of Algorithms Space Complexities
 https://www.tutorialspoint.com/python/python_while_loop.htm | Python while Loop Statements
 https://www.tutorialspoint.com/python/python_numbers.htm | Python Numbers
@@ -716,9 +703,13 @@ https://www.tutorialspoint.com/data_structures_algorithms
 https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
 https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
 
+
+https://www.fullstackpython.com/best-python-resources.html
+
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 http://www.fullstackpython.com/deployment.html
+
 
 https://realpython.com
 https://realpython.com/python-code-quality
@@ -728,6 +719,89 @@ https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Pyt
 https://realpython.com/intermediate-python
 https://realpython.com/switching-to-python
 https://twitter.com/realpython
+
+https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+
+https://realpython.com/python-data-classes/
+https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
+https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
+https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
+
+
+https://www.w3schools.com/python/python_modules.asp | Python Modules
+https://www.w3schools.com/python/python_ref_functions.asp | Python Built-in Functions
+https://www.w3schools.com/python/python_tuples.asp | Python Tuples
+
+
+https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
+
+
+http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
+http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
+
+
+https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
+https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
+
+
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+
+https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
+https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
+
+https://python.swaroopch.com
+http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
+https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
+https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
+
+https://github.com/RafeKettler
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+
+https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+
+
+* [Interactive Python](http://www.interactivepython.org)
+
+http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
+
+Runestone Interactive Tools Library of Titles
+http://runestoneinteractive.org/library.html
+
+Python Sort Search
+Problem Solving with Algorithms and Data Structures Using Python
+https://runestone.academy/runestone/static/pythonds/index.html
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
+
+http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/TherangeFunction.html | 4.7. The range Function — How to Think like a Computer Scientist: Interactive Edition
+
+Everyday Python
+http://interactivepython.org/runestone/static/everyday/2016/05/groupby.html
+
+CS Principles: Big Ideas in Programming¶
+https://runestone.academy/runestone/static/StudentCSP/index.html
+
+How to Think like a Computer Scientist
+https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
+
+Course Reader - CS160
+http://computerscience.chemeketa.edu/cs160Reader/index.html
+
+
+https://betterexplained.com/
 -->
 
 Python Websites and Newsletters
@@ -779,6 +853,20 @@ Useful Python Resources
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://twitter.com/aaronchall/status/961250524753551360
+
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
+
+https://www.slideshare.net/MariattaWijaya
+
+https://stephensugden.com/crash_into_python/ | Crash into Python
+
+https://jeffknupp.com/blog
+https://jeffknupp.com/blog/archives/ | Archives
+https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
+
+
 https://github.com/treyhunner
 http://treyhunner.com/projects/ | Projects - Trey Hunner
 
@@ -789,38 +877,6 @@ http://pycon2018.trey.io/
 https://www.youtube.com/watch?v=_6U1XoxyyBY
 https://pycon2016.regex.training/
 
-https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
-
-https://realpython.com/python-data-classes/
-https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
-https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
-
-https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
-https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
-
-https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-
-https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
-https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
-https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
--->
-
-
-<!--
-https://twitter.com/aaronchall/status/961250524753551360
-
-https://stephensugden.com/crash_into_python/ | Crash into Python
-
-https://jeffknupp.com/blog
-https://jeffknupp.com/blog/archives/ | Archives
-https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
-
-https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
 
 https://learncodethehardway.org/more-python/
 
@@ -831,28 +887,9 @@ https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
 
-
-https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
-https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
-
-https://www.fullstackpython.com/best-python-resources.html
-
-
-https://python.swaroopch.com
-http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
-https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
-https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
-
-https://github.com/RafeKettler
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
--->
-
-<!--
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
-http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-
-https://www.slideshare.net/MariattaWijaya
+https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
+https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
+https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 -->
 
 Python- Books (See also: Data Science books)
@@ -868,37 +905,6 @@ https://github.com/fluentpython | Fluent Python
 https://github.com/fluentpython/example-code | fluentpython/example-code: Example code for the book Fluent Python
 
 https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
--->
-
-<!--
-* [Interactive Python](http://www.interactivepython.org)
-
-http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
-
-Runestone Interactive Tools Library of Titles
-http://runestoneinteractive.org/library.html
-
-Python Sort Search
-Problem Solving with Algorithms and Data Structures Using Python
-https://runestone.academy/runestone/static/pythonds/index.html
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
-
-Everyday Python
-http://interactivepython.org/runestone/static/everyday/2016/05/groupby.html
-
-CS Principles: Big Ideas in Programming¶
-https://runestone.academy/runestone/static/StudentCSP/index.html
-
-How to Think like a Computer Scientist
-https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
-
-Course Reader - CS160
-http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
 Python Tutors- YouTube
@@ -1144,6 +1150,16 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 -->
 
 
+<!--
+Project Euler
+Geeks for Geeks
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+-->
 
 
 Coding Competitions
@@ -1159,13 +1175,6 @@ https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Ben
 https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
-
-https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
 -->
 
 Kaggle
