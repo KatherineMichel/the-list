@@ -646,20 +646,30 @@ https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - Yo
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
 
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+
 https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
 
 https://www.datacamp.com/community/tutorials?tag=python
-
-https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3 | Creating Modules in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
 
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 https://www.digitalocean.com/community/tutorial_series/django-development
 https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
 https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
 
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+
+Extra?
+https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3 | For Loops in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-write-modules-in-python-3 | Creating Modules in Python 3 | DigitalOcean
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
 
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps | How To Deploy a Local Django App to a VPS | DigitalOcean
 
@@ -667,23 +677,10 @@ https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-
 https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
 
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
-https://www.digitalocean.com/community/tutorials/an-introduction-to-string-functions-in-python-3 | String Functions in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3 | How To Use *args and **kwargs in Python 3 | DigitalOcean
-
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
-
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
-
-
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
-https://www.geeksforgeeks.org/data-structures/
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+https://www.geeksforgeeks.org/data-structures/
 https://www.geeksforgeeks.org/category/program-output/
 https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/
 https://www.youtube.com/geeksforgeeksvideos/
@@ -1040,11 +1037,9 @@ Python- Django- Hello Web App
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 
 
-
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
 
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
@@ -1151,6 +1146,8 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 
 
 <!--
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+
 Project Euler
 Geeks for Geeks
 https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
