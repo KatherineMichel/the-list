@@ -252,6 +252,7 @@ YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 
+
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -468,25 +469,9 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-<!--
-http://exercism.io
-
-http://www.100daysofcode.com/
--->
-
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
 
 Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
 
 
 Books
@@ -605,19 +590,43 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
 
+Math/Programming Problems and Projects
+* [Project Euler Problems](http://projecteuler.net/problems) 
+
+<!--
+http://exercism.io
+
+http://www.100daysofcode.com/
+-->
+
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+
+
+<!--
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+
+Project Euler
+
+Geeks for Geeks
+
+https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+-->
+
+
 Programming Language Leveling Up and Comparisons- Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-
-<!--
-https://en.wikipedia.org/wiki/ECMAScript
-https://en.wikibooks.org/wiki/JavaScript
-https://en.wikipedia.org/wiki/JavaScript
-https://en.wikipedia.org/wiki/JavaScript_syntax
-https://learnxinyminutes.com/docs/javascript/
-
-https://learnxinyminutes.com/docs/python/
--->
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
 
 Python and Python Syntax and Semantics
 * [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -642,6 +651,8 @@ Other Tutorials
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+
 https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - YouTube
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
@@ -677,15 +688,6 @@ https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-
 https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-14-04 | How To Install the Django Web Framework on Ubuntu 14.04 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
 
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
-https://www.geeksforgeeks.org/data-structures/
-https://www.geeksforgeeks.org/category/program-output/
-https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/
-https://www.youtube.com/geeksforgeeksvideos/
-
-
 https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_space_complexities.htm | Design and Analysis of Algorithms Space Complexities
 https://www.tutorialspoint.com/python/python_while_loop.htm | Python while Loop Statements
 https://www.tutorialspoint.com/python/python_numbers.htm | Python Numbers
@@ -700,13 +702,11 @@ https://www.tutorialspoint.com/data_structures_algorithms
 https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
 https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm | Data Structures and Algorithms Linked List
 
-
 https://www.fullstackpython.com/best-python-resources.html
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 http://www.fullstackpython.com/deployment.html
-
 
 https://realpython.com
 https://realpython.com/python-code-quality
@@ -725,22 +725,17 @@ https://realpython.com/python-data-types/ | Basic Data Types in Python – Real 
 https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
 https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
 
-
 https://www.w3schools.com/python/python_modules.asp | Python Modules
 https://www.w3schools.com/python/python_ref_functions.asp | Python Built-in Functions
 https://www.w3schools.com/python/python_tuples.asp | Python Tuples
 
-
 https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
-
 
 http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
 http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
 
-
 https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
 https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
-
 
 https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
 
@@ -756,15 +751,19 @@ https://github.com/RafeKettler
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
-https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=lqhuMxFz_8904984382 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
 https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-
 
 * [Interactive Python](http://www.interactivepython.org)
 
@@ -796,7 +795,6 @@ https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html 
 
 Course Reader - CS160
 http://computerscience.chemeketa.edu/cs160Reader/index.html
-
 
 https://betterexplained.com/
 -->
@@ -850,6 +848,9 @@ Useful Python Resources
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://nostarch.com/doingmathwithpython | Doing Math with Python | No Starch Press
+
+High level #python #tutorial thread
 https://twitter.com/aaronchall/status/961250524753551360
 
 https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
@@ -863,7 +864,6 @@ https://jeffknupp.com/blog
 https://jeffknupp.com/blog/archives/ | Archives
 https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 
-
 https://github.com/treyhunner
 http://treyhunner.com/projects/ | Projects - Trey Hunner
 
@@ -873,7 +873,6 @@ List Comprehensions and Generator Expressions
 http://pycon2018.trey.io/
 https://www.youtube.com/watch?v=_6U1XoxyyBY
 https://pycon2016.regex.training/
-
 
 https://learncodethehardway.org/more-python/
 
@@ -896,6 +895,10 @@ Python- Books (See also: Data Science books)
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 
 <!--
+https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
+
+https://github.com/dabeaz/python-cookbook | dabeaz/python-cookbook: Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.
+
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 
 https://github.com/fluentpython | Fluent Python
@@ -1144,19 +1147,6 @@ https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
 https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
 -->
 
-
-<!--
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
-
-Project Euler
-Geeks for Geeks
-https://www.hackerrank.com/ | HackerRank | Technical Recruiting | Hiring the Best Engineers
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
--->
 
 
 Coding Competitions
