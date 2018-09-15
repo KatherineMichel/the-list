@@ -299,24 +299,6 @@ In Particular
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 
-<!--
-Pluralsight Free Weekly Course
-
-* [Pluralsight Twitter List of Authors](https://twitter.com/pluralsight/lists/authors2)
-
-https://app.pluralsight.com/paths/skills/python | Python Path | Pluralsight
-https://app.pluralsight.com/paths/skills/javascript | JavaScript Path | Pluralsight
-https://app.pluralsight.com/paths/skills/react | React Path | Pluralsight
-https://app.pluralsight.com/paths/skills/node-js | Node.js Path | Pluralsight
-https://app.pluralsight.com/paths/skills/css | CSS Path | Pluralsight
-https://app.pluralsight.com/paths/skills/html5 | HTML5 Path | Pluralsight
-
-https://app.pluralsight.com/library/search?q=continuous | Search | Pluralsight
-
-https://app.pluralsight.com/library/search?q=python | Search | Pluralsight
-https://app.pluralsight.com/library/search?q=design+patterns | Search | Pluralsight 
--->
-
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
 * [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * [Free Code Camp Guide](https://guide.freecodecamp.org)
@@ -423,7 +405,6 @@ Style
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
 
-
 Scripting
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
@@ -443,7 +424,6 @@ Concepts
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
 
-
 <!--
 https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
 
@@ -451,59 +431,13 @@ https://memberportal.1millionwomentotech.com/diy
 
 https://github.com/1millionwomentotech | 1 Million Women To Tech
 https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://github.com/1millionwomentotech/toolkitten | 1millionwomentotech/toolkitten: A toolkit for #1millionwomentotech community.
 
 https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
 
 https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
 
-https://www.youtube.com/watch?v=Cefl8xfeSx4&feature=youtu.be | (1) Fundamentals of Business Planning and Fundraising for Startups - YouTube
- http://www.unwomen.org/en/digital-library/multimedia/2017/7/infographic-spotlight-on-sdg-5 | Spotlight on Sustainable Development Goal 5: Achieve gender equality and empower all women and girls | UN Women – Headquarters
-
 http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
-
-
-https://learnpythonthehardway.org/book/ | Learn Python the Hard Way
-http://www.nltk.org/book/ | NLTK Book
-https://pine.fm/LearnToProgram/ | Learn to Program, by Chris Pine
-https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
-https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React - React
-https://solidity.readthedocs.io/en/v0.4.24/ | Solidity — Solidity 0.4.24 documentation
-https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b | Build Your First Ethereum Smart Contract with Solidity — Tutorial
-https://developers.facebook.com/products#virtual-reality | Facebook Products, Developer Tools | Facebook for Developers
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
-https://developers.facebook.com/docs/ar-studio | AR Studio
 -->
-
-<!--
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/Droogans/unmaintainable-code
-https://github.com/CyC2018/CS-Notes
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
-https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
--->
-
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
 https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
@@ -517,6 +451,31 @@ https://github.com/jwasham/coding-interview-university#object-oriented-programmi
 https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
+
+https://github.com/Droogans/unmaintainable-code
+
 
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
@@ -526,17 +485,15 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 
 Official Python Tutorial
@@ -569,14 +526,61 @@ https://www.youtube.com/user/khanacademy/search?query=python
 https://nostarch.com/search/node/python | Search | No Starch Press
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
-
-http://pyvideo.org/search.html?q=django | PyVideo.org
 -->
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
+
+
+<!--
+http://pyvideo.org/search.html?q=django | PyVideo.org
+
+https://techyaks.com/
+https://techyaks.com/top-python-talks.html
+
+https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
+https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
+
+<!--
+Useful talks and tutorials
+
+David Beazley
+
+https://github.com/treyhunner
+http://treyhunner.com/projects/ | Projects - Trey Hunner
+
+https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
+
+List Comprehensions and Generator Expressions
+http://pycon2018.trey.io/
+https://www.youtube.com/watch?v=_6U1XoxyyBY
+https://pycon2016.regex.training/
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
+https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=14
+https://www.youtube.com/watch?v=OSGv2VnC0go
+
+http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
+https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
+https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
+
+https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
+https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
+https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
+https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
+
+https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪𝓴𝓱𝓪𝓻𝓮𝓷𝓴𝓸 on Twitter: "🐍 Elegant Solutions for Everyday Python problems from #PyCon2018 Slides: https://t.co/pV7Wn5JRIS Video: https://t.co/RQ8x2Vsvq6"
+https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
+https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
+-->
 
 
 Tutorial
@@ -593,8 +597,6 @@ Practice
 * [HackerRank](https://www.hackerrank.com)
 
 <!--
-http://exercism.io
-
 http://www.100daysofcode.com/
 
 http://blog.interviewing.io
@@ -648,6 +650,14 @@ Python Resources
 * [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python)
 
+<!--
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorial_series/django-development
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+-->
 
 Other Tutorials
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
@@ -666,19 +676,7 @@ https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.ht
 -->
 
 <!--
-http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
-https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
-https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
-
-https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
-https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
-https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
-https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
-
-https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪𝓴𝓱𝓪𝓻𝓮𝓷𝓴𝓸 on Twitter: "🐍 Elegant Solutions for Everyday Python problems from #PyCon2018 Slides: https://t.co/pV7Wn5JRIS Video: https://t.co/RQ8x2Vsvq6"
-https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
-https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
-
+https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
@@ -690,7 +688,17 @@ https://developer.mozilla.org/en-US/docs/
 
 https://docs.python-guide.org/#writing-great-python-code
 
-https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
+https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - YouTube
+
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+
+
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
+
+https://www.datacamp.com/community/tutorials?tag=python
+
 
 https://realpython.com/python-code-quality
 https://realpython.com/resources
@@ -709,45 +717,12 @@ https://realpython.com/instance-class-and-static-methods-demystified/ | Python's
 https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
 
 
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-https://www.digitalocean.com/community/tutorial_series/django-development
-https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
-https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
-
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
-
-
 https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
 Digital Ocean Django Tutorials
--->
-
-
-<!--
-https://github.com/treyhunner
-http://treyhunner.com/projects/ | Projects - Trey Hunner
-
-https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
-
-List Comprehensions and Generator Expressions
-http://pycon2018.trey.io/
-https://www.youtube.com/watch?v=_6U1XoxyyBY
-https://pycon2016.regex.training/
-
-
-https://www.youtube.com/user/khanacademy/search?query=python | Khan Academy - YouTube
-
-http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
-
-
-https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
-
-https://www.datacamp.com/community/tutorials?tag=python
 
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
@@ -782,12 +757,6 @@ https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-pyth
 
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
-https://www.youtube.com/watch?v=HTLu2DFOdTg | Python's Class Development Toolkit - YouTube
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-
 * [Interactive Python](http://www.interactivepython.org)
 
 http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
@@ -818,8 +787,6 @@ https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html 
 
 Course Reader - CS160
 http://computerscience.chemeketa.edu/cs160Reader/index.html
-
-https://betterexplained.com/
 -->
 
 Python Websites and Newsletters
@@ -916,8 +883,6 @@ https://www.manning.com/books/the-quick-python-book-third-edition | Manning | Th
 
 https://github.com/fluentpython | Fluent Python
 https://github.com/fluentpython/example-code | fluentpython/example-code: Example code for the book Fluent Python
-
-https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
 -->
 
 Python Tutors- YouTube
@@ -987,12 +952,12 @@ Django Consulting Firms, Blogs, Repos
 * [JamBon Software](https://github.com/jambonsw)
 * [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Torchbox Blog](https://torchbox.com/blog)
 * [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
 DjangoCon sponsors
-
-https://torchbox.com/blog
+https://2018.djangocon.us/sponsors/
 -->
 
 Teachers
