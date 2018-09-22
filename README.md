@@ -134,6 +134,80 @@ Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 * [Google Developer Web](https://developers.google.com/web)
 
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+<!--
+Platform Status
+[Chrome](https://www.chromestatus.com/features), 
+    
+Platform Releases
+[Chrome](https://chromereleases.googleblog.com/), 
+
+Platform Updates
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+
+
+Google Developers- General
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+-->
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+
+HTTP Archive
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
@@ -458,16 +532,6 @@ https://github.com/trimstray/sysadmin-interview-questions
 https://github.com/donnemartin/interactive-coding-challenges
 
 https://github.com/Droogans/unmaintainable-code
-
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 -->
 
 Google
