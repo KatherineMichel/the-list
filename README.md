@@ -63,10 +63,6 @@ Languages and Frameworks
 * [Foundation](https://foundation.zurb.com)
 * [Sass Basics](http://sass-lang.com/guide)
 
-Node and React
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
-
 <!--
 https://jekyllrb.com/docs/deployment-methods
 https://jekyllrb.com/docs/continuous-integration
@@ -158,15 +154,6 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 General
 * [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-<!--
-What happens when...
--->
 
 Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
@@ -404,10 +391,6 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-
-Scripting
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
 
 MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
@@ -678,13 +661,8 @@ https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.ht
 <!--
 https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
 How Computers Work
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
-
-https://www.w3schools.com/js/default.asp
-https://developer.mozilla.org/en-US/docs/
 
 https://docs.python-guide.org/#writing-great-python-code
 
