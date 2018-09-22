@@ -121,6 +121,7 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
+
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
@@ -133,18 +134,6 @@ Standards
 Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 * [Google Developer Web](https://developers.google.com/web)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
 
 <!--
 Platform Status
@@ -212,6 +201,7 @@ Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
 
 JavaScript Scene
 * ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
@@ -299,7 +289,6 @@ Markdown
 
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
 
 
 Awesome Tools
