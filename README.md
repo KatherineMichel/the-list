@@ -2049,6 +2049,8 @@ https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary 
 
 -->
 
+
+
 ## Programming Languages
 
 Programming Languages
@@ -2134,9 +2136,6 @@ https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html | The
 http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
 
 http://highscalability.com/ | High Scalability -
-
-
-
 
 https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
 https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
@@ -2337,13 +2336,14 @@ https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-re
 -->
 
 
-
 ## Code Style
 
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
+
+## Competitive Programming
 
 Coding Competitions
 * Kaggle
@@ -2360,6 +2360,7 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
+## Kaggle
 
 Kaggle
 * [Kaggle](http://www.kaggle.com), [Kaggle Blog](http://blog.kaggle.com), and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
@@ -2407,6 +2408,7 @@ http://ndres.me/kaggle-past-solutions
 
 https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
 -->
+
 
 
 Data, Data Science, Big Data
