@@ -592,10 +592,6 @@ https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/Memoization
 -->
 
-<!--
-idiomatic, pythonic code
--->
-
 ## Design Patterns
 
 Design Patterns- Gang of Four (GoF)
@@ -611,8 +607,6 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
-https://github.com/faif/python-patterns
-
 Awesome Design Patterns
 https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patterns-Java: Design Patterns Implemented in Java.
 https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
@@ -620,36 +614,12 @@ https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-desig
 https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
 -->
 
+## Python and Django Design Patterns and Algorithms
+
+Python and Django Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
 <!--
-Software Design Patterns catalog
-
-Object-Oriented Design Patterns- Python
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
-
-https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
-
-http://rhodesmill.org/brandon/talks/ | Talks
-
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
-
-http://python-patterns.guide/ | Python Patterns
-https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
 https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
@@ -657,12 +627,7 @@ https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-b
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
--->
 
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-<!--
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
 https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
@@ -671,6 +636,8 @@ https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatte
 -->
 
 <!--
+Software Design Patterns catalog
+
 * [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
 [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
 [event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
@@ -709,6 +676,45 @@ https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
 https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
 https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
 -->
+
+
+
+
+
+<!--
+Object-Oriented Design Patterns- Python
+
+idiomatic, pythonic code
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
+
+https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
+
+http://rhodesmill.org/brandon/talks/ | Talks
+
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
+https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
+
+http://python-patterns.guide/ | Python Patterns
+https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+-->
+
+
+
+
 
 ## Programming Languages
 
@@ -772,6 +778,9 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+
+## Request and Response Cycle
 
 <!--
 https://en.wikipedia.org/wiki/Request%E2%80%93response
@@ -852,6 +861,22 @@ https://en.wikipedia.org/wiki/Server_log
 -->
 
 
+## Working with Objects
+
+<!--
+Model, Form
+ORM, MRO
+https://www.fullstackpython.com/object-relational-mappers-orms.html
+Relational database
+https://en.wikipedia.org/wiki/Relational_database
+
+Objects, Views
+Exists, Get, Create, Update, Delete
+
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+-->
+
+
 
 
 Awesome Python
@@ -921,6 +946,12 @@ Python Challenges
 
 <!--
 http://www.100daysofcode.com/
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+High level #python #tutorial thread
+https://twitter.com/aaronchall/status/961250524753551360
 -->
 
 Programming Language Leveling Up and Comparisons- Python
@@ -939,7 +970,7 @@ Python Official Resources
 
 Good Info
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
-
+* [Real Python](https://realpython.com)
 
 <!--
 https://realpython.com/python-code-quality
@@ -959,11 +990,6 @@ https://realpython.com/instance-class-and-static-methods-demystified/ | Python's
 https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
 
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-High level #python #tutorial thread
-https://twitter.com/aaronchall/status/961250524753551360
 
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
@@ -976,15 +1002,7 @@ https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-rel
 http://www.fullstackpython.com/deployment.html
 -->
 
-* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
-
-<!--
-"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
--->
-
 Python Resources
-* [Dan Bader: Real Python](https://realpython.com)
-* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
@@ -1039,28 +1057,24 @@ https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive P
 https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
 -->
 
-Eric Matthes
-* [Eric Matthes: Introduction to Python](http://introtopython.org)
-* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
-
-Python Tutors
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Al Sweigart](http://alsweigart.com)
-* [Dan Bader](https://dbader.org)
-* [Jeff Knupp](https://jeffknupp.com)
-* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
-* [Trey Hunner](http://treyhunner.com)
-
 Useful Python Resources
+* [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+* [Dan Bader: Real Python](https://realpython.com)
 * [Real Python Courses](https://realpython.com/courses)
+* [Eric Matthes: Introduction to Python](http://introtopython.org)
+* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
+* [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
+* [Jeff Knupp Blog](https://jeffknupp.com/blog), [Jeff Knupp Archives](https://jeffknupp.com/blog/archives), and [Jeff Knupp YouTube](https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ)
+* [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
+* [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
@@ -1078,12 +1092,11 @@ Learning Resources
 * [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
 
 <!--
+Kenneth Love
+"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
+
 https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
 http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-
-https://jeffknupp.com/blog
-https://jeffknupp.com/blog/archives/ | Archives
-https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ | Jeff Knupp Python Videos - YouTube - YouTube
 
 https://learncodethehardway.org/more-python/
 
@@ -1101,20 +1114,16 @@ https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | ze
 
 Python- Books (See also: Data Science books)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
 * [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
 <!--
 https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
 
-https://github.com/dabeaz/python-cookbook | dabeaz/python-cookbook: Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.
-
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 
-https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
-https://github.com/fluentpython | Fluent Python
-https://github.com/fluentpython/example-code | fluentpython/example-code: Example code for the book Fluent Python
 doctest
 -->
 
@@ -1193,12 +1202,13 @@ Course Reader - CS160
 http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
+
 ## Kenneth Reitz Advice to Me 
 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
-## Installation
+## Installation and Editors
 
 Python Environment
 * [xkcd: Python Environment](https://xkcd.com/1987)
