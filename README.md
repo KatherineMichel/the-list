@@ -362,9 +362,6 @@ OpenStack
 * [OpenStack Community](https://www.openstack.org/community)
 
 <!--
-Upvotes
-https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
-
 https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
 https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
 https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
@@ -417,6 +414,63 @@ http://www.dev-books.com
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+-->
+
+
+<!--
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+
+https://memberportal.1millionwomentotech.com/diy
+
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+-->
+
+<!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
+
+https://github.com/Droogans/unmaintainable-code
+
+How Computers Work
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
 -->
 
 
@@ -640,140 +694,14 @@ Concepts
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
 
-## Software Testing
-
-Software Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-
-Common for Python
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-
-<!--
-https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-https://en.wikipedia.org/wiki/Code_coverage
-
-https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
-https://en.wikipedia.org/wiki/Mutation_testing
--->
-
-
-<!--
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-
-https://memberportal.1millionwomentotech.com/diy
-
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
--->
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-
-https://github.com/CyC2018/CS-Notes
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
-
-https://github.com/Droogans/unmaintainable-code
-
-How Computers Work
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
--->
-
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 
-
-
-
 <!--
-Useful talks and tutorials
-
-David Beazley
-http://www.dabeaz.com/tutorials.html
-https://speakerdeck.com/dabeaz
-
-https://www.slideshare.net/MariattaWijaya
-
-https://docs.python-guide.org/#writing-great-python-code
-
-https://github.com/treyhunner
-http://treyhunner.com/projects/ | Projects - Trey Hunner
-
-https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
-
-List Comprehensions and Generator Expressions
-http://pycon2018.trey.io/
-https://www.youtube.com/watch?v=_6U1XoxyyBY
-https://pycon2016.regex.training/
-
-https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
-
-https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=14
-https://www.youtube.com/watch?v=OSGv2VnC0go
-
-http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
-https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
-https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
-
-https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
-https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
-https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
-https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
-
-https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪𝓴𝓱𝓪𝓻𝓮𝓷𝓴𝓸 on Twitter: "🐍 Elegant Solutions for Everyday Python problems from #PyCon2018 Slides: https://t.co/pV7Wn5JRIS Video: https://t.co/RQ8x2Vsvq6"
-https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
-https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
+Upvotes
+https://stackoverflow.com/questions | Highest Voted Questions - Stack Overflow
 -->
 
 
@@ -1206,12 +1134,63 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 * [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
 
+## Python Debugging
+
+<!--
+https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger | Working with pdb to Debug Python Code | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
+-->
+
+## Software Testing
+
+Software Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+
+Common for Python
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+
+<!--
+https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
+https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
+https://en.wikipedia.org/wiki/Code_coverage
+
+https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
+https://en.wikipedia.org/wiki/Mutation_testing
+-->
+
 ## Python and Django Testing
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
  
+### Django Testing
+
+DjangoCon Keynote by Ana
+http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+http://pythontesting.net/start-here/
+
+Django Testing
+* [Django Testing](https://docs.djangoproject.com/en/2.0/topics/testing)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/2.0/topics/testing/advanced)
+
 ## Python and Django Testing Tools
 
 pytest and Django Test Plus
@@ -1524,6 +1503,25 @@ https://github.com/pypa/pipfile/issues/27
 -->
 
 <!--
+https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
+
+Classy
+http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
+https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
+Classy Django REST Framework
+http://cdrf.co
+https://github.com/vintasoftware/classy-django-rest-framework 
+Django Class-Based-View Inspector -- Classy CBV
+Classy Class-Based Views
+http://ccbv.co.uk
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+<!--
 Mastering Regular Expressions Jeffrey Friedl
 https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
 http://regex.info/book.html
@@ -1570,25 +1568,46 @@ https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/sa
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
+
 <!--
-https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
+Useful talks and tutorials
 
-Classy
-http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
-https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
-Classy Django REST Framework
-http://cdrf.co
-https://github.com/vintasoftware/classy-django-rest-framework 
-Django Class-Based-View Inspector -- Classy CBV
-Classy Class-Based Views
-http://ccbv.co.uk
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+David Beazley
+http://www.dabeaz.com/tutorials.html
+https://speakerdeck.com/dabeaz
 
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
+https://www.slideshare.net/MariattaWijaya
+
+https://docs.python-guide.org/#writing-great-python-code
+
+https://github.com/treyhunner
+http://treyhunner.com/projects/ | Projects - Trey Hunner
+
+https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
+
+List Comprehensions and Generator Expressions
+http://pycon2018.trey.io/
+https://www.youtube.com/watch?v=_6U1XoxyyBY
+https://pycon2016.regex.training/
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
+https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=14
+https://www.youtube.com/watch?v=OSGv2VnC0go
+
+http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
+https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
+https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
+
+https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
+https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
+https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
+https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
+
+https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪𝓴𝓱𝓪𝓻𝓮𝓷𝓴𝓸 on Twitter: "🐍 Elegant Solutions for Everyday Python problems from #PyCon2018 Slides: https://t.co/pV7Wn5JRIS Video: https://t.co/RQ8x2Vsvq6"
+https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
+https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
 -->
-
 
 
 List of Engineering Blogs
