@@ -395,6 +395,9 @@ Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
 
+
+## Programming Books
+
 Books
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Safari Books](https://www.safaribooksonline.com)
@@ -415,6 +418,228 @@ https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-boo
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
+
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+## Object-Oriented Programming
+
+Object-Oriented Programming
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+<!--
+Dan Bader OO Recommendations
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
+https://docs.python.org/3/tutorial/classes.html
+https://learnpythonthehardway.org/book/
+https://github.com/faif/python-patterns
+https://www.toptal.com/python/python-design-patterns
+https://www.packtpub.com/application-development/python-3-object-oriented-programming
+http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
+
+
+https://en.wikipedia.org/wiki/Event-driven_programming
+
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistent_data_structure
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
+-->
+
+<!--
+idiomatic, pythonic code
+-->
+
+## Design Patterns
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+Design Patterns- General
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+<!--
+https://github.com/faif/python-patterns
+
+Awesome Design Patterns
+https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patterns-Java: Design Patterns Implemented in Java.
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
+https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
+-->
+
+<!--
+Software Design Patterns catalog
+
+Object-Oriented Design Patterns- Python
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
+
+https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
+
+http://rhodesmill.org/brandon/talks/ | Talks
+
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
+https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
+
+http://python-patterns.guide/ | Python Patterns
+https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+-->
+
+Python and Django Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+<!--
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+-->
+
+<!--
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
+[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
+
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Design_Patterns
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+
+https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
+https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
+https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
+https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
+https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
+
+https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
+https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
+https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
+https://en.wikipedia.org/wiki/Composite_pattern | Composite pattern - Wikipedia
+https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
+https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
+https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
+
+https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
+https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
+https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
+https://en.wikipedia.org/wiki/Interpreter_pattern | Interpreter pattern - Wikipedia
+https://en.wikipedia.org/wiki/Iterator_pattern | Iterator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Mediator_pattern | Mediator pattern - Wikipedia
+https://en.wikipedia.org/wiki/Memento_pattern | Memento pattern - Wikipedia
+https://en.wikipedia.org/wiki/Observer_pattern | Observer pattern - Wikipedia
+https://en.wikipedia.org/wiki/State_pattern | State pattern - Wikipedia
+https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
+https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
+https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
+-->
+
+## Programming Languages
+
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+Programming Languages
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+<!--
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (mapping)
+-->
+
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
+<!--
+https://www.dabeaz.com/tla.html | An Introduction to TLA+
+https://en.wikipedia.org/wiki/Pseudocode | Pseudocode - Wikipedia
+-->
+
+## Code Style
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
 
 
 <!--
@@ -473,199 +698,18 @@ How Computers Work
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
 -->
 
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
 <!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 -->
 
 
-Object Oriented Programming
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-<!--
-Dan Bader OO Recommendations
-https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
-
-https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
-https://docs.python.org/3/tutorial/classes.html
-https://learnpythonthehardway.org/book/
-https://github.com/faif/python-patterns
-https://www.toptal.com/python/python-design-patterns
-https://www.packtpub.com/application-development/python-3-object-oriented-programming
-http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
-
-
-https://en.wikipedia.org/wiki/Event-driven_programming
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
-
-https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/State_(computer_science)
-https://en.wikipedia.org/wiki/State_diagram
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-https://en.wikipedia.org/wiki/Persistent_data_structure
-
-https://en.wikipedia.org/wiki/Immutable_object
-
-https://en.wikipedia.org/wiki/Memoization
--->
-
-<!--
-idiomatic, pythonic code
-
-https://www.dabeaz.com/tla.html | An Introduction to TLA+
-https://en.wikipedia.org/wiki/Pseudocode | Pseudocode - Wikipedia
--->
-
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-Design Patterns- General
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-<!--
-https://github.com/faif/python-patterns
-
-Awesome Design Patterns
-https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patterns-Java: Design Patterns Implemented in Java.
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
-https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
--->
-
-<!--
-Software Design Patterns catalog
-
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
-[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
-
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Design_Patterns
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
-
-https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
-https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
-https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
-https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
-https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
-https://en.wikipedia.org/wiki/Composite_pattern | Composite pattern - Wikipedia
-https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
-https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
-https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
-https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
-https://en.wikipedia.org/wiki/Interpreter_pattern | Interpreter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Iterator_pattern | Iterator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Mediator_pattern | Mediator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Memento_pattern | Memento pattern - Wikipedia
-https://en.wikipedia.org/wiki/Observer_pattern | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/State_pattern | State pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
-
-Object-Oriented Design Patterns- Python
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37 | You Don't Need That! - YouTube
-
-https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
-
-http://rhodesmill.org/brandon/talks/ | Talks
-
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
-
-http://python-patterns.guide/ | Python Patterns
-https://github.com/brandon-rhodes/python-patterns | brandon-rhodes/python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
--->
-
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-<!--
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
--->
-
-
-
-Programming Languages
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Programming Languages
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (mapping)
--->
 
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
@@ -673,26 +717,6 @@ Programming Language Leveling Up and Comparisons
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
-
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
 
 
 Top Links of All Times
@@ -1240,30 +1264,18 @@ https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
 -->
 
-## Django Organizations and Teachers
+## Django Exceptions
 
-Django Consulting Firms, Blogs, Repos
-* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
-* [Changeset Consulting](https://changeset.nyc)
-* [Cuttlesoft](https://www.cuttlesoft.com)
-* [Divio](https://www.divio.com)
-* [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
-* [Pinax Blog](http://blog.pinaxproject.com)
-* [JamBon Software](https://github.com/jambonsw)
-* [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
-* [Torchbox Blog](https://torchbox.com/blog)
-* [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
+* [Django Exceptions](https://docs.djangoproject.com/en/2.0/ref/exceptions)
 
 <!--
-DjangoCon sponsors
-https://2018.djangocon.us/sponsors/
--->
+https://docs.djangoproject.com/en/2.1/topics/testing/overview/
+https://docs.djangoproject.com/en/2.1/topics/testing/tools/
+https://docs.djangoproject.com/en/2.1/topics/testing/advanced/
 
-Teachers
-* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
-* [Frank Wiles](http://www.frankwiles.com)
-* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
+https://docs.djangoproject.com/en/dev/topics/checks/ | System check framework | Django documentation | Django
+https://docs.djangoproject.com/en/2.0/howto/error-reporting/ | Error reporting | Django documentation | Django
+-->
 
 ## Django Learning Resources
 
@@ -1313,6 +1325,31 @@ Python- Django- Hello Web App
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
 * [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
 * [Hello Web App Setup](https://hellowebapp.com/setup)
+
+## Django Organizations and Teachers
+
+Django Consulting Firms, Blogs, Repos
+* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
+* [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft](https://www.cuttlesoft.com)
+* [Divio](https://www.divio.com)
+* [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
+* [Pinax Blog](http://blog.pinaxproject.com)
+* [JamBon Software](https://github.com/jambonsw)
+* [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
+* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Torchbox Blog](https://torchbox.com/blog)
+* [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
+
+<!--
+DjangoCon sponsors
+https://2018.djangocon.us/sponsors/
+-->
+
+Teachers
+* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
+* [Frank Wiles](http://www.frankwiles.com)
+* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
 
 ## Django Project Structure
 
@@ -1412,9 +1449,6 @@ https://realpython.com/python-sockets
 https://www.geeksforgeeks.org/socket-programming-python
 -->
 
-
-
-
 ## Packaging
 
 Python Docs- Packaging
@@ -1500,6 +1534,21 @@ https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Human
 https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
 
 https://github.com/pypa/pipfile/issues/27
+-->
+
+## Command Line
+
+* [Click GitHub](https://github.com/pallets/click)
+* [Chalk GitHub](https://github.com/chalk/chalk)
+
+<!--
+https://github.com/google/python-fire
+
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
 <!--
