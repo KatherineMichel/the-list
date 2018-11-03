@@ -132,18 +132,6 @@ Standards
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-<!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
-
-
 General
 * [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
@@ -248,83 +236,6 @@ Interesting Curated Learning Resources- Marketing and Sales
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 
-
-<!--
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
--->
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-
-https://github.com/CyC2018/CS-Notes
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
-
-https://github.com/Droogans/unmaintainable-code
-
-How Computers Work
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
-
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
-
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-
 Tech Terminology
 * [Techopedia](https://www.techopedia.com)
 
@@ -399,118 +310,40 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
 
 Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
 
-
-## Programming Books
-
-Books
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [No Starch Press](https://www.nostarch.com)
-* [Humble Bundle](https://www.humblebundle.com)
-* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
+## Engineering Manager
 
 <!--
-https://pragprog.com/ | The Pragmatic Bookshelf
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
-* [O'Reilly Media](https://github.com/oreillymedia)
-* [Packt Publishing](https://github.com/PacktPublishing)
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 
-Books!
-http://www.dev-books.com
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
 -->
 
-## Protocols
+## Engineering Management Resources
 
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
-Platform Status
-[Chrome](https://www.chromestatus.com/features), 
-    
-Platform Releases
-[Chrome](https://chromereleases.googleblog.com/), 
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 
-Platform Updates
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-
-
-Google Developers- General
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://www.udacity.com/course/website-performance-optimization--ud884
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-
-HTTP Archive
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
--->
-
-Mozilla- Documentation
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-
 
 ## Talk Aggregation
 
@@ -740,6 +573,11 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
 Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
 
@@ -748,10 +586,95 @@ Stellar Programming Learning Resources
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
+
 <!--
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
+
+<!--
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+-->
+
+<!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
+
+https://github.com/Droogans/unmaintainable-code
+
+How Computers Work
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+-->
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
+
+
+## Programming Books
+
+Books
+* [O'Reilly Media](https://github.com/oreillymedia)
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com), [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning), and [Packt Publishing GitHub](https://github.com/PacktPublishing)
+* [No Starch Press](https://www.nostarch.com)
+* [Humble Bundle](https://www.humblebundle.com)
+* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
+* [The Pragmatic Bookshelf](https://pragprog.com)
+
+<!--
+Books!
+http://www.dev-books.com
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
 ## Python and Django- Specific Learning Resources
@@ -1169,7 +1092,7 @@ Big O Notation
 
 
 <!--
-https://twitter.com/nedbat/status/995852414925328384 | Ned Batchelder on Twitter: "PyCon videos get speedier every year. My Big-O talk is online, less than 8 hours after it happened: https://t.co/WAB4iU9Irh #pycon2018"
+https://www.youtube.com/watch?v=duvZ-2UK0fc
 
 https://nedbatchelder.com/text/bigo.html
 Python Complexities
@@ -1385,6 +1308,12 @@ Django Architecture and Scaling
 * [Django Design Philosophies](https://docs.djangoproject.com/en/2.0/misc/design-philosophies)
 
 <!--
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
+-->
+
+<!--
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 -->
 
@@ -1399,8 +1328,6 @@ https://en.wikipedia.org/wiki/Relational_database
 
 Objects, Views
 Exists, Get, Create, Update, Delete
-
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
 -->
 
 ## Request and Response Cycle
@@ -1574,44 +1501,52 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 Python- Django- Alternative Rest Framework
 * [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
 
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-
 <!--
 https://github.com/tomchristie
 
 http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
 http://www.encode.io/reports/july-2017
 
-http://www.django-rest-framework.org/api-guide/pagination/ | Pagination - Django REST framework
 https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
-http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
-http://www.django-rest-framework.org/api-guide/filtering
-
-https://github.com/encode/uvicorn/ | encode/uvicorn: The lightning-fast ASGI server. 🦄
-http://www.uvicorn.org/toolkit
-
-http://gunicorn.org
-
-https://www.starlette.io
-https://github.com/encode/starlette
-
-https://github.com/lucianoratamero/django_apistar | lucianoratamero/django_apistar: Django App to integrate API Star's routes and views into Django's ecossystem.
-https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
-https://discuss.apistar.org/t/docs-theme-refresh-cli-tools-and-work-behind-the-scenes/515
-https://github.com/encode/starlette | encode/starlette: The little ASGI library that shines. ✨
 
 https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
 https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 -->
 
+
+## Serialization
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+
+## Newer Stuff
+
 Python- Django- Channels
 * [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
+
+Uvicorn
+* [Uvicorn](http://www.uvicorn.org) and [Uvicorn GitHub](https://github.com/encode/uvicorn)
+
+Starlette
+* [Starlette](https://www.starlette.io) and [Starlette GitHub](https://github.com/encode/starlette)
+
+API Star
+* [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
+* [Django API Star](https://github.com/lucianoratamero/django_apistar)
+
+
+<!--
+http://www.uvicorn.org/toolkit
+
+http://gunicorn.org
+
+https://discuss.apistar.org/t/docs-theme-refresh-cli-tools-and-work-behind-the-scenes/515
+-->
 
 <!--
 http://www.aeracode.org/2017/7/11/towards-channels-20/
@@ -1628,9 +1563,8 @@ ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 docum
 
 https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
+
 
 <!--
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
@@ -1847,6 +1781,89 @@ http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datas
 https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
+
+
+## Protocols
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+
+<!--
+Platform Status
+[Chrome](https://www.chromestatus.com/features), 
+    
+Platform Releases
+[Chrome](https://chromereleases.googleblog.com/), 
+
+Platform Updates
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+
+
+Google Developers- General
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+-->
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+
+HTTP Archive
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
+Mozilla- Documentation
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
 
 ## Programming Paradigms
