@@ -641,6 +641,95 @@ Style
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
 
+## Protocols
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+<!--
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Client%E2%80%93server
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
+https://en.wikipedia.org/wiki/POST_(HTTP)
+
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
+
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+https://www.w3.org/TR/2011/WD-html5-20110525/forms.html
+
+http://rnevius.github.io/django_request_response_cycle.png
+
+https://djangobook.com/deploying-django/
+https://docs.djangoproject.com/en/2.1/ref/request-response/
+https://docs.djangoproject.com/en/2.1/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/2.1/ref/request-response/#jsonresponse-objects
+
+https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+https://www.json.org/
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://www.w3schools.com/jsref
+https://www.w3schools.com/jsref/event_key_keycode.asp
+https://www.w3schools.com/tags/ref_eventattributes.asp
+https://www.w3schools.com/tags/ref_httpmethods.asp
+https://www.w3schools.com/tags/ref_httpmessages.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
+
+https://nmap.org/ncat/
+
+http://docs.python-requests.org/en/master/user/quickstart/
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
+
+https://en.wikipedia.org/wiki/IPv6#IPv4-mapped_IPv6_addresses
+https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+-->
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+Web Server and Gateway Interface
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+https://en.wikipedia.org/wiki/HTTP_referer
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://en.wikipedia.org/wiki/Session_(computer_science)
+https://en.wikipedia.org/wiki/Session_ID
+https://en.wikipedia.org/wiki/Server_log
+-->
+
+
+
 
 <!--
 https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
@@ -1367,10 +1456,17 @@ https://docs.djangoproject.com/en/2.0/faq/general/#does-django-scale | FAQ: Gene
 https://en.wikipedia.org/wiki/Shared-nothing_architecture | Shared-nothing architecture - Wikipedia
 https://docs.djangoproject.com/en/1.10/misc/design-philosophies/ | Design philosophies | Django documentation | Django
 
-https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
-https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
-
 https://docs.djangoproject.com/en/2.0/topics/install/ | How to install Django | Django documentation | Django
+-->
+
+## Django Performance and Optimization
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization)
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 -->
 
 ## Django Rest Framework
@@ -1618,7 +1714,12 @@ https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create a
 -->
 
 
+
 <!--
+oddity
+See Trey Hunner 
+See Python Tricks
+
 Useful talks and tutorials
 
 David Beazley
