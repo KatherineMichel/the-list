@@ -347,17 +347,14 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 
 ## Talk Aggregation
 
-PyVideo
 * [PyVideo](http://pyvideo.org)
 * [PyVideo Events](http://pyvideo.org/events.html)
-
-Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+* [Next Day Video](http://nextdayvideo.com)
+* [Tech Yaks](https://techyaks.com)
+
 
 <!--
-Next day video
-
-https://techyaks.com/
 https://techyaks.com/top-python-talks.html
 
 https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
@@ -377,11 +374,8 @@ Python and Django
 * [PSF Python Events](https://www.python.org/events)
 * [Meetup Topic Django](https://www.meetup.com/topics/django)
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
-
-<!--
 * [Python Conferences Repo](https://github.com/python-organizers/conferences)
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
--->
 
 <!--
 Recent/Soon
@@ -467,8 +461,6 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 ## Useful Talks and Tutorials
 
 <!--
-oddity
-See Trey Hunner 
 See Python Tricks
 
 David Beazley
@@ -481,7 +473,6 @@ https://docs.python-guide.org/#writing-great-python-code
 
 https://github.com/treyhunner
 http://treyhunner.com/projects/ | Projects - Trey Hunner
-
 https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
 
 List Comprehensions and Generator Expressions
@@ -713,10 +704,6 @@ MOOCs
 <!--
 High level #python #tutorial thread
 https://twitter.com/aaronchall/status/961250524753551360
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
-
-https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 -->
 
 Programming Language Leveling Up and Comparisons- Python
@@ -887,10 +874,11 @@ https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tu
 
 https://www.datacamp.com/community/tutorials?tag=python
 
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
+https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
 http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
-
 
 https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
 
@@ -1307,11 +1295,11 @@ Django Architecture and Scaling
 * [Does Django Scale?](https://docs.djangoproject.com/en/2.0/faq/general/#does-django-scale)
 * [Django Design Philosophies](https://docs.djangoproject.com/en/2.0/misc/design-philosophies)
 
-<!--
-https://docs.djangoproject.com/en/2.0/topics/class-based-views/ | Class-based views | Django documentation | Django
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
 
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
--->
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
 
 <!--
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
@@ -1330,7 +1318,18 @@ Objects, Views
 Exists, Get, Create, Update, Delete
 -->
 
-## Request and Response Cycle
+## Django Request and Response Cycle
+
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+<!--
+https://djangobook.com/deploying-django/
+https://docs.djangoproject.com/en/dev/ref/request-response/
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+-->
+
+## Request and Response Cycle- General
 
 TCP-IP and OSI Protocols
 * [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
@@ -1351,13 +1350,6 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
-http://rnevius.github.io/django_request_response_cycle.png
-
-https://djangobook.com/deploying-django/
-https://docs.djangoproject.com/en/dev/ref/request-response/
-https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
-https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
-
 https://en.wikipedia.org/wiki/HTTP_referer
 https://en.wikipedia.org/wiki/HTTP_cookie
 https://en.wikipedia.org/wiki/Session_(computer_science)
@@ -1502,8 +1494,6 @@ Python- Django- Alternative Rest Framework
 * [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
 
 <!--
-https://github.com/tomchristie
-
 http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
 http://www.encode.io/reports/july-2017
 
@@ -1525,7 +1515,45 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 
 ## Newer Stuff
 
-Python- Django- Channels
+Data Classes
+
+<!--
+https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
+https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
+-->
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+Type Hints
+* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
+* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
+
+Static Typing Tools
+* [Python Typeshed GitHub](https://github.com/python/typeshed)
+* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
+* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+
+<!--
+http://mypy.readthedocs.io/
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
+-->
+
+People
+* [Andrew Godwin GitHub](https://github.com/andrewgodwin)
+* [Eric V. Smith GitHub](https://github.com/ericvsmith)
+* [Tom Christie GitHub](https://github.com/tomchristie)
+
+"A Django Async Roadmap"
+* ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
+
+Channels
 * [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
@@ -1538,28 +1566,31 @@ Starlette
 API Star
 * [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
-
+* [API Star Discuss](https://discuss.apistar.org)
 
 <!--
+https://realpython.com/python-data-classes/
+
+https://en.wikipedia.org/wiki/Duck_typing
+
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+
 http://www.uvicorn.org/toolkit
 
 http://gunicorn.org
-
-https://discuss.apistar.org/t/docs-theme-refresh-cli-tools-and-work-behind-the-scenes/515
 -->
 
 <!--
 http://www.aeracode.org/2017/7/11/towards-channels-20/
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
+
 https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
 http://channels.readthedocs.io/en/latest/tutorial/index.html | Tutorial — Channels 2.0.2 documentation
-https://twitter.com/andrewgodwin/status/1002802943689715712 | Andrew Godwin on Twitter: "I have a document here that is titled "A Django Async Roadmap". I'm going to post it publicly soon, but if anyone wants to give me an initial proofread and feedback, let me know (DM/email me)"
 
+ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 
 https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
 https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 
 https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
@@ -1574,44 +1605,10 @@ https://www.geeksforgeeks.org/socket-programming-python
 -->
 
 <!--
-https://realpython.com/python-data-classes/
-
 https://www.datacamp.com/community/tutorials/data-structures-python
 
 Python Data Structures
 http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
-
-
-Data Classes
-https://github.com/ericvsmith | ericvsmith (Eric V. Smith)
-https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
-https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
-
-https://en.wikipedia.org/wiki/Duck_typing
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-
-https://github.com/facebook/pyre-check | facebook/pyre-check: Performant type-checking for python.
-
-https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA | Stanford Seminar - Optional Static Typing for Python - YouTube
-
-https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
-
-https://github.com/dropbox/pyannotate
-https://github.com/dropbox/mypy-PyCharm-plugin
-
-http://mypy.readthedocs.io/
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
-
-https://github.com/python/typeshed | python/typeshed: Collection of library stubs for Python, with static types
 -->
 
 ## Packaging
