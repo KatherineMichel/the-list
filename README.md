@@ -1016,11 +1016,6 @@ https://docs.python.org/3/reference/grammar.html#full-grammar-specification
 https://docs.python.org/3/reference/introduction.html#notation
 
 https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
-
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
-
-https://github.com/amontalenti/elements-of-python-style
 -->
 
 Python- PEP
@@ -1035,6 +1030,12 @@ Docstring Conventions
 
 Django Coding Style Guide
 * [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
+
+<!--
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
+https://github.com/amontalenti/elements-of-python-style
+-->
 
 ### Django- JavaScript Style Guide
 
@@ -1207,10 +1208,6 @@ https://en.wikipedia.org/wiki/Mutation_testing
 
 ## Python and Django Testing
 
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
- 
 <!--
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
@@ -1219,6 +1216,12 @@ http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — Th
 http://pythontesting.net/start-here/
 -->
 
+## Python and Django Testing Books
+
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+ 
 ## Python and Django Testing Tools
 
 pytest and Django Test Plus
@@ -1323,6 +1326,8 @@ Exists, Get, Create, Update, Delete
 * [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
 
 <!--
+http://gunicorn.org
+
 https://djangobook.com/deploying-django/
 https://docs.djangoproject.com/en/dev/ref/request-response/
 https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
@@ -1516,16 +1521,20 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 ## Newer Stuff
 
 Data Classes
+* [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
 
 <!--
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
-https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
 -->
 
 Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+<!--
+https://en.wikipedia.org/wiki/Duck_typing
+-->
 
 Type Hints
 * [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
@@ -1557,6 +1566,11 @@ Channels
 * [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
+<!--
+http://www.aeracode.org/2017/7/11/towards-channels-20/
+https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
+-->
+
 Uvicorn
 * [Uvicorn](http://www.uvicorn.org) and [Uvicorn GitHub](https://github.com/encode/uvicorn)
 
@@ -1571,21 +1585,13 @@ API Star
 <!--
 https://realpython.com/python-data-classes/
 
-https://en.wikipedia.org/wiki/Duck_typing
-
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 
 http://www.uvicorn.org/toolkit
-
-http://gunicorn.org
 -->
 
 <!--
-http://www.aeracode.org/2017/7/11/towards-channels-20/
-https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
-
 https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
-http://channels.readthedocs.io/en/latest/tutorial/index.html | Tutorial — Channels 2.0.2 documentation
 
 ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 
