@@ -353,7 +353,6 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 * [Next Day Video](http://nextdayvideo.com)
 * [Tech Yaks](https://techyaks.com)
 
-
 <!--
 https://techyaks.com/top-python-talks.html
 
@@ -461,6 +460,37 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 ## Useful Talks and Tutorials
 
 <!--
+Object-Oriented Design Patterns- Python
+
+idiomatic, pythonic code
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+
+https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
+
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+Python Clean Architecture
+
+* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
+
+* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
+* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
+
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
+https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
+
+
 See Python Tricks
 
 David Beazley
@@ -498,6 +528,7 @@ https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪�
 https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
 https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
 -->
+
 
 ## Coding Practice
 
@@ -697,15 +728,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
-
-
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-
-<!--
-High level #python #tutorial thread
-https://twitter.com/aaronchall/status/961250524753551360
--->
-
 Programming Language Leveling Up and Comparisons- Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
@@ -732,6 +754,11 @@ https://www.safaribooksonline.com/library/view/intermediate-python-programming/9
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 
 doctest
+-->
+
+<!--
+High level #python #tutorial thread
+https://twitter.com/aaronchall/status/961250524753551360
 -->
 
 Useful Python Resources
@@ -789,6 +816,8 @@ https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aar
 https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
 https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 -->
+
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 
 Python Resources
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
@@ -1545,6 +1574,7 @@ Static Typing Tools
 * [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
 * [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 * [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Google: Pytype GitHub](https://github.com/google/pytype)
 * [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
 
 <!--
@@ -2014,44 +2044,6 @@ https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
 https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
 https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
 -->
-
-
-
-
-
-<!--
-Object-Oriented Design Patterns- Python
-
-idiomatic, pythonic code
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
-https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
-
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-Python Clean Architecture
-
-* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
-
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
-
--->
-
 
 
 ## Programming Languages
