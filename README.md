@@ -10,6 +10,7 @@ https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Prof
 
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
+* [GitHub Trending Python](https://github.com/trending/python?since=daily)
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
