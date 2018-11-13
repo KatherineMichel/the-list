@@ -341,6 +341,8 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://medium.com/javascript-scene
+
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
@@ -460,6 +462,7 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 
 ## Useful Talks and Tutorials
 
+
 <!--
 Object-Oriented Design Patterns- Python
 
@@ -538,11 +541,8 @@ Math/Programming Problems and Projects
 
 Practice
 * [HackerRank](https://www.hackerrank.com)
-
-<!--
-https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
-http://www.100daysofcode.com/
--->
+* [LeetCode](https://leetcode.com)
+* [100 Days of Code](http://www.100daysofcode.com)
 
 <!--
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
@@ -563,6 +563,11 @@ https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | A
 
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
+
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
+
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
 -->
 
 ## Python- Coding Practice
@@ -571,6 +576,7 @@ Python Challenges
 * [Exercism Python](https://exercism.io/tracks/python)
 * [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
 * [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
+* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
 
 ## Python and Django- General Resources
@@ -658,6 +664,7 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engin
 
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
 
 https://github.com/trimstray/sysadmin-interview-questions
 
@@ -769,6 +776,37 @@ https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Works
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://software.intel.com/en-us/distribution-for-python | Intel® Distribution for Python* | Intel® Software
+
+https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
+
+https://wsvincent.com/ | William S. Vincent
+https://github.com/wsvincent | wsvincent (William S. Vincent)
+https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+https://djangoforbeginners.com/introduction/ | Introduction | Django For Beginners
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+
+https://www.amazon.com/Django-Unleashed-Andrew-Pinkham/dp/0321985079 | Django Unleashed: Andrew Pinkham: 9780321985071: Amazon.com: Books
+
+https://twitter.com/hjwp | Harry Percival (@hjwp) | Twitter
+
+https://simpleisbetterthancomplex.com/contact/ | Contact — Simple is Better Than Complex
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
+
+https://channels.readthedocs.io/en/latest/asgi.html | ASGI — Channels 2.1.3 documentation
+https://www.encode.io/articles/hello-asgi/ | Encode
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+https://github.com/encode/rest-framework-tutorial/blob/master/tutorial/urls.py | rest-framework-tutorial/urls.py at master · encode/rest-framework-tutorial
 -->
 
 Useful Python Resources
