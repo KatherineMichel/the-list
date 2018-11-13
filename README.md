@@ -540,6 +540,7 @@ Practice
 * [HackerRank](https://www.hackerrank.com)
 
 <!--
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
 http://www.100daysofcode.com/
 -->
 
@@ -700,6 +701,7 @@ https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
+
 ## Python and Django- Specific Learning Resources
 
 Python Trending, Topics, Forums
@@ -750,16 +752,23 @@ Python- Books (See also: Data Science books)
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
 <!--
-https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
+High Profile/Performance Python Use
 
-https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
-doctest
--->
+Django Core
+https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
 
-<!--
-High level #python #tutorial thread
-https://twitter.com/aaronchall/status/961250524753551360
+Mariatta
+https://github.com/Mariatta | Mariatta
+https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 -->
 
 Useful Python Resources
@@ -796,6 +805,20 @@ Useful Python Resources
 Learning Resources
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
+
+
+<!--
+https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
+
+https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
+
+doctest
+-->
+
+<!--
+High level #python #tutorial thread
+https://twitter.com/aaronchall/status/961250524753551360
+-->
 
 <!--
 Kenneth Love
@@ -1228,6 +1251,12 @@ Common for Python
 * [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 
 <!--
+https://automationpanda.com/ | Automation Panda | A blog for software development and testing
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
+
+https://en.wikipedia.org/wiki/Behavior-driven_development | Behavior-driven development - Wikipedia
+
 https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 https://en.wikipedia.org/wiki/Code_coverage
