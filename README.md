@@ -709,7 +709,70 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
 
+## Python and Django- Priority Right now
+
+Python
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Eric Matthes: Introduction to Python](http://introtopython.org)
+* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
+* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [Real Python](https://realpython.com)
+* [Tutorials Point Python](http://www.tutorialspoint.com/python)
+* [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
+* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
+* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
+* [W3Schools Python Tutorial](https://www.w3schools.com/python)
+* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+
+Django
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
+* [Django Rest Framework](http://www.django-rest-framework.org) 
+
+Testing
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+<!--
+https://wsvincent.com/ | William S. Vincent
+https://djangoforbeginners.com/introduction/ | Introduction | Django For Beginners
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+
+https://automationpanda.com
+
+https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
+https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
+-->
+
 ## Python and Django- Specific Learning Resources
+
+<!--
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
+
+Django Core
+https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
+
+Mariatta
+https://github.com/Mariatta | Mariatta
+https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://software.intel.com/en-us/distribution-for-python | Intel® Distribution for Python* | Intel® Software
+-->
 
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
@@ -738,19 +801,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
-Programming Language Leveling Up and Comparisons- Python
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-
-Python Official Resources
-* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
-* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
 Python- Books (See also: Data Science books)
 * [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
 * [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
@@ -761,34 +811,12 @@ Python- Books (See also: Data Science books)
 <!--
 High Profile/Performance Python Use
 
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
-
-Django Core
-https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
-
-Mariatta
-https://github.com/Mariatta | Mariatta
-https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://software.intel.com/en-us/distribution-for-python | Intel® Distribution for Python* | Intel® Software
-
 https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
 
 https://wsvincent.com/ | William S. Vincent
 https://github.com/wsvincent | wsvincent (William S. Vincent)
 https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
-https://djangoforbeginners.com/introduction/ | Introduction | Django For Beginners
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
 
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
@@ -796,17 +824,7 @@ https://www.amazon.com/Django-Unleashed-Andrew-Pinkham/dp/0321985079 | Django Un
 
 https://twitter.com/hjwp | Harry Percival (@hjwp) | Twitter
 
-https://simpleisbetterthancomplex.com/contact/ | Contact — Simple is Better Than Complex
-
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
-
-https://channels.readthedocs.io/en/latest/asgi.html | ASGI — Channels 2.1.3 documentation
-https://www.encode.io/articles/hello-asgi/ | Encode
-https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
-https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
-https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
-https://github.com/encode/rest-framework-tutorial/blob/master/tutorial/urls.py | rest-framework-tutorial/urls.py at master · encode/rest-framework-tutorial
 -->
 
 Useful Python Resources
@@ -839,6 +857,7 @@ Useful Python Resources
 * [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
 
 Learning Resources
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
@@ -879,14 +898,27 @@ https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending
 https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 -->
 
+Python Official Resources
+* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
+* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+Programming Language Leveling Up and Comparisons- Python
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+
 * [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
 
 Python Resources
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
 * [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python)
 
@@ -1092,6 +1124,7 @@ Code Formatting
 * [Black Out GitHub](https://github.com/mariatta/black_out)
 * [White GitHub](https://github.com/kennethreitz/white)
 * [Google YAPF](https://github.com/google/yapf)
+
 
 ## Python and Django Style Guides- Official 
 
@@ -1318,7 +1351,7 @@ http://pythontesting.net/start-here/
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
- 
+
 ## Python and Django Testing Tools
 
 pytest and Django Test Plus
@@ -1452,6 +1485,8 @@ HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
+https://en.wikipedia.org/wiki/Web_browser | Web browser - Wikipedia
+
 https://en.wikipedia.org/wiki/HTTP_referer
 https://en.wikipedia.org/wiki/HTTP_cookie
 https://en.wikipedia.org/wiki/Session_(computer_science)
@@ -1585,6 +1620,7 @@ Python- Django- Project Stucture
 
 ## Django Rest Framework
 
+
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
 * [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework)  
@@ -1601,11 +1637,19 @@ http://www.encode.io/reports/july-2017
 
 https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
+https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
 
 https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
 https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 -->
 
+<!--
+https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
+
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+-->
 
 ## Serialization
 
@@ -1667,6 +1711,19 @@ Channels
 <!--
 http://www.aeracode.org/2017/7/11/towards-channels-20/
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
+
+https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
+
+https://channels.readthedocs.io/en/latest/asgi.html | ASGI — Channels 2.1.3 documentation
+https://www.encode.io/articles/hello-asgi/ | Encode
+
+ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
+
+https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
+
+https://github.com/jacobian/demo-thing
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 -->
 
 Uvicorn
@@ -1686,18 +1743,6 @@ https://realpython.com/python-data-classes/
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 
 http://www.uvicorn.org/toolkit
--->
-
-<!--
-https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
-
-ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-
-https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-https://github.com/jacobian/demo-thing
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 -->
 
 
@@ -2066,6 +2111,7 @@ https://app.pluralsight.com/library/courses/python-design-patterns-building-more
 
 * [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
 
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
 https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
 https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
 https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
