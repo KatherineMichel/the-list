@@ -1205,6 +1205,103 @@ https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A coll
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
+<!--
+    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
+      [Introduction to HTTP](https://launchschool.com/books/http)
+    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
+
+    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+    
+    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+  * Reference
+    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
+    
+  * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+    * [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) / [Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+    * Content Security Policy (CSP) - [Google](https://developers.google.com/web/fundamentals/security/csp/) / [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+  * Performance
+    * [High Performance Browser Networking](https://hpbn.co/), \
+    * HTTP Caching - [Google](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+    * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
+  * HTTPS
+    * [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+    * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
+    * [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+    * [What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content), [Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+  * HTTP/2
+
+      [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+
+    * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+* TCP
+  * [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
+* UDP
+  * [QUIC](https://www.chromium.org/quic)
+  
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+    
+* Interaction
+  * Desktop
+    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+* Interaction    
+  * Mobile
+    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
+    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+  * Hardware Agnostic
+    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
+    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
+  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+* HTML / DOM
+  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
+* Appearance
+  * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
+    * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+  * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+  
+* Access
+  * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+  * [Permissions](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API), [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+  * [Web Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) , [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+* Network
+  * [XMLHttpRequest2](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) / [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Server-sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+  * [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+
+https://github.com/GoogleChrome/lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+* Performance
+  * Rendering
+    * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+    * [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+    
+    * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+
+    * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+    
+  * Offline
+    * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+  * Measure
+    * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+    * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+* Semantics / SEO / Accessibility
+  * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+-->
+
 ## Learning Resources- Priority Right now
 
 Checklists
