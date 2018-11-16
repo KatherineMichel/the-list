@@ -973,10 +973,6 @@ PyCon UK, PyCon Australia, and DjangoCon Australia
 * [PyCon AU](https://pycon-au.org)
 * [DjangoCon Australia](http://djangocon.com.au)
 
-<!--
-Videos
--->
-
 PyCon Canada
 * [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
 
@@ -1032,24 +1028,11 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 
 https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
 
-See Python Tricks
-
-David Beazley
-http://www.dabeaz.com/tutorials.html
-https://speakerdeck.com/dabeaz
-
-https://www.slideshare.net/MariattaWijaya
-
-https://docs.python-guide.org/#writing-great-python-code
-
-https://github.com/treyhunner
-http://treyhunner.com/projects/ | Projects - Trey Hunner
-https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
-
 List Comprehensions and Generator Expressions
 http://pycon2018.trey.io/
 https://www.youtube.com/watch?v=_6U1XoxyyBY
 https://pycon2016.regex.training/
+https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
 
 https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
 
@@ -1059,13 +1042,11 @@ https://www.youtube.com/watch?v=OSGv2VnC0go
 http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
 https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
 https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
-
 https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
 https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
 https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
 https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
 
-https://twitter.com/nnja/status/996441829909385216 | 𝓝𝓲𝓷𝓪 𝓩𝓪𝓴𝓱𝓪𝓻𝓮𝓷𝓴𝓸 on Twitter: "🐍 Elegant Solutions for Everyday Python problems from #PyCon2018 Slides: https://t.co/pV7Wn5JRIS Video: https://t.co/RQ8x2Vsvq6"
 https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
 https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
 -->
@@ -1075,8 +1056,6 @@ http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.o
 http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
 
 Python Clean Architecture
-
-* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
 
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 * [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
@@ -1091,6 +1070,72 @@ https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slide
 https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
 https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
 -->
+
+<!--
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+-->
+
+<!--
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
+
+https://github.com/Droogans/unmaintainable-code
+
+How Computers Work
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+-->
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
+
+
 
 
 ## Coding Practice
@@ -1164,74 +1209,7 @@ https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A coll
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
-<!--
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
--->
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-
-https://github.com/CyC2018/CS-Notes
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
-
-https://github.com/Droogans/unmaintainable-code
-
-How Computers Work
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
--->
-
-
-
-
-## Python and Django- Priority Right now
+## Learning Resources- Priority Right now
 
 Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
@@ -1240,10 +1218,15 @@ Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 
+<!--
+Joel, Jeff blogs
+-->
+
 Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 * [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
+* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
@@ -1257,10 +1240,15 @@ Python
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 * [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 
+Internals
+* [Python Tutor](http://pythontutor.com)
+
 Django
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
 * [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
+* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Django Rest Framework](http://www.django-rest-framework.org) 
 
@@ -1276,11 +1264,8 @@ Django and Python Contributing
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
-
 <!--
 https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
-
-* [Python Tutor](http://pythontutor.com)
 
 https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
 
@@ -1321,9 +1306,10 @@ https://github.com/django/django-contrib-comments
 ## X Driven Development
 ## Software Construction Tools
 
-https://wsvincent.com/ | William S. Vincent
-https://djangoforbeginners.com/introduction/ | Introduction | Django For Beginners
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+High Profile/Performance Python Use
+
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+
 https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
 https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
 
@@ -1332,17 +1318,11 @@ https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python
 -->
 
 <!--
-Django Core
-https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
-
 Mariatta
-https://github.com/Mariatta | Mariatta
 https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://software.intel.com/en-us/distribution-for-python | Intel® Distribution for Python* | Intel® Software
 -->
 
 ## Packaging
@@ -1439,6 +1419,14 @@ https://github.com/pypa/pipfile/issues/27
 Official Python Tutorial
 * [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
 
+Implementations
+* [Python Alternate Implementations](https://docs.python.org/3/reference/introduction.html#alternate-implementations)
+* [Intel® Python Distribution (GIL)](https://software.intel.com/en-us/distribution-for-python)
+
+<!--
+https://wiki.python.org/moin/GlobalInterpreterLock
+-->
+
 Awesome Python
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
 * [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
@@ -1488,24 +1476,7 @@ Python- Books (See also: Data Science books)
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
-<!--
-High Profile/Performance Python Use
-
-https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
-
-https://wsvincent.com/ | William S. Vincent
-https://github.com/wsvincent | wsvincent (William S. Vincent)
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-
-https://www.amazon.com/Django-Unleashed-Andrew-Pinkham/dp/0321985079 | Django Unleashed: Andrew Pinkham: 9780321985071: Amazon.com: Books
-
-https://twitter.com/hjwp | Harry Percival (@hjwp) | Twitter
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
--->
-
-Useful Python Resources
+Python/Django Teachers and Useful Python Resources
 * [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
@@ -1513,28 +1484,35 @@ Useful Python Resources
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
 * [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
+* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 * [Dan Bader: Real Python](https://realpython.com)
 * [Real Python Courses](https://realpython.com/courses)
+* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
+* [Harry Percival Twitter](https://twitter.com/hjwp)
 * [Jeff Knupp Blog](https://jeffknupp.com/blog), [Jeff Knupp Archives](https://jeffknupp.com/blog/archives), and [Jeff Knupp YouTube](https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ)
 * [João Ventura: Full Speed Python GitHub](https://github.com/joaoventura/full-speed-python)
 * [Kenneth Love Treehouse](https://teamtreehouse.com/kennethlove) and [Kenneth Love GitHub](https://github.com/kennethlove)
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
+* [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
+* [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+* [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 * [Stephen Sugden: Crash into Python](https://stephensugden.com/crash_into_python)
-* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), [Trey Hunner Projects](http://treyhunner.com/projects), [Trey Hunner GitHub](https://github.com/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
+* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 
@@ -1552,6 +1530,8 @@ doctest
 -->
 
 <!--
+https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
+
 Kenneth Love
 "This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
 
@@ -1794,6 +1774,10 @@ https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | P
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
 
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
 Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
@@ -2032,7 +2016,7 @@ http://pythontesting.net/start-here/
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+ * [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
 
 ## Python and Django Testing Tools
 
@@ -2251,11 +2235,18 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
 * [Getting Started with Django](http://gettingstartedwithdjango.com)
 * [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
  
+<!--
+* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
+
+https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+-->
+
 Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
