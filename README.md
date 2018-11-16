@@ -710,9 +710,6 @@ https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patte
 https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
 https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
 https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
-
-[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
-[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
 -->
 
 ## General Software Design Patterns
