@@ -501,103 +501,23 @@ https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance O
 Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
 
 MVCs
 * [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
+Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
 <!--
 functional programming- immutability/immutable data structures
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://en.wikipedia.org/wiki/CAP_theorem
--->
-
-## Philosophies
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Principles of Chaos Engineering](http://principlesofchaos.org)
-
-<!--
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-http://highscalability.com/ | High Scalability -
--->
-
-## Types of Architectures
-
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-
-<!--
-http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
-
-https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
--->
-
-## Clean Architecture
-
-<!--
-Clean architecture in Python and Django
-
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
 ## Object-Oriented Programming
@@ -682,6 +602,69 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 
 ## Software Construction Tools
 
+Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+
+TLA+
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+<!--
+https://www.dabeaz.com/tla.html | An Introduction to TLA+
+
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code | (1) Planning with pseudo-code | Becoming a better programmer | Intro to JS: Drawing & Animation | Computer programming | Computing | Khan Academy
+
+https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
+https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+state machine diagram
+-->
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+UML- Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
+<!--
+UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
+
+
+https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
+
+Modeling
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+
+
+https://twitter.com/KatiMichel/status/995797396461207553
+https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+http://pydotplus.readthedocs.io/
+http://www.graphviz.org/
+https://graphviz.gitlab.io/documentation/
+https://graphviz.gitlab.io/download/
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792
+
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
+-->
+
 * [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
 
 <!--
@@ -700,72 +683,6 @@ Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 -->
 
-Pseudocode
-* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
-
-<!--
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code | (1) Planning with pseudo-code | Becoming a better programmer | Intro to JS: Drawing & Animation | Computer programming | Computing | Khan Academy
-
-https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
-https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-state machine diagram
--->
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-UML- Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
-<!--
-TLA+
-https://en.wikipedia.org/wiki/TLA%2B
-https://www.dabeaz.com/tla.html | An Introduction to TLA+
-
-UML
-
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams | Unified Modeling Language - Wikipedia
-
-https://twitter.com/KatiMichel/status/995797396461207553
-https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-http://pydotplus.readthedocs.io/
-http://www.graphviz.org/
-https://graphviz.gitlab.io/documentation/
-https://graphviz.gitlab.io/download/
-
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792
-
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
--->
-
-<!--
-https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
-
-Modeling
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Sequence_diagram | Sequence diagram - Wikipedia
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
--->
-
-
-
 ## Design Patterns
 
 Design Patterns- Gang of Four (GoF)
@@ -781,6 +698,11 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 <!--
+Software Design Patterns catalog
+
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
 Awesome Design Patterns
@@ -788,7 +710,44 @@ https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patte
 https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
 https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
 https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
+
+[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
+[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
 -->
+
+## General Software Design Patterns
+
+Creational Patterns
+* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
+* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
+
+Structural Patterns
+* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
+
+Behavioral Patterns
+* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
+* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
+* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
+* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 ## Python and Django Design Patterns and Algorithms
 
@@ -823,46 +782,86 @@ https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django
 https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
 <!--
-Software Design Patterns catalog
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
 
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-[loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
-[event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)
+https://en.wikipedia.org/wiki/CAP_theorem
+-->
 
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Design_Patterns
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+## Philosophies
 
-https://en.wikipedia.org/wiki/Creational_pattern | Creational pattern - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_factory_pattern | Abstract factory pattern - Wikipedia
-https://en.wikipedia.org/wiki/Builder_pattern | Builder pattern - Wikipedia
-https://en.wikipedia.org/wiki/Factory_method_pattern | Factory method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Prototype_pattern | Prototype pattern - Wikipedia
-https://en.wikipedia.org/wiki/Singleton_pattern | Singleton pattern - Wikipedia
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Principles of Chaos Engineering](http://principlesofchaos.org)
 
-https://en.wikipedia.org/wiki/Structural_pattern | Structural pattern - Wikipedia
-https://en.wikipedia.org/wiki/Adapter_pattern | Adapter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Bridge_pattern | Bridge pattern - Wikipedia
-https://en.wikipedia.org/wiki/Composite_pattern | Composite pattern - Wikipedia
-https://en.wikipedia.org/wiki/Decorator_pattern | Decorator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Facade_pattern | Façade pattern - Wikipedia
-https://en.wikipedia.org/wiki/Flyweight_pattern | Flyweight pattern - Wikipedia
-https://en.wikipedia.org/wiki/Proxy_pattern | Proxy pattern - Wikipedia
+<!--
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 
-https://en.wikipedia.org/wiki/Behavioral_pattern | Behavioral pattern - Wikipedia
-https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern | Chain-of-responsibility pattern - Wikipedia
-https://en.wikipedia.org/wiki/Command_pattern | Command pattern - Wikipedia
-https://en.wikipedia.org/wiki/Interpreter_pattern | Interpreter pattern - Wikipedia
-https://en.wikipedia.org/wiki/Iterator_pattern | Iterator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Mediator_pattern | Mediator pattern - Wikipedia
-https://en.wikipedia.org/wiki/Memento_pattern | Memento pattern - Wikipedia
-https://en.wikipedia.org/wiki/Observer_pattern | Observer pattern - Wikipedia
-https://en.wikipedia.org/wiki/State_pattern | State pattern - Wikipedia
-https://en.wikipedia.org/wiki/Strategy_pattern | Strategy pattern - Wikipedia
-https://en.wikipedia.org/wiki/Template_method_pattern | Template method pattern - Wikipedia
-https://en.wikipedia.org/wiki/Visitor_pattern | Visitor pattern - Wikipedia
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+http://highscalability.com/ | High Scalability -
+-->
+
+## Types of Architectures
+
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+
+https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+http://users.ece.utexas.edu/~adnan/pike.html
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+-->
+
+## Clean Architecture
+
+<!--
+Clean architecture in Python and Django
+
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
 ## Programming Languages
@@ -1251,6 +1250,10 @@ Django
 * [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Django Rest Framework](http://www.django-rest-framework.org) 
+
+Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
 Testing
 * [Automation Panda](https://automationpanda.com)
