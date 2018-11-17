@@ -347,88 +347,6 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
-## Protocols
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-
-<!--
-Platform Status
-[Chrome](https://www.chromestatus.com/features), 
-    
-Platform Releases
-[Chrome](https://chromereleases.googleblog.com/), 
-
-Platform Updates
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-
-
-Google Developers- General
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://www.udacity.com/course/website-performance-optimization--ud884
--->
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-
-HTTP Archive
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
--->
-
-Mozilla- Documentation
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
 ## Programming Books
 
 Books
@@ -1205,6 +1123,89 @@ https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A coll
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
+
+## Protocols
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+
+<!--
+Platform Status
+[Chrome](https://www.chromestatus.com/features), 
+    
+Platform Releases
+[Chrome](https://chromereleases.googleblog.com/), 
+
+Platform Updates
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+
+
+Google Developers- General
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+-->
+
+<!--
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+
+HTTP Archive
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
+Mozilla- Documentation
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
 <!--
     * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
       [Introduction to HTTP](https://launchschool.com/books/http)
@@ -1362,6 +1363,10 @@ Django and Python Contributing
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 <!--
+https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
+https://github.com/sayazamurai/python-vs-javascript
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
+
 https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
 
 https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
