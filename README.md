@@ -1693,6 +1693,7 @@ http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_70
 -->
 
 <!--
+https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
 https://realpython.com/python-code-quality
 https://realpython.com/resources
 https://realpython.com/python-basics
@@ -2511,6 +2512,15 @@ API Star
 * [API Star Discuss](https://discuss.apistar.org)
 
 <!--
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
+https://www.tornadoweb.org/en/stable/ | Tornado Web Server — Tornado 5.1.1 documentation
+https://greenlet.readthedocs.io/en/latest/ | greenlet: Lightweight concurrent programming — greenlet 0.4.0 documentation
+
 https://realpython.com/python-data-classes/
 
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
