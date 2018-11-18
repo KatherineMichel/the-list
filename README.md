@@ -1201,6 +1201,28 @@ https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-reque
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 -->
 
+<!--
+https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
+https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
+
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+https://developers.google.com/web/fundamentals/ | Web Fundamentals  |  Google Developers
+https://developers.google.com/web/tools/ | Tools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/ | Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://www.google.com/search?q=google+chrome+dev+tool+shortcuts&oq=google+chrome+dev+tool+shortcuts&aqs=chrome..69i57j0j69i64.4879j0j7&sourceid=chrome&ie=UTF-8 | google chrome dev tool shortcuts - Google Search
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/shows/udacity/ | Udacity Courses  |  Web  |  Google Developers
+
+https://support.google.com/chrome/#topic=7438008 | Google Chrome Help
+https://developer.chrome.com/home | Extensions: maximize the Chrome browsing experience - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/devtools/docs/blackboxing | Blackbox JavaScript Source Files - Google Chrome
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+-->
+
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
