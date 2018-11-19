@@ -341,10 +341,6 @@ JavaScript Scene
 
 <!--
 https://medium.com/javascript-scene
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
 ## Programming Books
@@ -371,12 +367,9 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 
 * [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
 * [Steven C. McConnell](http://stevemcconnell.com)
 * [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 <!--
@@ -438,27 +431,21 @@ functional programming- immutability/immutable data structures
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
-## Object-Oriented Programming
+## Object-Oriented Programming and Software Construction
 
 Object-Oriented Programming
 * [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+Characteristics
 * [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
 * [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 <!--
-Dan Bader OO Recommendations
-https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
-
-https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
-https://docs.python.org/3/tutorial/classes.html
-https://learnpythonthehardway.org/book/
-https://github.com/faif/python-patterns
-https://www.toptal.com/python/python-design-patterns
-https://www.packtpub.com/application-development/python-3-object-oriented-programming
-http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
-
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Object_composition
@@ -472,22 +459,6 @@ https://en.wikipedia.org/wiki/Immutable_object
 
 https://en.wikipedia.org/wiki/Memoization
 -->
-
-## Object Oriented Software Construction
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Software Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-
-Relational
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
 
 ## X Driven Development
 
@@ -520,9 +491,6 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 
 ## Software Construction Tools
 
-Pseudocode
-* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
-
 TLA+
 * [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
 
@@ -537,18 +505,10 @@ https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tas
 state machine diagram
 -->
 
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
 UML- Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 * [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
 * [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
 <!--
 UML
@@ -573,14 +533,6 @@ http://pydotplus.readthedocs.io/
 http://www.graphviz.org/
 https://graphviz.gitlab.io/documentation/
 https://graphviz.gitlab.io/download/
-
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792
-
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
 -->
 
 * [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
@@ -611,7 +563,6 @@ Design Patterns- General
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
 * [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
@@ -664,38 +615,9 @@ Behavioral Patterns
 * [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
+
 ## Python and Django Design Patterns and Algorithms
 
-Python and Django Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-<!--
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
--->
 
 ## Programming Concepts and Tools
 
@@ -753,31 +675,6 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
 ## Clean Architecture
 
-<!--
-Clean architecture in Python and Django
-
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
--->
 
 ## Programming Languages
 
@@ -787,37 +684,12 @@ Programming Languages
 * [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (mapping)
--->
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
 
 ## Code Style
 
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
 
 
 ## Talk Aggregation
@@ -829,8 +701,6 @@ Style
 * [Tech Yaks](https://techyaks.com)
 
 <!--
-https://techyaks.com/top-python-talks.html
-
 https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
 https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
 -->
@@ -930,61 +800,6 @@ https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognit
 
 ## Useful Talks and Tutorials
 
-
-<!--
-Object-Oriented Design Patterns- Python
-
-idiomatic, pythonic code
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
-https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
-
-List Comprehensions and Generator Expressions
-http://pycon2018.trey.io/
-https://www.youtube.com/watch?v=_6U1XoxyyBY
-https://pycon2016.regex.training/
-https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
-
-https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
-
-https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=14
-https://www.youtube.com/watch?v=OSGv2VnC0go
-
-http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
-https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
-https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
-https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
-https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
-https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
-https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
-
-https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
-https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
--->
-
-<!--
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-Python Clean Architecture
-
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
--->
-
 <!--
 https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
 https://memberportal.1millionwomentotech.com/diy
@@ -1050,8 +865,6 @@ https://dzone.com/articles/every-programmer-should-know
 -->
 
 
-
-
 ## Coding Practice
 
 Math/Programming Problems and Projects
@@ -1108,22 +921,6 @@ Top Links of All Times
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-
-<!--
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
--->
-
-
 ## Protocols
 
 Preethi Kasireddy: How The Web Works
@@ -1132,6 +929,7 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
 
 
 
@@ -1229,6 +1027,20 @@ Mozilla- Documentation
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web/HTTP | HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods | HTTP request methods - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Session | A typical HTTP session - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web | Identifying resources on the Web - HTTP | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+
     * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
       [Introduction to HTTP](https://launchschool.com/books/http)
     * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
@@ -1327,16 +1139,54 @@ https://github.com/GoogleChrome/lighthouse
 
 ## Learning Resources- Priority Right now
 
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+<!--
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (mapping)
+-->
+
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
 
 <!--
 Joel, Jeff blogs
 -->
+
+Django
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
+* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
+* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
+* [Django Rest Framework](http://www.django-rest-framework.org) 
 
 Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
@@ -1359,14 +1209,47 @@ Python
 Internals
 * [Python Tutor](http://pythontutor.com)
 
-Django
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)
-* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
-* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
-* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
-* [Django Rest Framework](http://www.django-rest-framework.org) 
+Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+<!--
+Dan Bader OO Recommendations
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
+https://docs.python.org/3/tutorial/classes.html
+https://learnpythonthehardway.org/book/
+https://github.com/faif/python-patterns
+https://www.toptal.com/python/python-design-patterns
+https://www.packtpub.com/application-development/python-3-object-oriented-programming
+http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
+-->
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Relational
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 
 Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
@@ -1375,7 +1258,7 @@ Unified Modeling Language in Practice
 Testing
 * [Automation Panda](https://automationpanda.com)
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-* [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
+* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 Django and Python Contributing
@@ -1385,6 +1268,27 @@ Django and Python Contributing
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 <!--
+https://techyaks.com/top-python-talks.html
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+
+https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792
+
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
+
+https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+
 https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
 https://github.com/sayazamurai/python-vs-javascript
 https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
@@ -1409,6 +1313,117 @@ https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 -->
 
+Python and Django Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+<!--
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
+Django Design patterns
+
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+
+https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
+
+https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
+
+https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
+https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
+
+https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
+-->
+
+<!--
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+Python Clean Architecture
+
+* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
+* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
+
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+
+https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
+https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
+-->
+
+<!--
+Clean architecture in Python and Django
+
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+-->
+
+<!--
+Object-Oriented Design Patterns- Python
+
+idiomatic, pythonic code
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+
+https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
+
+List Comprehensions and Generator Expressions
+http://pycon2018.trey.io/
+https://www.youtube.com/watch?v=_6U1XoxyyBY
+https://pycon2016.regex.training/
+https://github.com/treyhunner/easier-classes | treyhunner/easier-classes: Easier Classes: Python classes without all the cruft (a 30 minute talk)
+
+https://speakerdeck.com/ramalho/features-and-patterns-for-idiomatic-python | Features & Patterns for Idiomatic Python // Speaker Deck
+
+https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=14
+https://www.youtube.com/watch?v=OSGv2VnC0go
+
+http://shop.oreilly.com/product/0636920039815.do | Python Epiphanies - O'Reilly Media
+https://github.com/oreillymedia/python_epiphanies | oreillymedia/python_epiphanies
+https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-williams | Tutorial: Python Epiphanies by Stuart Williams // Speaker Deck
+https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Immersion - PyCon 2018 - YouTube
+https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
+https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
+https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
+
+https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
+https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
+-->
+
 <!--
 ## Python Profiling
 ## Python Debugging
@@ -1418,17 +1433,7 @@ https://github.com/django/django-contrib-comments
 ## Working with Objects
 ## Django Request and Response Cycle
 ## Request and Response Cycle- General
-## Programming Paradigms
-## Object-Oriented Programming
-## Design Patterns
-## Python and Django Design Patterns and Algorithms
-## Programming Language Comparisons
-## Clean Architecture
-## Authority Figures
-## Books
-## Object Oriented Software Construction
 ## X Driven Development
-## Software Construction Tools
 
 High Profile/Performance Python Use
 
@@ -1447,6 +1452,8 @@ https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Works
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
 
 ## Packaging
@@ -1607,16 +1614,11 @@ Python/Django Teachers and Useful Python Resources
 * [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
 * [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Dan Bader: Real Python](https://realpython.com)
 * [Real Python Courses](https://realpython.com/courses)
-* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [Eric Matthes: Introduction to Python](http://introtopython.org)
-* [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [Harry Percival Twitter](https://twitter.com/hjwp)
@@ -1629,16 +1631,13 @@ Python/Django Teachers and Useful Python Resources
 * [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 * [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
-* [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 * [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 * [Stephen Sugden: Crash into Python](https://stephensugden.com/crash_into_python)
-* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), [Trey Hunner Projects](http://treyhunner.com/projects), [Trey Hunner GitHub](https://github.com/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+* [Trey Hunner Projects](http://treyhunner.com/projects) and [Trey Hunner GitHub](https://github.com/treyhunner)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
-* [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
 
 Learning Resources
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
@@ -1681,11 +1680,7 @@ Python Official Resources
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
 Programming Language Leveling Up and Comparisons- Python
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 * [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 
 Python and Python Syntax and Semantics
 * [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -1694,14 +1689,7 @@ Python and Python Syntax and Semantics
 * [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
 * [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
 
-Python Resources
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
-* [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
-* [W3Schools Python Tutorial](https://www.w3schools.com/python)
-
 Other Tutorials
-* [Tutorials Point Python](http://www.tutorialspoint.com/python)
 * [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
 * [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
 * [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
@@ -1969,9 +1957,6 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
-Python Code Execution Visualization
-* [Python Tutor](http://pythontutor.com)
-
 Python Internals- Philip Guo
 * [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
 * [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
@@ -2112,8 +2097,6 @@ Common for Python
 * [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 
 <!--
-* [Automation Panda](https://automationpanda.com)
-
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
@@ -2140,13 +2123,8 @@ http://pythontesting.net/start-here/
 ## Python and Django Testing Books
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
- * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
- * [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
 
 ## Python and Django Testing Tools
-
-pytest and Django Test Plus
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
@@ -2336,9 +2314,6 @@ Django Tutorials (Official, Mozilla Developer Network and SIBTC)
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
 
-Simple is Better than Complex
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
 
@@ -2349,7 +2324,6 @@ Python- Django- Tutorial and Book Lists
 
 Two Scoops Books
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
 
 <!--
 https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc | Two Scoops of Django 1.11 FAQ – Two Scoops Press
@@ -2359,16 +2333,11 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [High Performance Django](https://highperformancedjango.com)
 * [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
 * [Getting Started with Django](http://gettingstartedwithdjango.com)
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)
-* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
-* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
  
 <!--
-* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
-
 https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
 -->
 
@@ -2419,7 +2388,6 @@ Python- Django- Project Stucture
 ## Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org)  
 * [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework)  
 * [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 * [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
