@@ -947,6 +947,23 @@ Browser Object Model (BOM) and Document Object Model (DOM)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
+
+http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
+
+https://developer.mozilla.org/en-US/docs/DOM
+
+JavaScript Tutorials- Mozilla
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
+
+https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
+https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
+https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
+-->
+
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
@@ -965,13 +982,6 @@ https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
-
-https://developer.mozilla.org/en-US/docs/DOM
-
-JavaScript Tutorials- Mozilla
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
 
 * [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
 
@@ -1051,6 +1061,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 Looks interesting
 https://www.ibm.com/developerworks/web/library/wa-javascriptstart/index.html
 https://www.ibm.com/developerworks/library/wa-objectsinjs-v1b/
+https://www.ibm.com/developerworks/library/wa-javascriptstart-variables/index.html | Get started with the JavaScript language, Part 2: Variables
 
 https://docs.microsoft.com/en-us/scripting/
 https://docs.microsoft.com/en-us/scripting/javascript/advanced
@@ -1073,6 +1084,13 @@ JSON and Ajax
 Mozilla Ajax Tutorial
 * [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 
+<!--
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON | Working with JSON - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX | Ajax - Developer guides | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest | Using XMLHttpRequest - Web APIs | MDN
+-->
+
 ## Mozilla and Google- General Docs
 
 Mozilla- Documentation
@@ -1094,6 +1112,24 @@ Google Chrome Docs
 * [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
 
 <!--
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
+
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
+
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
 
@@ -1121,14 +1157,21 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 
 https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
 
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 
 https://techyaks.com/top-python-talks.html
 
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+
 https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
 https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
+
+https://en.wikipedia.org/wiki/Dynamic_programming | Dynamic programming - Wikipedia
+
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
 -->
 
 Programming Language Comparisons
@@ -1174,6 +1217,12 @@ Django
 * [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Django Rest Framework](http://www.django-rest-framework.org) 
+
+<!--
+http://www.django-rest-framework.org/api-guide/
+http://www.django-rest-framework.org/tutorial
+http://www.tomchristie.com/rest-framework-2-docs/api-guide
+-->
 
 Classy
 * [Classy Class-Based Views](http://ccbv.co.uk)
@@ -1296,6 +1345,12 @@ Testing
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
 * [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+<!--
+https://docs.python.org/2.7/library/unittest.html#assert-methods | 25.3. unittest — Unit testing framework — Python 2.7.15 documentation
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+-->
 
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
@@ -2498,6 +2553,7 @@ http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
 
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
 https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
+https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
 https://www.tornadoweb.org/en/stable/ | Tornado Web Server — Tornado 5.1.1 documentation
 https://greenlet.readthedocs.io/en/latest/ | greenlet: Lightweight concurrent programming — greenlet 0.4.0 documentation
 
