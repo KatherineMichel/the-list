@@ -966,6 +966,55 @@ https://developer.mozilla.org/en-US/docs/tag/JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 
+https://developer.mozilla.org/en-US/docs/DOM
+
+JavaScript Tutorials- Mozilla
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
+
+* [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+    
+* Interaction
+  * Desktop
+    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+* Interaction    
+  * Mobile
+    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
+    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+  * Hardware Agnostic
+    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
+    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
+  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
+      [Introduction to HTTP](https://launchschool.com/books/http)
+    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
+
+    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+    
+    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+  * Reference
+    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
+    
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
+
 https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
