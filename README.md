@@ -339,10 +339,6 @@ JavaScript Scene
 * ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
-<!--
-https://medium.com/javascript-scene
--->
-
 ## Programming Books
 
 Books
@@ -436,6 +432,7 @@ https://en.wikipedia.org/wiki/State_diagram
 https://en.wikipedia.org/wiki/Interface_(computing)
 
 https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
 
 https://en.wikipedia.org/wiki/Immutable_object
 
@@ -822,10 +819,6 @@ https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
 https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
 
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
-
 https://github.com/Droogans/unmaintainable-code
 
 How Computers Work
@@ -878,6 +871,10 @@ https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274
 https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
 
 https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
 -->
 
 ## Python- Coding Practice
@@ -922,8 +919,41 @@ Recommended by Eric Elliot
 * [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 <!--
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+Recommended by Addy Osmani
 
+Programming JavaScript Applications
+http://chimera.labs.oreilly.com/books/1234000000262
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+
+Maintainable JavaScript: Nicholas C. Zakas
+
+https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
+https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
+-->
+
+<!--
+Learning JavaScript Design Patterns: Addy Osmani
+https://github.com/addyosmani/essential-js-design-patterns
+* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+JavaScript Design Patterns: Stoyan Stefanov
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+JavaScript
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+-->
+
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+<!--
+Language Comparisons
 https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
 https://github.com/sayazamurai/python-vs-javascript
 https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
@@ -976,7 +1006,27 @@ Mozilla JavaScript Tutorials
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS (JavaScript Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
 <!--
+Looks interesting
+https://developer.ibm.com/technologies/web-development/
+Get started with the JavaScript language, Part 1
+https://www.ibm.com/developerworks/web/library/wa-javascriptstart/index.html
+Understanding built-in objects in JavaScript
+https://www.ibm.com/developerworks/library/wa-objectsinjs-v1b/
+https://www.ibm.com/developerworks/library/wa-javascriptstart-variables/index.html | Get started with the JavaScript language, Part 2: Variables
+
+JavaScript in Visual Studio
+https://docs.microsoft.com/en-us/scripting/
+https://docs.microsoft.com/en-us/scripting/javascript/misc/operator-subtractsummary-javascript
+
+https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new/javascript-version-information
+
+
+
 https://developer.mozilla.org/en-US/docs/tag/Web
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
@@ -1025,23 +1075,23 @@ JavaScript Event Keycodes
     
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
-
-[Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+
+[Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index
 
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function#Function_declaration_hoisting
@@ -1056,25 +1106,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
-
-
-Looks interesting
-https://www.ibm.com/developerworks/web/library/wa-javascriptstart/index.html
-https://www.ibm.com/developerworks/library/wa-objectsinjs-v1b/
-https://www.ibm.com/developerworks/library/wa-javascriptstart-variables/index.html | Get started with the JavaScript language, Part 2: Variables
-
-https://docs.microsoft.com/en-us/scripting/
-https://docs.microsoft.com/en-us/scripting/javascript/advanced
-https://docs.microsoft.com/en-us/scripting/javascript/misc/operator-subtractsummary-javascript
-
-https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new/javascript-version-information
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 -->
 
 JSON and Ajax
@@ -1091,12 +1122,46 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX | Ajax - Developer guide
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest | Using XMLHttpRequest - Web APIs | MDN
 -->
 
-## Mozilla and Google- General Docs
+Facebook- React (JavaScript)
+* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
+* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Components](http://react-components.com)
+* [React JSFiddle](https://jsfiddle.net/reactjs)
+
+<!--
+https://reactjs.org
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React - React
+https://github.com/reduxjs/react-redux
+
+Explaining React's license | Engineering Blog | Facebook Code
+https://code.facebook.com/posts/112130496157735/explaining-react-s-license
+-->
+
+<!--
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+-->
+
+Create React App
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
+
+## Mozilla, Microsoft, and Google- General Docs
 
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Microsoft- Web Development
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 
 Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
@@ -1147,6 +1212,71 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP | HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods | HTTP request methods - HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Session | A typical HTTP session - HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web | Identifying resources on the Web - HTTP | MDN
+-->
+
+<!--
+https://medium.freecodecamp.org/tagged/javascript
+https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
+https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
+https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
+https://tylermcginnis.com/courses/advanced-javascript/
+
+
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a
+https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c
+
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
+
+https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
+
+http://playcanv.as/p/JtL2iqIH/
+https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
+
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
+https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
+https://medium.com/javascript-scene/live-reloading-browser-previews-shotgun-episode-4-bab7a0508d71#.hpg534osi
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+
+* [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
+* [Why use static types in JavaScript?](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
 -->
 
 ## Learning Resources- Priority Right now
