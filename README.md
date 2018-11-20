@@ -1036,9 +1036,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function#Function_declaration_hoisting
 
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
