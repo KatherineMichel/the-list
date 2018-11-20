@@ -418,28 +418,10 @@ MVCs
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
 ## Object-Oriented Programming and Software Construction
 
 Object-Oriented Programming
 * [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-Characteristics
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 Software Principles (SOLID)
 * [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
@@ -1242,6 +1224,13 @@ https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — 
 Internals
 * [Python Tutor](http://pythontutor.com)
 
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
@@ -1267,6 +1256,17 @@ Object Oriented Software Construction
 Object Oriented Software Construction Principles
 * [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Object Oriented Software Characteristics
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
 
 Relational
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
