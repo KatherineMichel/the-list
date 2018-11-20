@@ -1129,6 +1129,9 @@ https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-cod
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 
 https://techyaks.com/top-python-talks.html
+
+https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
+https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
 -->
 
 Programming Language Comparisons
@@ -1163,7 +1166,6 @@ Stellar Programming Learning Resources
 
 <!--
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses | Leocardoso94/Free-Courses: A collection of free courses about programming
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
@@ -1176,18 +1178,12 @@ Django
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 * [Django Rest Framework](http://www.django-rest-framework.org) 
 
-<!--
-https://simpleisbetterthancomplex.com/series/2017/10/09/a-complete-beginners-guide-to-django-part-6.html | A Complete Beginner's Guide to Django - Part 6
-
 Classy
-http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
-https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
-Classy Django REST Framework
-http://cdrf.co
-https://github.com/vintasoftware/classy-django-rest-framework 
-Django Class-Based-View Inspector -- Classy CBV
-Classy Class-Based Views
-http://ccbv.co.uk
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+<!--
 http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
 
 https://github.com/django/django-localflavor
@@ -1215,10 +1211,6 @@ Python
 
 <!--
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
-
-https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
-https://github.com/sayazamurai/python-vs-javascript
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
 -->
 
 Internals
@@ -1230,6 +1222,12 @@ Software Paradigm Types
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 * [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+<!--
+https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
+https://github.com/sayazamurai/python-vs-javascript
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
+-->
 
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
@@ -1290,17 +1288,19 @@ Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
+UML Books
+* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
+* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+
 <!--
 http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
-
-https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792
-
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687 | UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition): Martin Fowler: 0785342193688: Amazon.com: Books
-
-https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983 | Use Cases: Requirements in Context (2nd Edition): Daryl Kulak, Eamonn Guiney: 9780321154989: Amazon.com: Books
 -->
 
 Testing
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Automation Panda](https://automationpanda.com)
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
 * [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
@@ -1329,9 +1329,6 @@ https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching ne
 
 https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
 https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-
-https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
-https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
 
 Joel, Jeff blogs
 
@@ -1493,7 +1490,7 @@ Django
 <!--
 Check core developer repo info
 
-https://github.com/pypa/sampleproject
+https://github.com/pypa/sampleproject | pypa/sampleproject: A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
 
 New
 https://python-packaging-tutorial.readthedocs.io/en/latest/ | The Sheer Joy of Packaging! — The Joy of Packaging 0.1 documentation
@@ -1514,6 +1511,7 @@ https://github.com/vintasoftware/python-api-checklist
 
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
 https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
@@ -1544,6 +1542,7 @@ https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plug
 https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
 https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
 
+pyproject.toml
 https://github.com/pypa/pipfile/issues/27
 -->
 
@@ -1645,6 +1644,39 @@ Learning Resources
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
 * [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
 
+Python Official Resources
+* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
+* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+
+Other Tutorials
+* [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
+* [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
+
+Python Websites and Newsletters
+* [Iron Python in Action](http://www.ironpythoninaction.com)
+* [Learn Python](http://www.learnpython.org)
+* [Python Central](http://www.pythoncentral.io)
+* [Python for Beginners](http://www.pythonforbeginners.com)
+* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+* [The Python Guru](http://thepythonguru.com)
+
+Python Tutors- YouTube
+* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
+* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
+* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
+* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
 https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
@@ -1676,26 +1708,6 @@ https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aar
 https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
 https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
 -->
-
-Python Official Resources
-* [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
-* [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-
-Programming Language Leveling Up and Comparisons- Python
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
-
-Other Tutorials
-* [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
-* [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
-* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
-* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 <!--
 https://www.datacamp.com/community/tutorials/data-structures-python
@@ -1748,25 +1760,10 @@ https://www.tutorialspoint.com/python/python_searching_algorithms.htm
 https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
 -->
 
-
-Python Websites and Newsletters
-* [Iron Python in Action](http://www.ironpythoninaction.com)
-* [Learn Python](http://www.learnpython.org)
-* [Python Central](http://www.pythoncentral.io)
-* [Python for Beginners](http://www.pythonforbeginners.com)
-* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
-* [The Python Guru](http://thepythonguru.com)
-
 <!--
 https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
 https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
 -->
-
-Python Tutors- YouTube
-* [Corey Schafer](http://coreyms.com), [Corey Schafer Twitter](https://twitter.com/CoreyMSchafer), and [Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
-* [Derek Banas YouTube](https://www.youtube.com/user/derekbanas/playlists), [Derek Banas](http://www.newthinktank.com), and [Derek Banas Twitter](https://twitter.com/NewThinkTank)
-* [Harrison Kinsley YouTube](https://www.youtube.com/user/sentdex/playlists), [Harrison Kinsley: PythonProgramming](https://pythonprogramming.net), and [Harrison Kinsley Twitter](https://twitter.com/Sentdex)
-* [Michael Kennedy Youtube](https://www.youtube.com/user/mkennedy66996694), [Michael Kennedy](https://blog.michaelckennedy.net), and [Michael Kennedy Twitter](https://twitter.com/mkennedy)
 
 <!--
 https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
