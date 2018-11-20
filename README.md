@@ -910,210 +910,156 @@ Preethi Kasireddy: How The Web Works
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
 
+## JavaScript
 
+JavaScript Scene
+* [JavaScript Scene](https://medium.com/javascript-scene)
 
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
+Recommended by Eric Elliot
+* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
+* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 <!--
-Platform Status
-[Chrome](https://www.chromestatus.com/features), 
-    
-Platform Releases
-[Chrome](https://chromereleases.googleblog.com/), 
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
-Platform Updates
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-
-
-Google Developers- General
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://www.udacity.com/course/website-performance-optimization--ud884
+https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
+https://github.com/sayazamurai/python-vs-javascript
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
 -->
 
 <!--
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
+https://www.youtube.com/user/pgbovine/playlists
 
-HTTP Archive
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u
+http://pgbovine.net/javascript-language-fundamentals.htm | Philip Guo - JavaScript Language Fundamentals
+http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
 -->
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
+JavaScript Styleguides
+* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS (JavaScript Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 <!--
-https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
-https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
+https://developer.mozilla.org/en-US/docs/tag/Web
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
-https://developers.google.com/web/fundamentals/ | Web Fundamentals  |  Google Developers
-https://developers.google.com/web/tools/ | Tools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/ | Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://www.google.com/search?q=google+chrome+dev+tool+shortcuts&oq=google+chrome+dev+tool+shortcuts&aqs=chrome..69i57j0j69i64.4879j0j7&sourceid=chrome&ie=UTF-8 | google chrome dev tool shortcuts - Google Search
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 
-https://developers.google.com/web/shows/udacity/ | Udacity Courses  |  Web  |  Google Developers
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
 
-https://support.google.com/chrome/#topic=7438008 | Google Chrome Help
-https://developer.chrome.com/home | Extensions: maximize the Chrome browsing experience - Google Chrome
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/devtools/docs/blackboxing | Blackbox JavaScript Source Files - Google Chrome
-https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
+
+[Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+
+[Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function#Function_declaration_hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+[Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+[Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+
+
+Looks interesting
+https://www.ibm.com/developerworks/web/library/wa-javascriptstart/index.html
+https://www.ibm.com/developerworks/library/wa-objectsinjs-v1b/
+
+https://docs.microsoft.com/en-us/scripting/
+https://docs.microsoft.com/en-us/scripting/javascript/advanced
+https://docs.microsoft.com/en-us/scripting/javascript/misc/operator-subtractsummary-javascript
+
+https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new/javascript-version-information
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 -->
+
+JSON and Ajax
+* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
+
+Mozilla Ajax Tutorial
+* [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+
+## Mozilla and Google- General Docs
 
 Mozilla- Documentation
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals)
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Google Developers- General
+* [Google Chrome Home](https://developer.chrome.com/home)
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
+
+https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
+https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
+
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP | HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods | HTTP request methods - HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Session | A typical HTTP session - HTTP | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web | Identifying resources on the Web - HTTP | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
-
-    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
-      [Introduction to HTTP](https://launchschool.com/books/http)
-    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
-
-    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-    
-    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-  * Reference
-    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
-    
-  * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-    * [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) / [Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-    * Content Security Policy (CSP) - [Google](https://developers.google.com/web/fundamentals/security/csp/) / [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-  * Performance
-    * [High Performance Browser Networking](https://hpbn.co/), \
-    * HTTP Caching - [Google](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
-    * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
-  * HTTPS
-    * [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-    * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
-    * [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
-    * [What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content), [Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-  * HTTP/2
-
-      [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
-
-    * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-* TCP
-  * [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
-* UDP
-  * [QUIC](https://www.chromium.org/quic)
-  
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-    
-* Interaction
-  * Desktop
-    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
-    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-    
-* Interaction    
-  * Mobile
-    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
-      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
-    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-  * Hardware Agnostic
-    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
-    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
-    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
-  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-
-* HTML / DOM
-  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
-* Appearance
-  * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
-    * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
-  * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
-  
-* Access
-  * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
-  * [Permissions](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API), [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
-  * [Web Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) , [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
-* Network
-  * [XMLHttpRequest2](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) / [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-  * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Server-sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
-  * [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-
-https://github.com/GoogleChrome/lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-
-* Performance
-  * Rendering
-    * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-    * [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-    
-    * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-
-    * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-    
-  * Offline
-    * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-  * Measure
-    * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-    * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-* Semantics / SEO / Accessibility
-  * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 -->
 
 ## Learning Resources- Priority Right now
@@ -1222,12 +1168,6 @@ Software Paradigm Types
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 * [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
-https://github.com/sayazamurai/python-vs-javascript
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
--->
 
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
