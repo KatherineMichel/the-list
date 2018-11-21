@@ -1134,9 +1134,9 @@ JSON and Ajax
 Mozilla Ajax and JSON
 * [Mozilla Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 * [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+* [Mozilla Ajax Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX | Ajax - Developer guides | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest | Using XMLHttpRequest - Web APIs | MDN
 -->
 
@@ -1214,11 +1214,29 @@ https://tylermcginnis.com/courses/advanced-javascript/
 
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
+https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a
+https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c
+https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
+
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
 https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
 https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925
 https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
 https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
@@ -1230,39 +1248,13 @@ https://medium.com/javascript-scene/higher-order-functions-composing-software-53
 https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
 https://medium.com/javascript-scene/functors-categories-61e031bac53f
 
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a
-https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c
-
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
-https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
-
-http://playcanv.as/p/JtL2iqIH/
-https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
-https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
-
-https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
 https://medium.com/javascript-scene/live-reloading-browser-previews-shotgun-episode-4-bab7a0508d71#.hpg534osi
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 
 * [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
 * [Why use static types in JavaScript?](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
@@ -1271,8 +1263,14 @@ https://medium.com/javascript-scene/functors-categories-61e031bac53f
 ## Learning Resources- Priority Right now
 
 <!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+Martin Fowler: Refactoring
 
+https://medium.mybridge.co
+https://medium.mybridge.co/tagged/python
+https://medium.mybridge.co/tagged/javascript
+https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 
 https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
