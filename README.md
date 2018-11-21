@@ -919,10 +919,20 @@ Recommended by Eric Elliot
 * [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 <!--
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
+Learning JavaScript Design Patterns: Addy Osmani
+https://github.com/addyosmani/essential-js-design-patterns
+* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+JavaScript Design Patterns: Stoyan Stefanov
+
 Recommended by Addy Osmani
 
 Programming JavaScript Applications
-http://chimera.labs.oreilly.com/books/1234000000262
+by Eric Elliott
+https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
+
 http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
 http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
@@ -930,18 +940,9 @@ Maintainable JavaScript: Nicholas C. Zakas
 
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
--->
 
-<!--
-Learning JavaScript Design Patterns: Addy Osmani
-https://github.com/addyosmani/essential-js-design-patterns
-* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-JavaScript Design Patterns: Stoyan Stefanov
 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
@@ -1126,15 +1127,16 @@ Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
 * [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Components](http://react-components.com)
-* [React JSFiddle](https://jsfiddle.net/reactjs)
 
 <!--
 https://reactjs.org
 https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React - React
 https://github.com/reduxjs/react-redux
+
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Components](http://react-components.com)
+* [React JSFiddle](https://jsfiddle.net/reactjs)
 
 Explaining React's license | Engineering Blog | Facebook Code
 https://code.facebook.com/posts/112130496157735/explaining-react-s-license
