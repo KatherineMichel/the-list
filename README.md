@@ -1018,6 +1018,7 @@ https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScrip
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index
@@ -1030,18 +1031,20 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+-->
 
+Mozilla- HTTP
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
 
-HTTP
-* [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-* [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-    
+<!--
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
@@ -1061,34 +1064,33 @@ https://www.w3.org/TR/webarch/
 
 Browser Object Model (BOM) and Document Object Model (DOM)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
+
+Mozilla- Document Object Model
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+
+Events
+* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
+* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
+* [DOM/JavaScript Events](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
+* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
+
+Mozilla- Events and Web APIs
+* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
 
 <!--
-https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript
-
 http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
-
-https://developer.mozilla.org/en-US/docs/DOM
-
-JavaScript Tutorials- Mozilla
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
 
 https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
 https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
 https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
 
-
-* [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
+[DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
 https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
-
-https://en.wikipedia.org/wiki/Event_(computing)
-https://en.wikipedia.org/wiki/Event_(computing)#Event_handler
-https://en.wikipedia.org/wiki/DOM_events#HTML_events
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers
 
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
@@ -1196,11 +1198,6 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Sho
 https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
 
 https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP | HTTP | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods | HTTP request methods - HTTP | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Session | A typical HTTP session - HTTP | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web | Identifying resources on the Web - HTTP | MDN
 -->
 
 <!--
