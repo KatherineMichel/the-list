@@ -909,6 +909,20 @@ Preethi Kasireddy: How The Web Works
 
 ## JavaScript
 
+<!--
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
+
+https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
+https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
+
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+-->
+
 Recommended by Addy Osmani and Eric Elliot
 * [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 * [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
@@ -1043,16 +1057,17 @@ Mozilla- HTTP
 * [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 * [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-
+* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+    
+* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+   
 <!--
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-* [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-* [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-        
+
 * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-* [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-    
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 
 https://www.w3.org/TR/webarch/
@@ -1182,18 +1197,6 @@ https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/ref
 https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
 
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
-
-https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
-https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
-
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
-
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
 https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
 
@@ -1203,11 +1206,13 @@ https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom 
 <!--
 https://medium.freecodecamp.org/tagged/javascript
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+
 https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
 https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
 https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
 https://tylermcginnis.com/courses/advanced-javascript/
 
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
@@ -1257,8 +1262,6 @@ https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-692504
 https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
 https://medium.com/javascript-scene/live-reloading-browser-previews-shotgun-episode-4-bab7a0508d71#.hpg534osi
 https://medium.com/javascript-scene/functors-categories-61e031bac53f
-
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 
 * [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
