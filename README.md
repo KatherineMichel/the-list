@@ -909,34 +909,25 @@ Preethi Kasireddy: How The Web Works
 
 ## JavaScript
 
-JavaScript Scene
-* [JavaScript Scene](https://medium.com/javascript-scene)
-
-Recommended by Eric Elliot
+Recommended by Addy Osmani and Eric Elliot
 * [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
 * [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 * [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
 * [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
+
+Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 <!--
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
-Learning JavaScript Design Patterns: Addy Osmani
-https://github.com/addyosmani/essential-js-design-patterns
-* [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-JavaScript Design Patterns: Stoyan Stefanov
-
-Recommended by Addy Osmani
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
 Programming JavaScript Applications
 by Eric Elliott
 https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
-
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-
-Maintainable JavaScript: Nicholas C. Zakas
 
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
@@ -951,49 +942,28 @@ https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorith
 https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 -->
 
+JavaScript Scene
+* [JavaScript Scene](https://medium.com/javascript-scene)
+
+One Pic
 * [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
 
-<!--
-Language Comparisons
-https://sayazamurai.github.io/python-vs-javascript/ | How to write X in both Python 3 and JavaScript (ES2015)
-https://github.com/sayazamurai/python-vs-javascript
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/ | Lists / arrays — python-v-js
--->
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
 
 <!--
-https://www.youtube.com/user/pgbovine/playlists
-
-https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u
-http://pgbovine.net/javascript-language-fundamentals.htm | Philip Guo - JavaScript Language Fundamentals
-http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf
 http://pythontutor.com/live.html#mode=edit
 Video 5, 13:25 Recap
 -->
 
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
 JavaScript Syntax
 * [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Browser Object Model (BOM) and Document Object Model (DOM)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
-
-http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
-
-https://developer.mozilla.org/en-US/docs/DOM
-
-JavaScript Tutorials- Mozilla
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
-
-https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
-https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
-https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
--->
 
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
@@ -1034,48 +1004,6 @@ https://developer.mozilla.org/en-US/docs/tag/JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 
-* [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-    
-* Interaction
-  * Desktop
-    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
-    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-    
-* Interaction    
-  * Mobile
-    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
-      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
-    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-  * Hardware Agnostic
-    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
-    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
-    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
-  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-
-    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
-      [Introduction to HTTP](https://launchschool.com/books/http)
-    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
-
-    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-    
-    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-  * Reference
-    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
-    
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
@@ -1107,40 +1035,99 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+
+
+HTTP
+* [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+    
+* [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+* [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+        
+* [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+* [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+    
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
+
+https://www.w3.org/TR/webarch/
+* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+   
+[httpstatuses.com](https://httpstatuses.com/)
+[Introduction to HTTP](https://launchschool.com/books/http)
+-->
+
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
+<!--
+https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript
+
+http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
+
+https://developer.mozilla.org/en-US/docs/DOM
+
+JavaScript Tutorials- Mozilla
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples | Examples of web and XML development using the DOM - Web APIs | MDN
+
+https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
+https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
+https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
+
+
+* [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
+
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
+
+https://en.wikipedia.org/wiki/Event_(computing)
+https://en.wikipedia.org/wiki/Event_(computing)#Event_handler
+https://en.wikipedia.org/wiki/DOM_events#HTML_events
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+* [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+    
+  * Desktop
+    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+       
+  * Mobile
+    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
+    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+  * Hardware Agnostic
+    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
+    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
+  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 -->
 
 JSON and Ajax
 * [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
-Mozilla Ajax Tutorial
+Mozilla Ajax and JSON
+* [Mozilla Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 * [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 
 <!--
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON | Working with JSON - Learn web development | MDN
-
 https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX | Ajax - Developer guides | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest | Using XMLHttpRequest - Web APIs | MDN
 -->
 
 Facebook- React (JavaScript)
-* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+* [Facebook React](https://reactjs.org) and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-
-<!--
-https://reactjs.org
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React - React
-https://github.com/reduxjs/react-redux
-
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Components](http://react-components.com)
-* [React JSFiddle](https://jsfiddle.net/reactjs)
-
-Explaining React's license | Engineering Blog | Facebook Code
-https://code.facebook.com/posts/112130496157735/explaining-react-s-license
--->
+* [Facebook React- Getting Started](https://reactjs.org/docs/getting-started.html)
+* [Facebook React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 <!--
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
