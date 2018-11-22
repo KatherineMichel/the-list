@@ -1263,7 +1263,9 @@ https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 ## Learning Resources- Priority Right now
 
 <!--
-Martin Fowler: Refactoring
+Martin Fowler: Refactoring, 2nd Edition
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 https://medium.mybridge.co
 https://medium.mybridge.co/tagged/python
