@@ -1263,34 +1263,35 @@ https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 ## Learning Resources- Priority Right now
 
 <!--
-Martin Fowler: Refactoring, 2nd Edition
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+Visual Studio Code
+https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
+https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
 
 https://medium.mybridge.co
 https://medium.mybridge.co/tagged/python
 https://medium.mybridge.co/tagged/javascript
 https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f
 
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
-https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
-https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
-
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
 
 https://techyaks.com/top-python-talks.html
 
 https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 
-https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
-https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
 
-https://en.wikipedia.org/wiki/Dynamic_programming | Dynamic programming - Wikipedia
+Django Coding Style Guide
+* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+Django JavaScript Style Guide
+* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
+
+<!--
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 -->
 
 Programming Language Comparisons
@@ -1328,33 +1329,17 @@ https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: Li
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
 
-Django
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
-* [Django Book (Deprecated but useful)](http://www.djangobook.com)
-* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
-* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
-* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
-* [Django Rest Framework](http://www.django-rest-framework.org) 
-
 <!--
-http://www.django-rest-framework.org/api-guide/
-http://www.django-rest-framework.org/tutorial
-http://www.tomchristie.com/rest-framework-2-docs/api-guide
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
-Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-<!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
 
 Learning Resources
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
@@ -1381,9 +1366,10 @@ https://realpython.com/python-youtube-channels/ | The Ultimate List of Python Yo
 
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
-https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
 https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 
 https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
@@ -1415,6 +1401,13 @@ Python
 <!--
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
 -->
+
+Python- Books (See also: Data Science books)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
+* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
+* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
 Internals
 * [Python Tutor](http://pythontutor.com)
@@ -1481,6 +1474,11 @@ Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 * [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 
+<!--
+* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+-->
+
 Unified Modeling Language in Practice
 * ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 * [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
@@ -1504,10 +1502,221 @@ Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
-https://docs.python.org/2.7/library/unittest.html#assert-methods | 25.3. unittest — Unit testing framework — Python 2.7.15 documentation
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+
+https://docs.python.org/2.7/library/unittest.html#assert-methods | 25.3. unittest — Unit testing framework — Python 2.7.15 documentation
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
 -->
+
+Improvement Methods
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
+
+<!--
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+-->
+
+<!--
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+Profiling
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+
+
+Django Learning Resources
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+* [Django Book (Deprecated but useful)](http://www.djangobook.com)
+* [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
+* [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
+* [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
+* [Django Rest Framework](http://www.django-rest-framework.org) 
+
+<!--
+* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
+
+http://www.django-rest-framework.org/api-guide/
+http://www.django-rest-framework.org/tutorial
+http://www.tomchristie.com/rest-framework-2-docs/api-guide
+-->
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+<!--
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+Django Install
+* [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
+
+Django Testing
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+Django Exceptions
+* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
+
+Django System Checks and Error Reporting
+* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
+* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/2.0/howto/deployment/checklist)
+
+Django Architecture and Scaling
+* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+* [Does Django Scale?](https://docs.djangoproject.com/en/2.0/faq/general/#does-django-scale)
+* [Django Design Philosophies](https://docs.djangoproject.com/en/2.0/misc/design-philosophies)
+
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
+
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
+
+## Working with Objects
+
+<!--
+Model, Form
+ORM, MRO
+https://www.fullstackpython.com/object-relational-mappers-orms.html
+
+Objects, Views
+Exists, Get, Create, Update, Delete
+-->
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+<!--
+http://gunicorn.org
+
+https://djangobook.com/deploying-django/
+https://docs.djangoproject.com/en/dev/ref/request-response/
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+-->
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+Request and Response Cycle- Web Server and Gateway Interface
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
+
+Request and Response Cycle- HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+application server
+https://en.wikipedia.org/wiki/Web_browser | Web browser - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP_referer
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://en.wikipedia.org/wiki/Session_(computer_science)
+https://en.wikipedia.org/wiki/Session_ID
+https://en.wikipedia.org/wiki/Server_log
+
+Common
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Client%E2%80%93server
+
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+https://www.w3.org/TR/2011/WD-html5-20110525/forms.html
+
+https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+https://www.json.org/
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://www.w3schools.com/jsref
+https://www.w3schools.com/jsref/event_key_keycode.asp
+https://www.w3schools.com/tags/ref_eventattributes.asp
+https://www.w3schools.com/tags/ref_httpmethods.asp
+https://www.w3schools.com/tags/ref_httpmessages.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
+
+https://nmap.org/ncat/
+
+http://docs.python-requests.org/en/master/user/quickstart/
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
+
+https://en.wikipedia.org/wiki/IPv6#IPv4-mapped_IPv6_addresses
+https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+-->
+
 
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
@@ -1520,10 +1729,6 @@ Django and Python Contributing
 ## Python Debugging
 ## Software Testing
 ## Python and Django Testing
-## Django Important
-## Working with Objects
-## Django Request and Response Cycle
-## Request and Response Cycle- General
 ## X Driven Development
 
 High Profile/Performance Python Use
@@ -1673,10 +1878,6 @@ Python- Official Packaging Info
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 * [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
 
-Core Packaging Utilities
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/) 
-
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
@@ -1799,13 +2000,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
-Python- Books (See also: Data Science books)
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
-* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
-* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
-* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
 Python/Django Teachers and Useful Python Resources
 * [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
@@ -1874,19 +2068,9 @@ Python Tutors- YouTube
 https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
 
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
-
-doctest
 -->
 
 <!--
-https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
-
-Kenneth Love
-"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
-
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
-http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-
 https://learncodethehardway.org/more-python/
 
 https://learnpythonthehardway.org/python3
@@ -1899,16 +2083,7 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/le
 https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
 https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
 https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
--->
 
-<!--
-https://www.datacamp.com/community/tutorials/data-structures-python
-
-Python Data Structures
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
--->
-
-<!--
 https://realpython.com/switching-to-python
 https://twitter.com/realpython
 
@@ -1918,8 +2093,6 @@ https://realpython.com/python-data-classes/
 https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
 https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
 https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
-
-Digital Ocean Django Tutorials
 
 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
@@ -1950,16 +2123,29 @@ https://www.tutorialspoint.com/python/python_searching_algorithms.htm
 https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
 https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
 
-
-https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
--->
-
-<!--
 https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
 https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
 -->
 
+
 <!--
+doctest
+
+https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
+
+Kenneth Love
+"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
+
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
+
+https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
+
+https://www.datacamp.com/community/tutorials/data-structures-python
+
+Python Data Structures
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+
 https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
 
 https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
@@ -2018,11 +2204,6 @@ http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
 
-## Kenneth Reitz Advice to Me 
-
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
 ## Installation and Editors
 
 Python Environment
@@ -2038,9 +2219,6 @@ Visual Studio Code
 https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
 https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
-https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
 
 https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 https://marketplace.visualstudio.com/vscode
@@ -2101,9 +2279,6 @@ https://docs.python.org/3/reference/introduction.html#notation
 https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
 -->
 
-Python- PEP
-* [PEP Index](https://www.python.org/dev/peps)
-
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 * [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
@@ -2111,19 +2286,9 @@ Python- PEP 8
 Docstring Conventions
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 
-Django Coding Style Guide
-* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-
 <!--
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
-
 https://github.com/amontalenti/elements-of-python-style
 -->
-
-### Django- JavaScript Style Guide
-
-Django JavaScript Style Guide
-* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
 
 ## Structuring Your Project
 
@@ -2152,7 +2317,6 @@ Method Resolution Order
 ## Time Complexity and Performance
 
 Big O Notation
-* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
 * [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
 * [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 * [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
@@ -2184,6 +2348,10 @@ https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
 https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
 https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
 https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
 -->
 
 Linear versus Constant Time
@@ -2197,63 +2365,16 @@ Big O Notation- Terminology
 * [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 
 
-
-## Improvement Methods
-
-Improvement
-* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
-* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
-* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
-* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
-* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
-* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
-
-<!--
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
-
-https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-https://en.wikipedia.org/wiki/Mathematical_optimization
-
-https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
--->
-
 ## Python Profiling
-
-* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
 
 <!--
 https://en.wikipedia.org/wiki/Execution_(computing)
 https://en.wikipedia.org/wiki/Object_code
 https://en.wikipedia.org/wiki/Bytecode
-
-Third Party Testing and Profiling
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-Profiling
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 -->
 
 ## Python Debugging
 
-<!--
-https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger | Working with pdb to Debug Python Code | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
-https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
--->
 
 ## Software Testing
 
@@ -2281,8 +2402,6 @@ Common for Python
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
-https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
-
 https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 https://en.wikipedia.org/wiki/Code_coverage
@@ -2296,9 +2415,6 @@ https://en.wikipedia.org/wiki/Mutation_testing
 <!--
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
-
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-http://pythontesting.net/start-here/
 -->
 
 ## Python and Django Testing Books
@@ -2348,152 +2464,10 @@ https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
 -->
 
-## Django Important
-
-Django Install
-* [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
-
-Django Testing
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-Django Exceptions
-* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
-
-Django System Checks and Error Reporting
-* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
-* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
-
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization)
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/2.0/howto/deployment/checklist)
-
-Django Architecture and Scaling
-* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
-* [Does Django Scale?](https://docs.djangoproject.com/en/2.0/faq/general/#does-django-scale)
-* [Django Design Philosophies](https://docs.djangoproject.com/en/2.0/misc/design-philosophies)
-
-Django Views
-* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
-
-Django ORM
-* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
-
-<!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
--->
-
-## Working with Objects
-
-<!--
-Model, Form
-ORM, MRO
-https://www.fullstackpython.com/object-relational-mappers-orms.html
-Relational database
-https://en.wikipedia.org/wiki/Relational_database
-
-Objects, Views
-Exists, Get, Create, Update, Delete
--->
-
-## Django Request and Response Cycle
-
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
-
-<!--
-http://gunicorn.org
-
-https://djangobook.com/deploying-django/
-https://docs.djangoproject.com/en/dev/ref/request-response/
-https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
-https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
--->
-
-## Request and Response Cycle- General
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-Web Server and Gateway Interface
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
-* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-https://en.wikipedia.org/wiki/Web_browser | Web browser - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP_referer
-https://en.wikipedia.org/wiki/HTTP_cookie
-https://en.wikipedia.org/wiki/Session_(computer_science)
-https://en.wikipedia.org/wiki/Session_ID
-https://en.wikipedia.org/wiki/Server_log
-
-Common
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-
-https://en.wikipedia.org/wiki/Request%E2%80%93response
-https://en.wikipedia.org/wiki/Client%E2%80%93server
-
-https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
-
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
-https://www.w3.org/TR/2011/WD-html5-20110525/forms.html
-
-https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-https://www.json.org/
-
-https://www.udacity.com/course/http-web-servers--ud303
-https://github.com/udacity/course-ud303
-
-https://www.w3schools.com/jsref
-https://www.w3schools.com/jsref/event_key_keycode.asp
-https://www.w3schools.com/tags/ref_eventattributes.asp
-https://www.w3schools.com/tags/ref_httpmethods.asp
-https://www.w3schools.com/tags/ref_httpmessages.asp
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
-
-https://nmap.org/ncat/
-
-http://docs.python-requests.org/en/master/user/quickstart/
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
-https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
-
-https://en.wikipedia.org/wiki/IPv6#IPv4-mapped_IPv6_addresses
-https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
--->
-
 ## Django Learning Resources
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
 
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
@@ -2504,7 +2478,6 @@ Python- Django- Tutorial and Book Lists
 * [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
 
 Two Scoops Books
-* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
 
 <!--
 https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc | Two Scoops of Django 1.11 FAQ – Two Scoops Press
