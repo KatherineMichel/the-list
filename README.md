@@ -1356,6 +1356,42 @@ https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
 -->
 
+Learning Resources
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+
+<!--
+https://www.digitalocean.com/community/tutorial_series/django-development
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+How To Use the Python Debugger
+
+https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
+https://realpython.com/python-code-quality
+https://realpython.com/resources
+https://realpython.com/python-basics
+https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
+https://realpython.com/intermediate-python
+https://realpython.com/tutorials/intermediate/
+https://realpython.com/tutorials/advanced/
+https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+https://www.datacamp.com/community/tutorials?tag=python
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+-->
+
 Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
@@ -1367,6 +1403,8 @@ Python
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Real Python](https://realpython.com)
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 * [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
@@ -1614,8 +1652,9 @@ https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-p
 Mariatta
 https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
@@ -1626,12 +1665,17 @@ Python Docs- Packaging
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 
 Python- Official Packaging Info
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org) 
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
 * [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
 * [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
+* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+* [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
+
+Core Packaging Utilities
+* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/) 
 
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
@@ -1655,11 +1699,6 @@ Django
 <!--
 Check core developer repo info
 
-https://github.com/pypa/sampleproject | pypa/sampleproject: A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
-
-New
-https://python-packaging-tutorial.readthedocs.io/en/latest/ | The Sheer Joy of Packaging! — The Joy of Packaging 0.1 documentation
-
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
 https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
 https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
@@ -1674,26 +1713,20 @@ API
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
 
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
 https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
 https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
 https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 39.2.0 documentation
 
-Python Packaging User Guide
-https://github.com/pypa/python-packaging-user-guide | pypa/python-packaging-user-guide: Python Packaging User Guide
-https://packaging.python.org/tutorials/packaging-projects/ | Packaging Python Projects — Python Packaging User Guide
 https://packaging.python.org/tutorials/installing-packages/
 https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
 https://packaging.python.org/tutorials/distributing-packages/#project-urls
 
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+
 pip is the The PyPA recommended tool for installing Python packages.
 https://packaging.python.org/guides/tool-recommendations/
-
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 
 https://pip.pypa.io/en/stable/user_guide/#requirements-files
 
@@ -1805,10 +1838,6 @@ Python/Django Teachers and Useful Python Resources
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
 * [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
 
-Learning Resources
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
-
 Python Official Resources
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
@@ -1826,8 +1855,6 @@ Python and Python Syntax and Semantics
 Other Tutorials
 * [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
 * [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
-* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
-* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
 
 Python Websites and Newsletters
 * [Iron Python in Action](http://www.ironpythoninaction.com)
@@ -1882,16 +1909,9 @@ http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_70
 -->
 
 <!--
-https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
-https://realpython.com/python-code-quality
-https://realpython.com/resources
-https://realpython.com/python-basics
-https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
-https://realpython.com/intermediate-python
 https://realpython.com/switching-to-python
 https://twitter.com/realpython
 
-https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
 https://realpython.com/python-data-classes/
@@ -1901,28 +1921,37 @@ https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
 
 Digital Ocean Django Tutorials
 
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-https://www.digitalocean.com/community/tutorial_series/django-development
-https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
-https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
-
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
 https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
 https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+How To Apply Polymorphism to Classes in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3
+
+How To Define Functions in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3
+How To Use *args and **kwargs in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger
+How To Debug Python with an Interactive Console
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+How To Use Logging in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
 
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 http://www.fullstackpython.com/deployment.html
 
-https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
-https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
 https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
 https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
+
+
+https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
 -->
 
 <!--
@@ -1932,10 +1961,6 @@ https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Lea
 
 <!--
 https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
-
-https://www.datacamp.com/community/tutorials?tag=python
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 
 https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
@@ -1959,14 +1984,6 @@ https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of
 https://github.com/RafeKettler
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
-https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
 * [Interactive Python](http://www.interactivepython.org)
 
