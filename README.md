@@ -1182,6 +1182,7 @@ https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
 
 <!--
 https://medium.freecodecamp.org/tagged/javascript
+https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
 
 https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
@@ -1190,8 +1191,6 @@ https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c04
 https://tylermcginnis.com/courses/advanced-javascript/
 
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925
 
 
 https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
