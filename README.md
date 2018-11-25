@@ -880,7 +880,7 @@ Top Links of All Times
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
-## Protocols
+## How the Web Works
 
 Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
@@ -889,10 +889,10 @@ Preethi Kasireddy: How The Web Works
 
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-
-## JavaScript
-
 <!--
+https://www.w3.org/TR/webarch/
+* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+
 https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
 
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
@@ -900,13 +900,22 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_se
 
 https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
 https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
-
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
 -->
+
+## JavaScript
+
+JavaScript- People
+* [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+* [Dmitry Soshnikov](http://dmitrysoshnikov.com)
+* [Dmitri Pavlutin](https://dmitripavlutin.com)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest) and [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+* [Paul Irish](https://www.paulirish.com)
+* [Tyler McGinnis](https://tylermcginnis.com)
+
+Node and React- People
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
 Recommended by Addy Osmani and Eric Elliot
 * [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
@@ -921,6 +930,15 @@ Patterns
 * [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 <!--
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
+
+https://github.com/getify/Functional-Light-JS
+
+
 http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
 http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
@@ -935,11 +953,8 @@ https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: s
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 
 
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
 -->
 
@@ -971,6 +986,14 @@ JavaScript Styleguides
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
 * [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 
+<!--
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
+-->
+
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
@@ -984,22 +1007,6 @@ Microsoft- JavaScript
 
 <!--
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-1. Can you name two programming paradigms important for JavaScript app developers?
-2. What is functional programming?
-3. What is the difference between classical inheritance and prototypal inheritance?
-4. What are the pros and cons of functional programming vs object-oriented programming?
-5. When is classical inheritance an appropriate choice?
-6. When is prototypal inheritance an appropriate choice?
-7. What does “favor object composition over class inheritance” mean?
-8. What are two-way data binding and one-way data flow, and how are they different?
-9. What are the pros and cons of monolithic vs microservice architectures?
-10. What is asynchronous programming, and why is it important in JavaScript?
-
-Functional programming: mathematical functions, avoids shared state & mutable data, pure functions/function purity, avoid side-effects, simple function compisition, Features that support FP: first-class functions, higher order functions, functions as arguments/values, closure, lambdas)
-Prototypal inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`. Instances may be composed from many different objects, allowing for easy selective inheritance, (also: prototypes, OLOO), 
-Class Inheritance: instances inherit from classes (like a blueprint — a description of the class), and create sub-class relationships: hierarchical class taxonomies. Instances are typically instantiated via constructor functions with the `new` keyword. Class inheritance may or may not use the `class` keyword from ES6.
-Classes: create tight coupling or hierarchies/taxonomies.
-Prototypes: mentions of concatenative inheritance, prototype delegation, functional inheritance, object composition.
 
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
@@ -1032,6 +1039,8 @@ https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+
+https://developer.mozilla.org/en-US/docs/Glossary/Call_stack
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
 
@@ -1121,9 +1130,6 @@ Request and Response Cycle- HTTP
 * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
-
-https://www.w3.org/TR/webarch/
-* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
    
 [httpstatuses.com](https://httpstatuses.com/)
 [Introduction to HTTP](https://launchschool.com/books/http)
@@ -1192,7 +1198,6 @@ https://tylermcginnis.com/courses/advanced-javascript/
 
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
-
 https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
 https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
 
@@ -1204,8 +1209,7 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 
-* [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
-* [Why use static types in JavaScript?](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
+TypeScript, static types
 -->
 
 Browser Object Model (BOM) and Document Object Model (DOM)
@@ -1422,6 +1426,7 @@ https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+
 
 https://techyaks.com/top-python-talks.html
 
