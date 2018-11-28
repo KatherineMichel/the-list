@@ -321,6 +321,8 @@ Makers
 
 <!--
 https://www.netlify.com/
+https://repl.it/
+https://zeit.co/
 -->
 
 ## Engineering Manager
@@ -396,6 +398,30 @@ http://wiki.c2.com/?BusNumber | Bus Number
 
 
 <!--
+Clean Architecture
+Clean Code
+Code Complete
+Compilers
+Computer Architecture
+Design Patterns
+Design Patterns Explained
+Domain Driven Design- Tackling
+Domain Driven Design Reference
+Extreme Programming Explained
+Head First Design Patterns
+Head First Object Oriented Analysis and Design
+Lean Software Development
+Patterns of Enterprise Application Architecture
+Programming Pearls
+Refactoring
+Release It
+Structure and Interpretation of Computer Programs
+Test Driven Development by Example
+The Architecture of Open Source Applications
+The Mythical Man Month
+The Programmatic Programmer
+Working Effectively with Legacy Code
+
 https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
 https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
 
@@ -821,6 +847,20 @@ http://highscalability.com/numbers-everyone-should-know
 http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
+
+Original
+L1 cache reference 0.5 ns
+Branch mispredict 5 ns
+L2 cache reference 7 ns
+Mutex lock/unlock 25 ns
+Main memory reference 100 ns
+Compress 1K bytes with Zippy 3,000 ns
+Send 2K bytes over 1 Gbps network 20,000 ns
+Read 1 MB sequentially from memory 250,000 ns
+Round trip within same datacenter 
+Disk seek 10,000,000 ns
+Read 1 MB sequentially from disk 20,000,000 ns
+Send packet CA->Netherlands->CA 150,000,000 ns
 -->
 
 
@@ -884,28 +924,6 @@ Top Links of All Times
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
-## How the Web Works
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-<!--
-https://www.w3.org/TR/webarch/
-* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-
-https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
-
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
-
-https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
-https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
--->
-
 ## JavaScript
 
 JavaScript- People
@@ -956,7 +974,6 @@ https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: s
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 
-
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
@@ -992,10 +1009,6 @@ JavaScript Styleguides
 
 <!--
 https://developers.google.com/v8/ | Chrome V8  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
 -->
 
 Mozilla JavaScript Tutorials
@@ -1010,33 +1023,7 @@ Microsoft- JavaScript
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 
 <!--
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+https://medium.freecodecamp.org/tagged/javascript
 
 https://developer.mozilla.org/en-US/docs/tag/Web
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
@@ -1093,6 +1080,45 @@ https://docs.microsoft.com/en-us/scripting/
 https://docs.microsoft.com/en-us/scripting/javascript/misc/operator-subtractsummary-javascript
 
 https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new/javascript-version-information
+-->
+
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_important_parts_of_a_web_browser
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
+https://software.hixie.ch/utilities/js/live-dom-viewer/
+
+TCP/IP, DNS
+
+https://www.w3.org/TR/webarch/
+* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+
+https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
+
+https://developers.google.com/web/updates/2018/09/inside-browser-part1
+https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
+https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
 -->
 
 Mozilla- HTTP
@@ -1191,7 +1217,6 @@ https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
 -->
 
 <!--
-https://medium.freecodecamp.org/tagged/javascript
 https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
 
@@ -1214,6 +1239,35 @@ https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-rev
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 
 TypeScript, static types
+
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 -->
 
 Browser Object Model (BOM) and Document Object Model (DOM)
