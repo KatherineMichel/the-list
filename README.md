@@ -375,6 +375,8 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 <!--
+https://www.kentbeck.com/ | KentBeck.com
+
 http://stevemcconnell.com/books/
 http://www.cc2e.com
 https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
@@ -1755,6 +1757,8 @@ Authorities
 
 <!--
 Joel, Jeff blogs
+https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
 
 Pseudocode
