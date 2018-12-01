@@ -1556,6 +1556,9 @@ https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses:
 -->
 
 <!--
+https://github.com/karan/Projects/ | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+https://github.com/karan/Projects-Solutions | karan/Projects-Solutions: Links to others' solutions to Projects 
+
 https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
 https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
 
@@ -1756,7 +1759,10 @@ Authorities
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 
 <!--
+https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/ch01.html | Chapter 1: Refactoring: A First Example - Refactoring: Improving the Design of Existing Code, Second Edition [Book]
+
 Joel, Jeff blogs
+https://www.joelonsoftware.com/ | Joel on Software
 https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
