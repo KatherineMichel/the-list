@@ -1467,6 +1467,8 @@ https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary 
 ## Learning Resources- Priority Right now
 
 <!--
+https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+
 ## Software Testing
 ## Python and Django Testing
 ## X Driven Development
