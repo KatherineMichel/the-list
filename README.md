@@ -2634,20 +2634,48 @@ Python- Django- Hello Web App
 
 ## Django Organizations and Teachers
 
-Django Consulting Firms, Blogs, Repos
-* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
+Django Consulting Firms
+
+Django Consulting Firms, Blogs
+* [Caktus Group](https://www.caktusgroup.com) 
 * [Changeset Consulting](https://changeset.nyc)
 * [Cuttlesoft](https://www.cuttlesoft.com)
 * [Divio](https://www.divio.com)
-* [Eldarion](http://eldarion.com), [Eldarion Blog](http://eldarion.com/blog), and [Eldarion GitHub](https://github.com/eldarion)
+* [Eldarion](http://eldarion.com)
+* [Pinax](https://pinaxproject.com)
+* [JamBon Software](http://www.jambonsw.com)
+* [Lincoln Loop](http://lincolnloop.com)
+* [Revolution Systems](http://www.revsys.com)
+* [Torchbox](https://torchbox.com)
+* [Truthful Technology](https://truthful.technology)
+* [Vinta](https://www.vinta.com.br) 
+
+Django Consulting Firms Blogs
+* [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
+* [Divio Blog](https://www.divio.com/blog)
+* [Eldarion Blog](http://eldarion.com/blog)
 * [Pinax Blog](http://blog.pinaxproject.com)
-* [JamBon Software](https://github.com/jambonsw)
-* [Lincoln Loop](http://lincolnloop.com), [Lincoln Loop Blog](https://lincolnloop.com/blog), and [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), [RevSys Tidbits](http://www.revsys.com/tidbits), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
 * [Torchbox Blog](https://torchbox.com/blog)
-* [Vinta Blog](https://www.vinta.com.br/blog) and [Vinta Software GitHub](https://github.com/vintasoftware)
+* [Vinta Blog](https://www.vinta.com.br/blog)
+
+Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft)
+* [Divio GitHub](https://github.com/divio)
+* [Eldarion GitHub](https://github.com/eldarion)
+* [JamBon Software GitHub](https://github.com/jambonsw)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Torchbox GitHub](https://github.com/torchbox)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology)
+* [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://www.jbssolutions.com/
+
 DjangoCon sponsors
 https://2018.djangocon.us/sponsors/
 -->
