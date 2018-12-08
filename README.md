@@ -3155,6 +3155,7 @@ https://twitter.com/math_rachel/status/967689690328350720 | Rachel Thomas on Twi
 
 http://www.fast.ai/2016/12/19/favorite-posts/ | So you are interested in deep learning · fast.ai
 http://www.fast.ai/2017/11/16/what-you-need/ | What you need to do deep learning · fast.ai
+http://www.fast.ai/topics/#advice | Contents · fast.ai
 
 http://www.datasciguide.com/difficulty/early-beginner
 http://www.datasciguide.com/recommended-resources-for-beginners
