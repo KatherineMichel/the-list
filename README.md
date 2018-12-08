@@ -1467,10 +1467,16 @@ https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary 
 ## Learning Resources- Priority Right now
 
 <!--
-https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/ | Amazon’s own ‘Machine Learning University’ now available to all developers | AWS Machine Learning Blog
+https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
-https://internethalloffame.org/inductees/all
-https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+https://en.wikipedia.org/wiki/Lists_of_network_protocols | Lists of network protocols - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+
+taxonomy of programming paradigms
+software development competency framework
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+
+https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/ | Amazon’s own ‘Machine Learning University’ now available to all developers | AWS Machine Learning Blog
 
 ## Software Testing
 ## Python and Django Testing
@@ -1488,6 +1494,7 @@ https://medium.mybridge.co/tagged/python
 https://medium.mybridge.co/tagged/javascript
 https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f
 
+http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
@@ -1514,6 +1521,11 @@ Wikipedia Tech Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+Computer History
+* [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
 
 Django Coding Style Guide
 * [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
@@ -1755,6 +1767,11 @@ https://en.wikipedia.org/wiki/Memoization
 Relational
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+
+<!--
+https://en.wikipedia.org/wiki/Relational_algebra | Relational algebra - Wikipedia
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete | Create, read, update and delete - Wikipedia
+-->
 
 Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
@@ -2747,6 +2764,7 @@ Strong and Weak Typing
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
+https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
 https://en.wikipedia.org/wiki/Duck_typing
 -->
 
@@ -3097,6 +3115,8 @@ Analyst Group Resources
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
 
 <!--
+https://www.boozallen.com/s/insight/publication/data-science-playbook.html | Data Science Playbook
+
 http://www.slideshare.net/BoozAllen/booz-allen-field-guide-to-data-science
 
 https://www.boozallen.com/s/insight/thought-leadership/the-machine-intelligence-primer.html | The Machine Intelligence Primer
