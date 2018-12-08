@@ -18,6 +18,15 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
+<!--
+https://hntrending.com
+
+http://jsomers.net/hn | The Hacker Classics
+
+https://indieweb.org/site-deaths | site-deaths - IndieWeb
+http://failuremuseum.com/ | The Museum of Failure
+-->
+
 Product Hunt Golden Kitty Awards and Top 500
 * [Golden Kitty Awards](https://goldenkittyawards.com)
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
@@ -25,6 +34,8 @@ Product Hunt Golden Kitty Awards and Top 500
 * [Top 500 Hunters](http://500hunters.com)
 
 <!--
+https://hunts.xyz/ | Hunts.xyz
+
 https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
 https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
@@ -1467,11 +1478,15 @@ https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary 
 ## Learning Resources- Priority Right now
 
 <!--
+https://sourcemaking.com
+https://sourcemaking.com/antipatterns/ | AntiPatterns
+
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 https://en.wikipedia.org/wiki/Lists_of_network_protocols | Lists of network protocols - Wikipedia
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 
+how probability distributions are related
 taxonomy of programming paradigms
 software development competency framework
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
@@ -1526,6 +1541,10 @@ Computer History
 * [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
+
+<!--
+https://en.wikipedia.org/wiki/Turing_Award | Turing Award - Wikipedia
+-->
 
 Django Coding Style Guide
 * [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
