@@ -1467,6 +1467,9 @@ https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary 
 ## Learning Resources- Priority Right now
 
 <!--
+https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/ | Amazon’s own ‘Machine Learning University’ now available to all developers | AWS Machine Learning Blog
+
+https://internethalloffame.org/inductees/all
 https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
 
 ## Software Testing
@@ -2860,9 +2863,20 @@ http://www.diveintopython.net/regular_expressions/
 <!--
 Security 
 
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/index.php/Application_Threat_Modeling
 https://en.wikipedia.org/wiki/Threat_model
+
+https://github.com/OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
 -->
 
 <!--
@@ -3187,6 +3201,7 @@ Benchmarking
 * [PyTorch Benchmark GitHub](https://github.com/pytorch/benchmark)
 
 <!--
+https://blog.openai.com/openai-five-benchmark/ | OpenAI Five Benchmark
 https://blog.openai.com/openai-five-benchmark-results/
 
 https://aws.amazon.com/blogs/aws/thoughts-on-machine-learning-accuracy/
