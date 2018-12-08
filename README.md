@@ -43,6 +43,19 @@ https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on T
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 -->
 
+<!--
+Product Hunt
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+-->
+
 GitHub More
 * [GitHub Explore](https://github.com/explore)
 * [GitHub Discover](https://github.com/dashboard/discover)
@@ -132,16 +145,6 @@ Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
-
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
 
 
 General
@@ -846,36 +849,7 @@ https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links 
 https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
 
 https://github.com/Droogans/unmaintainable-code
-
-How Computers Work
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
 -->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-Original
-L1 cache reference 0.5 ns
-Branch mispredict 5 ns
-L2 cache reference 7 ns
-Mutex lock/unlock 25 ns
-Main memory reference 100 ns
-Compress 1K bytes with Zippy 3,000 ns
-Send 2K bytes over 1 Gbps network 20,000 ns
-Read 1 MB sequentially from memory 250,000 ns
-Round trip within same datacenter 
-Disk seek 10,000,000 ns
-Read 1 MB sequentially from disk 20,000,000 ns
-Send packet CA->Netherlands->CA 150,000,000 ns
--->
-
 
 ## Coding Practice
 
@@ -937,7 +911,190 @@ Top Links of All Times
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
+## Web Architecture, How Browsers work
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Explainers
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+<!--
+TCP/IP, DNS
+
+https://www.w3.org/TR/webarch/
+* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+
+https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
+-->
+
+<!--
+How Computers Work
+https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
+
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+
+Original
+L1 cache reference 0.5 ns
+Branch mispredict 5 ns
+L2 cache reference 7 ns
+Mutex lock/unlock 25 ns
+Main memory reference 100 ns
+Compress 1K bytes with Zippy 3,000 ns
+Send 2K bytes over 1 Gbps network 20,000 ns
+Read 1 MB sequentially from memory 250,000 ns
+Round trip within same datacenter 
+Disk seek 10,000,000 ns
+Read 1 MB sequentially from disk 20,000,000 ns
+Send packet CA->Netherlands->CA 150,000,000 ns
+-->
+
+## HTTP, Request and Response Cycle
+
+Mozilla- HTTP
+* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+   
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+Request and Response Cycle- Web Browser, Web Server and Gateway Interface
+* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
+
+Request and Response Cycle- HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+<!--
+* [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
+   
+[httpstatuses.com](https://httpstatuses.com/)
+[Introduction to HTTP](https://launchschool.com/books/http)
+-->
+
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+* [Node.js GitHub](https://github.com/nodejs)
+
+<!--
+https://www.w3.org/TR/notifications
+https://www.w3.org/TR/push-api
+-->
+
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+## Browser Object Model (BOM) and Document Object Model (DOM)
+
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
+
+Mozilla- Document Object Model
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+
+Events
+* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
+* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
+* [DOM/JavaScript Events](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
+* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
+
+Mozilla- Events and Web APIs
+* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
+
+<!--
+http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
+
+https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
+https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
+https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
+
+[DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
+
+JavaScript Event Keycodes
+* [JavaScript Event Keycodes](http://keycode.info)
+
+* [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+    
+  * Desktop
+    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+       
+  * Mobile
+    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
+    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+  * Hardware Agnostic
+    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
+    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
+  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+-->
+
 ## JavaScript
+
+<!--
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+-->
 
 JavaScript- People
 * [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
@@ -1020,10 +1177,6 @@ JavaScript Styleguides
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
 * [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 
-<!--
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
--->
-
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
@@ -1080,30 +1233,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/con
 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 
 
-Looks interesting
-https://developer.ibm.com/technologies/web-development/
-Get started with the JavaScript language, Part 1
-https://www.ibm.com/developerworks/web/library/wa-javascriptstart/index.html
-Understanding built-in objects in JavaScript
-https://www.ibm.com/developerworks/library/wa-objectsinjs-v1b/
-https://www.ibm.com/developerworks/library/wa-javascriptstart-variables/index.html | Get started with the JavaScript language, Part 2: Variables
-
-JavaScript in Visual Studio
-https://docs.microsoft.com/en-us/scripting/
-https://docs.microsoft.com/en-us/scripting/javascript/misc/operator-subtractsummary-javascript
-
-https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new/javascript-version-information
--->
-
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-<!--
 https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_important_parts_of_a_web_browser
@@ -1118,64 +1247,6 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/F
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
 https://software.hixie.ch/utilities/js/live-dom-viewer/
-
-TCP/IP, DNS
-
-https://www.w3.org/TR/webarch/
-* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-
-https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
-
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works | How the Web works - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
-
-https://developers.google.com/web/updates/2018/09/inside-browser-part1
-https://developers.google.com/web/updates/2018/09/inside-browser-part3 | Inside look at modern web browser (part 3)  |  Web  |  Google Developers
-https://developers.google.com/web/updates/2018/09/inside-browser-part4 | Inside look at modern web browser (part 4)  |  Web  |  Google Developers
--->
-
-Mozilla- HTTP
-* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-   
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-Request and Response Cycle- Web Browser, Web Server and Gateway Interface
-* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
-* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
-
-Request and Response Cycle- HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-<!--
-* [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
-   
-[httpstatuses.com](https://httpstatuses.com/)
-[Introduction to HTTP](https://launchschool.com/books/http)
 -->
 
 <!--
@@ -1189,6 +1260,7 @@ https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
 
 https://www.w3schools.com/js
 https://www.w3schools.com/jsref
+
 https://www.w3schools.com/jsref/event_key_keycode.asp
 https://www.w3schools.com/tags/ref_eventattributes.asp
 https://www.w3schools.com/tags/ref_httpmethods.asp
@@ -1233,107 +1305,13 @@ https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
 https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
 
-https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
 https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
-https://tylermcginnis.com/courses/advanced-javascript/
-
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
-
-https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
-https://medium.com/javascript-scene/live-reloading-browser-previews-shotgun-episode-4-bab7a0508d71#.hpg534osi
-https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-TypeScript, static types
-
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 -->
 
-Browser Object Model (BOM) and Document Object Model (DOM)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
+## Ajax and JSON
 
-Mozilla- Document Object Model
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
-
-Events
-* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
-* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
-* [DOM/JavaScript Events](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
-* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
-
-Mozilla- Events and Web APIs
-* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
-
-<!--
-http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
-
-https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
-https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
-https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
-
-[DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-* [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-    
-  * Desktop
-    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
-    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-       
-  * Mobile
-    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
-      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
-    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-  * Hardware Agnostic
-    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
-    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
-    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
-  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
--->
-
-JSON and Ajax
+Ajax and JSON
 * [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
@@ -1342,9 +1320,7 @@ Mozilla Ajax and JSON
 * [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 * [Mozilla Ajax Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest | Using XMLHttpRequest - Web APIs | MDN
--->
+## React and Progressive Web Apps (PWA)
 
 Facebook- React (JavaScript)
 * [Facebook React](https://reactjs.org) and [Facebook React GitHub](https://github.com/facebook/react) 
@@ -1353,9 +1329,15 @@ Facebook- React (JavaScript)
 * [Facebook React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 <!--
+https://developers.google.com/web/showcase
+
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
+
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+React profiler
 
 React Developer Tools
 https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
@@ -1467,24 +1449,19 @@ https://www.youtube.com/watch?v=M5U9RwBJXiQ | (1) Stuart Williams - Python by Im
 https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
 https://www.dropbox.com/s/f5g994w53h6z9yo/PyCon-2018-Python-Immersion.zip?dl=0 | PyCon-2018-Python-Immersion.zip
 https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
-
-https://www.youtube.com/watch?time_continue=2&v=WiQqqB9MlkA | (1) Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018 - YouTube
-https://www.slideshare.net/nnja/elegant-solutions-for-everyday-python-problems-pycon-2018 | Elegant Solutions for Everyday Python Problems Pycon 2018
-
-https://www.youtube.com/watch?v=C4Kc8xzcA68 | (1) PyCon 2010: The Mighty Dictionary - YouTube
-https://www.youtube.com/watch?v=66P5FMkWoVU | (1) Brandon Rhodes The Dictionary Even Mightier PyCon 2017 - YouTube
 -->
 
 ## Learning Resources- Priority Right now
 
 <!--
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 https://en.wikipedia.org/wiki/Lists_of_network_protocols | Lists of network protocols - Wikipedia
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 
 how probability distributions are related
 taxonomy of programming paradigms
