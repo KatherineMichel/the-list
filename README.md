@@ -18,10 +18,14 @@ Look at Daily
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
 
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
 <!--
 https://hntrending.com
-
-http://jsomers.net/hn | The Hacker Classics
 
 https://indieweb.org/site-deaths | site-deaths - IndieWeb
 http://failuremuseum.com/ | The Museum of Failure
@@ -140,11 +144,6 @@ https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps
   * [Microservices Dot IO](http://microservices.io)
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 -->
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
 
 
 General
@@ -900,17 +899,6 @@ Python Challenges
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
 
-## General Programming Resources
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
 ## Web Architecture, How Browsers work
 
 Preethi Kasireddy: How The Web Works
@@ -1002,6 +990,8 @@ Request and Response Cycle- HTTP
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 <!--
+https://developers.google.com/v8/ | Chrome V8  |  Google Developers
+
 * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
@@ -1025,11 +1015,6 @@ JavaScript
 * [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
 * [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
 * [Node.js GitHub](https://github.com/nodejs)
-
-<!--
-https://www.w3.org/TR/notifications
-https://www.w3.org/TR/push-api
--->
 
 ## Surveys
 
@@ -1091,10 +1076,6 @@ JavaScript Event Keycodes
 -->
 
 ## JavaScript
-
-<!--
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
--->
 
 JavaScript- People
 * [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
@@ -1168,14 +1149,32 @@ Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
 * [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Articles
+* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
+* [Medium JavaScript](https://medium.com/tag/javascript)
+* [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
+
+<!--
+https://en.wikibooks.org/wiki/JavaScript
+
+https://www.w3schools.com/js
+https://www.w3schools.com/jsref
+
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+-->
 
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -1189,8 +1188,6 @@ Microsoft- JavaScript
 * [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 
 <!--
-https://medium.freecodecamp.org/tagged/javascript
-
 https://developer.mozilla.org/en-US/docs/tag/Web
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
@@ -1253,20 +1250,7 @@ https://software.hixie.ch/utilities/js/live-dom-viewer/
 https://reactjs.org/docs/components-and-props.html
 https://www.w3schools.com/jquery/html_prop.asp
 
-https://en.wikibooks.org/wiki/JavaScript
-
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-
-https://www.w3schools.com/js
-https://www.w3schools.com/jsref
-
-https://www.w3schools.com/jsref/event_key_keycode.asp
-https://www.w3schools.com/tags/ref_eventattributes.asp
-https://www.w3schools.com/tags/ref_httpmethods.asp
-https://www.w3schools.com/tags/ref_httpmessages.asp
-
-https://www.python.org/dev/peps/pep-3333/
 
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 
@@ -1276,37 +1260,43 @@ https://en.wikipedia.org/wiki/Session_(computer_science)
 https://en.wikipedia.org/wiki/Session_ID
 https://en.wikipedia.org/wiki/Server_log
 
-Common
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
-
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
-https://www.w3.org/TR/2011/WD-html5-20110525/forms.html
-
-https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
-
-https://www.json.org/
 
 https://www.udacity.com/course/http-web-servers--ud303
 https://github.com/udacity/course-ud303
 
-https://nmap.org/ncat/
+https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
 
-https://en.wikipedia.org/wiki/IPv6#IPv4-mapped_IPv6_addresses
-https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
--->
-
-<!--
 https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
 
 https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
+
+https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
+https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
+https://tylermcginnis.com/courses/advanced-javascript/
+
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
 -->
 
 ## Ajax and JSON
@@ -1320,6 +1310,10 @@ Mozilla Ajax and JSON
 * [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 * [Mozilla Ajax Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
+<!--
+https://www.json.org/
+-->
+
 ## React and Progressive Web Apps (PWA)
 
 Facebook- React (JavaScript)
@@ -1329,6 +1323,9 @@ Facebook- React (JavaScript)
 * [Facebook React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 <!--
+https://www.w3.org/TR/notifications
+https://www.w3.org/TR/push-api
+
 https://developers.google.com/web/showcase
 
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
@@ -1454,11 +1451,6 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 ## Learning Resources- Priority Right now
 
 <!--
-https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
-
-https://sourcemaking.com
-https://sourcemaking.com/antipatterns/ | AntiPatterns
-
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 https://en.wikipedia.org/wiki/Lists_of_network_protocols | Lists of network protocols - Wikipedia
@@ -1474,39 +1466,10 @@ https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-unive
 ## Python and Django Testing
 ## X Driven Development
 
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-
-Visual Studio Code
-https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code | Get Productive with Python in Visual Studio Code · EuroPython 2018 · Edinburgh, UK, 23-29 July 2018
-https://github.com/qubitron/pydemo | qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code
-
-https://medium.mybridge.co/tagged/python
-https://medium.mybridge.co/tagged/javascript
-https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f
-
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-
-
-https://techyaks.com/top-python-talks.html
-
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-
-https://medium.com/javascript-scene/what-s-better-than-a-college-degree-mentorship-e22de630601a
-https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c
-https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
-https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
-
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 -->
 
 Wikipedia Tech Portals
@@ -1518,10 +1481,48 @@ Computer History
 * [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
+* [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+High Performance Python
+* [Dropbox](https://blogs.dropbox.com)
+* Google
+* [Instagram](https://engineering.instagram.com)
+* Netflix
+* Quora
+* Reddit
+* Spotify
+* Uber
 
 <!--
-https://en.wikipedia.org/wiki/Turing_Award | Turing Award - Wikipedia
+Carl Meyer talk
+
+https://realpython.com/world-class-companies-using-python/
+https://zapier.com
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
+
+<!--
+https://techyaks.com/top-python-talks.html
+
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+-->
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 Django Coding Style Guide
 * [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
@@ -1569,6 +1570,9 @@ https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses:
 -->
 
 <!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
 https://github.com/karan/Projects/ | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 https://github.com/karan/Projects-Solutions | karan/Projects-Solutions: Links to others' solutions to Projects 
 
@@ -1664,13 +1668,41 @@ Software Paradigm Types
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
+<!--
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+
+https://sourcemaking.com
+https://sourcemaking.com/antipatterns/ | AntiPatterns
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+
+
+Django Design patterns
+
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+
+https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
+
+https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
+
+https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
+https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
+
+https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
+-->
+
 Python and Django Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
-<!--
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 * [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
 
+<!--
 https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
 
 https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
@@ -1692,25 +1724,6 @@ https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-b
 https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
 https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
-
-
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
 <!--
@@ -1734,6 +1747,7 @@ Object Oriented Software Construction Principles
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
 * [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
 * [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
@@ -1761,12 +1775,13 @@ https://en.wikipedia.org/wiki/Memoization
 -->
 
 Relational
+* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
 <!--
-https://en.wikipedia.org/wiki/Relational_algebra | Relational algebra - Wikipedia
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete | Create, read, update and delete - Wikipedia
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
 -->
 
 Checklists
@@ -1777,8 +1792,6 @@ Authorities
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 
 <!--
-https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/ch01.html | Chapter 1: Refactoring: A First Example - Refactoring: Improving the Design of Existing Code, Second Edition [Book]
-
 Joel, Jeff blogs
 https://www.joelonsoftware.com/ | Joel on Software
 https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
@@ -1871,7 +1884,6 @@ https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do R
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 -->
 
-
 Django Learning Resources
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
@@ -1882,10 +1894,12 @@ Django Learning Resources
 * [Django Rest Framework](http://www.django-rest-framework.org) 
 
 <!--
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
 
-http://www.django-rest-framework.org/api-guide/
-http://www.django-rest-framework.org/tutorial
 http://www.tomchristie.com/rest-framework-2-docs/api-guide
 -->
 
@@ -1922,6 +1936,10 @@ Django Performance and Optimization
 * [Django Performance](https://docs.djangoproject.com/en/2.0/topics/performance)
 * [Django Database Access Optimization](https://docs.djangoproject.com/en/2.0/topics/db/optimization)
 
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
+
 Django Deployment
 * [Deployment Checklist](https://docs.djangoproject.com/en/2.0/howto/deployment/checklist)
 
@@ -1936,10 +1954,6 @@ Django Views
 Django ORM
 * [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
 
-<!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
--->
-
 ## Working with Objects
 
 <!--
@@ -1948,7 +1962,6 @@ ORM, MRO
 https://www.fullstackpython.com/object-relational-mappers-orms.html
 
 Objects, Views
-Exists, Get, Create, Update, Delete
 -->
 
 Django Request and Response Cycle
@@ -1969,33 +1982,19 @@ https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDi
 http://docs.python-requests.org/en/master/user/quickstart/
 -->
 
+Mariatta- F-Strings
+
 <!--
-High Profile/Performance Python Use
-* [Dropbox](https://blogs.dropbox.com)
-* Google
-* [Instagram](https://engineering.instagram.com)
-* Netflix
-* Quora
-* Reddit
-* Spotify
-* Uber
-
-https://realpython.com/world-class-companies-using-python/
-https://zapier.com
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-Mariatta
-https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+-->
+
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
+<!--
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 -->
 
 Django and Python Contributing
@@ -2004,85 +2003,19 @@ Django and Python Contributing
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
-## Packaging
+Vinta Django Apps Checklist
+* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
 
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-* [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+Vinta API Checklist
+* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 <!--
-Check core developer repo info
-
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
-https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
-https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
+Python and Django- Contributing- Packaging
 
 DjangoCon Europe 2017 Vinta
 https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
-http://djangoappschecklist.com/ | Django Apps Checklist
 https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
 https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
-
-API
-http://python.apichecklist.com
-https://github.com/vintasoftware/python-api-checklist
-
-https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
-https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
-https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
-https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 39.2.0 documentation
-
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
-https://packaging.python.org/tutorials/distributing-packages/#project-urls
-
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-
-pip is the The PyPA recommended tool for installing Python packages.
-https://packaging.python.org/guides/tool-recommendations/
-
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
-
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
-https://github.com/pypa/pipfile#the-concept
-https://github.com/pypa/pipfile
-
-Pyenv and Pipenv
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
-https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
-
-pyproject.toml
-https://github.com/pypa/pipfile/issues/27
 -->
 
 ## Python and Django- General Resources
@@ -2119,11 +2052,15 @@ Python Trending, Topics, Forums
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
+Articles
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+* [Mybridge Python](https://medium.mybridge.co/tagged/python)
+
 Learning Platforms (See also others)
 * [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 <!--
@@ -2796,6 +2733,8 @@ Channels
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
+
 http://www.aeracode.org/2017/7/11/towards-channels-20/
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
 
