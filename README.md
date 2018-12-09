@@ -1045,6 +1045,31 @@ Mozilla- Events and Web APIs
 * [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_important_parts_of_a_web_browser
+
+https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
+
+https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+"The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. "
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#Specifications
+https://developer.mozilla.org/en-US/docs/Web/API/Window
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
+
+https://software.hixie.ch/utilities/js/live-dom-viewer/
+
 http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
 
 https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
@@ -1087,6 +1112,7 @@ JavaScript- People
 * [Tyler McGinnis](https://tylermcginnis.com)
 
 Node and React- People
+* [Brian Holt](https://frontendmasters.com/teachers/brian-holt)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 * [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
@@ -1170,6 +1196,13 @@ https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
 https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
+https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
+https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
 -->
 
 Mozilla JavaScript Tutorials
@@ -1224,23 +1257,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/con
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
-
-
-https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_important_parts_of_a_web_browser
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
-https://software.hixie.ch/utilities/js/live-dom-viewer/
 -->
+
 
 <!--
 https://reactjs.org/docs/components-and-props.html
@@ -1265,25 +1283,10 @@ https://github.com/udacity/course-ud303
 
 https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
 
-https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
-
-https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
-https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
-https://tylermcginnis.com/courses/advanced-javascript/
-
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
@@ -1292,7 +1295,17 @@ https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functiona
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
 
-https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
+https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
+https://tylermcginnis.com/courses/advanced-javascript/
+
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
+
+https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
+
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 -->
 
 ## Ajax and JSON
