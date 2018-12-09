@@ -14,6 +14,7 @@ Look at Daily
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 * [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
 * [Indie Hackers](https://www.indiehackers.com)
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
@@ -25,8 +26,6 @@ Top Links of All Times
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
-https://hntrending.com
-
 https://indieweb.org/site-deaths | site-deaths - IndieWeb
 http://failuremuseum.com/ | The Museum of Failure
 -->
@@ -332,18 +331,18 @@ Tutorial
 Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
-<!--
-https://www.netlify.com/
-https://repl.it/
-https://zeit.co/
--->
+Hawt
+* [Netlify](https://www.netlify.com)
+* [Repl.it](https://repl.it)
+* [Zeit](https://zeit.co)
 
 ## Engineering Manager
 
 <!--
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
@@ -907,9 +906,19 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 Explainers
+* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 * [What Happens When GitHub](https://github.com/alex/what-happens-when)
 * [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 * [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
 
 <!--
 TCP/IP, DNS
@@ -923,9 +932,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_se
 -->
 
 <!--
-How Computers Work
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN- | How Computers Work - YouTube - YouTube
-
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -967,12 +973,6 @@ Mozilla- HTTP
 * [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
 * [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
    
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
 Request and Response Cycle- Web Browser, Web Server and Gateway Interface
 * [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
 * [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
@@ -1144,10 +1144,6 @@ Philip Guo
 http://pythontutor.com/live.html#mode=edit
 Video 5, 13:25 Recap
 -->
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
@@ -1453,8 +1449,6 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 <!--
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
-https://en.wikipedia.org/wiki/Lists_of_network_protocols | Lists of network protocols - Wikipedia
-
 how probability distributions are related
 taxonomy of programming paradigms
 software development competency framework
@@ -1501,12 +1495,12 @@ High Performance Python
 * Reddit
 * Spotify
 * Uber
+* [Zapier](https://zapier.com/engineering)
 
 <!--
 Carl Meyer talk
 
 https://realpython.com/world-class-companies-using-python/
-https://zapier.com
 
 Python 3 at Facebook 
 https://lwn.net/Articles/758159/
@@ -1555,6 +1549,10 @@ Comparison of basic instructions of programming languages
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
 Comparison of programming languages (mapping)
 -->
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -1957,11 +1955,8 @@ Django ORM
 ## Working with Objects
 
 <!--
-Model, Form
 ORM, MRO
 https://www.fullstackpython.com/object-relational-mappers-orms.html
-
-Objects, Views
 -->
 
 Django Request and Response Cycle
