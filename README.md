@@ -1464,8 +1464,20 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 ## Learning Resources- Priority Right now
 
 <!--
+Open Source
+
+https://github.com/orgs/django/people?page=1 | People · Django
+https://www.meetup.com/topics/django/ | Django Meetups - Meetup
+https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
+
+https://github.com/jakevdp/WhirlwindTourOfPython
+
 Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
 
 Important
 http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
@@ -1502,6 +1514,25 @@ Computer History
 * [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
 * [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+<!--
+https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
+
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+-->
 
 Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
@@ -1989,8 +2020,6 @@ Django Request and Response Cycle
 * [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
 
 <!--
-http://gunicorn.org
-
 https://djangobook.com/deploying-django/
 https://docs.djangoproject.com/en/dev/ref/request-response/
 https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
@@ -2785,6 +2814,8 @@ API Star
 * [API Star Discuss](https://discuss.apistar.org)
 
 <!--
+http://gunicorn.org
+
 http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
 https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
 http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
@@ -3028,6 +3059,12 @@ https://blog.acolyer.org/ | the morning paper | an interesting/influential/impor
 Lots of Articles
 * [Toward Data Science](https://towardsdatascience.com/archive)
 * [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog)
+
+<!--
+https://medium.freecodecamp.org/tagged/data-science | Data Science – freeCodeCamp
+https://medium.com/tag/machine-learning | The most insightful stories about Machine Learning – Medium
+https://github.com/collections/machine-learning | Collection: Getting started with machine learning
+-->
 
 More Learning Resources
 * [Distill Pub](https://distill.pub/)
