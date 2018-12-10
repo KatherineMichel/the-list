@@ -1174,7 +1174,11 @@ Video 5, 13:25 Recap
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
+
+<!--
+https://google.github.io/styleguide/javascriptguide.xml
+-->
 
 JavaScript Syntax
 * [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
@@ -1460,6 +1464,15 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 ## Learning Resources- Priority Right now
 
 <!--
+Harvey Mudd
+https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
+
+Important
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html | Django Class-Based Views
+https://github.com/PyCQA/pylint-django | PyCQA/pylint-django: Pylint plugin for improving code analysis for when using Django
+
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 how probability distributions are related
