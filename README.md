@@ -1464,8 +1464,6 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 ## Learning Resources- Priority Right now
 
 <!--
-Open Source
-
 https://github.com/orgs/django/people?page=1 | People · Django
 https://www.meetup.com/topics/django/ | Django Meetups - Meetup
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
@@ -1491,8 +1489,6 @@ how probability distributions are related
 taxonomy of programming paradigms
 software development competency framework
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
-
-https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/ | Amazon’s own ‘Machine Learning University’ now available to all developers | AWS Machine Learning Blog
 
 ## Software Testing
 ## Python and Django Testing
@@ -1528,6 +1524,9 @@ GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
+http://todogroup.org
+https://github.com/todogroup
+
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
 https://github.com/ten | Thank you for making 10 years of GitHub possible
@@ -1543,15 +1542,15 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
-High Performance Python
+High Performance Python- Engineering Blogs
 * [Dropbox](https://blogs.dropbox.com)
-* Google
+* [Google](https://developers.googleblog.com)
 * [Instagram](https://engineering.instagram.com)
-* Netflix
-* Quora
-* Reddit
-* Spotify
-* Uber
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
 * [Zapier](https://zapier.com/engineering)
 
 <!--
@@ -3345,6 +3344,22 @@ Bloomberg
 * [Bloomberg Foundations of Machine Learning](https://bloomberg.github.io/foml)
 
 <!--
+https://github.com/yandexdataschool/nlp_course | yandexdataschool/nlp_course: YSDA course in Natural Language Processing
+
+https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/ | Amazon’s own ‘Machine Learning University’ now available to all developers | AWS Machine Learning Blog
+
+https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/ | Deep Learning: Methods and Applications - Microsoft Research
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice | How to choose machine learning algorithms | Microsoft Docs
+
+Microsoft
+https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
+https://www.edx.org/course/data-science-essentials
+
+https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing | Transfer Learning in Natural Language Processing | Intel® Software
+
+https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
+https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
+
 https://ai.google/
 https://medium.com/the-lever
 https://developers.googleblog.com/2018/08/google-developers-launchpad-introduces.html
@@ -3364,15 +3379,6 @@ https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker | eng-
 https://developers.google.com/machine-learning/guides/text-classification/
 https://blog.google/topics/machine-learning/introducing-machine-learning-practica/ | Introducing Machine Learning Practica
 https://developers.google.com/machine-learning/practica/image-classification/ | ML Practicum: Image Classification  |  Machine Learning Practica  |  Google Developers
-
-Microsoft
-https://github.com/MicrosoftLearning/Data-Science-Essentials | MicrosoftLearning/Data-Science-Essentials: Course files for the Microsoft data Science Essentials Course
-https://www.edx.org/course/data-science-essentials
-
-https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing | Transfer Learning in Natural Language Processing | Intel® Software
-
-https://twitter.com/genekogan/status/1019942146303053825 | Gene Kogan on Twitter: "nice of NVIDIA to open-source the models for their progressive GANs. it's a treasure trove https://t.co/O6APK5KMOM… "
-https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU | tensorflow-version - Google Drive
 -->
 
 
