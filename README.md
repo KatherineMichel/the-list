@@ -3028,14 +3028,12 @@ GAN
 * [Awesome GAN GitHub](https://github.com/Faldict/awesome-GAN)
 
 
-
-Arxiv
+Papers
 * [Arxiv Sanity Preserver](http://arxiv-sanity.com) and [Arxiv Sanity Preserver GitHub](https://github.com/karpathy/arxiv-sanity-preserver)
 * [Arxiv Recent AI Papers](https://arxiv.org/list/cs.AI/recent)
+* [Papers with Code](https://paperswithcode.com)
 
 <!--
-https://paperswithcode.com/ | Papers with Code : the latest in machine learning
-
 https://www.eff.org/ai/metrics
 https://www.kaggle.com/surveys/2017 | The State of ML and Data Science 2017 | Kaggle
 https://www.kdnuggets.com/2017/05/poll-analytics-data-science-machine-learning-software-leaders.html | New Leader, Trends, and Surprises in Analytics, Data Science, Machine Learning Software Poll
@@ -3197,6 +3195,7 @@ https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0 | Th
 
 Ethics
 * [Google AI Principles](https://blog.google/topics/ai/ai-principles)
+* [Google Responsible AI Practices](https://ai.google/education/responsible-ai-practices)
 * [Google Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview)
 * [OpenAI Charter](https://blog.openai.com/openai-charter)
 * [Data Practices Manifesto](https://datapractices.org/manifesto)
