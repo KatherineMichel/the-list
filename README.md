@@ -25,9 +25,14 @@ Top Links of All Times
 * [Hacker News Classics](http://jsomers.net/hn)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
 <!--
-https://indieweb.org/site-deaths | site-deaths - IndieWeb
-http://failuremuseum.com/ | The Museum of Failure
+https://twitter.com/stevesi/status/547532756557643776
+https://www.yesterland.com/progress.html
+https://www.youtube.com/watch?v=CmrSiJTMf7s
 -->
 
 Product Hunt Golden Kitty Awards and Top 500
@@ -42,21 +47,19 @@ https://hunts.xyz/ | Hunts.xyz
 https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
 https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
-
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 -->
 
 <!--
-Product Hunt
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
 https://twitter.com/rrhoover/status/924678180073455617
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
 https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
 -->
 
 GitHub More
@@ -1524,6 +1527,7 @@ GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
+https://todogroup.org/guides
 http://todogroup.org
 https://github.com/todogroup
 
@@ -1555,8 +1559,6 @@ High Performance Python- Engineering Blogs
 
 <!--
 Carl Meyer talk
-
-https://realpython.com/world-class-companies-using-python/
 
 Python 3 at Facebook 
 https://lwn.net/Articles/758159/
