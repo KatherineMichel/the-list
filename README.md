@@ -339,6 +339,15 @@ Hawt
 * [Repl.it](https://repl.it)
 * [Zeit](https://zeit.co)
 
+<!--
+https://blog.airtable.com/ | For The Record
+https://airtable.com/blocks
+
+https://getpocket.com/ | Pocket
+https://getpocket.com/a/recommended/ | Pocket: Recommended
+https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech | Listening to Articles in Pocket with Text-to-Speech - Pocket Support
+-->
+
 ## Engineering Manager
 
 <!--
@@ -1467,6 +1476,8 @@ https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 
 ## Learning Resources- Priority Right now
 
 <!--
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
 https://github.com/orgs/django/people?page=1 | People · Django
 https://www.meetup.com/topics/django/ | Django Meetups - Meetup
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
