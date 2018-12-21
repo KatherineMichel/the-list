@@ -351,6 +351,8 @@ https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-tex
 ## Engineering Manager
 
 <!--
+https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
+
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
@@ -442,6 +444,7 @@ Programming Pearls
 Refactoring
 Release It
 Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
 Test Driven Development by Example
 The Architecture of Open Source Applications
 The Mythical Man Month
@@ -1480,38 +1483,26 @@ https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django
 
 https://github.com/orgs/django/people?page=1 | People · Django
 https://www.meetup.com/topics/django/ | Django Meetups - Meetup
-https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 
-https://github.com/jakevdp/WhirlwindTourOfPython
+https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 
 Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
-https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
-
 Important
 http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html | Django Class-Based Views
-https://github.com/PyCQA/pylint-django | PyCQA/pylint-django: Pylint plugin for improving code analysis for when using Django
-
-https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 how probability distributions are related
 taxonomy of programming paradigms
 software development competency framework
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 
-## Software Testing
-## Python and Django Testing
 ## X Driven Development
 
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
 -->
 
 Wikipedia Tech Portals
@@ -1712,6 +1703,8 @@ Python
 * [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 
 <!--
+https://github.com/jakevdp/WhirlwindTourOfPython
+
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
 -->
 
@@ -1742,28 +1735,9 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
-
-
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
-Python and Django Design Patterns and Algorithms
+Python Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
 
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
@@ -1872,15 +1846,6 @@ Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 * [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 
-<!--
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
--->
-
-Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
 UML Books
 * [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
 * [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
@@ -1951,6 +1916,34 @@ https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do R
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 -->
 
+<!--
+Django Design patterns
+
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+
+https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
+
+https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
+
+https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
+https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
+
+https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
+-->
+
+Django Tutorials
+* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+
+Django Tutorials- Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
 Django Learning Resources
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
@@ -1961,6 +1954,8 @@ Django Learning Resources
 * [Django Rest Framework](http://www.django-rest-framework.org) 
 
 <!--
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
 https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
@@ -1986,11 +1981,15 @@ https://github.com/django/django-contrib-comments
 Django Install
 * [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
 
-Django Testing
+Django Testing- Official
 * [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
 * [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
 * [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+Django Testing- Official
+* [PyLint Django GitHub](https://github.com/PyCQA/pylint-django)
+* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
 
 Django Exceptions
 * [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
