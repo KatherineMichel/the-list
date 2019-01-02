@@ -1,13 +1,5 @@
 # The List
 
-<!--
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
--->
-
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
 * [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
@@ -18,34 +10,21 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 * [PBS](http://www.pbs.org)
 
 Curated Blogs and Podcasts
-* [Farnham Street Blog](https://www.farnamstreetblog.com) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
-* [Farnham Street Blog Best Articles](https://www.farnamstreetblog.com/best-articles), [The Best of Farnam Street 2017](https://www.farnamstreetblog.com/2017/12/best-farnam-street-2017), [Farnam Street "What I'm Reading in 2017"](https://www.farnamstreetblog.com/reading-2017), and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
-* [Nir Eyal](http://www.nirandfar.com)
+* [Farnam Street "What I'm Reading in 2017"](https://www.farnamstreetblog.com/reading-2017) and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 * [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 * [Wait But Why](http://waitbutwhy.com) 
 
 Tim Ferris
-* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com), and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
 * [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
-
-Tim Ferris
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
 
 Seneca
 * [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
-* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
-<!--
-https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/ | On The Shortness of Life: An Introduction to Seneca | The Blog of Author Tim Ferriss
--->
+Productivity- Marshall Goldsmith
+* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw)
 
-Learning
-* [Review and Summary of A Mind for Numbers](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
-* ["Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Hooked
-* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
 
 <!--
 IT and Ethics
@@ -57,77 +36,10 @@ https://medium.com/@tristanharris
 http://www.tristanharris.com/the-need-for-a-new-design-ethics/
 
 http://humanetech.com/ | Center for Humane Technology
-http://humanetech.com/take-control/ | Take Control — Center for Humane Technology
-http://www.timewellspent.io/take-control/ | Take Control — Time Well Spent
 
 https://www.wired.com/story/phone-addiction-formula/ | WIRED
-http://captology.stanford.edu/ | Persuasive Tech
 http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
-
-Andy Grove's 100 point guide to being a better manager
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
 -->
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-Productivity- Marshall Goldsmith
-* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw) and ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Productivity- Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-Productivity- Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-Productivity- Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Productivity- The Art of Focus
-* [Index](https://bitcq.com/torrent/3196010)
-
-Productivity- Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Pattern
-* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
-
-<!--
-https://www.health.harvard.edu/topics/improving-memory | Improving Memory - Harvard Health
-http://www.worldmemorychampionships.com/ | Welcome to the 26th World Memory Championships 2017 - The World Memory Championships
-
-Batching
-https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
-https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
-https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
-https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
-https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
-https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
-https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
-https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
-https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
-https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
-
-http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
-https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
-http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
-http://calnewport.com/blog/
-
-https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
-https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
--->
-
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
-* [Farnham Street All Models Are Wrong](https://www.farnamstreetblog.com/2017/06/all-models-are-wrong)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
 * [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
@@ -144,25 +56,24 @@ Finance Blogs
 * [Michael Mauboussin Hurricane Capital Index](https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin)
 * [Michael Mauboussin Value Walk Resource Page](http://www.valuewalk.com/michael-mauboussin) and [Michael Mauboussin Value Walk Tumblr Index](http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full)
 * [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+Tren Griffin
 * [25iq Books](https://www.25iqbooks.com)
 
 Airtable
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
-Personal MBA
-* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
-* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-
-Scientific Method and Minimum Viable Product
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-
 Agency
 * [Freshed Tilled Soil](https://www.freshtilledsoil.com)
 * [Strategyzer Blog](http://blog.strategyzer.com)
 * [XPLANE Blog](http://xblog.xplane.com) and [XPLANE Medium](https://medium.com/the-xplane-collection)
+
+<!--
+https://www.health.harvard.edu/topics/improving-memory | Improving Memory - Harvard Health
+http://www.worldmemorychampionships.com/ | Welcome to the 26th World Memory Championships 2017 - The World Memory Championships
+-->
+
+
 
 Tim Ferris Blueprints
 * ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
@@ -190,8 +101,6 @@ Carlota Perez Framework
 * [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
 * [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
 
-The Elements of Value
-* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
 
 <!--
 https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
@@ -209,11 +118,9 @@ A16Z Metrics
 
 
 Look at Daily
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python?since=daily)
 * [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-* [Hacker News Current Best](https://news.ycombinator.com/best), [Hacker News News](https://news.ycombinator.com/news), and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
 * [Indie Hackers](https://www.indiehackers.com)
 * [Nuzzel](http://nuzzel.com)
@@ -234,6 +141,7 @@ https://twitter.com/stevesi/status/547532756557643776
 https://www.yesterland.com/progress.html
 https://www.youtube.com/watch?v=CmrSiJTMf7s
 -->
+
 
 Product Hunt Golden Kitty Awards and Top 500
 * [Golden Kitty Awards](https://goldenkittyawards.com)
@@ -262,6 +170,7 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
+
 GitHub More
 * [GitHub Explore](https://github.com/explore)
 * [GitHub Discover](https://github.com/dashboard/discover)
@@ -270,25 +179,17 @@ GitHub More
 Stars
 * [Astral App](https://astralapp.com)
 
-Top 10 Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
-
 Wikipedia Tech Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-<!--
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
--->
-
 Streaming
 * [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
 
+
+
 Languages and Frameworks
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-* [React Docs](https://reactjs.org/docs)
 * [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
 * [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
 * [Foundation](https://foundation.zurb.com)
@@ -451,6 +352,9 @@ Interesting Curated Learning Resources- Marketing and Sales
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
+<!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+-->
 
 Tech Terminology
 * [Techopedia](https://www.techopedia.com)
