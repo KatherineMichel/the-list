@@ -142,14 +142,10 @@ https://www.yesterland.com/progress.html
 https://www.youtube.com/watch?v=CmrSiJTMf7s
 -->
 
-
+<!--
 Product Hunt Golden Kitty Awards and Top 500
 * [Golden Kitty Awards](https://goldenkittyawards.com)
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Products](http://500products.com)
-* [Top 500 Hunters](http://500hunters.com)
 
-<!--
 https://hunts.xyz/ | Hunts.xyz
 
 https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
@@ -3529,7 +3525,6 @@ https://twitter.com/AustenAllred/status/1024515388225146880 | Austen Allred on T
 -->
 
 DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 * [DataCamp GitHub](https://github.com/datacamp)
 * [DataCamp Facebook](https://www.facebook.com/DataCamp-726282547396228)
 
