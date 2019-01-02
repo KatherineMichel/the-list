@@ -73,35 +73,6 @@ https://www.health.harvard.edu/topics/improving-memory | Improving Memory - Harv
 http://www.worldmemorychampionships.com/ | Welcome to the 26th World Memory Championships 2017 - The World Memory Championships
 -->
 
-
-
-Tim Ferris Blueprints
-* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
-* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
-* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
-* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
-
-Pieter Levels
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
-
-<!--
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
--->
-
-Carlota Perez Framework
-* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
-* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
-
-
 <!--
 https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
 
@@ -110,18 +81,14 @@ https://www.cleverism.com/understanding-marketing-mix-concept-4ps
 https://en.wikipedia.org/wiki/Marketing_mix
 -->
 
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
 
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+Carlota Perez Framework
+* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
+* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
 
 
 Look at Daily
-* [Product Hunt](https://www.producthunt.com)
 * [Pluralsight Newest Courses](https://app.pluralsight.com/library)
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
 * [Indie Hackers](https://www.indiehackers.com)
 * [Nuzzel](http://nuzzel.com)
 * [Techmeme](https://www.techmeme.com)
@@ -142,16 +109,6 @@ https://www.yesterland.com/progress.html
 https://www.youtube.com/watch?v=CmrSiJTMf7s
 -->
 
-<!--
-Product Hunt Golden Kitty Awards and Top 500
-* [Golden Kitty Awards](https://goldenkittyawards.com)
-
-https://hunts.xyz/ | Hunts.xyz
-
-https://www.producthunt.com/golden-kitty-awards-2017#sideproject | Product Hunt Golden Kitty Awards 2017
-https://www.producthunt.com/golden-kitty-awards-2017#maker | Product Hunt Golden Kitty Awards 2017
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
--->
 
 <!--
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
@@ -474,25 +431,10 @@ https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-tex
 ## Engineering Manager
 
 <!--
-https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
-
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 
 https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
 -->
-
-## Engineering Management Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 ## Programming Books
 
