@@ -281,7 +281,6 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 
-
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -297,14 +296,9 @@ Interesting Curated Learning Resources- Back-End Developer
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [Skill Map](https://github.com/TeamStuQ/skill-map)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Open Product Management](https://github.com/tron1991/open-product-management)
 * [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
-Interesting Curated Learning Resources- Marketing and Sales
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 <!--
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
@@ -368,8 +362,6 @@ Khan Academy
 * [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
 
 <!--
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 -->
 
@@ -422,10 +414,6 @@ https://docs.emmet.io/ | Emmet Documentation
 
 https://blog.airtable.com/ | For The Record
 https://airtable.com/blocks
-
-https://getpocket.com/ | Pocket
-https://getpocket.com/a/recommended/ | Pocket: Recommended
-https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech | Listening to Articles in Pocket with Text-to-Speech - Pocket Support
 -->
 
 ## Engineering Manager
@@ -542,10 +530,6 @@ MVCs
 
 Object-Oriented Programming
 * [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 
 ## X Driven Development
@@ -790,20 +774,6 @@ https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Aw
 
 ## Conferences
 
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
-* [PaperCall](https://www.papercall.io)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-* [Python Conferences Repo](https://github.com/python-organizers/conferences)
-* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
-
 <!--
 Recent/Soon
 
@@ -1022,20 +992,6 @@ http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
-
-Original
-L1 cache reference 0.5 ns
-Branch mispredict 5 ns
-L2 cache reference 7 ns
-Mutex lock/unlock 25 ns
-Main memory reference 100 ns
-Compress 1K bytes with Zippy 3,000 ns
-Send 2K bytes over 1 Gbps network 20,000 ns
-Read 1 MB sequentially from memory 250,000 ns
-Round trip within same datacenter 
-Disk seek 10,000,000 ns
-Read 1 MB sequentially from disk 20,000,000 ns
-Send packet CA->Netherlands->CA 150,000,000 ns
 -->
 
 ## HTTP, Request and Response Cycle
@@ -1575,12 +1531,6 @@ Wikipedia Tech Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
-Computer History
-* [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
-* [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
-
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
@@ -1609,10 +1559,6 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
 High Performance Python- Engineering Blogs
 * [Dropbox](https://blogs.dropbox.com)
 * [Google](https://developers.googleblog.com)
@@ -1639,9 +1585,6 @@ https://techyaks.com/top-python-talks.html
 
 https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 -->
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 Django Coding Style Guide
 * [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
@@ -1780,9 +1723,6 @@ Python- Books (See also: Data Science books)
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
-Internals
-* [Python Tutor](http://pythontutor.com)
-
 Software Paradigm Types
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 * [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
@@ -1844,14 +1784,6 @@ https://www.packtpub.com/application-development/python-3-object-oriented-progra
 http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
 -->
 
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
 Object Oriented Software Characteristics
 * [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
 * [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
@@ -1889,13 +1821,6 @@ Relational
 <!--
 https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
 -->
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 
 <!--
 Joel, Jeff blogs
