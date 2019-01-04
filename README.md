@@ -298,8 +298,6 @@ https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 
 <!--
 https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
 https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
 https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
 https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
@@ -608,13 +606,7 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 
 <!--
 https://www.dabeaz.com/tla.html | An Introduction to TLA+
-
-https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
-https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-state machine diagram
 -->
-
 
 <!--
 UML
@@ -885,17 +877,6 @@ https://www.w3.org/TR/webarch/
 https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
 
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 -->
 
 ## HTTP, Request and Response Cycle
@@ -1320,10 +1301,6 @@ Object-Oriented Design Patterns- Python
 
 idiomatic, pythonic code
 
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
 https://www.youtube.com/watch?v=_KUkfzYmZ24 | The paradigm free approach to idiomatic python - Luciano Ramallo - YouTube
 
 List Comprehensions and Generator Expressions
@@ -1722,11 +1699,6 @@ Django ORM
 
 ## Working with Objects
 
-<!--
-ORM, MRO
-https://www.fullstackpython.com/object-relational-mappers-orms.html
--->
-
 Django Request and Response Cycle
 * [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
 
@@ -1759,27 +1731,6 @@ https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robo
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 -->
 
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
-
-Vinta Django Apps Checklist
-* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
-
-Vinta API Checklist
-* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-Python and Django- Contributing- Packaging
-
-DjangoCon Europe 2017 Vinta
-https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
-https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
-https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
--->
-
 ## Python and Django- General Resources
 
 Official Python Tutorial
@@ -1788,10 +1739,6 @@ Official Python Tutorial
 Implementations
 * [Python Alternate Implementations](https://docs.python.org/3/reference/introduction.html#alternate-implementations)
 * [Intel® Python Distribution (GIL)](https://software.intel.com/en-us/distribution-for-python)
-
-<!--
-https://wiki.python.org/moin/GlobalInterpreterLock
--->
 
 Awesome Python
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
@@ -2136,22 +2083,6 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 * [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
 * [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Python Internals
-
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-Python Internals- Philip Guo
-* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
-
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 ## Time Complexity and Performance
 
