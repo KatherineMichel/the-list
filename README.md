@@ -1714,8 +1714,6 @@ https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Lea
 
 
 <!--
-doctest
-
 https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
 
 Kenneth Love
@@ -1866,10 +1864,6 @@ https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
 
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-
-Docstring Conventions
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 
 <!--
 https://github.com/amontalenti/elements-of-python-style
@@ -2211,9 +2205,6 @@ http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple cla
 
 ## Django Learning Resources
 
-Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
-* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
-
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
 
@@ -2444,26 +2435,12 @@ People
 * [Eric V. Smith GitHub](https://github.com/ericvsmith)
 * [Tom Christie GitHub](https://github.com/tomchristie)
 
-"A Django Async Roadmap"
-* ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
-
-Channels
-* [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
-* [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
-
 <!--
 https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
 
-https://channels.readthedocs.io/en/latest/asgi.html | ASGI — Channels 2.1.3 documentation
-https://www.encode.io/articles/hello-asgi/ | Encode
-
 ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 
-https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
 https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
-http://www.aeracode.org/2017/7/11/towards-channels-20/
 
 https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
 
@@ -2471,28 +2448,13 @@ https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 -->
 
-Uvicorn
-* [Uvicorn](http://www.uvicorn.org) and [Uvicorn GitHub](https://github.com/encode/uvicorn)
-
-Starlette
-* [Starlette](https://www.starlette.io) and [Starlette GitHub](https://github.com/encode/starlette)
-
-API Star
-* [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
-* [Django API Star](https://github.com/lucianoratamero/django_apistar)
-* [API Star Discuss](https://discuss.apistar.org)
-
 <!--
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
-https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
-
-
 http://gunicorn.org
 
 http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
 https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
 http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://www.fullstackpython.com/task-queues.html
 
 https://www.tornadoweb.org/en/stable/ | Tornado Web Server — Tornado 5.1.1 documentation
 https://greenlet.readthedocs.io/en/latest/ | greenlet: Lightweight concurrent programming — greenlet 0.4.0 documentation
