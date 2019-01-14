@@ -2034,6 +2034,25 @@ https://techyaks.com/top-python-talks.html
 https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 -->
 
+## Databases
+
+<!--
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
+
+Relational Database Management Systems
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
 ## Software Testing
 
 Software Testing
