@@ -457,7 +457,6 @@ Hawt
 * [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
 
 <!--
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 https://zeit.co/blog/github
 * [now](https://zeit.co/now)
 * [Next.js](https://github.com/zeit/next.js)      
@@ -465,8 +464,6 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 
 https://letsencrypt.status.io
 https://www.terraform.io/docs/modules/usage.html | Using Modules - Terraform by HashiCorp
-https://registry.yarnpkg.com/ | https://registry.yarnpkg.com
-https://repl.it/site/blog/packager
 
 https://www.splunk.com/ | SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk
 https://docs.emmet.io/ | Emmet Documentation
@@ -871,12 +868,6 @@ Explainers
 * [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 * [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
 <!--
 TCP/IP, DNS
 
@@ -890,35 +881,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_se
 
 ## HTTP, Request and Response Cycle
 
-Mozilla- HTTP
-* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-   
-Request and Response Cycle- Web Browser, Web Server and Gateway Interface
-* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
-* [Web Server Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
-
-Request and Response Cycle- HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
 <!--
 https://developers.google.com/v8/ | Chrome V8  |  Google Developers
 
@@ -930,89 +892,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 [Introduction to HTTP](https://launchschool.com/books/http)
 -->
 
-## Surveys
-
-* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
-* [The State Of JavaScript](http://stateofjs.com)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
-
 ## Browser Object Model (BOM) and Document Object Model (DOM)
-
-Browser Object Model (BOM) and Document Object Model (DOM)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
-
-Mozilla- Document Object Model
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
-
-Events
-* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
-* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
-* [DOM/JavaScript Events](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
-* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
-
-Mozilla- Events and Web APIs
-* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
-
-<!--
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_important_parts_of_a_web_browser
-
-https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-
-https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API | Using the Browser API - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction | Introduction to web APIs - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-"The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. "
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#Specifications
-https://developer.mozilla.org/en-US/docs/Web/API/Window
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
-
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
-
-https://software.hixie.ch/utilities/js/live-dom-viewer/
-
-http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
-
-https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
-https://developer.mozilla.org/en-US/docs/Tools/Add-ons/DOM_Inspector | DOM Inspector - Firefox Developer Tools | MDN
-https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Excessive DOM Size  |  Tools for Web Developers  |  Google Developers
-
-[DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
-* [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-    
-  * Desktop
-    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
-    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-       
-  * Mobile
-    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
-      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
-    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
-  * Hardware Agnostic
-    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
-    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
-    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
-  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
--->
 
 ## JavaScript
 
@@ -1070,28 +950,6 @@ https://github.com/mjavascript/mastering-modular-javascript | mjavascript/master
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
 -->
 
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
--->
-
-JavaScript Styleguides
-* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
-
-<!--
-https://google.github.io/styleguide/javascriptguide.xml
--->
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
 Articles
 * [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
 * [Medium JavaScript](https://medium.com/tag/javascript)
@@ -1117,16 +975,6 @@ https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
 -->
 
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS (JavaScript Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
 
 <!--
 https://developer.mozilla.org/en-US/docs/tag/Web
@@ -1173,25 +1021,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/con
 
 
 <!--
-https://reactjs.org/docs/components-and-props.html
-https://www.w3schools.com/jquery/html_prop.asp
+https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
 
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
-
-https://en.wikipedia.org/wiki/HTTP_referer
-https://en.wikipedia.org/wiki/HTTP_cookie
-https://en.wikipedia.org/wiki/Session_(computer_science)
-https://en.wikipedia.org/wiki/Session_ID
-https://en.wikipedia.org/wiki/Server_log
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
-
-https://www.udacity.com/course/http-web-servers--ud303
-https://github.com/udacity/course-ud303
 
 https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
 
@@ -1222,89 +1053,8 @@ https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-j
 
 ## Ajax and JSON
 
-Ajax and JSON
-* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
-
-Mozilla Ajax and JSON
-* [Mozilla Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-* [Mozilla Ajax Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
-* [Mozilla Ajax Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-
 <!--
 https://www.json.org/
--->
-
-## React and Progressive Web Apps (PWA)
-
-Facebook- React (JavaScript)
-* [Facebook React](https://reactjs.org) and [Facebook React GitHub](https://github.com/facebook/react) 
-* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [Facebook React- Getting Started](https://reactjs.org/docs/getting-started.html)
-* [Facebook React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
-
-<!--
-https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
-
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-
-https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
-
-React profiler
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
--->
-
-Create React App
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
-
-## Mozilla, Microsoft, and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Microsoft- Web Development
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals)
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Google Developers- General
-* [Google Chrome Home](https://developer.chrome.com/home)
-
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
-<!--
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
 -->
 
 
@@ -1335,6 +1085,13 @@ https://speakerdeck.com/pyconslides/tutorial-python-epiphanies-by-stuart-william
 https://www.youtube.com/watch?v=-kqZtZj4Ky0 | (1) Stuart Williams - Python Epiphanies - PyCon 2018 - YouTube
 https://www.dropbox.com/s/xkyk3sgbq5fwdzh/PyCon-2018-Python-Epiphanies.zip?dl=0 | PyCon-2018-Python-Epiphanies.zip
 -->
+
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
 
 ## Learning Resources- Priority Right now
 
