@@ -956,13 +956,6 @@ Articles
 * [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
 
 <!--
-https://en.wikibooks.org/wiki/JavaScript
-
-https://www.w3schools.com/js
-https://www.w3schools.com/jsref
-
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-
 https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
 https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
@@ -973,50 +966,6 @@ https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | T
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
--->
-
-
-<!--
-https://developer.mozilla.org/en-US/docs/tag/Web
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
-
-https://developer.mozilla.org/en-US/docs/Glossary/Call_stack
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
-
-[Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-
-[Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index
-
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function#Function_declaration_hoisting
-
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-
-[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-[Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
-[Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 -->
 
 
