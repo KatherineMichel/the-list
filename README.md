@@ -444,6 +444,7 @@ Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
 <!--
+https://glitch.com
 https://handbook.glitch.me/ | Glitch Employee Handbook
 https://glitch.com/culture/looky-what-we-made/ | Looky What We Made
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
@@ -457,6 +458,8 @@ Hawt
 * [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
 
 <!--
+https://repl.it/site/blog/packager
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 https://zeit.co/blog/github
 * [now](https://zeit.co/now)
 * [Next.js](https://github.com/zeit/next.js)      
