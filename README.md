@@ -885,12 +885,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_se
 ## HTTP, Request and Response Cycle
 
 <!--
-https://developers.google.com/v8/ | Chrome V8  |  Google Developers
-
-* [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
-   
 [httpstatuses.com](https://httpstatuses.com/)
 [Introduction to HTTP](https://launchschool.com/books/http)
 -->
@@ -898,60 +892,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
 ## JavaScript
-
-JavaScript- People
-* [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-* [Dmitry Soshnikov](http://dmitrysoshnikov.com)
-* [Dmitri Pavlutin](https://dmitripavlutin.com)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest) and [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-* [Paul Irish](https://www.paulirish.com)
-* [Tyler McGinnis](https://tylermcginnis.com)
-
-Node and React- People
-* [Brian Holt](https://frontendmasters.com/teachers/brian-holt)
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
-
-Recommended by Addy Osmani and Eric Elliot
-* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
-* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
-
-Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
-
-https://github.com/getify/Functional-Light-JS
-
-
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-
-Programming JavaScript Applications
-by Eric Elliott
-https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
-
-https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
-https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
--->
 
 Articles
 * [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
