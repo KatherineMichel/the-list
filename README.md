@@ -1037,8 +1037,8 @@ Python
 
 <!--
 https://github.com/jakevdp/WhirlwindTourOfPython
-
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
 -->
 
 Python- Books (See also: Data Science books)
