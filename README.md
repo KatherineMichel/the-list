@@ -1070,27 +1070,7 @@ https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart an
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
 
-Mariatta- F-Strings
-
-<!--
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
--->
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-
-<!--
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
--->
-
-
 ## Python and Django- General Resources
-
-Official Python Tutorial
-* [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
 
 Implementations
 * [Python Alternate Implementations](https://docs.python.org/3/reference/introduction.html#alternate-implementations)
@@ -1347,33 +1327,11 @@ Course Reader - CS160
 http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
-
 ## Installation and Editors
 
 Python Environment
 * [xkcd: Python Environment](https://xkcd.com/1987)
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-<!--
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
--->
 
 PyCharm
 * [PyCharm](https://www.jetbrains.com/pycharm)
@@ -1385,162 +1343,7 @@ https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introdu
 https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
 -->
 
-## Python Styleguides and Code Formatting- Non-Official
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-
-<!--
-https://docs.python-guide.org/#writing-great-python-code
--->
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-Code Formatting
-* [Black GitHub](https://github.com/ambv/black)
-* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
-* [Black Out GitHub](https://github.com/mariatta/black_out)
-* [White GitHub](https://github.com/kennethreitz/white)
-* [Google YAPF](https://github.com/google/yapf)
-
-
-## Python and Django Style Guides- Official 
-
-<!--
-4.8. Intermezzo: Coding Style
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
-
-10. Full Grammar specification
-https://docs.python.org/3/reference/grammar.html
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification
-
-1.2. Notation
-https://docs.python.org/3/reference/introduction.html#notation
-
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
--->
-
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
-<!--
-https://github.com/amontalenti/elements-of-python-style
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
--->
-
-## Structuring Your Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Time Complexity and Performance
-
-Big O Notation
-* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
-* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
-* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
-* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
-* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
-
-
-<!--
-https://www.youtube.com/watch?v=duvZ-2UK0fc
-
-https://nedbatchelder.com/text/bigo.html
-Python Complexities
-https://nedbatchelder.com/text/bigo/bigo.html#13
-The Graph
-https://nedbatchelder.com/text/bigo/bigo.html#12
-Small Numbers
-https://nedbatchelder.com/text/bigo/bigo.html#17
-
-Trade-Offs
-https://nedbatchelder.com/text/bigo/bigo.html#14
-Slow/Fast
-https://nedbatchelder.com/text/bigo/bigo.html#15
-More Possibilities
-https://nedbatchelder.com/text/bigo/bigo.html#16
-
-https://nedbatchelder.com/text/slowsgrows.html
-https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
-
-https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
-https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
-https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
-
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
--->
-
-Linear versus Constant Time
-* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
-* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
-* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
-
-Big O Notation- Terminology
-* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
-* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
-* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-
-
-Improvement Methods
-* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
-* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
-* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
-* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
-* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
-* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
-* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
-
-<!--
-https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-https://en.wikipedia.org/wiki/Mathematical_optimization
-
-https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
--->
-
-## Python Profiling
-
-<!--
-https://en.wikipedia.org/wiki/Execution_(computing)
-https://en.wikipedia.org/wiki/Object_code
-https://en.wikipedia.org/wiki/Bytecode
--->
-
-<!--
-Python Profiling 
-
-Third Party Testing and Profiling
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
--->
-
-
-<!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
--->
-
+## High Performance Python
 
 High Performance Python- Engineering Blogs
 * [Dropbox](https://blogs.dropbox.com)
@@ -1612,91 +1415,17 @@ More Database Stuff
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 
-## Python and Django Testing Tools
-
-<!--
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
--->
-
-Testing Tools Used by Eldarion
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-
-pytest and Nose (Unit Test Extension)
-* [Nose GitHub](https://github.com/nose-devs/nose)
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
-* [mock PyPi](https://pypi.python.org/pypi/mock)
-
-Django
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-* [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-<!--
-Django Testing
-* [PyLint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-https://github.com/PyCQA/mccabe
-https://github.com/PyCQA/pylint
-
-https://www.pylint.org/ | Pylint - code analysis for Python | www.pylint.org
-
-https://tox.readthedocs.io/en/latest/examples.html | tox configuration and usage examples — tox 3.0.0rc2.dev5 documentation
-https://codecov.io/#features | Codecov
-
-flake8 
-noqa: E501
-https://pypi.python.org/pypi/flake8 | flake8 3.5.0 : Python Package Index
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
--->
-
-Django Tutorials
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
-
-Django Tutorials- Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
 Django Learning Resources
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
 * [Django Book (Deprecated but useful)](http://www.djangobook.com)
 * [Mastering Django: Core: The Complete Guide to Django 1.8 LTS](https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X)
 * [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 
 <!--
-https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
-
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-
-* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
-
-http://www.tomchristie.com/rest-framework-2-docs/api-guide
 -->
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-<!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
--->
-
 
 ## Django Learning Resources
 
@@ -1707,12 +1436,6 @@ Python- Django- Tutorial and Book Lists
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
 * [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
 * [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
-
-Two Scoops Books
-
-<!--
-https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc | Two Scoops of Django 1.11 FAQ – Two Scoops Press
--->
 
 Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
 * [High Performance Django](https://highperformancedjango.com)
@@ -1802,9 +1525,6 @@ Python- Django- Project Stucture
 
 ## Django Rest Framework
 
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 * [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
 
 Python- Django- Alternative Rest Framework
@@ -1816,10 +1536,8 @@ http://www.encode.io/reports/july-2017
 
 https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
-https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
 
 https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
 
 https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
 -->
@@ -1888,17 +1606,18 @@ Type Hints
 * [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
 
 Static Typing Tools
+* [Python Mypy GitHub](https://github.com/python/mypy)
 * [Python Typeshed GitHub](https://github.com/python/typeshed)
 * [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
 * [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 * [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
 * [Google: Pytype GitHub](https://github.com/google/pytype)
 * [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
 <!--
-http://mypy.readthedocs.io/
+http://mypy.readthedocs.io
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
 http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
 -->
 
@@ -1918,33 +1637,6 @@ https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea
 
 https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
--->
-
-## Command Line
-
-* [Click GitHub](https://github.com/pallets/click)
-* [Chalk GitHub](https://github.com/chalk/chalk)
-
-<!--
-https://github.com/google/python-fire
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
--->
-
-<!--
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-http://regex.info/book.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
-
-http://www.diveintopython.net/regular_expressions/
 -->
 
 <!--
@@ -2822,16 +2514,3 @@ Conda
 * [Conda Getting Started](https://conda.io/docs/user-guide/getting-started.html) and [Conda Cheat Sheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf) 
 * [Anaconda](https://www.continuum.io/downloads) and [Anaconda Package List](http://docs.continuum.io/anaconda/pkg-docs.html) 
 * [Miniconda](http://conda.pydata.org/miniconda.html)
-
-<!--
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-https://klee.github.io/ | KLEE
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal
-https://github.com/dlvm-team/ | DLVM
-https://clang.llvm.org/ | "clang" C Language Family Frontend for LLVM
-http://llvm.org/ | The LLVM Compiler Infrastructure Project
--->
