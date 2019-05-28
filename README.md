@@ -193,80 +193,6 @@ General
 * [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 * [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-CPU and Instruction Set
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Machine Code and Assembly Language
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Files
-* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
 
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
@@ -496,68 +422,6 @@ https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
 -->
 
-## Authority Figures and Books
-
-* [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
-* [Steven C. McConnell](http://stevemcconnell.com)
-* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-
-<!--
-https://www.kentbeck.com/ | KentBeck.com
-
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
--->
-
-<!--
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
--->
-
-<!--
-Clean Architecture
-Clean Code
-Code Complete
-Compilers
-Computer Architecture
-Design Patterns
-Design Patterns Explained
-Domain Driven Design- Tackling
-Domain Driven Design Reference
-Extreme Programming Explained
-Head First Design Patterns
-Head First Object Oriented Analysis and Design
-Lean Software Development
-Patterns of Enterprise Application Architecture
-Programming Pearls
-Refactoring
-Release It
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-Test Driven Development by Example
-The Architecture of Open Source Applications
-The Mythical Man Month
-The Programmatic Programmer
-Working Effectively with Legacy Code
-
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
-
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
--->
-
 ## Programming Paradigms
 
 MVCs
@@ -640,43 +504,7 @@ Awesome Design Patterns
 https://github.com/SunnyMarkLiu/Design-Patterns-Java | SunnyMarkLiu/Design-Patterns-Java: Design Patterns Implemented in Java.
 -->
 
-## General Software Design Patterns
-
-Creational Patterns
-* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
-* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
-* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
-
-Structural Patterns
-* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
-
-Behavioral Patterns
-* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
-* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
-* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
-* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
-* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
-* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
-
-
 ## Python and Django Design Patterns and Algorithms
-
 
 ## Programming Concepts and Tools
 
@@ -816,11 +644,6 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
-Learning Resources
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-
 <!--
 https://www.digitalocean.com/community/tutorial_series/django-development
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
@@ -856,11 +679,8 @@ https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 Python
 * [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
-* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
-* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Real Python](https://realpython.com)
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
@@ -878,13 +698,6 @@ https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter no
 https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
 -->
 
-Python- Books (See also: Data Science books)
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
-* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
-* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
-* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
 <!--
 Dan Bader OO Recommendations
 https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
@@ -896,7 +709,6 @@ https://www.toptal.com/python/python-design-patterns
 https://www.packtpub.com/application-development/python-3-object-oriented-programming
 http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
 -->
-
 
 <!--
 https://m.signalvnoise.com
@@ -963,6 +775,11 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org)  
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
+Learning Resources
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+
 Python/Django Teachers and Useful Python Resources
 * [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
@@ -970,7 +787,6 @@ Python/Django Teachers and Useful Python Resources
 * [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 * [Real Python Courses](https://realpython.com/courses)
@@ -984,16 +800,12 @@ Python/Django Teachers and Useful Python Resources
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
-* [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-* [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 * [Stephen Sugden: Crash into Python](https://stephensugden.com/crash_into_python)
 * [Trey Hunner Projects](http://treyhunner.com/projects) and [Trey Hunner GitHub](https://github.com/treyhunner)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
-* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
 
 Python Official Resources
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
@@ -1210,11 +1022,6 @@ Django Learning Resources
 * [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 
-<!--
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
--->
-
 ## Django Learning Resources
 
 Python- Django- Dedicated Websites
@@ -1409,11 +1216,6 @@ http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
 -->
 
-People
-* [Andrew Godwin GitHub](https://github.com/andrewgodwin)
-* [Eric V. Smith GitHub](https://github.com/ericvsmith)
-* [Tom Christie GitHub](https://github.com/tomchristie)
-
 <!--
 https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
 
@@ -1436,22 +1238,6 @@ https://github.com/brutasse/graphite-api
 http://grafana.org
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-https://www.sqlalchemy.org/
-
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-http://datasette.readthedocs.io
-https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
-http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
-https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
-https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 ## Kaggle
@@ -1502,8 +1288,6 @@ http://ndres.me/kaggle-past-solutions
 
 https://medium.com/@nokkk/make-your-kaggle-submissions-with-kaggle-official-api-f49093c04f8a | Make your Kaggle Submissions with Kaggle Official API!
 -->
-
-
 
 Data, Data Science, Big Data
 * [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
