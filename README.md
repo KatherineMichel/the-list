@@ -545,26 +545,6 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-
-## Coding Practice
-
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-Practice
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-
-## Python- Coding Practice
-
-Python Challenges
-* [Exercism Python](https://exercism.io/tracks/python)
-* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
-* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
-* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
-* [Python Morsels](https://www.pythonmorsels.com)
-
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
 ## JavaScript
