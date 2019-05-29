@@ -1159,43 +1159,6 @@ SpatiaLite (Spatial Database Extender for SQLite)
 
 ## Newer Stuff
 
-Data Classes
-* [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
-
-<!--
-https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
--->
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
-<!--
-https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
-https://en.wikipedia.org/wiki/Duck_typing
--->
-
-Type Hints
-* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
-* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
-
-Static Typing Tools
-* [Python Mypy GitHub](https://github.com/python/mypy)
-* [Python Typeshed GitHub](https://github.com/python/typeshed)
-* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
-* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
-* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
-* [Google: Pytype GitHub](https://github.com/google/pytype)
-* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
-* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
-
-<!--
-http://mypy.readthedocs.io
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
--->
-
 <!--
 https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
 
