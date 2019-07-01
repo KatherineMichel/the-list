@@ -271,45 +271,6 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-<!--
-https://glitch.com
-https://handbook.glitch.me/ | Glitch Employee Handbook
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
-https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
-course
--->
-
-Hawt
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-
-<!--
-https://repl.it/site/blog/packager
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-* [now](https://zeit.co/now)
-* [Next.js](https://github.com/zeit/next.js)      
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-
-https://letsencrypt.status.io
-https://www.terraform.io/docs/modules/usage.html | Using Modules - Terraform by HashiCorp
-
-https://www.splunk.com/ | SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk
-https://docs.emmet.io/ | Emmet Documentation
-
-https://blog.airtable.com/ | For The Record
-https://airtable.com/blocks
-https://airtable.com
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
-
-https://github.com/zapier | Zapier
--->
-
 ## Engineering Manager
 
 <!--
